@@ -1,0 +1,2921 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nirvana v0.9.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-26 09:19+0400\n"
+"PO-Revision-Date: 2014-07-29 10:58:26+0000\n"
+"Last-Translator: Alexander\n"
+"Language-Team: Cryout Creations\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:17
+#@ nirvana
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: 404.php:20
+#@ nirvana
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Извините, но запрошенная вами страница не найдена. Пожалуйста, воспользуйтесь поиском."
+
+#: admin/admin-functions.php:62
+#@ nirvana
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "Прежде чем вы сможете загрузить ваш файл импорта, вы должны исправить следующие ошибки:"
+
+#: admin/admin-functions.php:70
+#@ nirvana
+msgid "Import Nirvana Theme Options"
+msgstr "Импортировать файл настроек темы Nirvana"
+
+#: admin/admin-functions.php:72
+#@ nirvana
+msgid "Hi! This is where you import the  Nirvana settings.<i> Please remember that this is still an experimental feature.</i>"
+msgstr "Привет! Это то самое место, где вы можете импортировать настройки Tempera. <i>Пожалуйста, помните, что эта функция ещё находится в статусе экспериментальной</i>"
+
+#: admin/admin-functions.php:74
+#@ nirvana
+msgid "Just choose a file from your computer:"
+msgstr "Просто выберите файл со своего компьютера:"
+
+#: admin/admin-functions.php:76
+#, php-format
+#@ nirvana
+msgid "Maximum size: %s"
+msgstr "Максимальный размер: %s"
+
+#: admin/admin-functions.php:82
+#@ nirvana
+msgid "And import!"
+msgstr "И импортируйте!"
+
+#: admin/admin-functions.php:148
+#@ nirvana
+msgid "Import Nirvana Theme Options "
+msgstr "Импортировать настройки темы Nirvana"
+
+#: admin/admin-functions.php:151
+#@ nirvana
+msgid "Great! The options have been imported!"
+msgstr "Отлично! Настройки были импортированы!"
+
+#: admin/admin-functions.php:152
+#@ nirvana
+msgid "Go back to the Nirvana options page and check them out!"
+msgstr "Вернитесь на страницу настроек Nirvana и посмотрите на результат!"
+
+#: admin/admin-functions.php:155
+#: admin/admin-functions.php:161
+#: admin/admin-functions.php:167
+#@ nirvana
+msgid "Oops, there's a small problem."
+msgstr "Упс, у нас маленькая проблема."
+
+#: admin/admin-functions.php:156
+#@ nirvana
+msgid "The uploaded file does not contain valid Nirvana options. Make sure the file is exported from the Nirvana Options page."
+msgstr "Загруженный файл не содержит настроек Nirvana. Пожалуйста, убедитесь что этот файл был экспортирован со страницы настроек Nirvana."
+
+#: admin/admin-functions.php:162
+#@ nirvana
+msgid "The uploaded file could not be read."
+msgstr "Загруженный файл не может быть прочитан."
+
+#: admin/admin-functions.php:168
+#@ nirvana
+msgid "The uploaded file is not supported. Make sure the file was exported from the Nirvana page and that it is a text file."
+msgstr "Загруженный файл не поддерживается. Пожалуйста, убедитесь что файл был экспортирован со страницы настроек Nirvana и что он является текстовым."
+
+#: admin/admin-functions.php:177
+#@ nirvana
+msgid "Oops! The file is empty or there was no file. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
+msgstr "Упс! Файл пустой, или его вообще нет. Такая ошибка может быть также вызвана настройками загрузки файлов в вашем файле php.ini или же в следствие того, что post_max_size определён как меньший чем upload_max_filesize в php.ini."
+
+#: admin/admin-functions.php:183
+#@ nirvana
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "ОШИБКА: У вас нет прав для совершения этой операции"
+
+#: admin/admin-functions.php:198
+#@ nirvana
+msgid "Select one of the preset color schemes and press the Load button.<br> <b> CAUTION! </b> When loading a color scheme, the Nirvana theme settings under Text and Color Settings will be overriden. All other settings will remain intact.<br> <u>SUGGESTION:</u> It's always better to export your current theme settings before loading a color scheme."
+msgstr "Выберите одну из предустановленных цветовых схем и нажмите на кнопку Загрузить.<br> <b> ВНИМАНИЕ! </b> При загрузке цветовой схемы все настройки темы в разделе Текст и Цвет будут перезаписаны. Все остальные настройки затронуты не будут.<br> <u>ДОБРВЫЙ СОВЕТ:</u> Всегда стоит экспортировать текущие настройки перед загрузкой цветовой темы."
+
+#: admin/admin-functions.php:222
+#@ nirvana
+msgid "Load Color Scheme"
+msgstr "Загрузить цветовую схему"
+
+#: admin/admin-functions.php:289
+#@ nirvana
+msgid "No news items."
+msgstr "Новостей нет."
+
+#: admin/admin-functions.php:293
+#@ nirvana
+msgid "Posted on"
+msgstr "Опубликовано"
+
+#: admin/main.php:121
+#@ nirvana
+msgid "Layout Settings"
+msgstr "Настройки раскладки страницы"
+
+#: admin/main.php:122
+#@ nirvana
+msgid "Header Settings"
+msgstr "Настройки заголовка"
+
+#: admin/main.php:123
+#: admin/main.php:181
+#@ nirvana
+msgid "Presentation Page"
+msgstr "Страница презентации"
+
+#: admin/main.php:124
+#@ nirvana
+msgid "Text Settings"
+msgstr "Настройки текста"
+
+#: admin/main.php:125
+#@ nirvana
+msgid "Color Settings"
+msgstr "Настройки цвета"
+
+#: admin/main.php:126
+#@ nirvana
+msgid "Graphics Settings"
+msgstr "Настройки графики"
+
+#: admin/main.php:127
+#@ nirvana
+msgid "Post Information Settings"
+msgstr "Настройки информации о публикации"
+
+#: admin/main.php:128
+#@ nirvana
+msgid "Post Excerpt Settings"
+msgstr "Настройка отрывков публикации"
+
+#: admin/main.php:129
+#@ nirvana
+msgid "Featured Image Settings"
+msgstr "Настройка связанного изображения"
+
+#: admin/main.php:130
+#@ nirvana
+msgid "Social Media Settings"
+msgstr "Настройка социальных сетей"
+
+#: admin/main.php:131
+#@ nirvana
+msgid "Miscellaneous Settings"
+msgstr "Прочие настройки"
+
+#: admin/main.php:134
+#@ nirvana
+msgid "Main Layout"
+msgstr "Основная раскладка"
+
+#: admin/main.php:135
+#@ nirvana
+msgid "Content / Sidebar Width"
+msgstr "Ширина колонки контента / боковых колонок"
+
+#: admin/main.php:136
+#@ nirvana
+msgid "Responsiveness"
+msgstr "Отзывчивость"
+
+#: admin/main.php:139
+#@ nirvana
+msgid "Enable Presentation Page"
+msgstr "Включить страницу презентации"
+
+#: admin/main.php:140
+#@ nirvana
+msgid "Show Posts on Presentation Page"
+msgstr "Показывать публикации на странице презентации"
+
+#: admin/main.php:141
+#@ nirvana
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: admin/main.php:142
+#@ nirvana
+msgid "Slides"
+msgstr "Слайды"
+
+#: admin/main.php:143
+#@ nirvana
+msgid "Columns"
+msgstr "Колонки"
+
+#: admin/main.php:144
+#@ nirvana
+msgid "Text Areas"
+msgstr "Текстовые зоны"
+
+#: admin/main.php:145
+#@ nirvana
+msgid "Extras"
+msgstr "Дополнительно"
+
+#: admin/main.php:148
+#@ nirvana
+msgid "Header Height"
+msgstr "Высота заголовка"
+
+#: admin/main.php:149
+#@ nirvana
+msgid "Header Image"
+msgstr "Изображение заголовка"
+
+#: admin/main.php:150
+#@ nirvana
+msgid "Site Header"
+msgstr "Заголовок сайта"
+
+#: admin/main.php:151
+#@ nirvana
+msgid "Custom Logo Upload"
+msgstr "Загрузить свой логотип"
+
+#: admin/main.php:152
+#@ nirvana
+msgid "Header Content Spacing"
+msgstr "Поля заголовка"
+
+#: admin/main.php:153
+#@ nirvana
+msgid "FavIcon Upload"
+msgstr "Загрузка FavIcon"
+
+#: admin/main.php:156
+#: admin/settings.php:636
+#: admin/settings.php:655
+#: admin/settings.php:674
+#: admin/settings.php:692
+#: admin/settings.php:710
+#: admin/settings.php:731
+#@ nirvana
+msgid "General Font"
+msgstr "Шрифт общего назначения"
+
+#: admin/main.php:157
+#@ nirvana
+msgid "Post Title Font "
+msgstr "Шрифт заголовка публикации"
+
+#: admin/main.php:158
+#@ nirvana
+msgid "Widget Title Font"
+msgstr "Шрифт заголовка виджета"
+
+#: admin/main.php:159
+#@ nirvana
+msgid "Widget Font"
+msgstr "Шрифт виджета"
+
+#: admin/main.php:160
+#@ nirvana
+msgid "Site Title Font"
+msgstr "Шрифт заголовка сайта"
+
+#: admin/main.php:161
+#@ nirvana
+msgid "Main Menu Font"
+msgstr "Шрифт главного меню"
+
+#: admin/main.php:162
+#@ nirvana
+msgid "Headings Font"
+msgstr "Шрифт заголовков"
+
+#: admin/main.php:163
+#@ nirvana
+msgid "Force Text Align"
+msgstr "Принудительное выравнивание текста"
+
+#: admin/main.php:164
+#@ nirvana
+msgid "Paragraph spacing"
+msgstr "Расстояние между абзацами"
+
+#: admin/main.php:165
+#@ nirvana
+msgid "Paragraph Indent"
+msgstr "Отступ абзаца"
+
+#: admin/main.php:166
+#@ nirvana
+msgid "Headings Indent"
+msgstr "Отступ заголовка"
+
+#: admin/main.php:167
+#@ nirvana
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: admin/main.php:168
+#@ nirvana
+msgid "Word Spacing"
+msgstr "Расстояние между словами"
+
+#: admin/main.php:169
+#@ nirvana
+msgid "Letter Spacing"
+msgstr "Расстояние между буквами"
+
+#: admin/main.php:170
+#@ nirvana
+msgid "Uppercase Text"
+msgstr "Текст заглавными буквами"
+
+#: admin/main.php:174
+#@ nirvana
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: admin/main.php:175
+#@ nirvana
+msgid "General"
+msgstr "Общее"
+
+#: admin/main.php:176
+#@ nirvana
+msgid "Accents"
+msgstr "Акценты"
+
+#: admin/main.php:177
+#: admin/settings.php:853
+#@ nirvana
+msgid "Site Title"
+msgstr "Заголовок сайта"
+
+#: admin/main.php:178
+#: admin/settings.php:1056
+#@ nirvana
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: admin/main.php:179
+#: admin/main.php:191
+#: admin/settings.php:1532
+#@ nirvana
+msgid "Top Bar"
+msgstr "Верхнее меню"
+
+#: admin/main.php:180
+#@ nirvana
+msgid "Content"
+msgstr "Содержимое"
+
+#: admin/main.php:182
+#@ nirvana
+msgid "Sidebar Widgets"
+msgstr "Виджеты боковых колонок"
+
+#: admin/main.php:183
+#@ nirvana
+msgid "Footer Widgets"
+msgstr "Виджеты подвала"
+
+#: admin/main.php:184
+#@ nirvana
+msgid "Links"
+msgstr "Ссылки"
+
+#: admin/main.php:185
+#@ nirvana
+msgid "Post metas"
+msgstr "Мета-информация публикаций"
+
+#: admin/main.php:186
+#@ nirvana
+msgid "Socials"
+msgstr "Социальные"
+
+#: admin/main.php:187
+#@ nirvana
+msgid "Caption type"
+msgstr "Тип заголовка"
+
+#: admin/main.php:192
+#@ nirvana
+msgid "Breadcrumbs"
+msgstr "Путь на сайте"
+
+#: admin/main.php:193
+#@ nirvana
+msgid "Pagination"
+msgstr "Разбиение на страницы"
+
+#: admin/main.php:194
+#@ nirvana
+msgid "Menu Alignment"
+msgstr "Выравнивание меню"
+
+#: admin/main.php:195
+#@ nirvana
+msgid "Search Bar Locations"
+msgstr "Расположение строк поиска"
+
+#: admin/main.php:196
+#@ nirvana
+msgid "Content Margins"
+msgstr "Поля содержимого"
+
+#: admin/main.php:197
+#@ nirvana
+msgid "Post Images Border"
+msgstr "Рамка изображений в публикациях"
+
+#: admin/main.php:198
+#@ nirvana
+msgid "Page Titles"
+msgstr "Заголовки страниц"
+
+#: admin/main.php:199
+#@ nirvana
+msgid "Category Titles"
+msgstr "Заголовки рубрик"
+
+#: admin/main.php:200
+#@ nirvana
+msgid "Hide Tables"
+msgstr "Скрыть таблицы"
+
+#: admin/main.php:201
+#@ nirvana
+msgid "Back to Top button"
+msgstr "Кнопка Наверх"
+
+#: admin/main.php:204
+#@ nirvana
+msgid "Meta Bar Position"
+msgstr "Расположение мета-полосы"
+
+#: admin/main.php:205
+#@ nirvana
+msgid "Show on Blog Pages"
+msgstr "Показывать на страницах блога"
+
+#: admin/main.php:206
+#@ nirvana
+msgid "Show on Single Pages"
+msgstr "Показывать на одиночных страницах"
+
+#: admin/main.php:207
+#@ nirvana
+msgid "Text Under Comments"
+msgstr "Текст под комментариями"
+
+#: admin/main.php:208
+#@ nirvana
+msgid "Comments are closed text"
+msgstr "Комментарии являются закрытым текстом"
+
+#: admin/main.php:209
+#@ nirvana
+msgid "Comments off"
+msgstr "Комментарии выключены"
+
+#: admin/main.php:212
+#: includes/theme-functions.php:217
+#@ nirvana
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: admin/main.php:213
+#: admin/settings.php:334
+#: admin/settings.php:434
+#@ nirvana
+msgid "Sticky Posts"
+msgstr "Прилипшие публикации"
+
+#: admin/main.php:214
+#@ nirvana
+msgid "Archive and Category Pages"
+msgstr "Страницы архивов и рубрик"
+
+#: admin/main.php:215
+#@ nirvana
+msgid "Post Excerpt Length "
+msgstr "Длина отрывка публикации"
+
+#: admin/main.php:216
+#@ nirvana
+msgid "Magazine Layout"
+msgstr "Журнальная верстка"
+
+#: admin/main.php:217
+#@ nirvana
+msgid "Excerpt suffix"
+msgstr "Суффикс отрывка"
+
+#: admin/main.php:218
+#@ nirvana
+msgid "Continue reading link text "
+msgstr "Текст для продолжения чтения "
+
+#: admin/main.php:219
+#@ nirvana
+msgid "HTML tags in Excerpts"
+msgstr "Теги HTML в отрывках"
+
+#: admin/main.php:222
+#@ nirvana
+msgid "Featured Images as POST Thumbnails "
+msgstr "Продвигаемые изображения как миниатюры публикаций "
+
+#: admin/main.php:223
+#@ nirvana
+msgid "Auto Select Images From Posts "
+msgstr "Автовыбор изображения из публикаций "
+
+#: admin/main.php:224
+#@ nirvana
+msgid "Thumbnails Alignment "
+msgstr "Выравнивание миниатюр "
+
+#: admin/main.php:225
+#@ nirvana
+msgid "Thumbnails Size "
+msgstr "Размер миниатюр "
+
+#: admin/main.php:226
+#@ nirvana
+msgid "Featured Images as HEADER Images "
+msgstr "Продвигаемые изображения как изображения заголовка "
+
+#: admin/main.php:229
+#@ nirvana
+msgid "Link nr. 1"
+msgstr "Ссылка номер 1"
+
+#: admin/main.php:230
+#@ nirvana
+msgid "Link nr. 2"
+msgstr "Ссылка номер 2"
+
+#: admin/main.php:231
+#@ nirvana
+msgid "Link nr. 3"
+msgstr "Ссылка номер 3"
+
+#: admin/main.php:232
+#@ nirvana
+msgid "Link nr. 4"
+msgstr "Ссылка номер 4"
+
+#: admin/main.php:233
+#@ nirvana
+msgid "Link nr. 5"
+msgstr "Ссылка номер 5"
+
+#: admin/main.php:234
+#@ nirvana
+msgid "Socials display"
+msgstr "Показывать социальные иконки"
+
+#: admin/main.php:237
+#@ nirvana
+msgid "Internet Explorer Compatibility Tag"
+msgstr "Тег совместимости с Internet Explorer"
+
+#: admin/main.php:238
+#@ nirvana
+msgid "Custom Footer Text"
+msgstr "Свой текст в подвале"
+
+#: admin/main.php:239
+#@ nirvana
+msgid "Custom CSS"
+msgstr "Свой CSS"
+
+#: admin/main.php:240
+#@ nirvana
+msgid "Custom JavaScript"
+msgstr "Свой JavaScript"
+
+#: admin/main.php:263
+#@ nirvana
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "Извините, но у вас не хватает прав для доступа к этой странице."
+
+#: admin/main.php:282
+#@ nirvana
+msgid "Nirvana settings updated successfully."
+msgstr "Настройки темы Tempera успешно обновлены."
+
+#: admin/main.php:298
+#@ nirvana
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: admin/main.php:299
+#@ nirvana
+msgid "Reset to Defaults"
+msgstr "Сбросить в настройки по умолчанию"
+
+#: admin/main.php:335
+#@ nirvana
+msgid "Import/Export Settings"
+msgstr "Испортировать/экспортировать настройки"
+
+#: admin/main.php:340
+#@ nirvana
+msgid "Export Theme options"
+msgstr "Экспортировать настройки темы"
+
+#: admin/main.php:341
+#@ nirvana
+msgid "It's that easy: a mouse click away - the ability to export your Nirvana settings and save them on your computer. Feeling safer? You should!"
+msgstr "Да, это так просто: в один щелчок мыши экспортировать настройки Nirvana и сохранить их на вашем компьютере. Чувствуете себя в безопасности? А должны бы!"
+
+#: admin/main.php:346
+#@ nirvana
+msgid "Import Theme options"
+msgstr "Импортировать настройки темы"
+
+#: admin/main.php:347
+#@ nirvana
+msgid "Without the import, the export would just be a fool's exercise. Make sure you have the exported file ready and see you after the mouse click."
+msgstr "Без функции импорта, функция экспорта была бы упражнением для дураков. Пожалуйста, убедитесь что у вас есть экспортированный файл. Увидимся после щелчка мышью."
+
+#: admin/main.php:362
+#@ nirvana
+msgid "Nirvana Latest News"
+msgstr "Последние новости Nirvana"
+
+#: admin/main.php:373
+#@ nirvana
+msgid "Reset Nirvana Settings to Defaults?"
+msgstr "Сбросить настройки Nirvana в настройки по-умолчанию?"
+
+#: admin/prototypes.php:30
+#@ nirvana
+msgid "or Google font"
+msgstr "или шрифт Google"
+
+#: admin/settings.php:28
+#@ nirvana
+msgid "One column (no sidebars)"
+msgstr "Одна колонка (без боковых колонок)"
+
+#: admin/settings.php:29
+#@ nirvana
+msgid "Two columns, sidebar on the right"
+msgstr "Две колонки, боковая колонка справа"
+
+#: admin/settings.php:30
+#@ nirvana
+msgid "Two columns, sidebar on the left"
+msgstr "Две колонки, боковая колонка слева"
+
+#: admin/settings.php:31
+#@ nirvana
+msgid "Three columns, sidebars on the right"
+msgstr "Три колонки, боковые колонки справа"
+
+#: admin/settings.php:32
+#@ nirvana
+msgid "Three columns, sidebars on the left"
+msgstr "Три колонки, боковые колонки слева"
+
+#: admin/settings.php:33
+#@ nirvana
+msgid "Three columns, one sidebar on each side"
+msgstr "Три колонки, боковые колонки по бокам"
+
+#: admin/settings.php:41
+#@ nirvana
+msgid "Choose your layout. Possible options are: <br> No sidebar, a single sidebar on either left of right, two sidebars on either left or right and two sidebars on each side.<br>This can be overriden in pages by using Page Templates."
+msgstr "Выберите свою раскладку. Возможные варианты: <br> Нет боковых колонок, одна боковая колонка слева или справа, две боковых колонки слева, справа или по сторонам.<br>Это может быть переопределено в настройках страницы с помощью Шаблона страницы."
+
+#: admin/settings.php:90
+#@ nirvana
+msgid "Content ="
+msgstr "Содержимое ="
+
+#: admin/settings.php:91
+#@ nirvana
+msgid "Sidebar(s) ="
+msgstr "Боковые колонки ="
+
+#: admin/settings.php:92
+#@ nirvana
+msgid "Total width ="
+msgstr "Общая ширина ="
+
+#: admin/settings.php:99
+#@ nirvana
+msgid "Select the width of your <b>content</b> and <b>sidebar(s)</b>. When using a 3 columns layout (with 2 sidebars) they will each have half the configured width."
+msgstr "Выберите ширину вашего <b>основного содержимого</b> и <b>боковых колонок</b>. При использовании трёхколончатой раскладки (с двумя боковыми колонками), ширина каждой будет в половину настроенной здесь величины."
+
+#: admin/settings.php:108
+#: admin/settings.php:191
+#: admin/settings.php:200
+#: admin/settings.php:527
+#: admin/settings.php:762
+#: admin/settings.php:1013
+#: admin/settings.php:1028
+#: admin/settings.php:1127
+#: admin/settings.php:1143
+#: admin/settings.php:1325
+#: admin/settings.php:1354
+#: admin/settings.php:1377
+#: admin/settings.php:1396
+#: admin/settings.php:1445
+#: admin/settings.php:1589
+#@ nirvana
+msgid "Enable"
+msgstr "Включено"
+
+#: admin/settings.php:108
+#: admin/settings.php:191
+#: admin/settings.php:200
+#: admin/settings.php:762
+#: admin/settings.php:1013
+#: admin/settings.php:1028
+#: admin/settings.php:1127
+#: admin/settings.php:1143
+#: admin/settings.php:1325
+#: admin/settings.php:1354
+#: admin/settings.php:1377
+#: admin/settings.php:1396
+#: admin/settings.php:1445
+#: admin/settings.php:1589
+#@ nirvana
+msgid "Disable"
+msgstr "Выключено"
+
+#: admin/settings.php:116
+#@ nirvana
+msgid "Allow zoom"
+msgstr "Разрешить увеличение (zoom)"
+
+#: admin/settings.php:117
+#@ nirvana
+msgid "Enable to make Nirvana fully responsive. The layout and general sizes of your blog will adjust depending on what device and what resolution it is viewed in.<br> Do not disable unless you have a good reason to."
+msgstr "Включите чтобы сделать Tempera полностью отзывчивой. Раскладка и все размеры вашего сайта будут подстраиваться под устройство и разрешение экрана.<br> Не выключайте, если у вас нет на это действительно хорошей причины."
+
+#: admin/settings.php:129
+#@ nirvana
+msgid "Select the header's height. After saving the settings go and upload your new header image. The header's width will be "
+msgstr "Выберите высоту заголовка. После сохранения настроек загрузите новое изображение заголовка. Ширина заголовка будет "
+
+#: admin/settings.php:135
+#@ nirvana
+msgid "Define header image"
+msgstr "Определите заглавное изображение"
+
+#: admin/settings.php:136
+#@ nirvana
+msgid "Center the header image horizontally"
+msgstr "Центрировать заглавное изображение по горизонтали"
+
+#: admin/settings.php:138
+#@ nirvana
+msgid "Keep header image aspect ratio."
+msgstr "Выдерживать соотношение сторон заглавного изображения"
+
+#: admin/settings.php:139
+#@ nirvana
+msgid "By default the header has a minimum height set. This option removes that and the header becomes fully responsive, scalling to any size.<br> Only enable this if you're <b>not</b> using a logo or site title and description in the header. "
+msgstr "По умолчанию высота заглавного изображения установлена в минимальное значение. Эта настройка убирает эту настройку и заголовок становится полностью отзывчивым, масштабируясь под любой размер.<br> Включайте эту опцию, только если вы <b>не</b> используете логотип или заголовок и описание сайта."
+
+#: admin/settings.php:147
+#@ nirvana
+msgid "Site Title and Description"
+msgstr "Заголовок сайта и описание"
+
+#: admin/settings.php:147
+#@ nirvana
+msgid "Custom Logo"
+msgstr "Свой логотип"
+
+#: admin/settings.php:147
+#@ nirvana
+msgid "Clickable header image"
+msgstr "Заглавное изображение, чувствительно к щелчку мыши (кликабельное)"
+
+#: admin/settings.php:147
+#@ nirvana
+msgid "Empty"
+msgstr "Пусто"
+
+#: admin/settings.php:149
+#@ nirvana
+msgid "Choose what to display inside your header area."
+msgstr "Выберите, что показывать внутри области заголовка."
+
+#: admin/settings.php:157
+#@ nirvana
+msgid "Custom Logo upload. The logo will appear over the header image if you have used one."
+msgstr "Загрузка своего логотипа. Логотип будет отображаться поверх заглавного изображения, если вы используете таковое."
+
+#: admin/settings.php:158
+#: admin/settings.php:175
+#: admin/settings.php:405
+#@ nirvana
+msgid "Select / Upload Image"
+msgstr "Выберите или Загрузите изображение"
+
+#: admin/settings.php:163
+#@ nirvana
+msgid "top"
+msgstr "сверху"
+
+#: admin/settings.php:164
+#@ nirvana
+msgid "left"
+msgstr "слева"
+
+#: admin/settings.php:165
+#@ nirvana
+msgid "Select the top and left spacing for the header content. Use it to better position your site title and description or custom logo inside the header. "
+msgstr "Выберите верхнее и левое расстояние для содержимого заголовка. Используйте для лучшего позиционирования заголовка и описания сайта или логотипа внутри области заголовка."
+
+#: admin/settings.php:174
+#@ nirvana
+msgid "Limitations: It has to be an image. It should be max 64x64 pixels in dimensions. Recommended file extensions .ico and .png. <br> <strong>Note that some browsers do not display the changed favicon instantly.</strong>"
+msgstr "Ограничение: Это должно быть изображение. Оно должно быть размером не более 64x64 пикселей. Рекомендованные форматы файлов: .ico и .png.<br><strong>Имейте в виду, что некоторые браузеры не отображают изменённый favicon сразу.</strong>"
+
+#: admin/settings.php:193
+#@ nirvana
+msgid "Enable the presentation front-page. This will become your new home page. <br> If you want another page to hold your latest blog posts, choose 'Blog Template (Posts Page)' from Page Templates while creating or editing that page."
+msgstr "Включить страницу презентации. Она станет вашей новой домашней страницей. <br> Если вы хотите чтобы другая страница содержала ваши крайние публикации, выберите 'Шаблон блога (страница публикаций)' из Шаблонов страниц при создании или редактировании этой страницы."
+
+#: admin/settings.php:203
+#@ nirvana
+msgid "posts"
+msgstr "публикаций"
+
+#: admin/settings.php:204
+#@ nirvana
+msgid "Enable to display latest posts on the presentation page, below the columns. Sticky posts are always displayed and not counted."
+msgstr "Включите для отображения крайних публикаций на странице презентации, сразу под колонками. Прилипшие публикации отображаются всегда и не учитываются."
+
+#: admin/settings.php:211
+#@ nirvana
+msgid "Slider Dimensions:"
+msgstr "Размеры слайдера:"
+
+#: admin/settings.php:212
+#@ nirvana
+msgid "width"
+msgstr "ширина"
+
+#: admin/settings.php:213
+#@ nirvana
+msgid "height"
+msgstr "высота"
+
+#: admin/settings.php:214
+#@ nirvana
+msgid "The dimensions of your slider. Make sure your images are of the same size."
+msgstr "Размеры вашего слайдера. Пожалуйста, убедитесь что все изображения имеют одинаковый размер."
+
+#: admin/settings.php:216
+#@ nirvana
+msgid "Animation:"
+msgstr "Анимация:"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "Random"
+msgstr "Случайно"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "Fold"
+msgstr "Складывание"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "Fade"
+msgstr "Затухание"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "SlideInRight"
+msgstr "Выезд справа"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "SlideInLeft"
+msgstr "Выезд слева"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "SliceDown"
+msgstr "Разделение сверху"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "SliceDownLeft"
+msgstr "Разделение сверху-справа"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "SliceUp"
+msgstr "Разделение вверх"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "SliceUpLeft"
+msgstr "Разделение вверх-влево"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "SliceUpDown"
+msgstr "Разделение вверх-вниз"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "SliceUpDownLeft"
+msgstr "Разделение вверх-вниз-влево"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "BoxRandom"
+msgstr "Случайный прямоугольник"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "BoxRain"
+msgstr "Прямоугольник дождём"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "BoxRainReverse"
+msgstr "Обратный прямоугольник дождём"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "BoxRainGrow"
+msgstr "Растущий прямоугольник дождём"
+
+#: admin/settings.php:218
+#@ nirvana
+msgid "BoxRainGrowReverse"
+msgstr "Обратный растущий прямоугольник дождём"
+
+#: admin/settings.php:227
+#@ nirvana
+msgid "The transition effect of your slides."
+msgstr "Эффекты замены слайдов."
+
+#: admin/settings.php:229
+#@ nirvana
+msgid "Animation Time:"
+msgstr "Время анимации:"
+
+#: admin/settings.php:230
+#: admin/settings.php:234
+#@ nirvana
+msgid "milliseconds"
+msgstr "миллисекунд"
+
+#: admin/settings.php:231
+#@ nirvana
+msgid "The time in which the transition animation will take place."
+msgstr "Время, за которое анимация замены слайда заменит слайд."
+
+#: admin/settings.php:233
+#@ nirvana
+msgid "Pause Time:"
+msgstr "Время паузы:"
+
+#: admin/settings.php:235
+#@ nirvana
+msgid "The time in which a slide will be still and visible."
+msgstr "Это время, в течение которого слайд будет виден и неподвижен."
+
+#: admin/settings.php:237
+#@ nirvana
+msgid "Slider navigation:"
+msgstr "Навигация слайдера:"
+
+#: admin/settings.php:239
+#@ nirvana
+msgid "Numbers"
+msgstr "Числа"
+
+#: admin/settings.php:239
+#@ nirvana
+msgid "Bullets"
+msgstr "Точки"
+
+#: admin/settings.php:239
+#@ nirvana
+msgid "None"
+msgstr "Отсутствует"
+
+#: admin/settings.php:247
+#@ nirvana
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "Тип навигации слайдера. Показывается под слайдером."
+
+#: admin/settings.php:249
+#@ nirvana
+msgid "Slider arrows:"
+msgstr "Стрелки слайдера:"
+
+#: admin/settings.php:251
+#@ nirvana
+msgid "Always Visible"
+msgstr "Видны всегда"
+
+#: admin/settings.php:251
+#@ nirvana
+msgid "Visible on Hover"
+msgstr "Видны при наведении мыши"
+
+#: admin/settings.php:251
+#@ nirvana
+msgid "Hidden"
+msgstr "Скрыты"
+
+#: admin/settings.php:259
+#@ nirvana
+msgid "The Left and Right arrows on your slider"
+msgstr "Левая и правая стрелки слайдера"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "Slider Border Width:"
+msgstr "Ширина рамки слайдера:"
+
+#: admin/settings.php:262
+#: admin/settings.php:266
+#@ nirvana
+msgid "px"
+msgstr "пиксел"
+
+#: admin/settings.php:263
+#@ nirvana
+msgid "The slider's border width. You can also edit its color from the Color Settings. Use a border width when your slider is smaller than the total site width."
+msgstr "Ширина рамки слайдера. Вы можете также выбрать её цвет в настройках цвета. Используйте рамку, если слайдер уже чем ширина сайта."
+
+#: admin/settings.php:265
+#@ nirvana
+msgid "Slider Top/Bottom Margin:"
+msgstr "Расстояние сверху от слайдера:"
+
+#: admin/settings.php:267
+#@ nirvana
+msgid "Add margins to the slider. By default this is set to 0 and you will want to increase this value when the slider is not full width."
+msgstr "Добавляет поля к слайдеру. По умолчанию это расстояние равно 0 и вы можете его увиличить его, если ширина слайдера меньше ширины сайта."
+
+#: admin/settings.php:334
+#@ nirvana
+msgid "Custom Slides"
+msgstr "Свои слайды"
+
+#: admin/settings.php:334
+#: admin/settings.php:434
+#@ nirvana
+msgid "Latest Posts"
+msgstr "Крайние публикации"
+
+#: admin/settings.php:334
+#: admin/settings.php:434
+#@ nirvana
+msgid "Random Posts"
+msgstr "Случайные публикации"
+
+#: admin/settings.php:334
+#: admin/settings.php:434
+#@ nirvana
+msgid "Latest Posts from Category"
+msgstr "Крайние публикации из рубрики"
+
+#: admin/settings.php:334
+#: admin/settings.php:434
+#@ nirvana
+msgid "Random Posts from Category"
+msgstr "Случайные публикации из рубрики"
+
+#: admin/settings.php:334
+#: admin/settings.php:434
+#@ nirvana
+msgid "Specific Posts"
+msgstr "Конкретные публикации"
+
+#: admin/settings.php:334
+#: admin/settings.php:434
+#@ nirvana
+msgid "Disabled"
+msgstr "Отключено"
+
+#: admin/settings.php:343
+#@ nirvana
+msgid "Only the slides with a defined image will become active and visible in the live slider.<br>When using slides from posts, make sure the selected posts have featured images.<br>Read the FAQs for more info."
+msgstr "Только слайды с определённым изображением будут активны и видны в слайдере. <br>При использовании слайдов из публикаций, убедитесь что у публикаций есть продвигаемые изображения.<br>Прочтите ЧаВО, если информации не хватило."
+
+#: admin/settings.php:348
+#@ nirvana
+msgid "Latest posts will be loaded into the slider."
+msgstr "Крайние публикации будут загружены в слайдер."
+
+#: admin/settings.php:352
+#@ nirvana
+msgid "Random posts will be loaded into the slider."
+msgstr "Случайные публикации будут загружены в слайдер."
+
+#: admin/settings.php:356
+#@ nirvana
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "Крайние публикации из выбранной рубрики будут загружены в слайдер."
+
+#: admin/settings.php:360
+#@ nirvana
+msgid "Random posts from the category you choose will be loaded into the slider."
+msgstr "Случайные публикации из выбранной рубрики будут загружены в слайдер."
+
+#: admin/settings.php:364
+#@ nirvana
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "Только прилипленные публикации будут загружены в слайдер."
+
+#: admin/settings.php:368
+#: admin/settings.php:470
+#@ nirvana
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr "Перечислите ID публикаций, которые будут отображаться (через запятую):"
+
+#: admin/settings.php:373
+#: admin/settings.php:480
+#@ nirvana
+msgid "<br> Choose the category: "
+msgstr "<br> Выберите рубрику: "
+
+#: admin/settings.php:375
+#: admin/settings.php:482
+#@ nirvana
+msgid "Select Category"
+msgstr "Выберите рубрику"
+
+#: admin/settings.php:389
+#: admin/settings.php:495
+#@ nirvana
+msgid "Number of posts to show:"
+msgstr "Количество публикаций для показа:"
+
+#: admin/settings.php:400
+#@ nirvana
+msgid "Slide"
+msgstr "Слайд"
+
+#: admin/settings.php:402
+#: content/content-image.php:14
+#@ nirvana
+msgid "Image"
+msgstr "Изображение"
+
+#: admin/settings.php:406
+#: admin/settings.php:543
+#: admin/settings.php:550
+#: admin/settings.php:557
+#@ nirvana
+msgid "Title"
+msgstr "Заголовок"
+
+#: admin/settings.php:409
+#: admin/settings.php:545
+#: admin/settings.php:552
+#: admin/settings.php:559
+#@ nirvana
+msgid "Text"
+msgstr "Текст"
+
+#: admin/settings.php:412
+#: content/content-link.php:15
+#@ nirvana
+msgid "Link"
+msgstr "Ссылка"
+
+#: admin/settings.php:420
+#@ nirvana
+msgid "Read more text:"
+msgstr "Текст \"Читать далее\""
+
+#: admin/settings.php:423
+#@ nirvana
+msgid "The linked text that appears at the bottom of each slide. Leave empty to hide the link."
+msgstr "Связанный текст, который отображается снизу каждого слайда. Оставьте пустым, чтобы скрыть ссылку."
+
+#: admin/settings.php:434
+#@ nirvana
+msgid "Widget Columns"
+msgstr "Колонки виджетов"
+
+#: admin/settings.php:443
+#@ nirvana
+msgid "Only the columns with a defined image will become active and visible on the presentation page.<br>When using columns from posts, make sure the selected posts have featured images.<br>Read the FAQs for more info."
+msgstr "Только колонки с определённым изображением будут активны и видны на странице презентации. <br>При использовании колонок из публикаций, убедитесь что выбранные публикации имеют продвигаемые изображения.<br>Читайте ЧаВО для дополнительных знаний."
+
+#: admin/settings.php:450
+#@ nirvana
+msgid "Latest posts will be loaded into the columns."
+msgstr "Крайние публикации будут загружены в колонки."
+
+#: admin/settings.php:454
+#@ nirvana
+msgid "Random posts will be loaded into the columns."
+msgstr "Случайные публикации будут загружены в колонки."
+
+#: admin/settings.php:458
+#@ nirvana
+msgid "Latest posts from the category you choose will be loaded in the columns."
+msgstr "Крайние публикации из рубрики будут загружены в колонки."
+
+#: admin/settings.php:462
+#@ nirvana
+msgid "Random posts from the category you choose will be loaded into the columns."
+msgstr "Случайные публикации из рубрики будут загружены в колонки."
+
+#: admin/settings.php:466
+#@ nirvana
+msgid "Only sticky posts will be loaded into the columns."
+msgstr "Только прилипшие публикации будут загружены в колонки."
+
+#: admin/settings.php:475
+#@ nirvana
+msgid "Load your custom Widgets as columns. Go to <a>Appearance >> Widgets</a> and create your custom columns using the Columns widget. You can use as many as you want."
+msgstr "Загрузите свои виджеты как колонки. Зайдите в <a>Внешний вид  >> Виджеты</a> и создайте свои колонки используя виджет Колонки. Вы можете сделать столько, сколько хотите."
+
+#: admin/settings.php:502
+#@ nirvana
+msgid "Columns per row:"
+msgstr "Колонок в строке:"
+
+#: admin/settings.php:512
+#@ nirvana
+msgid "Image Size:"
+msgstr "Размер изображения:"
+
+#: admin/settings.php:513
+#@ nirvana
+msgid "Height: "
+msgstr "Высота: "
+
+#: admin/settings.php:514
+#@ nirvana
+msgid "Width: "
+msgstr "Ширина: "
+
+#: admin/settings.php:515
+#@ nirvana
+msgid "The sizes for your column images. The width is dependent on total site width and the number of columns per row so it isn't configurable."
+msgstr "Размеры ваших изображений. Ширина зависит от ширины сайта и не настраивается."
+
+#: admin/settings.php:518
+#@ nirvana
+msgid "Column spacing:"
+msgstr "Промежуток между колонками:"
+
+#: admin/settings.php:520
+#@ nirvana
+msgid "The space between your columns. Increasing the column spacing will naturally decrease the visible area of your images."
+msgstr "Промежуток между колонками. Увеличение промежутка уменьшит видимый размер ваших изображений."
+
+#: admin/settings.php:522
+#@ nirvana
+msgid "Columns Title:"
+msgstr "Заголовок колонки:"
+
+#: admin/settings.php:525
+#@ nirvana
+msgid "The title for the columns area on the presentation page."
+msgstr "Заголовок для колонок на страницы презентации."
+
+#: admin/settings.php:526
+#@ nirvana
+msgid "Photo Frames"
+msgstr "Рамки фото"
+
+#: admin/settings.php:528
+#@ nirvana
+msgid "Enable subtle foto frames around your column images. Your columns will have white borders and a small shadow around them and will be slightly skewed."
+msgstr "Включить тонкие фото-рамки вокруг изображений колонок. Ваши колонки будут иметь белые границы и небольшую тень вокруг них и будут слегка искажены."
+
+#: admin/settings.php:537
+#: admin/settings.php:548
+#: admin/settings.php:555
+#@ nirvana
+msgid "Text Area"
+msgstr "Текстовая зона"
+
+#: admin/settings.php:539
+#@ nirvana
+msgid "Text for the Presentation Page"
+msgstr "Текст для страницы презентации"
+
+#: admin/settings.php:541
+#@ nirvana
+msgid "More text for the Presentation Page. The top title is just below the slider, the second title is below the columns. A text area supporting HTML tags and shortcodes below each title<br>It's all optional so leave any input field empty to not dispaly it."
+msgstr "Больше текста для страницы презентации. Верхний заголовок будет сразу под слайдером, второй заголоков под колонками. Текстовая HTML-область под каждым заголовком.<br>Это всё опционально, так что оставьте поля пустыми чтобы скрыть их."
+
+#: admin/settings.php:566
+#@ nirvana
+msgid "Hide areas"
+msgstr "Скрыть области"
+
+#: admin/settings.php:568
+#@ nirvana
+msgid "Choose the areas to hide on the Presentation Page:"
+msgstr "Выберите области, которые нужно скрыть на странице презентации."
+
+#: admin/settings.php:579
+#@ nirvana
+msgid "Hide the topbar (includes the top social area and top menu)."
+msgstr "Скрыть верхнюю область (включая верхнее меню и верхнии иконки соцсетей)."
+
+#: admin/settings.php:582
+#@ nirvana
+msgid "Hide the header area (logo/title and/or image/empty area)."
+msgstr "Скрыть область заголовка (логотип/заголовок и/или изображение)."
+
+#: admin/settings.php:585
+#@ nirvana
+msgid "Hide the main menu."
+msgstr "Скрыть главное меню."
+
+#: admin/settings.php:588
+#@ nirvana
+msgid "Hide the footer widgets. "
+msgstr "Скрыть виджеты подвала. "
+
+#: admin/settings.php:591
+#@ nirvana
+msgid "Hide the footer (copyright area)."
+msgstr "Скрыть подвал (область копирайта)."
+
+#: admin/settings.php:616
+#@ nirvana
+msgid ""
+"Select the general font family and size or insert the Google Font name you'll use in your blog. This will affect all text except the text controlled \n"
+"\t\t\t\t\t\t\tby the options below.<br><br> <strong>Additional Info:</strong><br>The fonts under the <em>General Theme Fonts</em> category are suggested for this\n"
+"\t\t\t\t\t\t\tbecause they have all the font weights used througout the theme.<br> When using Google Fonts for General Font make sure they also have multiple font weights and \n"
+"\t\t\t\t\t\t\tthat you specify them all eg.: <em>Roboto:400,300,500,700</em>"
+msgstr "Выберите шрифт общего пользования или вставьте имя шрифта Google для использования на сайте. Это затронет весь текст кроме управляемого настройками ниже. <br><br> <strong>Дополнительная информация:</strong><br>Шрифты <em>общего назначения</em> лучше всего подходят для выбора, так как они имеют все стили, использованные в этой теме<br> При использовании шрифтов Google Fonts в качестве шрифта общего назначения убедитесь, что они имеют все стили, которые указываются как, например, <em>Roboto:400,300,500,700</em>"
+
+#: admin/settings.php:638
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want for your titles. It will affect post titles and page titles. Leave 'General Font' and the general font values you selected will be used."
+msgstr "\"Выберите шрифт или вставьте имя шрифта Google для заголовков. Это затронет заголовки публикаций и страниц. Оставьте 'Шрифт общего назначения' для использования общего шрифта сайта, выбранного выше."
+
+#: admin/settings.php:657
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want your widget titles to have. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Выберите шрифт или вставьте имя шрифта Google для заголовков виджетов. Оставьте 'Шрифт общего назначения' для использования общего шрифта сайта, выбранного выше."
+
+#: admin/settings.php:676
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want your widgets to have. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Выберите шрифт или вставьте имя шрифта Google для виджетов. Оставьте 'Шрифт общего назначения' для использования общего шрифта сайта, выбранного выше."
+
+#: admin/settings.php:694
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want your site title and tagline to use. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Выберите шрифт или вставьте имя шрифта Google для заголовка сайта и таглайна. Оставьте 'Шрифт общего назначения' для использования общего шрифта сайта, выбранного выше."
+
+#: admin/settings.php:712
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want your main menu to use. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Выберите шрифт или вставьте имя шрифта Google для Главного меню. Оставьте 'Шрифт общего назначения' для использования общего шрифта сайта, выбранного выше."
+
+#: admin/settings.php:733
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want your headings to have (h1 - h6 tags will be affected). Leave 'General Font' and the general font values you selected will be used."
+msgstr "Выберите шрифт или вставьте имя шрифта Google для заголовков (тэги h1 - h6 включительно). Оставьте 'Шрифт общего назначения' для использования общего шрифта сайта, выбранного выше."
+
+#: admin/settings.php:741
+#: admin/settings.php:782
+#: admin/settings.php:792
+#: admin/settings.php:809
+#@ nirvana
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/settings.php:741
+#: admin/settings.php:1042
+#: admin/settings.php:1412
+#@ nirvana
+msgid "Left"
+msgstr "По левому краю"
+
+#: admin/settings.php:741
+#: admin/settings.php:1042
+#: admin/settings.php:1412
+#@ nirvana
+msgid "Right"
+msgstr "По правому краю"
+
+#: admin/settings.php:741
+#@ nirvana
+msgid "Justify"
+msgstr "Выровнять"
+
+#: admin/settings.php:741
+#: admin/settings.php:1042
+#: admin/settings.php:1412
+#@ nirvana
+msgid "Center"
+msgstr "Центрировать"
+
+#: admin/settings.php:743
+#@ nirvana
+msgid "This overwrites the text alignment in posts and pages. Leave 'Default' for normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr "Это переопределяет выравнивание текста в публикациях и страницах. Оставьте значение по умолчанию для обычного значения (выравнивание будет таким, каким оно указано в публикациях, комментариях и т.п.)."
+
+#: admin/settings.php:753
+#@ nirvana
+msgid "Choose the indent for your paragraphs."
+msgstr "Выберите отступ для абзацев."
+
+#: admin/settings.php:764
+#@ nirvana
+msgid "Disable the default headings indent (left margin)."
+msgstr "Disable the default headings indent (left margin)."
+
+#: admin/settings.php:774
+#@ nirvana
+msgid "Text line height. The height between 2 rows of text."
+msgstr "Межстрочный интервал."
+
+#: admin/settings.php:784
+#@ nirvana
+msgid "The space between <i>words</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Расстояние между <i>словами</i>. Оставьте значение по умолчанию для обычного значения (из CSS)."
+
+#: admin/settings.php:794
+#@ nirvana
+msgid "The space between <i>letters</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Расстояние между <i>буквами</i>. Оставьте значение по умолчанию для обычного значения (из CSS)."
+
+#: admin/settings.php:802
+#@ nirvana
+msgid "Select the spacing between the paragraphs."
+msgstr "Выберите расстояние между абзацами."
+
+#: admin/settings.php:809
+#@ nirvana
+msgid "Force Uppercase"
+msgstr "Принудительно в Верхний регистр"
+
+#: admin/settings.php:809
+#@ nirvana
+msgid "Force Lowercase"
+msgstr "Принудительно в Нижний регистр"
+
+#: admin/settings.php:811
+#@ nirvana
+msgid "By default text is both uppercase and lowercase throughout the theme. With this option you can force uppercase or lowercase text styling in the whole theme. This option won't affect content text."
+msgstr "По умолчанию текст и в верхнем и в нижнем регистре в разных местах темы. С этой опцией вы можете принудительно включить верхний или нижний регистр во всей теме. Эта опция не затрагивает текст содержимого."
+
+#: admin/settings.php:819
+#@ nirvana
+msgid "Define background image"
+msgstr "Определите фоновое изображение"
+
+#: admin/settings.php:824
+#: admin/settings.php:850
+#: admin/settings.php:875
+#: admin/settings.php:911
+#: admin/settings.php:922
+#@ nirvana
+msgid "Background:"
+msgstr "Фоновое изображение:"
+
+#: admin/settings.php:825
+#@ nirvana
+msgid "Header Background"
+msgstr "Фон заголовка"
+
+#: admin/settings.php:826
+#@ nirvana
+msgid "Main Site Background"
+msgstr "Фон сайта"
+
+#: admin/settings.php:827
+#@ nirvana
+msgid "Footer Widgets Area Background"
+msgstr "Фон области виджетов подвала"
+
+#: admin/settings.php:828
+#@ nirvana
+msgid "Footer Background"
+msgstr "Фон подвала"
+
+#: admin/settings.php:829
+#: admin/settings.php:852
+#: admin/settings.php:877
+#: admin/settings.php:904
+#: admin/settings.php:914
+#: admin/settings.php:925
+#@ nirvana
+msgid "Text:"
+msgstr "Текст:"
+
+#: admin/settings.php:830
+#@ nirvana
+msgid "General Text"
+msgstr "Общий текст"
+
+#: admin/settings.php:831
+#@ nirvana
+msgid "General Lighter Text"
+msgstr "Общий лёгкий текст"
+
+#: admin/settings.php:832
+#@ nirvana
+msgid "Footer Text"
+msgstr "Текст подвала"
+
+#: admin/settings.php:833
+#@ nirvana
+msgid "The site background features 4 separately coloured areas.<br />The general text colour applies to all text on the website that is not controlled by any other option."
+msgstr "Фон сайта состоит из четырёх цветовых областей.<br />Общий цвет текста применяется ко всему тексту на сайте, не затрагиваемому остальными настройками."
+
+#: admin/settings.php:838
+#@ nirvana
+msgid "Accent Color #1"
+msgstr "Цвет акцента #1"
+
+#: admin/settings.php:839
+#@ nirvana
+msgid "Accent Color #2"
+msgstr "Цвет акцента #2"
+
+#: admin/settings.php:840
+#@ nirvana
+msgid "Accent Color #3"
+msgstr "Цвет акцента #3"
+
+#: admin/settings.php:841
+#@ nirvana
+msgid "Accent Color #4"
+msgstr "Цвет акцента #4"
+
+#: admin/settings.php:842
+#@ nirvana
+msgid "Accent Color #5"
+msgstr "Цвет акцента #"
+
+#: admin/settings.php:843
+#@ nirvana
+msgid ""
+"Accents #1 and #2 should either be the same as the link colours or be separate from all other colours on the site.<br />\n"
+"     Accent #5 is used for input fields and buttons backgrounds, borders and lines.<br />\n"
+"     Accents #3 and #4 should be the lighter/darker than the content background colour, being used as borders/shades on elements where accent #5 is background colour."
+msgstr "Акценты #1 и #2 долны быть такими же как цвета ссылок или должны отличаться от остальных цветов на сайте.<br />     Акцент #5 используется для полей ввода и фона кнопок, рамок и линий.<br />Акценты #3 и #4 должны быть светлее/темнее чем фон содержимого, будет использован для рамок/теней элементов, для которых акцент #5 является цветом фона."
+
+#: admin/settings.php:851
+#@ nirvana
+msgid "Site Description Background"
+msgstr "Фон описания сайта"
+
+#: admin/settings.php:854
+#@ nirvana
+msgid "Site Description"
+msgstr "Описание сайта"
+
+#: admin/settings.php:860
+#@ nirvana
+msgid "Menu:"
+msgstr "Меню:"
+
+#: admin/settings.php:861
+#@ nirvana
+msgid "Menu Background"
+msgstr "Фон меню"
+
+#: admin/settings.php:862
+#@ nirvana
+msgid "Menu Text"
+msgstr "Текст меню"
+
+#: admin/settings.php:865
+#@ nirvana
+msgid "Submenu:"
+msgstr "Подменю:"
+
+#: admin/settings.php:866
+#@ nirvana
+msgid "Submenu Background"
+msgstr "Фон подменю"
+
+#: admin/settings.php:867
+#@ nirvana
+msgid "Submenu Text"
+msgstr "Текст подменю"
+
+#: admin/settings.php:868
+#@ nirvana
+msgid "Submenu Shadow"
+msgstr "Тень подменю"
+
+#: admin/settings.php:870
+#@ nirvana
+msgid "These colours apply to the main site menu (and dropdown elements)."
+msgstr "Эти цвета применяются к главному меню тексту (и выпадающим элементам)."
+
+#: admin/settings.php:876
+#@ nirvana
+msgid "Top Bar Background"
+msgstr "Фон верхней полосы"
+
+#: admin/settings.php:878
+#@ nirvana
+msgid "Top Bar Menu Link"
+msgstr "Цвет ссылки меню верхней полосы"
+
+#: admin/settings.php:879
+#@ nirvana
+msgid "Top Bar Menu Link Hover"
+msgstr "Цвет ссылки при наведении в меню верхней полосы"
+
+#: admin/settings.php:880
+#@ nirvana
+msgid "These colours apply to the top bar menu."
+msgstr "Эти цвета применяются к меню верхней полосы."
+
+#: admin/settings.php:885
+#@ nirvana
+msgid "Content Background"
+msgstr "Фоновый цвет содержимого"
+
+#: admin/settings.php:886
+#@ nirvana
+msgid "Page/Post Title"
+msgstr "Заголовок публикации/страницы"
+
+#: admin/settings.php:887
+#@ nirvana
+msgid "Page/Post Title Hover"
+msgstr "Заголовок публикации/страницы при наведении"
+
+#: admin/settings.php:888
+#@ nirvana
+msgid "Content Headings"
+msgstr "Заголовки в содержимом (H1-H6)"
+
+#: admin/settings.php:889
+#@ nirvana
+msgid "Content colours apply to post and page areas of the site."
+msgstr "Цвет содержимого, применяемый к областям публикаций и страниц сайта."
+
+#: admin/settings.php:894
+#@ nirvana
+msgid "Slider:"
+msgstr "Слайдер:"
+
+#: admin/settings.php:895
+#@ nirvana
+msgid "Slider Background Color"
+msgstr "Цвет фона слайдера"
+
+#: admin/settings.php:896
+#@ nirvana
+msgid "Slider Border Color"
+msgstr "Цвет рамки слайдера"
+
+#: admin/settings.php:897
+#@ nirvana
+msgid "Slider Caption Text Color"
+msgstr "Цвет заголовков слайдов на слайдере"
+
+#: admin/settings.php:898
+#@ nirvana
+msgid "Slider Caption Background"
+msgstr "Фон заголовков слайдов на слайдере"
+
+#: admin/settings.php:899
+#@ nirvana
+msgid "Areas:"
+msgstr "Зоны:"
+
+#: admin/settings.php:900
+#@ nirvana
+msgid "Text Area 1 Background Color"
+msgstr "Фон тестовой зоны 1"
+
+#: admin/settings.php:901
+#@ nirvana
+msgid "Text Area 2 Background Color"
+msgstr "Фон тестовой зоны 2"
+
+#: admin/settings.php:902
+#@ nirvana
+msgid "Text Area 3 Background Color"
+msgstr "Фон тестовой зоны 3"
+
+#: admin/settings.php:903
+#@ nirvana
+msgid "Columns Background Color"
+msgstr "Фон колонок"
+
+#: admin/settings.php:905
+#@ nirvana
+msgid "Titles Color"
+msgstr "Цвет заголовков"
+
+#: admin/settings.php:906
+#@ nirvana
+msgid "These colours apply to specific areas of the presentation page."
+msgstr "Эти цвета применяются к определенным зонам страницы презентации."
+
+#: admin/settings.php:912
+#@ nirvana
+msgid "Sidebars Background"
+msgstr "Фон боковых колонок"
+
+#: admin/settings.php:913
+#@ nirvana
+msgid "Sidebars Widget Title Background"
+msgstr "Цвет фона виджетов боковых колонок"
+
+#: admin/settings.php:915
+#@ nirvana
+msgid "Sidebars Text"
+msgstr "Текст боковых колонок"
+
+#: admin/settings.php:916
+#@ nirvana
+msgid "Sidebars Widget Title Text"
+msgstr "Заголовки виджетов боковых колонок"
+
+#: admin/settings.php:917
+#@ nirvana
+msgid "These colours apply to the widgets placed in either sidebar."
+msgstr "Эти цвета применяются к виджетам, располагаемым в боковых колонках."
+
+#: admin/settings.php:923
+#@ nirvana
+msgid "Footer Widgets Background"
+msgstr "Фон виджетов подвала"
+
+#: admin/settings.php:924
+#@ nirvana
+msgid "Footer Widgets Title Background"
+msgstr "Заголовки виджетов подвала"
+
+#: admin/settings.php:926
+#@ nirvana
+msgid "Footer Widget Text"
+msgstr "Текст виджетов подвала"
+
+#: admin/settings.php:927
+#@ nirvana
+msgid "Footer Widgets Title Text"
+msgstr "Текст заголовков виджетов подвала"
+
+#: admin/settings.php:928
+#@ nirvana
+msgid "These colours apply to the widgets in the footer area."
+msgstr "Эти цвета применяются к виджетом области подвала"
+
+#: admin/settings.php:933
+#@ nirvana
+msgid "General:"
+msgstr "Цвета общего назначения:"
+
+#: admin/settings.php:934
+#@ nirvana
+msgid "General Links"
+msgstr "Ссылки"
+
+#: admin/settings.php:935
+#@ nirvana
+msgid "General Links Hover"
+msgstr "Ссылки при наведении"
+
+#: admin/settings.php:936
+#@ nirvana
+msgid "Sidebar Widgets:"
+msgstr "Виджеты боковых колонок"
+
+#: admin/settings.php:937
+#@ nirvana
+msgid "Sidebar Widgets Links"
+msgstr "Ссылки в виджетах боковых колонок"
+
+#: admin/settings.php:938
+#@ nirvana
+msgid "Sidebar Widgets Links Hover"
+msgstr "Ссылки в виджетах боковых колонок при наведении"
+
+#: admin/settings.php:939
+#@ nirvana
+msgid "Footer Widgets:"
+msgstr "Виджеты подвала:"
+
+#: admin/settings.php:940
+#@ nirvana
+msgid "Footer Widgets Links"
+msgstr "Ссылки в виджетах подвала"
+
+#: admin/settings.php:941
+#@ nirvana
+msgid "Footer Widgets Links Hover"
+msgstr "Ссылки в виджетах подвала при наведении"
+
+#: admin/settings.php:942
+#@ nirvana
+msgid "Footer:"
+msgstr "Подвал:"
+
+#: admin/settings.php:943
+#@ nirvana
+msgid "Footer Links"
+msgstr "Ссылки подвала"
+
+#: admin/settings.php:944
+#@ nirvana
+msgid "Footer Links Hover"
+msgstr "Ссылки подвала при наведении"
+
+#: admin/settings.php:945
+#@ nirvana
+msgid "Footer colours include the footer menu colours."
+msgstr "Цвета подвала включают цвета меню подвала."
+
+#: admin/settings.php:950
+#@ nirvana
+msgid "Meta Icons"
+msgstr "Мета-пиктограммы"
+
+#: admin/settings.php:951
+#@ nirvana
+msgid "Meta Links"
+msgstr "Мета-ссылки"
+
+#: admin/settings.php:952
+#@ nirvana
+msgid "Meta Links Hover"
+msgstr "Мета-ссылки при наведении"
+
+#: admin/settings.php:953
+#@ nirvana
+msgid "Colours for your meta area (post information)."
+msgstr "Цвета для мета-области (информация о публикации)."
+
+#: admin/settings.php:958
+#@ nirvana
+msgid "Social Icons Background"
+msgstr "Фон пиктограмм соцсетей"
+
+#: admin/settings.php:959
+#@ nirvana
+msgid "Social Icons Background Hover"
+msgstr "Фон пиктограмм соцсетей при наведении"
+
+#: admin/settings.php:960
+#@ nirvana
+msgid "Background colours for your social icons."
+msgstr "Фоновые цвета для пиктограмм соцсетей."
+
+#: admin/settings.php:966
+#@ nirvana
+msgid "Light"
+msgstr "Светлый"
+
+#: admin/settings.php:966
+#@ nirvana
+msgid "Dark"
+msgstr "Темный"
+
+#: admin/settings.php:966
+#@ nirvana
+msgid "Simple"
+msgstr "Простой"
+
+#: admin/settings.php:974
+#@ nirvana
+msgid "This setting changes the look of your captions. Images that are not inserted through captions will not be affected."
+msgstr "Эта настройка изменяет вид заголовков. Изображения, вставляемые через заголовки не будут затронуты."
+
+#: admin/settings.php:987
+#@ nirvana
+msgid "Normal"
+msgstr "Обычный"
+
+#: admin/settings.php:987
+#@ nirvana
+msgid "Fixed"
+msgstr "Фиксированный"
+
+#: admin/settings.php:987
+#: admin/settings.php:1097
+#: admin/settings.php:1112
+#: admin/settings.php:1162
+#: admin/settings.php:1211
+#: admin/settings.php:1242
+#@ nirvana
+msgid "Hide"
+msgstr "Скрыть"
+
+#: admin/settings.php:997
+#@ nirvana
+msgid "Site width"
+msgstr "Ширина сайта"
+
+#: admin/settings.php:997
+#@ nirvana
+msgid "Full width"
+msgstr "Полная ширина"
+
+#: admin/settings.php:1006
+#@ nirvana
+msgid "Show the topbar that can include social icons and the top menu."
+msgstr "Показывать верхнюю полосу, которая может содержать меню и пиктограммы соцсетей."
+
+#: admin/settings.php:1021
+#@ nirvana
+msgid "Show breadcrumbs at the top of the content area. Breadcrumbs are a form of navigation that keeps track of your location withtin the site."
+msgstr "Показывать путь на сайте внутри области сожержимого. Пути (хлебные крошки) - это форма навигации, показывающая ваше текущее положение внутри сайта."
+
+#: admin/settings.php:1036
+#@ nirvana
+msgid "Show numbered pagination. Where there is more than one page, instead of the bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered pagination. "
+msgstr "Показывать нумерованную навигацию по страницам. Там, где есть более чем одна страница, вместо нижних ссылок <b>Раньше</b> <b>Позже</b> будет появляться блок навигации с номерами."
+
+#: admin/settings.php:1042
+#@ nirvana
+msgid "Right (multiline)"
+msgstr "По правому краю (мультилиния)"
+
+#: admin/settings.php:1050
+#@ nirvana
+msgid "Sets the desired menu items alignment."
+msgstr "Устанавливает желаемое выравнивание пунктов меню."
+
+#: admin/settings.php:1056
+#: admin/settings.php:1058
+#@ nirvana
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: admin/settings.php:1056
+#@ nirvana
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: admin/settings.php:1066
+#@ nirvana
+msgid "Select the menus where to add a search bar."
+msgstr "Выберите меню куда следует добавить строку поиска."
+
+#: admin/settings.php:1071
+#@ nirvana
+msgid "Margin top: "
+msgstr "Верхнее поле:"
+
+#: admin/settings.php:1072
+#@ nirvana
+msgid "The margin between the content and the menu. It can be set to 0px if you want the content area and menu to join."
+msgstr "Расстояние между содержимым и меню. Можно установить значение 0пкс и тогда содержимое и меню объединятся."
+
+#: admin/settings.php:1074
+#@ nirvana
+msgid "Padding left/right: "
+msgstr "Поля (padding) слева/справа:"
+
+#: admin/settings.php:1075
+#@ nirvana
+msgid "The left/right padding around the content. Should be set to 10px or less for designs without a content color."
+msgstr "Поля (padding) слева/справа вокруг содержимого. Должно быть установлено в 10пкс или меньше для дизайна без указания цвета содержимого."
+
+#: admin/settings.php:1090
+#@ nirvana
+msgid "The border style for your images. Only images inserted in your posts and pages will be affected. "
+msgstr "Стиль рамки изображений. Затронуты будут только изображения, загружаемые в публикации или страницы."
+
+#: admin/settings.php:1097
+#: admin/settings.php:1112
+#: admin/settings.php:1211
+#: admin/settings.php:1226
+#: admin/settings.php:1242
+#@ nirvana
+msgid "Show"
+msgstr "Показать"
+
+#: admin/settings.php:1105
+#@ nirvana
+msgid "Hide or show titles on pages."
+msgstr "Скрыть или показать заголовки на страницах."
+
+#: admin/settings.php:1120
+#@ nirvana
+msgid "Hide or show titles on Categories and Archives."
+msgstr "Скрыть или показать заголовки Рубрик и Архивов."
+
+#: admin/settings.php:1135
+#@ nirvana
+msgid "Hide table borders and background color."
+msgstr "Скрыть заливку и границы таблиц."
+
+#: admin/settings.php:1151
+#@ nirvana
+msgid "Enable the Back to Top button. The button appears after scrolling the page down."
+msgstr "Включить кнопку Наверх. Эта кнопка появляется при проматывании страницы вниз."
+
+#: admin/settings.php:1162
+#@ nirvana
+msgid "Top"
+msgstr "Сверху"
+
+#: admin/settings.php:1162
+#@ nirvana
+msgid "Bottom"
+msgstr "Снизу"
+
+#: admin/settings.php:1170
+#@ nirvana
+msgid "The position of your meta bar (author, date, category, tags and edit button)."
+msgstr "Расположение мета-области (автор, дата, рубрика, теги, кнопка редактирования)."
+
+#: admin/settings.php:1177
+#: admin/settings.php:1193
+#@ nirvana
+msgid "Author"
+msgstr "Автор"
+
+#: admin/settings.php:1177
+#: admin/settings.php:1193
+#: includes/theme-loop.php:202
+#@ nirvana
+msgid "Date"
+msgstr "Дата"
+
+#: admin/settings.php:1177
+#: admin/settings.php:1193
+#@ nirvana
+msgid "Time"
+msgstr "Время"
+
+#: admin/settings.php:1177
+#: admin/settings.php:1193
+#@ nirvana
+msgid "Category"
+msgstr "Рубрика"
+
+#: admin/settings.php:1177
+#: admin/settings.php:1193
+#@ nirvana
+msgid "Tag"
+msgstr "Метки"
+
+#: admin/settings.php:1177
+#@ nirvana
+msgid "Comments"
+msgstr "Комментарии"
+
+#: admin/settings.php:1186
+#@ nirvana
+msgid "Choose the post metas you want to show on multiple post pages (home, blog, category, archive etc.)"
+msgstr "Выберите мета-данные публикации для показа на страницах с многими публикациями (домашняя, блог, рубрика, архив, и т.п.)"
+
+#: admin/settings.php:1193
+#: includes/theme-loop.php:291
+#@ nirvana
+msgid "Bookmark"
+msgstr "Закладка"
+
+#: admin/settings.php:1202
+#@ nirvana
+msgid "Choose the post metas you want to show on sigle post pages."
+msgstr "Выберите мета-данные для публикации на странице с одной публикацией."
+
+#: admin/settings.php:1219
+#@ nirvana
+msgid "Hide the explanatory text under the comments form (starts with  <i>You may use these HTML tags and attributes:...</i>)."
+msgstr "Скрыть объясняющий текст под формой комментариев (начинается с <i>Вы можете использовать следующие HTML-теги и атрибуты:...</i>)."
+
+#: admin/settings.php:1226
+#@ nirvana
+msgid "Hide in posts"
+msgstr "Скрыть в публикациях"
+
+#: admin/settings.php:1226
+#@ nirvana
+msgid "Hide in pages"
+msgstr "Скрыть в страницах"
+
+#: admin/settings.php:1226
+#@ nirvana
+msgid "Hide everywhere"
+msgstr "Скрыть везде"
+
+#: admin/settings.php:1234
+#@ nirvana
+msgid "Hide the <b>Comments are closed</b> text that by default shows up on pages or posts with comments disabled."
+msgstr "Скрыть надпись <b>Комментирование закрыто</b>, которая показывается на страницах и публикациях с запрещённым комментированием."
+
+#: admin/settings.php:1250
+#@ nirvana
+msgid "Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr "Скрыть надпись <b>Комментирование запрещено</b> напротив публикаций с запрещённым комментированием."
+
+#: admin/settings.php:1262
+#: admin/settings.php:1277
+#: admin/settings.php:1293
+#@ nirvana
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: admin/settings.php:1262
+#: admin/settings.php:1277
+#: admin/settings.php:1293
+#@ nirvana
+msgid "Full Post"
+msgstr "Вся публикация"
+
+#: admin/settings.php:1270
+#@ nirvana
+msgid "Excerpts on the main page. Only standard posts will be affected. All other post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr "Отрывки на главной странице. Затронуты будут только стандартные публикации. Все прочие форматы публикаций (сторонние, изображения, чаты, цитаты) имеют своё особенное форматирование."
+
+#: admin/settings.php:1285
+#@ nirvana
+msgid "Choose if you want the sticky posts on your home page to be visible in full or just the excerpts. "
+msgstr "Выберите если хотите чтобы прилипшие публикации отображались целиком (а не в виде отрывка)."
+
+#: admin/settings.php:1301
+#@ nirvana
+msgid "Excerpts on archive, categroy and search pages. Same as above, only standard posts will be affected."
+msgstr "Отрывки в архивах, рубриках и странице поиска. Так же как и выше, затронуты будут только стандартные публикации."
+
+#: admin/settings.php:1310
+#@ nirvana
+msgid "Words"
+msgstr "Слов"
+
+#: admin/settings.php:1310
+#@ nirvana
+msgid "Characters"
+msgstr "Символов"
+
+#: admin/settings.php:1318
+#@ nirvana
+msgid "The number of characters/words for excerpts. When that number is reached the post will be interrupted by a <i>Continue reading</i> link that will take the reader to the full post page."
+msgstr "Количество символов/слов в отрывке. При достижении этого ограничения, публикация будет оборвана и появится ссылка <i>Читать далее</i>, ведущая на полный текст публикации."
+
+#: admin/settings.php:1333
+#@ nirvana
+msgid "Enable the Magazine Layout. This layout applies to pages with posts and shows 2 posts per row."
+msgstr "Включить журнальную раскладку. Эта раскладка применяется к страницам с публикациями и показывает две публикации в строке."
+
+#: admin/settings.php:1340
+#@ nirvana
+msgid "Replaces the three dots ('[...])' that are appended automatically to excerpts."
+msgstr "Заменяет троеточие, которое автоматически добавляется в конце отрывка."
+
+#: admin/settings.php:1347
+#@ nirvana
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr "Редактировать ссылку 'Читать далее', добавляемую в конце отрывков."
+
+#: admin/settings.php:1362
+#@ nirvana
+msgid ""
+"By default WordPress excerpts remove all HTML tags (&lt;pre&gt;, &lt;a&gt;, &lt;b&gt and all others) and only clean text is left in the excerpt.\n"
+"Enabling this option allows HTML tags to remain in excerpts so all your default formating will be kept.<br /> <b>Just a warning: </b>If HTML tags are enabled, you have to make sure\n"
+"they are not left open. So if within your post you have an opened HTML tag but the except ends before that tag closes, the rest of the site will be contained in that HTML tag. -- Leave 'Disable' if unsure -- "
+msgstr "По умолчанию WordPress удаляет из отрывков все теги HTML (&lt;pre&gt;, &lt;a&gt;, &lt;b&gt и все остальные). Включение этой опции позволяет тегам HTML оставаться в отрывках, так что всё форматирование будет сохраняться. <br /><b> Предупреждение: </b>Если включены теги HTML, убедитесь что они корректно закрыты в области, которая попадает в отрывок. Если не уверены - не включайте эту опцию!"
+
+#: admin/settings.php:1388
+#@ nirvana
+msgid "Link the thumbnail to the post"
+msgstr "Ссылка на миниатюру в публикации"
+
+#: admin/settings.php:1389
+#@ nirvana
+msgid "Show featured images as thumbnails on posts. The images must be selected for each post in the Featured Image section."
+msgstr "Показывать миниатюры продвигаемых изображений публикаций. Изображения должны быть выбраны для каждой публикации в разделе Продвигаемые изображения."
+
+#: admin/settings.php:1404
+#@ nirvana
+msgid "Show the first image that you inserted in a post as a thumbnail. If there is a Featured Image selected for that post, it will have priority."
+msgstr "Показать первое встреченное в публикации изображение как миниатюру. Если в публикации есть продвигаемое изображение, оно будет иметь больший приоритет."
+
+#: admin/settings.php:1420
+#@ nirvana
+msgid "Thumbnail alignment."
+msgstr "Выравнивание миниатюр."
+
+#: admin/settings.php:1427
+#@ nirvana
+msgid "(width)"
+msgstr "(ширина)"
+
+#: admin/settings.php:1428
+#@ nirvana
+msgid "(height)"
+msgstr "(высота)"
+
+#: admin/settings.php:1434
+#@ nirvana
+msgid "Crop images to exact size."
+msgstr "Обрезать изображения до точного размера."
+
+#: admin/settings.php:1437
+#@ nirvana
+msgid "The size (in pixels) for your thumbnails. By default imges will be scaled with aspect ratio kept. Choose to crop the images if you want the exact size."
+msgstr "Размер (в пикселях) ваших миниатюр. По умолчанию изображения будут смасштабированы с сохранением соотношения сторон. Выберите чтобы обрезать изображения для достижения точного размера."
+
+#: admin/settings.php:1453
+#@ nirvana
+msgid "Show featured images on headers. The header will be replaced with a featured image if you selected it as a Featured Image in the post and if it is bigger or at least equal to the current header size."
+msgstr "Показывать продвигаемые изображения в заголовках. Заголовок будет заменён продвигаемым изображением если вы выберете его в публикации и если оно больше или как минимум равно текущему размеру заголовка."
+
+#: admin/settings.php:1464
+#@ nirvana
+msgid "Select your desired Social network from the left dropdown menu and insert your corresponding address in the right input field. (ex: <i>http://www.facebook.com/yourname</i> )"
+msgstr "Выберите желаемую социальную сеть из левого выпадающего меню и вставьте соответствующий адрес в поле ввода справа (например <i>http://www.facebook.com/yourname</i>)"
+
+#: admin/settings.php:1465
+#@ nirvana
+msgid "You can also choose if you want the link to open in a new window and what title to dispaly while hovering over the icon."
+msgstr "Вы также можете выбрать открывать ли ссылку в новом окне и что показывать при наведении на пиктограмму."
+
+#: admin/settings.php:1466
+#@ nirvana
+msgid "You can show up to 5 different social icons from over 35 social networks."
+msgstr "Вы можете показать до 5 различных пиктограмм из списка, содержащего 35 социальных сетей."
+
+#: admin/settings.php:1467
+#@ nirvana
+msgid "You can leave any number of inputs empty."
+msgstr "Вы можете оставить любое количество полей ввода пустыми."
+
+#: admin/settings.php:1468
+#@ nirvana
+msgid "You can change the background for your social colors from the colors settings section."
+msgstr "Вы можете изменить увет фона для пиктограмм социальных сетей в разделе управления цветами."
+
+#: admin/settings.php:1486
+#@ nirvana
+msgid "Social Network Link"
+msgstr "Ссылка социальной сети"
+
+#: admin/settings.php:1491
+#@ nirvana
+msgid "Open in new window"
+msgstr "Открывать в новом окне"
+
+#: admin/settings.php:1493
+#@ nirvana
+msgid "Social Network Title"
+msgstr "Название ссылки социальной сети"
+
+#: admin/settings.php:1536
+#@ nirvana
+msgid "Footer"
+msgstr "Подвал"
+
+#: admin/settings.php:1540
+#@ nirvana
+msgid "Left side"
+msgstr "Левая сторона"
+
+#: admin/settings.php:1544
+#@ nirvana
+msgid "Right side"
+msgstr "Правая сторона"
+
+#: admin/settings.php:1550
+#: includes/theme-setup.php:220
+#: sidebar-left.php:26
+#@ nirvana
+msgid "Left Sidebar"
+msgstr "Левая колонка"
+
+#: admin/settings.php:1554
+#: includes/theme-setup.php:231
+#: sidebar-right.php:26
+#@ nirvana
+msgid "Right Sidebar"
+msgstr "Правая колонка"
+
+#: admin/settings.php:1556
+#@ nirvana
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr "Выберите <b>области</b>, в которых будут размещаться пиктограммы социальных сетей."
+
+#: admin/settings.php:1569
+#@ nirvana
+msgid "Insert custom text or HTML code that will appear in you footer. <br /> You can use HTML to insert links, images and special characters like &copy;."
+msgstr "Вставьте свой текст или код HTML для отображения в подвале. <br /> Вы можете использовать HTML для вставки ссылок, изображений и спецсимволов, например &copy;."
+
+#: admin/settings.php:1577
+#@ nirvana
+msgid "Insert your custom CSS here. Any CSS declarations made here will overwrite Nirvana's (even the custom options specified right here in the Nirvana Settings page). <br /> Your custom CSS will be preserved when updating the theme."
+msgstr "Вставьте здесь свой код CSS. Все блоки CSS отсюда будут иметь приоритет над значениями Tempera (даже над значениями, прописанными в настройках). <br /> Ваш код CSS будет сохранён при обновлении темы."
+
+#: admin/settings.php:1584
+#@ nirvana
+msgid "Insert your custom Javascript code here. (Google Analytics and any other forms of Analytic software)."
+msgstr "Вставьте здесь ваш код Javascript (Например, код Google Analytics или любой другой)."
+
+#: admin/settings.php:1599
+#@ nirvana
+msgid "Enable extra compatibility tag for older Internet Explorer versions. Turning this option on will trigger W3C validation errors."
+msgstr "Включить дополнительный тег совместимости для старых версий Internet Explorer. Включение этой опции приведёт к срабатыванию проверки синтаксиса HTML валидатором W3C."
+
+#: archive.php:26
+#, php-format
+#@ nirvana
+msgid "Daily Archives: %s"
+msgstr "Архивы по дням: %s"
+
+#: archive.php:28
+#, php-format
+#@ nirvana
+msgid "Monthly Archives: %s"
+msgstr "Архивы по месяцам: %s"
+
+#: archive.php:30
+#, php-format
+#@ nirvana
+msgid "Yearly Archives: %s"
+msgstr "Архивы по годам: %s"
+
+#: archive.php:32
+#@ nirvana
+msgid "Blog Archives"
+msgstr "Архивы блога"
+
+#: archive.php:56
+#: author.php:71
+#: category.php:49
+#: content/content-frontpage.php:38
+#: content/content-index.php:35
+#: search.php:38
+#: tag.php:50
+#: templates/template-blog.php:34
+#@ nirvana
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: archive.php:60
+#: author.php:75
+#: category.php:53
+#: content/content-frontpage.php:42
+#: content/content-index.php:39
+#: tag.php:54
+#: templates/template-blog.php:38
+#@ nirvana
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Извините, но в ответ на ваш запрос в архиве ничего не найдено. Пожалуйста, воспользуйтесь поиском."
+
+#: attachment.php:18
+#, php-format
+#@ nirvana
+msgid "Return to %s"
+msgstr "Вернуться к %s"
+
+#. translators: %s - title of parent post
+#: attachment.php:32
+#, php-format
+#@ nirvana
+msgid "Full size is %s pixels"
+msgstr "Полный размер: %s пикселей"
+
+#: attachment.php:35
+#@ nirvana
+msgid "Link to full-size image"
+msgstr "Ссылка на изображение в полном размере"
+
+#: attachment.php:75
+#: content/content-page.php:23
+#: includes/theme-loop.php:228
+#: single.php:49
+#: templates/template-page-with-intro.php:17
+#@ nirvana
+msgid "Edit"
+msgstr "Редактировать"
+
+#: attachment.php:86
+#@ nirvana
+msgid "Continue reading"
+msgstr "Продолжить чтение"
+
+#: attachment.php:87
+#: content/content-aside.php:30
+#: content/content-audio.php:24
+#: content/content-chat.php:29
+#: content/content-gallery.php:51
+#: content/content-image.php:23
+#: content/content-link.php:29
+#: content/content-page.php:22
+#: content/content-quote.php:27
+#: content/content-video.php:24
+#: content/content.php:40
+#: content/content.php:56
+#: single.php:27
+#: templates/template-page-with-intro.php:16
+#@ nirvana
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: attachment.php:92
+#@ nirvana
+msgid "Previous image"
+msgstr "Предыдущее изображение"
+
+#: attachment.php:93
+#@ nirvana
+msgid "Next image"
+msgstr "Следующее изображение"
+
+#: author.php:29
+#, php-format
+#@ nirvana
+msgid "Author Archives: %s"
+msgstr "Архивы автора: %s"
+
+#: category.php:20
+#, php-format
+#@ nirvana
+msgid "Category Archives: %s"
+msgstr "Архивы рубрики: %s"
+
+#: comments.php:25
+#@ nirvana
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Эта публикация защищена паролем. Введите пароль для просмотра и комментариев."
+
+#: comments.php:50
+#@ nirvana
+msgid "Comments are closed"
+msgstr "Комментирование запрещено"
+
+#: content/content-aside.php:15
+#: content/content-audio.php:15
+#: content/content-chat.php:15
+#: content/content-gallery.php:18
+#: content/content-gallery.php:42
+#: content/content-image.php:14
+#: content/content-link.php:15
+#: content/content-quote.php:13
+#: content/content-status.php:14
+#: content/content-video.php:15
+#: content/content.php:21
+#, php-format
+#@ nirvana
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: content/content-aside.php:21
+#@ nirvana
+msgid "Aside"
+msgstr "В стороне"
+
+#: content/content-aside.php:29
+#: content/content-audio.php:23
+#: content/content-chat.php:28
+#: content/content-image.php:22
+#: content/content-link.php:28
+#: content/content-quote.php:26
+#: content/content-status.php:32
+#: content/content-video.php:23
+#@ nirvana
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение <span class=\"meta-nav\">&rarr;</span>"
+
+#: content/content-audio.php:15
+#@ nirvana
+msgid "Audio"
+msgstr "Аудио"
+
+#: content/content-chat.php:15
+#@ nirvana
+msgid "Chat"
+msgstr "Чат"
+
+#: content/content-gallery.php:18
+#@ nirvana
+msgid "Gallery"
+msgstr "Галерея"
+
+#: content/content-quote.php:13
+#@ nirvana
+msgid "Quote"
+msgstr "Цитата"
+
+#: content/content-status.php:14
+#@ nirvana
+msgid "Status"
+msgstr "Статус"
+
+#: content/content-video.php:15
+#@ nirvana
+msgid "Video"
+msgstr "Видео"
+
+#: includes/ajax.php:48
+#@ nirvana
+msgid "More posts"
+msgstr "Показать еще"
+
+#: includes/theme-comments.php:26
+#@ nirvana
+msgid "Pingback: "
+msgstr "Pingback: "
+
+#: includes/theme-comments.php:26
+#: includes/theme-comments.php:41
+#@ nirvana
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#. translators: 1: date, 2: time
+#: includes/theme-comments.php:41
+#@ nirvana
+msgid "at"
+msgstr "в"
+
+#: includes/theme-comments.php:48
+#@ nirvana
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает одобрения модератором"
+
+#: includes/theme-comments.php:54
+#@ nirvana
+msgid "Reply"
+msgstr "Ответить"
+
+#: includes/theme-comments.php:89
+#@ nirvana
+msgid "<b>0</b>"
+msgstr "<b>0</b>"
+
+#: includes/theme-comments.php:89
+#@ nirvana
+msgid "<b>1</b>"
+msgstr "<b>1</b>"
+
+#: includes/theme-comments.php:89
+#@ nirvana
+msgid "<b>%</b>"
+msgstr "<b>%</b>"
+
+#: includes/theme-comments.php:89
+#@ nirvana
+msgid "<b>-</b>"
+msgstr "<b>-</b>"
+
+#. gettext fix: duplicate plural forms found, that may be ambiguous! Please check the code!
+#: includes/theme-comments.php:100
+#@ nirvana
+msgid "One Comment"
+msgid_plural "%1$s Comments:"
+msgstr[0] "%1$s комментарий"
+msgstr[1] "%1$s комментария"
+msgstr[2] "%1$s комментариев"
+
+#: includes/theme-comments.php:114
+#@ nirvana
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: includes/theme-comments.php:115
+#@ nirvana
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: includes/theme-comments.php:142
+#@ nirvana
+msgid "Comments are closed."
+msgstr "Комментирование запрещено"
+
+#: includes/theme-comments.php:158
+#@ nirvana
+msgid "Name"
+msgstr "Имя"
+
+#: includes/theme-comments.php:159
+#@ nirvana
+msgid "Name*"
+msgstr "Имя*"
+
+#: includes/theme-comments.php:163
+#@ nirvana
+msgid "Email"
+msgstr "Email"
+
+#: includes/theme-comments.php:164
+#@ nirvana
+msgid "Email*"
+msgstr "Email*"
+
+#: includes/theme-comments.php:168
+#: includes/theme-comments.php:169
+#@ nirvana
+msgid "Website"
+msgstr "Адрес сайта"
+
+#: includes/theme-functions.php:226
+#@ nirvana
+msgid "Archive by category"
+msgstr "Архив по рубрикам"
+
+#: includes/theme-functions.php:229
+#@ nirvana
+msgid "Search results for"
+msgstr "Результаты поиска для"
+
+#: includes/theme-functions.php:287
+#@ nirvana
+msgid "Posts tagged"
+msgstr "Метка"
+
+#: includes/theme-functions.php:292
+#@ nirvana
+msgid "Articles posted by"
+msgstr "Статьи, опубликованные"
+
+#: includes/theme-functions.php:295
+#@ nirvana
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: includes/theme-functions.php:300
+#@ nirvana
+msgid "Page"
+msgstr "Страница"
+
+#: includes/theme-functions.php:319
+#: searchform.php:1
+#@ nirvana
+msgid "Search"
+msgstr "Поиск"
+
+#: includes/theme-functions.php:387
+#@ nirvana
+msgid "Powered by"
+msgstr "Работает на"
+
+#: includes/theme-functions.php:388
+#@ nirvana
+msgid "Semantic Personal Publishing Platform"
+msgstr "Семантическая персональная платформа для публикаций"
+
+#: includes/theme-loop.php:189
+#@ nirvana
+msgid "Author "
+msgstr "Автор "
+
+#: includes/theme-loop.php:191
+#, php-format
+#@ nirvana
+msgid "View all posts by %s"
+msgstr "Посмотреть все публикации %s"
+
+#: includes/theme-loop.php:206
+#@ nirvana
+msgid "Categories"
+msgstr "Рубрики"
+
+#: includes/theme-loop.php:226
+#@ nirvana
+msgid "Tags"
+msgstr "Метки"
+
+#: includes/theme-loop.php:288
+#@ nirvana
+msgid "Tagged"
+msgstr "Отмечено"
+
+#: includes/theme-loop.php:291
+#@ nirvana
+msgid " Bookmark the permalink"
+msgstr "Закладка на постоянную ссылку"
+
+#: includes/theme-loop.php:291
+#@ nirvana
+msgid "Permalink to"
+msgstr "Постоянная ссылка на"
+
+#: includes/theme-loop.php:314
+#@ nirvana
+msgid "<i class=\"meta-nav-prev\"></i> <span>Older posts</span>"
+msgstr "<i class=\"meta-nav-prev\"></i> <span>Старые публикации</span>"
+
+#: includes/theme-loop.php:315
+#@ nirvana
+msgid "<span>Newer posts</span> <i class=\"meta-nav-next\"></i>"
+msgstr "<span>Новые публикации</span> <i class=\"meta-nav-next\"></i>"
+
+#: includes/theme-meta.php:26
+#, php-format
+#@ parabola
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: includes/theme-setup.php:86
+#@ nirvana
+msgid "Primary Navigation"
+msgstr "Первичная навигация"
+
+#: includes/theme-setup.php:87
+#@ nirvana
+msgid "Top Navigation"
+msgstr "Верхняя навигация"
+
+#: includes/theme-setup.php:88
+#@ nirvana
+msgid "Footer Navigation"
+msgstr "Навигация в подвале"
+
+#: includes/theme-setup.php:130
+#@ nirvana
+msgid "Nirvana Default Header Image"
+msgstr "Изображение заголовка Nirvana по умолчанию"
+
+#: includes/theme-setup.php:191
+#@ nirvana
+msgid "Skip to content"
+msgstr "Пропустить до содержимого"
+
+#: includes/theme-setup.php:222
+#@ nirvana
+msgid "Left sidebar"
+msgstr "Левая колонка"
+
+#: includes/theme-setup.php:233
+#@ nirvana
+msgid "Right sidebar"
+msgstr "Правая колонка"
+
+#: includes/theme-setup.php:242
+#@ nirvana
+msgid "First Footer Area"
+msgstr "Первая область Подвала"
+
+#: includes/theme-setup.php:244
+#@ nirvana
+msgid "First footer area"
+msgstr "Первая область подвала"
+
+#: includes/theme-setup.php:253
+#@ nirvana
+msgid "Second Footer Area"
+msgstr "Вторая область Подвала"
+
+#: includes/theme-setup.php:255
+#@ nirvana
+msgid "Second footer area"
+msgstr "Вторая область подвала"
+
+#: includes/theme-setup.php:264
+#@ nirvana
+msgid "Third Footer Area"
+msgstr "Третья область Подвала"
+
+#: includes/theme-setup.php:266
+#@ nirvana
+msgid "The third footer area"
+msgstr "Третья область подвала"
+
+#: includes/theme-setup.php:275
+#@ nirvana
+msgid "Fourth Footer Area"
+msgstr "Четвёртая область Подвала"
+
+#: includes/theme-setup.php:277
+#@ nirvana
+msgid "The fourth footer area"
+msgstr "Четвёртая область подвала"
+
+#: includes/theme-setup.php:286
+#: includes/theme-setup.php:288
+#@ nirvana
+msgid "Above Content Area"
+msgstr "Зона над областью содержимого"
+
+#: includes/theme-setup.php:297
+#: includes/theme-setup.php:299
+#@ nirvana
+msgid "Below Content Area"
+msgstr "Зона под областью содержимого"
+
+#: includes/theme-setup.php:308
+#: includes/theme-setup.php:310
+#@ nirvana
+msgid "Header Widgets"
+msgstr "Виджеты заголовка"
+
+#: includes/theme-setup.php:321
+#@ nirvana
+msgid "Presentation Page Columns"
+msgstr "Колонки страницы презентации"
+
+#: includes/theme-setup.php:323
+#, php-format
+#@ nirvana
+msgid "Only drag [Cryout Column] widgets here. Recommended size for uploaded images: %1$dpx (width) x %2$dpx (height). Go to the Nirvana Settings page >> Presentation Page Settings >> Columns to edit sizes and more."
+msgstr "Сюда перетаскивайте только виджеты [Cryout Column]. Рекомендованный размер загружаемых изображений: %1$dpx (в ширину) x %2$dpx (в высоту). Перейдите к странице настроек Nirvana >> Настройки страницы презентации >> Колонки для изменения размеров и прочего."
+
+#: search.php:18
+#, php-format
+#@ nirvana
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: search.php:40
+#, php-format
+#@ nirvana
+msgid "No search results for: %s."
+msgstr "По запросу %s ничего не найдено."
+
+#: sidebar-left.php:28
+#, php-format
+#@ nirvana
+msgid "You currently have no widgets set in the left sidebar. You can add widgets via the <a href=\"%s\">Dasboard</a>."
+msgstr "У вас нет виджетов в левой колонке. Вы можете добавить виджеты с помощью <a href=\"%s\">Панели управления</a>."
+
+#: sidebar-left.php:29
+#: sidebar-right.php:29
+#, php-format
+#@ nirvana
+msgid "To hide this sidebar, switch to a different Layout via the <a href=\"%s\">Theme Settings</a>."
+msgstr "Чтобы скрыть эту колонку, переключите Раскладку страницы в <a href=\"%s\">Настройках темы</a>."
+
+#: sidebar-right.php:28
+#, php-format
+#@ nirvana
+msgid "You currently have no widgets set in the right sidebar. You can add widgets via the <a href=\"%s\">Dasboard</a>."
+msgstr "У вас нет виджетов в правой колонке. Вы можете добавить виджеты с помощью <a href=\"%s\">Панели управления</a>."
+
+#: single.php:36
+#@ nirvana
+msgid "About"
+msgstr "О"
+
+#: single.php:40
+#@ nirvana
+msgid "View all posts by "
+msgstr "Просмотреть все публикации "
+
+#: tag.php:21
+#, php-format
+#@ nirvana
+msgid "Tag Archives: %s"
+msgstr "Архивы тэгов: %s"
+
+#: admin/admin-functions.php:192
+#@ nirvana
+msgid ""
+"Are you sure you want to load a new color scheme? \n"
+"All current saved settings under Text and Color Settings will be lost."
+msgstr ""
+
+#: archive.php:28
+#@ nirvana
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:30
+#@ nirvana
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: content/content-gallery.php:41
+#, php-format
+#@ nirvana
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/theme-comments.php:180
+#: includes/theme-comments.php:181
+#@ nirvana
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+

@@ -1,0 +1,244 @@
+Nirvana 1.1.3
+	
+	fixed centred multi-line menu change in 1.1.1 breaking submenu alignment
+	fixed slider title & text font size configurable options overlapped by default styling
+	fixed slider read more button locked to fixed size by styling; font size is now in sync with slider text size
+	added arrow indicators for sub-elements on submenu items
+	fixed magazine layout alignment on RTL
+	fixed sub-sub menu alignment for RTL
+	added Chinese translation
+	fixed category icon visible for pages in search results
+	corrected two untranslatable strings
+	fixed column image links (added in 1.1) not respecting "open in new window" option
+	fixed presentation page slider/column image alt attribute HTML handling
+	fixed font prototype function wrongfully localizing "general" font value
+	fixed an invalid translation string causing an erroneous text-domain in 1.1.2
+	added theme information and settings page link in the customizer
+
+Nirvana 1.1.2
+	
+	fixed search double slash causing issues on some servers
+	fixed PHP notice related to browseragent check
+	fixed PHP notice about old widget constructors being deprecated in WP 4.3
+	updated Hungarian translation
+
+Nirvana 1.1.1
+
+	fixed ternary operator usage for PHP <5.3 (introduced in 1.1)
+	fixed centre main menu alignment functionality for multi-line menus
+	added Polish translation
+
+Nirvana 1.1
+
+	preliminary WPML / Polylang support for custom theme options - presentation page content and socials (currently only tested on Polylang)
+	merged WooCommerce compatibility code and styling
+	fixed presentation page columns content layout on IE9
+	fixed typo in presentation page informative no posts test (linking to Tempera)
+	fixed header widget overlapping logo/title when no header image is used
+	fixed sup/sub styling resets
+	added slide title to alt attribute
+	added presentation page column title to image alt attribute
+	made presentation page column images clickable links
+	added Hebrew translation
+	fixed presentation page columns wrong float on RTL
+	improved colour control on presentation page columns (the hover colour is now configurable together with the slider caption background)
+	fixed a leftover constant use in general theme setup
+	fixed a:active colour setup making some text vanish on click
+	fixed an undefined variable notice on the frontpage
+
+Nirvana 1.0.6
+
+	added centred text option for the presentation page slider captions
+	one itsy bitsy Google fonts fix (yet again)
+	moved JavaScript scripts from wp_head to wp_footer hook to remove blocking scripts
+	improved left/right padding handling on mobile devices when site set to boxed layout
+	improved headings font size option to apply to presentation page titles as well
+	fixed featured image as header image full width limitation
+	fixed (again) front columns layout when using custom widgets
+	improved presentation page columns responsiveness to exclude hover-capable devices
+	fixed presentation page columns padding on mobile devices
+	fixed slides count limitation when using custom posts by ID
+	fixed using cryout column widget outside the dedicated cryout columns area causing fatal error (introduced in 1.0.5) and made handler function pluggable via child themes
+	improved presentation columns to make them usable in all widget areas, not just the presentation page (with some responsiveness limitations)
+	fixed custom footer text not handling shortcodes
+	fixed category page with intro to follow category excerpt option, not homepage excerpt option
+	fixed input/textarea line-height reset causing visibility issues on Chrome and Internet Explorer
+	fixes RTL styling issue causing horizontal scrollbar
+	added Italian translation
+
+Nirvana 1.0.5
+
+	fixed layout/image border option non-clickable on IE 11
+	fixed header container responsiveness
+	improved active links styling so it's easier replaceable via custom CSS
+	fixed wrong textdomain occurrence (thanks to Szemcse)
+	replaced the Presentation Page’s "Nothing Found" message when there are no published posts with an explanatory placeholder message
+	fixed disappearing/too small images inside tables issue on Chrome
+	removed baseline vertical alignment from styling reset to correct some weird alignment layouts
+	added Spanish translation
+	improved two somewhat untranslatable strings (that used esc_attr__() )
+	fixed an untranslatable string (thanks to seemannKP)
+
+Nirvana 1.0.4
+
+	fixed settings page subsections not opening in some cases
+	updated Hungarian translation
+	added Japanese translation
+	added Turkish translation
+
+Nirvana 1.0.3
+
+	added our social links to the settings page
+	added search bars to the remaining (main and footer) menus
+	fixed typos in the Google fonts cleanup function calls
+	fixed current open theme settings section not being saved any more after jQUery UI update in WP 4.1
+	removed extra padding after the presentation page slider
+	added text domain to style.css
+	added unminified version of Nivo Slider JS
+
+Nirvana 1.0.2
+
+	fixed nirvana_content_nav() function missing its name
+	added RECOMMENDED add_theme_support( "title-tag" )
+	added some missing commas in styles.css (pointed out by Bill)
+
+Nirvana 1.0.1
+
+	fixed skew missing on photo frame columns
+	fixed wrong order of tags on widget titles (pointed out by Michael)
+	replaced alt tag with title in thumbnail anchor function
+	fixed breadcrumbs having double anchor tag on the home icon
+	fixed HTML excerpts and added support for shortcodes (reported by Scott)
+	corrected first post image selector function to failsafe to standard image size when custom thumbnail is not available
+	fixed Google font names issue introduced in 0.9.9.9 (caused by extra output sanitization)
+	fixed max-width leftovers in editor-style.css (among other things making large images appear distorted in the editor)
+	added Hungarian translation
+	added Croatian translation
+	rearranged presentation page columns HTML to make it easier to be replaced via child themes
+	fixed ol double digits numbering not fitting into view
+	added standard HTML markup on presentation page static content
+	fixed 2 typos in settings page
+	revamped script/styles injection detection to protect the theme's settings page from getting broken by badly written plugins
+
+Nirvana 1.0.0
+
+	added colour scheme support and 12 preset colour schemes
+	added new options for the slider: Title font size / Text font size (uppercase settings as well)
+	added new option – Slider Excerpt size
+	added new option – Posts per row for the presentation page posts
+	added new Option – Remove hover effect on columns
+	moved ‘Content Margins’ setting field from Graphics Settings to Layout Settings
+	fixed Content Margins – Padding setting not working
+	fixed header widget responsiveness when no header image is used
+	fixed header wp_title() call (left the site title-less)
+	fixed hardcoded breadcrumbs background colour
+	fixed Presentation Page Titles colour option not working
+	fixed search icon in top bar so that it uses the same colour as the top bar menu
+	removed topbar shadow (a leftover from early development)
+	updated translation files
+
+Nirvana 0.9.9.11
+
+	fixed Google fonts merging issue when subsets are used (introduced in 0.9.9.10)
+	(absolutely positively definitely) fixed Ajax “Load More” posts button (again… one more time);
+
+Nirvana 0.9.9.10
+
+	fixed ‘array to string conversion’ notices
+	fixed presentation page’s ‘More Posts’ button affecting blog pages
+	made all CSS minify-able (should now support all caching plugins that perform resource minification)
+	fixed missing widget Google font support
+	(properly) optimized Google font calls
+
+Nirvana 0.9.9.9
+
+	fixed slider ‘read more’ button going full width on mobiles
+	fixed Ajax load more button breaking media gallery pagination functionality
+	fixed comment bubble appear to be link when in fact it isn’t
+	fixed a weird save issue affecting only some servers caused by an apostrophe in the sample in custom footer text 
+	implemented escape output in custom_styles (per WordPress request)
+	fixed #forbottom override on presentation page (for boxed layout and responsiveness disabled)
+	made all JS minify-able (should now support all caching plugins that perform resource minification)
+	slider excerpt is not limited to half the configurable post excerpt word count
+	corrected title tag code to adhere to latest WordPress rules
+
+Nirvana 0.9.9
+
+	Added customizer callback sanitization
+	Edited theme settings news (now include only title and date)
+	Updated PayPal donate button code
+	Added header widget size option
+	Corrected theme settings sanitization failsafe
+
+Nirvana 0.9.8
+
+	Fixed header responsiveness for the boxed layout
+	Fixed Presentation Page incompatibility with some plugins
+	Fixed settings page compatibility issues
+	Fixed 'Load more' button on the Presentation Page
+	Fixed show/hide setting for the search in topbar
+	Added layout and columns text to the style.css description
+
+Nirvana 0.9.7
+
+	Fixed responsiveness disable setting not taking effect
+	Added a new setting: 'Duality' that changes the site's format wide / boxed
+	Fixed 'READ MORE' button disappearing in slider
+	Fixed slider caption text inline background padding for FireFox 
+	Fixed top menu search icon position and size
+
+Nirvana 0.9.6
+
+	Fixed columns responsiveness on res <800px
+	Added a wp.media check for the media uploader on the settings page
+	Fixed post excerpt number of characters  not taking effect on the Presentation Page (the bug also added another Continue Reading button)
+	Removed 'first click' alert on mobile
+	Added category check for breadcrumbs categories
+	Removed some leftover code from theme-meta.php
+
+Nirvana 0.9.5.1
+
+	Fixed styles enqueue order bug created in 0.9.5
+
+Nirvana 0.9.5
+
+	Removed conditional check for 'wp_enqueue_media'
+	Removed all 'wp_register_style' and 'wp_register_script' functions. 
+	Enqueued all admin scripts and styles via 'admin_enqueue_scripts'
+	Added a changelog.txt file
+
+Nirvana 0.9.4
+
+	Adjusted columns (photo frames, padding, margins)
+	Fixed multi-line widget titles
+	Removed leftover presentation page 'hide background' option
+	Default option for columns is now frameless
+	Fixed 'more posts' button border on IE
+	Fixed sidebar 'dasboard' typo
+
+Nirvana 0.9.3
+
+	Edited 'readme.txt' for new and improved copyright declarations 
+	Removed Bebas Neue font (copyright incompatibility)
+	Removed hardcoded Javascript found in frontpage.php - moved it to custom-styles.php
+	Replaced 'dirname ( __FILE__ )' with 'get_template_directory()'
+
+Nirvana 0.9.2
+
+	Fixed header image responsiveness for full width / normal width
+	Fixed header image responsiveness
+	Removed leftovers from defaults.php
+	Added Russian translation
+
+Nirvana 0.9.1
+
+	Fixed menu alignment
+	Fixed header image not starting at top:0
+	Fixed topbar height when set to 'fixed'
+	Fixed topbar on mobile res below 480px 
+	Fixed front columns layout when using custom widgets
+	Fixed Presentation Page columns on mobile using custom widgets (nth-child replaced with nth-of-type)
+
+Nirvana 0.9
+
+	Initial theme release

@@ -1,0 +1,3984 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tempera 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-05 14:57+0300\n"
+"PO-Revision-Date: 2015-09-07 19:36+0300\n"
+"Last-Translator: Udi's Blog <blog@udiburg.com>\n"
+"Language-Team: Udi Burg <blog@udiburg.com>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;esc_attr__;esc_html__;esc_attr_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: New Folder/nirvana-child/functions.php:91
+#: Folder/nirvana/includes/theme-functions.php:412
+#: nirvana-child-blog/functions.php:91
+#: nirvana-child-blog/theme-functions.php:412
+#: nirvana-child-blog10/functions.php:45
+#: nirvana-child-blog10/theme-functions.php:412
+#: nirvana-nocopyrt-09-05/nirvana-nocopyrt/functions.php:40
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:412
+#: nirvana.local-copy/includes/theme-functions.php:412
+#: nirvana/includes/theme-functions.php:412
+msgid "Powered by"
+msgstr "פועל על גבי"
+
+#: New Folder/nirvana-child/functions.php:92
+#: Folder/nirvana/includes/theme-functions.php:413
+#: nirvana-child-blog/functions.php:92
+#: nirvana-child-blog/theme-functions.php:413
+#: nirvana-child-blog10/functions.php:46
+#: nirvana-child-blog10/theme-functions.php:413
+#: nirvana-nocopyrt-09-05/nirvana-nocopyrt/functions.php:41
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:413
+#: nirvana.local-copy/includes/theme-functions.php:413
+#: nirvana/includes/theme-functions.php:413
+msgid "Semantic Personal Publishing Platform"
+msgstr "פלטפורמת פרסום אישית סמנטית"
+
+#: New Folder/nirvana/404.php:17 nirvana.local-copy/404.php:17
+#: nirvana/404.php:17
+msgid "Not Found"
+msgstr "לא נמצא"
+
+#: New Folder/nirvana/404.php:20 nirvana.local-copy/404.php:20
+#: nirvana/404.php:20
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr "מצטערים, אבל העמוד שביקשתם לא נמצא. אולי חיפוש יעזור."
+
+#: New Folder/nirvana/admin/admin-functions.php:62
+#: nirvana.local-copy/admin/admin-functions.php:62
+#: nirvana/admin/admin-functions.php:62
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr "לפני שתוכלו להעלות את הקובץ עליכם לתקן את השגיאה הזו:"
+
+#: New Folder/nirvana/admin/admin-functions.php:70
+#: nirvana.local-copy/admin/admin-functions.php:70
+#: nirvana/admin/admin-functions.php:70
+msgid "Import Nirvana Theme Options"
+msgstr "ייבא הגדרות ערכת נושא נירוונה"
+
+#: New Folder/nirvana/admin/admin-functions.php:72
+#: nirvana.local-copy/admin/admin-functions.php:72
+#: nirvana/admin/admin-functions.php:72
+msgid ""
+"Hi! This is where you import the  Nirvana settings.<i> Please remember that "
+"this is still an experimental feature.</i>"
+msgstr ""
+"היי! . זה היכן שאתם מייבאים את הגדרות נירוונה. <i>אנא זכרו כי זו עדיין תכונה "
+"ניסיונית.</i>"
+
+#: New Folder/nirvana/admin/admin-functions.php:74
+#: nirvana.local-copy/admin/admin-functions.php:74
+#: nirvana/admin/admin-functions.php:74
+msgid "Just choose a file from your computer:"
+msgstr "בחרו קובץ מהמחשב שלכם:"
+
+#: New Folder/nirvana/admin/admin-functions.php:76
+#: nirvana.local-copy/admin/admin-functions.php:76
+#: nirvana/admin/admin-functions.php:76
+#, php-format
+msgid "Maximum size: %s"
+msgstr "גודל מקסימלי: %s"
+
+#: New Folder/nirvana/admin/admin-functions.php:82
+#: nirvana.local-copy/admin/admin-functions.php:82
+#: nirvana/admin/admin-functions.php:82
+msgid "And import!"
+msgstr "ולייבא!"
+
+#: New Folder/nirvana/admin/admin-functions.php:148
+#: nirvana.local-copy/admin/admin-functions.php:148
+#: nirvana/admin/admin-functions.php:148
+msgid "Import Nirvana Theme Options "
+msgstr "ייבא את הגדרות ערכת נושא נירוונה"
+
+#: New Folder/nirvana/admin/admin-functions.php:151
+#: nirvana.local-copy/admin/admin-functions.php:151
+#: nirvana/admin/admin-functions.php:151
+msgid "Great! The options have been imported!"
+msgstr "מעולה! הגדרות הערכה יובאו בהצלחה!"
+
+#: New Folder/nirvana/admin/admin-functions.php:152
+#: nirvana.local-copy/admin/admin-functions.php:152
+#: nirvana/admin/admin-functions.php:152
+msgid "Go back to the Nirvana options page and check them out!"
+msgstr "חזרו לדף ההגדרות של נירוונה ובדקו אותן!"
+
+#: New Folder/nirvana/admin/admin-functions.php:155
+#: Folder/nirvana/admin/admin-functions.php:161
+#: Folder/nirvana/admin/admin-functions.php:167
+#: nirvana.local-copy/admin/admin-functions.php:155
+#: nirvana.local-copy/admin/admin-functions.php:161
+#: nirvana.local-copy/admin/admin-functions.php:167
+#: nirvana/admin/admin-functions.php:155 nirvana/admin/admin-functions.php:161
+#: nirvana/admin/admin-functions.php:167
+msgid "Oops, there's a small problem."
+msgstr "אופס, ישנה בעייה קטנה."
+
+#: New Folder/nirvana/admin/admin-functions.php:156
+#: nirvana.local-copy/admin/admin-functions.php:156
+#: nirvana/admin/admin-functions.php:156
+msgid ""
+"The uploaded file does not contain valid Nirvana options. Make sure the file "
+"is exported from the Nirvana Options page."
+msgstr ""
+"הקובץ שהועלה אינו מכיל אפשרויות חוקיות של נירוונה. ודא כי הקובץ מיוצא מן הדף "
+"אפשרויות של נירוונה."
+
+#: New Folder/nirvana/admin/admin-functions.php:162
+#: nirvana.local-copy/admin/admin-functions.php:162
+#: nirvana/admin/admin-functions.php:162
+msgid "The uploaded file could not be read."
+msgstr "לא ניתן לקרוא את הקובץ שהועלה."
+
+#: New Folder/nirvana/admin/admin-functions.php:168
+#: nirvana.local-copy/admin/admin-functions.php:168
+#: nirvana/admin/admin-functions.php:168
+msgid ""
+"The uploaded file is not supported. Make sure the file was exported from the "
+"Nirvana page and that it is a text file."
+msgstr ""
+"הקובץ שהועלה אינו נתמך. ודאו כי הקובץ יוצא מהעמוד נירוונה וכי הוא קובץ טקסט."
+
+#: New Folder/nirvana/admin/admin-functions.php:177
+#: nirvana.local-copy/admin/admin-functions.php:177
+#: nirvana/admin/admin-functions.php:177
+msgid ""
+"Oops! The file is empty or there was no file. This error could also be "
+"caused by uploads being disabled in your php.ini or by post_max_size being "
+"defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+"אופס! הקובץ ריק או שלא היה קובץ. שגיאה זו יכולה לקרות גם אם העלאות אינן "
+"מאופשרות בקובץ ה- php.ini שלכם או ש post_max_size מוגדר כנמוך יותר מ "
+"upload_max_filesize בקובץ ה- php.ini בשרת שלכם."
+
+#: New Folder/nirvana/admin/admin-functions.php:183
+#: nirvana.local-copy/admin/admin-functions.php:183
+#: nirvana/admin/admin-functions.php:183
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "שגיאה: אינכם מורשים לבצע פעולה זו"
+
+#: New Folder/nirvana/admin/admin-functions.php:192
+#: nirvana.local-copy/admin/admin-functions.php:192
+#: nirvana/admin/admin-functions.php:192
+msgid ""
+"Are you sure you want to load a new color scheme? \\nAll current saved "
+"settings under Text and Color Settings will be lost."
+msgstr ""
+"אתם בטוחים שאתם רוצים לטעון סכמת צבעים חדשה? כל ההגדרות השמורות הנוכחיות תחת "
+"הגדרות צבעים ילכו לאיבוד."
+
+#: New Folder/nirvana/admin/admin-functions.php:197
+#: nirvana.local-copy/admin/admin-functions.php:197
+#: nirvana/admin/admin-functions.php:197
+msgid ""
+"Select one of the preset color schemes and press the Load button.<br> <b> "
+"CAUTION! </b> When loading a color scheme, the Nirvana theme settings under "
+"Text and Color Settings will be overriden. All other settings will remain "
+"intact.<br> <u>SUGGESTION:</u> It's always better to export your current "
+"theme settings before loading a color scheme."
+msgstr ""
+"בחרו אחת מתוך סכמות הצבעים המוגדרות מראש ולחצו על כפתור הטעינה. <br> "
+"<b>זהירות!</b> כשמעלים סכמת צבעים כל הגדות נירוונה תחת טקסט והגדרות צבע "
+"ישתנו בהתאמה. כל יתר ההגדרות יישארו ללא שינוי. <br> <u>הצעה: </u>תמיד יצאו "
+"את הגדרות ערכת העיצוב שלכם לפני שינוי סכמות הצבעים."
+
+#: New Folder/nirvana/admin/admin-functions.php:221
+#: nirvana.local-copy/admin/admin-functions.php:221
+#: nirvana/admin/admin-functions.php:221
+msgid "Load Color Scheme"
+msgstr "טען סכמת צבעים"
+
+#: New Folder/nirvana/admin/admin-functions.php:289
+#: nirvana.local-copy/admin/admin-functions.php:289
+#: nirvana/admin/admin-functions.php:289
+msgid "No news items."
+msgstr "אין פריטים חדשים."
+
+#: New Folder/nirvana/admin/admin-functions.php:293
+#: nirvana.local-copy/admin/admin-functions.php:293
+#: nirvana/admin/admin-functions.php:293
+msgid "Posted on"
+msgstr "פורסם בתאריך"
+
+#: New Folder/nirvana/admin/admin-functions.php:294
+#: nirvana.local-copy/admin/admin-functions.php:294
+#: nirvana/admin/admin-functions.php:294
+msgid "Read the full post"
+msgstr "קראו את הפוסט המלא"
+
+#: New Folder/nirvana/admin/customizer.php:14
+#: nirvana.local-copy/admin/customizer.php:14 nirvana/admin/customizer.php:14
+msgid "Nirvana Settings"
+msgstr "הגדרות נירוונה"
+
+#: New Folder/nirvana/admin/customizer.php:33
+#: nirvana.local-copy/admin/customizer.php:33 nirvana/admin/customizer.php:33
+msgid "Nirvana Advanced Settings"
+msgstr "הגדרות מתקדמות של נירוונה"
+
+#: New Folder/nirvana/admin/customizer.php:36
+#: nirvana.local-copy/admin/customizer.php:36 nirvana/admin/customizer.php:36
+msgid " "
+msgstr " "
+
+#: New Folder/nirvana/admin/main.php:139 nirvana.local-copy/admin/main.php:139
+#: nirvana/admin/main.php:139
+msgid "Layout Settings"
+msgstr "הגדרות עיצוב"
+
+#: New Folder/nirvana/admin/main.php:140 nirvana.local-copy/admin/main.php:140
+#: nirvana/admin/main.php:140
+msgid "Header Settings"
+msgstr "הגדרות כותרת"
+
+#: New Folder/nirvana/admin/main.php:141 Folder/nirvana/admin/main.php:202
+#: nirvana.local-copy/admin/main.php:141 nirvana.local-copy/admin/main.php:202
+#: nirvana/admin/main.php:141 nirvana/admin/main.php:202
+msgid "Presentation Page"
+msgstr "עמוד פרזנטציה"
+
+#: New Folder/nirvana/admin/main.php:142 nirvana.local-copy/admin/main.php:142
+#: nirvana/admin/main.php:142
+msgid "Text Settings"
+msgstr "הגדרות טקסט"
+
+#: New Folder/nirvana/admin/main.php:143 nirvana.local-copy/admin/main.php:143
+#: nirvana/admin/main.php:143
+msgid "Color Settings"
+msgstr "הגדרות צבעים"
+
+#: New Folder/nirvana/admin/main.php:144 nirvana.local-copy/admin/main.php:144
+#: nirvana/admin/main.php:144
+msgid "Graphics Settings"
+msgstr "הגדרות גרפיקה"
+
+#: New Folder/nirvana/admin/main.php:145 nirvana.local-copy/admin/main.php:145
+#: nirvana/admin/main.php:145
+msgid "Post Information Settings"
+msgstr "הגדרות מידע פוסט"
+
+#: New Folder/nirvana/admin/main.php:146 nirvana.local-copy/admin/main.php:146
+#: nirvana/admin/main.php:146
+msgid "Post Excerpt Settings"
+msgstr "הגדרות תקצירי פוסט"
+
+#: New Folder/nirvana/admin/main.php:147 nirvana.local-copy/admin/main.php:147
+#: nirvana/admin/main.php:147
+msgid "Featured Image Settings"
+msgstr "הגדרות תמונה נבחרת (Featured)"
+
+#: New Folder/nirvana/admin/main.php:148 nirvana.local-copy/admin/main.php:148
+#: nirvana/admin/main.php:148
+msgid "Social Media Settings"
+msgstr "הגדרות מדיה חברתית"
+
+#: New Folder/nirvana/admin/main.php:149 nirvana.local-copy/admin/main.php:149
+#: nirvana/admin/main.php:149
+msgid "Miscellaneous Settings"
+msgstr "הגדרות שונות"
+
+#: New Folder/nirvana/admin/main.php:152 nirvana.local-copy/admin/main.php:152
+#: nirvana/admin/main.php:152
+msgid "Main Layout"
+msgstr "עיצוב ראשי"
+
+#: New Folder/nirvana/admin/main.php:153 nirvana.local-copy/admin/main.php:153
+#: nirvana/admin/main.php:153
+msgid "Content / Sidebar Width"
+msgstr "רוחב התוכן/ סרגל הצד"
+
+#: New Folder/nirvana/admin/main.php:154 nirvana.local-copy/admin/main.php:154
+#: nirvana/admin/main.php:154
+msgid "Content Margins"
+msgstr "שולי התוכן"
+
+#: New Folder/nirvana/admin/main.php:155 nirvana.local-copy/admin/main.php:155
+#: nirvana/admin/main.php:155
+msgid "Duality"
+msgstr "עיצוב רחב או ממסוגר"
+
+#: New Folder/nirvana/admin/main.php:156 nirvana.local-copy/admin/main.php:156
+#: nirvana/admin/main.php:156
+msgid "Responsiveness"
+msgstr "תאימות (responsiveness)"
+
+#: New Folder/nirvana/admin/main.php:159 nirvana.local-copy/admin/main.php:159
+#: nirvana/admin/main.php:159
+msgid "Enable Presentation Page"
+msgstr "אפשר עמוד פרזנטציה (מצגת)"
+
+#: New Folder/nirvana/admin/main.php:160 nirvana.local-copy/admin/main.php:160
+#: nirvana/admin/main.php:160
+msgid "Show Posts on Presentation Page"
+msgstr "הצג פוסטים בעמוד פרזנטציה"
+
+#: New Folder/nirvana/admin/main.php:161 nirvana.local-copy/admin/main.php:161
+#: nirvana/admin/main.php:161
+msgid "Slider Settings"
+msgstr "הגדרות סליידר"
+
+#: New Folder/nirvana/admin/main.php:162 nirvana.local-copy/admin/main.php:162
+#: nirvana/admin/main.php:162
+msgid "Slides"
+msgstr "שקפים (slides)"
+
+#: New Folder/nirvana/admin/main.php:163 nirvana.local-copy/admin/main.php:163
+#: nirvana/admin/main.php:163
+msgid "Columns"
+msgstr "עמודות"
+
+#: New Folder/nirvana/admin/main.php:164 nirvana.local-copy/admin/main.php:164
+#: nirvana/admin/main.php:164
+msgid "Text Areas"
+msgstr "אזורי טקסט"
+
+#: New Folder/nirvana/admin/main.php:165 nirvana.local-copy/admin/main.php:165
+#: nirvana/admin/main.php:165
+msgid "Extras"
+msgstr "תוספות"
+
+#: New Folder/nirvana/admin/main.php:168 nirvana.local-copy/admin/main.php:168
+#: nirvana/admin/main.php:168
+msgid "Header Height"
+msgstr "גובה הכותרת העליונה"
+
+#: New Folder/nirvana/admin/main.php:169 nirvana.local-copy/admin/main.php:169
+#: nirvana/admin/main.php:169
+msgid "Header Image"
+msgstr "תמונת כותרת עליונה"
+
+#: New Folder/nirvana/admin/main.php:170 nirvana.local-copy/admin/main.php:170
+#: nirvana/admin/main.php:170
+msgid "Site Header"
+msgstr "כותרת עליונה של האתר"
+
+#: New Folder/nirvana/admin/main.php:171 nirvana.local-copy/admin/main.php:171
+#: nirvana/admin/main.php:171
+msgid "Custom Logo Upload"
+msgstr "העלאת לוגו מותאם אישית"
+
+#: New Folder/nirvana/admin/main.php:172 nirvana.local-copy/admin/main.php:172
+#: nirvana/admin/main.php:172
+msgid "Header Content Spacing"
+msgstr "מרווח תוכן הכותרת"
+
+#: New Folder/nirvana/admin/main.php:173 nirvana.local-copy/admin/main.php:173
+#: nirvana/admin/main.php:173
+msgid "FavIcon Upload"
+msgstr "העלאת Favicon"
+
+#: New Folder/nirvana/admin/main.php:174 nirvana.local-copy/admin/main.php:174
+#: nirvana/admin/main.php:174
+msgid "Header Widget Width"
+msgstr "רוחב וידג'ט בכותרת"
+
+#: New Folder/nirvana/admin/main.php:177 Folder/nirvana/admin/settings.php:723
+#: Folder/nirvana/admin/settings.php:742 Folder/nirvana/admin/settings.php:761
+#: Folder/nirvana/admin/settings.php:779 Folder/nirvana/admin/settings.php:797
+#: Folder/nirvana/admin/settings.php:818 nirvana.local-copy/admin/main.php:177
+#: nirvana.local-copy/admin/settings.php:723
+#: nirvana.local-copy/admin/settings.php:742
+#: nirvana.local-copy/admin/settings.php:761
+#: nirvana.local-copy/admin/settings.php:779
+#: nirvana.local-copy/admin/settings.php:797
+#: nirvana.local-copy/admin/settings.php:818 nirvana/admin/main.php:177
+#: nirvana/admin/settings.php:723 nirvana/admin/settings.php:742
+#: nirvana/admin/settings.php:761 nirvana/admin/settings.php:779
+#: nirvana/admin/settings.php:797 nirvana/admin/settings.php:818
+msgid "General Font"
+msgstr "גופן  כללי"
+
+#: New Folder/nirvana/admin/main.php:178 nirvana.local-copy/admin/main.php:178
+#: nirvana/admin/main.php:178
+msgid "Post Title Font "
+msgstr "גופן כותרת הפוסט"
+
+#: New Folder/nirvana/admin/main.php:179 nirvana.local-copy/admin/main.php:179
+#: nirvana/admin/main.php:179
+msgid "Widget Title Font"
+msgstr "גופן כותרת הוידג'ט"
+
+#: New Folder/nirvana/admin/main.php:180 nirvana.local-copy/admin/main.php:180
+#: nirvana/admin/main.php:180
+msgid "Widget Font"
+msgstr "גופן הוידג'ט"
+
+#: New Folder/nirvana/admin/main.php:181 nirvana.local-copy/admin/main.php:181
+#: nirvana/admin/main.php:181
+msgid "Site Title Font"
+msgstr "גופן כותרת האתר"
+
+#: New Folder/nirvana/admin/main.php:182 nirvana.local-copy/admin/main.php:182
+#: nirvana/admin/main.php:182
+msgid "Main Menu Font"
+msgstr "גופן התפריט הראשי"
+
+#: New Folder/nirvana/admin/main.php:183 nirvana.local-copy/admin/main.php:183
+#: nirvana/admin/main.php:183
+msgid "Headings Font"
+msgstr "גופן הכותרות"
+
+#: New Folder/nirvana/admin/main.php:184 nirvana.local-copy/admin/main.php:184
+#: nirvana/admin/main.php:184
+msgid "Force Text Align"
+msgstr "כפה יישור טקסט"
+
+#: New Folder/nirvana/admin/main.php:185 nirvana.local-copy/admin/main.php:185
+#: nirvana/admin/main.php:185
+msgid "Paragraph spacing"
+msgstr "ריווח פסקה"
+
+#: New Folder/nirvana/admin/main.php:186 nirvana.local-copy/admin/main.php:186
+#: nirvana/admin/main.php:186
+msgid "Paragraph Indent"
+msgstr "מרחק פסקה מהשוליים"
+
+#: New Folder/nirvana/admin/main.php:187 nirvana.local-copy/admin/main.php:187
+#: nirvana/admin/main.php:187
+msgid "Headings Indent"
+msgstr "מרחק כותרות מהשוליים"
+
+#: New Folder/nirvana/admin/main.php:188 nirvana.local-copy/admin/main.php:188
+#: nirvana/admin/main.php:188
+msgid "Line Height"
+msgstr "גובה שורה"
+
+#: New Folder/nirvana/admin/main.php:189 nirvana.local-copy/admin/main.php:189
+#: nirvana/admin/main.php:189
+msgid "Word Spacing"
+msgstr "ריווח מילה"
+
+#: New Folder/nirvana/admin/main.php:190 nirvana.local-copy/admin/main.php:190
+#: nirvana/admin/main.php:190
+msgid "Letter Spacing"
+msgstr "ריווח אות"
+
+#: New Folder/nirvana/admin/main.php:191 nirvana.local-copy/admin/main.php:191
+#: nirvana/admin/main.php:191
+msgid "Uppercase Text"
+msgstr "טקסט עילי"
+
+#: New Folder/nirvana/admin/main.php:195 nirvana.local-copy/admin/main.php:195
+#: nirvana/admin/main.php:195
+msgid "Background Image"
+msgstr "תמונת הרקע"
+
+#: New Folder/nirvana/admin/main.php:196 nirvana.local-copy/admin/main.php:196
+#: nirvana/admin/main.php:196
+msgid "General"
+msgstr "כללי"
+
+#: New Folder/nirvana/admin/main.php:197 nirvana.local-copy/admin/main.php:197
+#: nirvana/admin/main.php:197
+msgid "Accents"
+msgstr "הדגשות"
+
+#: New Folder/nirvana/admin/main.php:198 Folder/nirvana/admin/settings.php:940
+#: nirvana.local-copy/admin/main.php:198
+#: nirvana.local-copy/admin/settings.php:940 nirvana/admin/main.php:198
+#: nirvana/admin/settings.php:940
+msgid "Site Title"
+msgstr "כותרת האתר"
+
+#: New Folder/nirvana/admin/main.php:199 Folder/nirvana/admin/settings.php:1143
+#: nirvana.local-copy/admin/main.php:199
+#: nirvana.local-copy/admin/settings.php:1143 nirvana/admin/main.php:199
+#: nirvana/admin/settings.php:1143
+msgid "Main Menu"
+msgstr "תפריט ראשי"
+
+#: New Folder/nirvana/admin/main.php:200 Folder/nirvana/admin/main.php:212
+#: Folder/nirvana/admin/settings.php:1618 nirvana.local-copy/admin/main.php:200
+#: nirvana.local-copy/admin/main.php:212
+#: nirvana.local-copy/admin/settings.php:1618 nirvana/admin/main.php:200
+#: nirvana/admin/main.php:212 nirvana/admin/settings.php:1618
+msgid "Top Bar"
+msgstr "סרגל עליון"
+
+#: New Folder/nirvana/admin/main.php:201 nirvana.local-copy/admin/main.php:201
+#: nirvana/admin/main.php:201
+msgid "Content"
+msgstr "תוכן"
+
+#: New Folder/nirvana/admin/main.php:203 nirvana.local-copy/admin/main.php:203
+#: nirvana/admin/main.php:203
+msgid "Sidebar Widgets"
+msgstr "וידג'טים של סרגלי הצד"
+
+#: New Folder/nirvana/admin/main.php:204 nirvana.local-copy/admin/main.php:204
+#: nirvana/admin/main.php:204
+msgid "Footer Widgets"
+msgstr "וידג'טים תחתונים"
+
+#: New Folder/nirvana/admin/main.php:205 nirvana.local-copy/admin/main.php:205
+#: nirvana/admin/main.php:205
+msgid "Links"
+msgstr "קישורים"
+
+#: New Folder/nirvana/admin/main.php:206 nirvana.local-copy/admin/main.php:206
+#: nirvana/admin/main.php:206
+msgid "Post metas"
+msgstr "מטה (Meta) של הפוסט"
+
+#: New Folder/nirvana/admin/main.php:207 nirvana.local-copy/admin/main.php:207
+#: nirvana/admin/main.php:207
+msgid "Socials"
+msgstr "רשתות חברתיות"
+
+#: New Folder/nirvana/admin/main.php:208 nirvana.local-copy/admin/main.php:208
+#: nirvana/admin/main.php:208
+msgid "Caption type"
+msgstr "סוג כותרת (Caption)"
+
+#: New Folder/nirvana/admin/main.php:213 nirvana.local-copy/admin/main.php:213
+#: nirvana/admin/main.php:213
+msgid "Breadcrumbs"
+msgstr "פרורי לחם"
+
+#: New Folder/nirvana/admin/main.php:214 nirvana.local-copy/admin/main.php:214
+#: nirvana/admin/main.php:214
+msgid "Pagination"
+msgstr "עימוד"
+
+#: New Folder/nirvana/admin/main.php:215 nirvana.local-copy/admin/main.php:215
+#: nirvana/admin/main.php:215
+msgid "Menu Alignment"
+msgstr "יישור התפריט"
+
+#: New Folder/nirvana/admin/main.php:216 nirvana.local-copy/admin/main.php:216
+#: nirvana/admin/main.php:216
+msgid "Search Bar Locations"
+msgstr "מיקום חלונות החיפוש"
+
+#: New Folder/nirvana/admin/main.php:217 nirvana.local-copy/admin/main.php:217
+#: nirvana/admin/main.php:217
+msgid "Post Images Border"
+msgstr "גבול תמונות הפוסט"
+
+#: New Folder/nirvana/admin/main.php:218 nirvana.local-copy/admin/main.php:218
+#: nirvana/admin/main.php:218
+msgid "Page Titles"
+msgstr "כותרות עמודים"
+
+#: New Folder/nirvana/admin/main.php:219 nirvana.local-copy/admin/main.php:219
+#: nirvana/admin/main.php:219
+msgid "Category Titles"
+msgstr "כותרות הקטגוריה"
+
+#: New Folder/nirvana/admin/main.php:220 nirvana.local-copy/admin/main.php:220
+#: nirvana/admin/main.php:220
+msgid "Hide Tables"
+msgstr "הסתר טבלאות"
+
+#: New Folder/nirvana/admin/main.php:221 nirvana.local-copy/admin/main.php:221
+#: nirvana/admin/main.php:221
+msgid "Back to Top button"
+msgstr "כפתור חזרה למעלה"
+
+#: New Folder/nirvana/admin/main.php:224 nirvana.local-copy/admin/main.php:224
+#: nirvana/admin/main.php:224
+msgid "Meta Bar Position"
+msgstr "מיקום שורת META"
+
+#: New Folder/nirvana/admin/main.php:225 nirvana.local-copy/admin/main.php:225
+#: nirvana/admin/main.php:225
+msgid "Show on Blog Pages"
+msgstr "הצג בעמודי בלוג"
+
+#: New Folder/nirvana/admin/main.php:226 nirvana.local-copy/admin/main.php:226
+#: nirvana/admin/main.php:226
+msgid "Show on Single Pages"
+msgstr "הצג בעמודים בודדים"
+
+#: New Folder/nirvana/admin/main.php:227 nirvana.local-copy/admin/main.php:227
+#: nirvana/admin/main.php:227
+msgid "Text Under Comments"
+msgstr "טקסט מתחת לתגובות"
+
+#: New Folder/nirvana/admin/main.php:228 nirvana.local-copy/admin/main.php:228
+#: nirvana/admin/main.php:228
+msgid "Comments are closed text"
+msgstr "טקסט התגובות סגורות"
+
+#: New Folder/nirvana/admin/main.php:229 nirvana.local-copy/admin/main.php:229
+#: nirvana/admin/main.php:229
+msgid "Comments off"
+msgstr "התגובות סגורות"
+
+#: New Folder/nirvana/admin/main.php:232
+#: Folder/nirvana/includes/theme-functions.php:206
+#: nirvana-child-blog/theme-functions.php:206
+#: nirvana-child-blog10/theme-functions.php:206
+#: nirvana.local-copy/admin/main.php:232
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:206
+#: nirvana.local-copy/includes/theme-functions.php:206
+#: nirvana/admin/main.php:232 nirvana/includes/theme-functions.php:206
+msgid "Home Page"
+msgstr "עמוד הבית"
+
+#: New Folder/nirvana/admin/main.php:233 Folder/nirvana/admin/settings.php:402
+#: Folder/nirvana/admin/settings.php:508 nirvana.local-copy/admin/main.php:233
+#: nirvana.local-copy/admin/settings.php:402
+#: nirvana.local-copy/admin/settings.php:508 nirvana/admin/main.php:233
+#: nirvana/admin/settings.php:402 nirvana/admin/settings.php:508
+msgid "Sticky Posts"
+msgstr "פוסטים דביקים"
+
+#: New Folder/nirvana/admin/main.php:234 nirvana.local-copy/admin/main.php:234
+#: nirvana/admin/main.php:234
+msgid "Archive and Category Pages"
+msgstr "עמודי ארכיון וקטגוריות"
+
+#: New Folder/nirvana/admin/main.php:235 nirvana.local-copy/admin/main.php:235
+#: nirvana/admin/main.php:235
+msgid "Post Excerpt Length "
+msgstr "אורך מובאת הפוסט"
+
+#: New Folder/nirvana/admin/main.php:236 nirvana.local-copy/admin/main.php:236
+#: nirvana/admin/main.php:236
+msgid "Magazine Layout"
+msgstr "סידור מגזין"
+
+#: New Folder/nirvana/admin/main.php:237 nirvana.local-copy/admin/main.php:237
+#: nirvana/admin/main.php:237
+msgid "Excerpt suffix"
+msgstr "קידומת המובאה (תקציר)"
+
+#: New Folder/nirvana/admin/main.php:238 nirvana.local-copy/admin/main.php:238
+#: nirvana/admin/main.php:238
+msgid "Continue reading link text "
+msgstr "טקסט קישור \"המשיכו לקרוא\""
+
+#: New Folder/nirvana/admin/main.php:239 nirvana.local-copy/admin/main.php:239
+#: nirvana/admin/main.php:239
+msgid "HTML tags in Excerpts"
+msgstr "תגיות HTML במובאות (תקצירים)"
+
+#: New Folder/nirvana/admin/main.php:242 nirvana.local-copy/admin/main.php:242
+#: nirvana/admin/main.php:242
+msgid "Featured Images as POST Thumbnails "
+msgstr "תמונות נבחרות כתמונות ממוזערות של הפוסט"
+
+#: New Folder/nirvana/admin/main.php:243 nirvana.local-copy/admin/main.php:243
+#: nirvana/admin/main.php:243
+msgid "Auto Select Images From Posts "
+msgstr "בחר תמונות מפוסטים בצורה אוטומטית"
+
+#: New Folder/nirvana/admin/main.php:244 nirvana.local-copy/admin/main.php:244
+#: nirvana/admin/main.php:244
+msgid "Thumbnails Alignment "
+msgstr "יישור תמונות ממוזערות"
+
+#: New Folder/nirvana/admin/main.php:245 nirvana.local-copy/admin/main.php:245
+#: nirvana/admin/main.php:245
+msgid "Thumbnails Size "
+msgstr "גודל התמונות הממוזערות"
+
+#: New Folder/nirvana/admin/main.php:246 nirvana.local-copy/admin/main.php:246
+#: nirvana/admin/main.php:246
+msgid "Featured Images as HEADER Images "
+msgstr "תמונות נבחרות כתמונות עליונות"
+
+#: New Folder/nirvana/admin/main.php:249 nirvana.local-copy/admin/main.php:249
+#: nirvana/admin/main.php:249
+msgid "Link nr. 1"
+msgstr "קישור מס. 1"
+
+#: New Folder/nirvana/admin/main.php:250 nirvana.local-copy/admin/main.php:250
+#: nirvana/admin/main.php:250
+msgid "Link nr. 2"
+msgstr "קישור מס. 2"
+
+#: New Folder/nirvana/admin/main.php:251 nirvana.local-copy/admin/main.php:251
+#: nirvana/admin/main.php:251
+msgid "Link nr. 3"
+msgstr "קישור מס. 3"
+
+#: New Folder/nirvana/admin/main.php:252 nirvana.local-copy/admin/main.php:252
+#: nirvana/admin/main.php:252
+msgid "Link nr. 4"
+msgstr "קישור מס. 4"
+
+#: New Folder/nirvana/admin/main.php:253 nirvana.local-copy/admin/main.php:253
+#: nirvana/admin/main.php:253
+msgid "Link nr. 5"
+msgstr "קישור מס. 5"
+
+#: New Folder/nirvana/admin/main.php:254 nirvana.local-copy/admin/main.php:254
+#: nirvana/admin/main.php:254
+msgid "Socials display"
+msgstr "תצוגת רשתות חברתיות"
+
+#: New Folder/nirvana/admin/main.php:257 nirvana.local-copy/admin/main.php:257
+#: nirvana/admin/main.php:257
+msgid "Protection Engine Notices"
+msgstr "הודעות הגנת מנוע"
+
+#: New Folder/nirvana/admin/main.php:258 nirvana.local-copy/admin/main.php:258
+#: nirvana/admin/main.php:258
+msgid "Internet Explorer Compatibility Tag"
+msgstr "Internet Explorer תאימות תג"
+
+#: New Folder/nirvana/admin/main.php:259 nirvana.local-copy/admin/main.php:259
+#: nirvana/admin/main.php:259
+msgid "Custom Footer Text"
+msgstr "טקסט תחתי מותאם אישית"
+
+#: New Folder/nirvana/admin/main.php:260 nirvana.local-copy/admin/main.php:260
+#: nirvana/admin/main.php:260
+msgid "Custom CSS"
+msgstr "קוד עיצוב מותאם אישית (CSS)"
+
+#: New Folder/nirvana/admin/main.php:261 nirvana.local-copy/admin/main.php:261
+#: nirvana/admin/main.php:261
+msgid "Custom JavaScript"
+msgstr "ג'אוה סקריפט מותאם אישית"
+
+#: New Folder/nirvana/admin/main.php:286 nirvana.local-copy/admin/main.php:286
+#: nirvana/admin/main.php:286
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "מצטערים, אבל אין לכם הרשאות מספיקות כדי לגשת לדף זה."
+
+#: New Folder/nirvana/admin/main.php:305 nirvana.local-copy/admin/main.php:305
+#: nirvana/admin/main.php:305
+msgid "Nirvana settings updated successfully."
+msgstr "הגדרות נירוונה עודכנו בהצלחה."
+
+#: New Folder/nirvana/admin/main.php:341 nirvana.local-copy/admin/main.php:341
+#: nirvana/admin/main.php:341
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#: New Folder/nirvana/admin/main.php:342 nirvana.local-copy/admin/main.php:342
+#: nirvana/admin/main.php:342
+msgid "Reset to Defaults"
+msgstr "אפס לברירת מחדל"
+
+#: New Folder/nirvana/admin/main.php:388 nirvana.local-copy/admin/main.php:388
+#: nirvana/admin/main.php:388
+msgid "Import/Export Settings"
+msgstr "ייבא/ייצא הגדרות"
+
+#: New Folder/nirvana/admin/main.php:393 nirvana.local-copy/admin/main.php:393
+#: nirvana/admin/main.php:393
+msgid "Export Theme options"
+msgstr "ייצא אפשרויות תבנית"
+
+#: New Folder/nirvana/admin/main.php:394 nirvana.local-copy/admin/main.php:394
+#: nirvana/admin/main.php:394
+msgid ""
+"It's that easy: a mouse click away - the ability to export your Nirvana "
+"settings and save them on your computer. Feeling safer? You should!"
+msgstr ""
+"זה כל כך קל: בלחיצת עכבר אחת תוכלו לייצא את כל הגדרות נירוונה ולשמור אותם "
+"במחשב שלכם. מרגישים בטוחים יותר? אתם צריכים להרגיש כך!"
+
+#: New Folder/nirvana/admin/main.php:399 nirvana.local-copy/admin/main.php:399
+#: nirvana/admin/main.php:399
+msgid "Import Theme options"
+msgstr "ייבא אפשרויות תבנית"
+
+#: New Folder/nirvana/admin/main.php:400 nirvana.local-copy/admin/main.php:400
+#: nirvana/admin/main.php:400
+msgid ""
+"Without the import, the export would just be a fool's exercise. Make sure "
+"you have the exported file ready and see you after the mouse click."
+msgstr ""
+"בלי לייבא הייצוא הוא רק תרגול טפשי. ודאו שיש לכם את הקובץ שיוצא מוכן ונתראה "
+"לאחר שתקליקו על העכבר."
+
+#: New Folder/nirvana/admin/main.php:405 nirvana.local-copy/admin/main.php:405
+#: nirvana/admin/main.php:405
+msgid "Color Schemes"
+msgstr "סכמות צבעים"
+
+#: New Folder/nirvana/admin/main.php:406 nirvana.local-copy/admin/main.php:406
+#: nirvana/admin/main.php:406
+msgid ""
+"A collection of preset color schemes to use as the starting point for your "
+"site. Just load one up and see your blog in a different light."
+msgstr ""
+"אוסף של סכמות צבעים שישמשו כנקודת התחלה לאתר שלכם. טענו סכמה כלשהיא ותראו את "
+"הבלוג שלכם באור שונה."
+
+#: New Folder/nirvana/admin/main.php:413 nirvana.local-copy/admin/main.php:413
+#: nirvana/admin/main.php:413
+msgid "Nirvana Latest News"
+msgstr "חדשות אחרונות של נירוונה"
+
+#: New Folder/nirvana/admin/main.php:423 nirvana.local-copy/admin/main.php:423
+#: nirvana/admin/main.php:423
+msgid "Reset Nirvana Settings to Defaults?"
+msgstr "אפס להגדרות ברירת מחדל של נירוונה?"
+
+#: New Folder/nirvana/admin/prototypes.php:30
+#: nirvana.local-copy/admin/prototypes.php:30 nirvana/admin/prototypes.php:30
+msgid "or Google font"
+msgstr "או גופן גוגל"
+
+#: New Folder/nirvana/admin/settings.php:28
+#: nirvana.local-copy/admin/settings.php:28 nirvana/admin/settings.php:28
+msgid "One column (no sidebars)"
+msgstr "עמודה אחת (ללא סרגלי צד)"
+
+#: New Folder/nirvana/admin/settings.php:29
+#: nirvana.local-copy/admin/settings.php:29 nirvana/admin/settings.php:29
+msgid "Two columns, sidebar on the right"
+msgstr "שתי עמודות, סרגל צד ימני"
+
+#: New Folder/nirvana/admin/settings.php:30
+#: nirvana.local-copy/admin/settings.php:30 nirvana/admin/settings.php:30
+msgid "Two columns, sidebar on the left"
+msgstr "שתי עמודות, סרגל צד שמאלי"
+
+#: New Folder/nirvana/admin/settings.php:31
+#: nirvana.local-copy/admin/settings.php:31 nirvana/admin/settings.php:31
+msgid "Three columns, sidebars on the right"
+msgstr "שלוש עמודות, סרגלי צד ימניים"
+
+#: New Folder/nirvana/admin/settings.php:32
+#: nirvana.local-copy/admin/settings.php:32 nirvana/admin/settings.php:32
+msgid "Three columns, sidebars on the left"
+msgstr "שלוש עמודות, סרגלי צד שמאליים"
+
+#: New Folder/nirvana/admin/settings.php:33
+#: nirvana.local-copy/admin/settings.php:33 nirvana/admin/settings.php:33
+msgid "Three columns, one sidebar on each side"
+msgstr "שלוש עמודות, סרגל צידי אחד בכל צד"
+
+#: New Folder/nirvana/admin/settings.php:41
+#: nirvana.local-copy/admin/settings.php:41 nirvana/admin/settings.php:41
+msgid ""
+"Choose your layout. Possible options are: <br> No sidebar, a single sidebar "
+"on either left of right, two sidebars on either left or right and two "
+"sidebars on each side.<br>This can be overriden in pages by using Page "
+"Templates."
+msgstr ""
+"בחרו את סידור העיצוב שלכם. האפרויות הקיימות הן: <br> ללא סרגל צד, סרגל צד "
+"בודד בצד ימין או בצד שמאל, שני סרגלי צד בצד ימין או שמאל ושני סרגלי צד בכל "
+"צד. <br> ניתן לעקוף הגדרה זו בעמודים ע\"י בחירה בתבנית עמוד בהגדרות העמוד."
+
+#: New Folder/nirvana/admin/settings.php:90
+#: nirvana.local-copy/admin/settings.php:90 nirvana/admin/settings.php:90
+msgid "Content ="
+msgstr "תוכן ="
+
+#: New Folder/nirvana/admin/settings.php:91
+#: nirvana.local-copy/admin/settings.php:91 nirvana/admin/settings.php:91
+msgid "Sidebar(s) ="
+msgstr "סרגל(י) צד ="
+
+#: New Folder/nirvana/admin/settings.php:92
+#: nirvana.local-copy/admin/settings.php:92 nirvana/admin/settings.php:92
+msgid "Total width ="
+msgstr "רוחב כללי ="
+
+#: New Folder/nirvana/admin/settings.php:99
+#: nirvana.local-copy/admin/settings.php:99 nirvana/admin/settings.php:99
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. When using a "
+"3 columns layout (with 2 sidebars) they will each have half the configured "
+"width."
+msgstr ""
+"בחרו את רוחב <b>התוכן</b> ו<b>סרגל/י הצד </b>שלכם. כשמשתמשים במבנה של 3 "
+"עמודות (עם שני סרגלי צד) כל אחד מסרגלי הצד יקבל מחצית מהרוחב המוגדר."
+
+#: New Folder/nirvana/admin/settings.php:108
+#: nirvana.local-copy/admin/settings.php:108 nirvana/admin/settings.php:108
+msgid "Wide"
+msgstr "רחב"
+
+#: New Folder/nirvana/admin/settings.php:108
+#: nirvana.local-copy/admin/settings.php:108 nirvana/admin/settings.php:108
+msgid "Boxed"
+msgstr "ממוסגר"
+
+#: New Folder/nirvana/admin/settings.php:116
+#: nirvana.local-copy/admin/settings.php:116 nirvana/admin/settings.php:116
+msgid ""
+"Select the layout format for your site.<br> <strong>Wide</strong> - full "
+"width layout. <br><strong>Boxed</strong> - fixed width layout."
+msgstr ""
+"בחרו את פורמט האתר שלכם. <br> <strong.רחב </strong>- מבנה רוחב מלא. <br> "
+"<strong>קופסתי </strong>- רוחב קבוע."
+
+#: New Folder/nirvana/admin/settings.php:124
+#: Folder/nirvana/admin/settings.php:214 Folder/nirvana/admin/settings.php:230
+#: Folder/nirvana/admin/settings.php:614 Folder/nirvana/admin/settings.php:849
+#: Folder/nirvana/admin/settings.php:1100
+#: Folder/nirvana/admin/settings.php:1115
+#: Folder/nirvana/admin/settings.php:1213
+#: Folder/nirvana/admin/settings.php:1229
+#: Folder/nirvana/admin/settings.php:1411
+#: Folder/nirvana/admin/settings.php:1440
+#: Folder/nirvana/admin/settings.php:1463
+#: Folder/nirvana/admin/settings.php:1482
+#: Folder/nirvana/admin/settings.php:1531
+#: Folder/nirvana/admin/settings.php:1676
+#: Folder/nirvana/admin/settings.php:1692
+#: nirvana.local-copy/admin/settings.php:124
+#: nirvana.local-copy/admin/settings.php:214
+#: nirvana.local-copy/admin/settings.php:230
+#: nirvana.local-copy/admin/settings.php:614
+#: nirvana.local-copy/admin/settings.php:849
+#: nirvana.local-copy/admin/settings.php:1100
+#: nirvana.local-copy/admin/settings.php:1115
+#: nirvana.local-copy/admin/settings.php:1213
+#: nirvana.local-copy/admin/settings.php:1229
+#: nirvana.local-copy/admin/settings.php:1411
+#: nirvana.local-copy/admin/settings.php:1440
+#: nirvana.local-copy/admin/settings.php:1463
+#: nirvana.local-copy/admin/settings.php:1482
+#: nirvana.local-copy/admin/settings.php:1531
+#: nirvana.local-copy/admin/settings.php:1676
+#: nirvana.local-copy/admin/settings.php:1692 nirvana/admin/settings.php:124
+#: nirvana/admin/settings.php:214 nirvana/admin/settings.php:230
+#: nirvana/admin/settings.php:614 nirvana/admin/settings.php:849
+#: nirvana/admin/settings.php:1100 nirvana/admin/settings.php:1115
+#: nirvana/admin/settings.php:1213 nirvana/admin/settings.php:1229
+#: nirvana/admin/settings.php:1411 nirvana/admin/settings.php:1440
+#: nirvana/admin/settings.php:1463 nirvana/admin/settings.php:1482
+#: nirvana/admin/settings.php:1531 nirvana/admin/settings.php:1676
+#: nirvana/admin/settings.php:1692
+msgid "Enable"
+msgstr "הפעל"
+
+#: New Folder/nirvana/admin/settings.php:124
+#: Folder/nirvana/admin/settings.php:214 Folder/nirvana/admin/settings.php:230
+#: Folder/nirvana/admin/settings.php:849 Folder/nirvana/admin/settings.php:1100
+#: Folder/nirvana/admin/settings.php:1115
+#: Folder/nirvana/admin/settings.php:1213
+#: Folder/nirvana/admin/settings.php:1229
+#: Folder/nirvana/admin/settings.php:1411
+#: Folder/nirvana/admin/settings.php:1440
+#: Folder/nirvana/admin/settings.php:1463
+#: Folder/nirvana/admin/settings.php:1482
+#: Folder/nirvana/admin/settings.php:1531
+#: Folder/nirvana/admin/settings.php:1676
+#: Folder/nirvana/admin/settings.php:1692
+#: nirvana.local-copy/admin/settings.php:124
+#: nirvana.local-copy/admin/settings.php:214
+#: nirvana.local-copy/admin/settings.php:230
+#: nirvana.local-copy/admin/settings.php:849
+#: nirvana.local-copy/admin/settings.php:1100
+#: nirvana.local-copy/admin/settings.php:1115
+#: nirvana.local-copy/admin/settings.php:1213
+#: nirvana.local-copy/admin/settings.php:1229
+#: nirvana.local-copy/admin/settings.php:1411
+#: nirvana.local-copy/admin/settings.php:1440
+#: nirvana.local-copy/admin/settings.php:1463
+#: nirvana.local-copy/admin/settings.php:1482
+#: nirvana.local-copy/admin/settings.php:1531
+#: nirvana.local-copy/admin/settings.php:1676
+#: nirvana.local-copy/admin/settings.php:1692 nirvana/admin/settings.php:124
+#: nirvana/admin/settings.php:214 nirvana/admin/settings.php:230
+#: nirvana/admin/settings.php:849 nirvana/admin/settings.php:1100
+#: nirvana/admin/settings.php:1115 nirvana/admin/settings.php:1213
+#: nirvana/admin/settings.php:1229 nirvana/admin/settings.php:1411
+#: nirvana/admin/settings.php:1440 nirvana/admin/settings.php:1463
+#: nirvana/admin/settings.php:1482 nirvana/admin/settings.php:1531
+#: nirvana/admin/settings.php:1676 nirvana/admin/settings.php:1692
+msgid "Disable"
+msgstr "כבה"
+
+#: New Folder/nirvana/admin/settings.php:132
+#: nirvana.local-copy/admin/settings.php:132 nirvana/admin/settings.php:132
+msgid "Allow zoom"
+msgstr "אפשר לבצע הגדלה (zoom)"
+
+#: New Folder/nirvana/admin/settings.php:133
+#: nirvana.local-copy/admin/settings.php:133 nirvana/admin/settings.php:133
+msgid ""
+"Enable to make Nirvana fully responsive. The layout and general sizes of "
+"your blog will adjust depending on what device and what resolution it is "
+"viewed in.<br> Do not disable unless you have a good reason to."
+msgstr ""
+"הפעילו על מנת להפוך את נירוונה לרספונסיבית מלאה. מבנה ומידות הבלוג יותאמו "
+"אוטומטית בתלות הרזולוציה במכשיר בו אתם משתמשים. <br> אל תבטלו אופציה זו אלא "
+"אם יש לכם סיבה ממש טובה לעשות זאת."
+
+#: New Folder/nirvana/admin/settings.php:145
+#: nirvana.local-copy/admin/settings.php:145 nirvana/admin/settings.php:145
+msgid ""
+"Select the header's height. After saving the settings go and upload your new "
+"header image. The header's minimum width should be "
+msgstr ""
+"בחרו את גובה תמונת הכותרת (Header). אחרי שמירת ההגדרות העלו את תמונת הכותרת "
+"החדשה שלכם. הרוחב המינימלי של תמונת הכותרת צריך להיות"
+
+#: New Folder/nirvana/admin/settings.php:151
+#: nirvana.local-copy/admin/settings.php:151 nirvana/admin/settings.php:151
+msgid "Define header image"
+msgstr "הגדירו תמונה עליונה (כותרת)"
+
+#: New Folder/nirvana/admin/settings.php:152
+#: nirvana.local-copy/admin/settings.php:152 nirvana/admin/settings.php:152
+msgid "Center the header image horizontally"
+msgstr "מרכזו את תמונת הכותרת במאוזן"
+
+#: New Folder/nirvana/admin/settings.php:154
+#: nirvana.local-copy/admin/settings.php:154 nirvana/admin/settings.php:154
+msgid "Force header image responsiveness."
+msgstr "כפה תמונת כותרת רספונסיבית."
+
+#: New Folder/nirvana/admin/settings.php:155
+#: nirvana.local-copy/admin/settings.php:155 nirvana/admin/settings.php:155
+msgid ""
+"By default the header has a minimum height set to accommodate the site title "
+"or custom logo. Enabling this option removes that minimum height and the "
+"header becomes fully responsive, scalling to any size.<br> Only enable this "
+"if you're <b>not</b> using a logo or site title and description in the "
+"header. Also make sure you have a header image uploaded. "
+msgstr ""
+"כברירת מחדל, לכותרת יש מינימום גובה כדי להתאים לכותרת האתר או ללוגו מותאם "
+"אישית. הפעלת האופציה הזו תסיר את מגבלת המינימום והכותרת תהפוך לרספונסיבית "
+"ותתאים את עצמה לכל גודל. <br> הפעילו את זה רק אם אינכם משתמשים בלוגו או "
+"בכותרת ותאור האתר בכותרת. בנוסף ודאו שהעליתם את תמונת הכותרת."
+
+#: New Folder/nirvana/admin/settings.php:163
+#: nirvana.local-copy/admin/settings.php:163 nirvana/admin/settings.php:163
+msgid "Site Title and Description"
+msgstr "כותרת האתר ותאורו"
+
+#: New Folder/nirvana/admin/settings.php:163
+#: nirvana.local-copy/admin/settings.php:163 nirvana/admin/settings.php:163
+msgid "Custom Logo"
+msgstr "לוגו מותאם אישית"
+
+#: New Folder/nirvana/admin/settings.php:163
+#: nirvana.local-copy/admin/settings.php:163 nirvana/admin/settings.php:163
+msgid "Clickable header image"
+msgstr "תמונת כותרת לחיצה"
+
+#: New Folder/nirvana/admin/settings.php:163
+#: nirvana.local-copy/admin/settings.php:163 nirvana/admin/settings.php:163
+msgid "Empty"
+msgstr "ריק"
+
+#: New Folder/nirvana/admin/settings.php:165
+#: nirvana.local-copy/admin/settings.php:165 nirvana/admin/settings.php:165
+msgid "Choose what to display inside your header area."
+msgstr "בחרו מה להציג בשטח הכותרת שלכם."
+
+#: New Folder/nirvana/admin/settings.php:173
+#: nirvana.local-copy/admin/settings.php:173 nirvana/admin/settings.php:173
+msgid ""
+"Custom Logo upload. The logo will appear over the header image if you have "
+"used one."
+msgstr ""
+"העלאת לוגו מותאם אישית. הלוגו יופיע מעל תמונת הכותרת אם אתם משתמשים באחת כזו."
+
+#: New Folder/nirvana/admin/settings.php:174
+#: Folder/nirvana/admin/settings.php:190 Folder/nirvana/admin/settings.php:479
+#: nirvana.local-copy/admin/settings.php:174
+#: nirvana.local-copy/admin/settings.php:190
+#: nirvana.local-copy/admin/settings.php:479 nirvana/admin/settings.php:174
+#: nirvana/admin/settings.php:190 nirvana/admin/settings.php:479
+msgid "Select / Upload Image"
+msgstr "בחרו / העלו תמונה"
+
+#: New Folder/nirvana/admin/settings.php:179
+#: nirvana.local-copy/admin/settings.php:179 nirvana/admin/settings.php:179
+msgid "top"
+msgstr "עליון"
+
+#: New Folder/nirvana/admin/settings.php:180
+#: nirvana.local-copy/admin/settings.php:180 nirvana/admin/settings.php:180
+msgid "left"
+msgstr "שמאל"
+
+#: New Folder/nirvana/admin/settings.php:181
+#: nirvana.local-copy/admin/settings.php:181 nirvana/admin/settings.php:181
+msgid ""
+"Select the top and left spacing for the header content. Use it to better "
+"position your site title and description or custom logo inside the header. "
+msgstr ""
+"בחרו את המרווח העליון והשמאלי עבור תוכן הכותרת. השתמשו בזה כדי למקם טוב יותר "
+"את כותרת האתר ותאורו או את מיקום הלוגו המותאם אישית בכותרת."
+
+#: New Folder/nirvana/admin/settings.php:189
+#: nirvana.local-copy/admin/settings.php:189 nirvana/admin/settings.php:189
+msgid ""
+"Limitations: It has to be an image. It should be max 64x64 pixels in "
+"dimensions. Recommended file extensions .ico and .png. <br> <strong>Note "
+"that some browsers do not display the changed favicon instantly.</strong>"
+msgstr ""
+"מגבלות: זו חייבת להיות תמונה. גודלה המקסימלי יהיה 64x53 פיקסלים. סיומות "
+"הקבצים המומלצות הן .ico ו- .png. <br> <strong>שימו לב שישנם דפדפנים שלא "
+"יציגו את שינוי ה- favicon באופן מיידי. </strong>"
+
+#: New Folder/nirvana/admin/settings.php:199
+#: nirvana.local-copy/admin/settings.php:199 nirvana/admin/settings.php:199
+msgid "60%"
+msgstr "60%"
+
+#: New Folder/nirvana/admin/settings.php:199
+#: nirvana.local-copy/admin/settings.php:199 nirvana/admin/settings.php:199
+msgid "50%"
+msgstr "50%"
+
+#: New Folder/nirvana/admin/settings.php:199
+#: nirvana.local-copy/admin/settings.php:199 nirvana/admin/settings.php:199
+msgid "33%"
+msgstr "33%"
+
+#: New Folder/nirvana/admin/settings.php:199
+#: nirvana.local-copy/admin/settings.php:199 nirvana/admin/settings.php:199
+msgid "25%"
+msgstr "25%"
+
+#: New Folder/nirvana/admin/settings.php:201
+#: nirvana.local-copy/admin/settings.php:201 nirvana/admin/settings.php:201
+msgid ""
+"Limit the header widget area max width as percentage of the entire header "
+"width."
+msgstr ""
+"הגבילו את אזור הווידג'טים של הכותרת באחוזים מתוך הרוחב הכללי של הכותרת."
+
+#: New Folder/nirvana/admin/settings.php:216 nirvana/admin/settings.php:216
+msgid ""
+"Enable the presentation front-page. This will become your new home page. "
+"<br><br>\r\n"
+"\t     <em> If you have this option enabled and you can't see the "
+"presentation page, make sure that the option under WordPress Dashboard >> "
+"Settings >> Reading >> <strong>Front page displays</strong> is set to the "
+"default value <strong>Your Latest Posts</strong>.<br><br></em>\r\n"
+"\t\tIf you want another page to hold your latest blog posts, choose 'Blog "
+"Template (Posts Page)' from Page Templates while creating or editing that "
+"page."
+msgstr ""
+"מפעיל את עמוד הפרזנטציה בעמוד הראשי. זה יהיה עמוד הבית החדש שלכם. <br><br> "
+"<em> אם הפעלתם את האפשרות הזו ואינכם יכולים לראות את עמוד הפרזנטציה ודאו "
+"שהאופציה תחת הגדרות וורדפרס >> קריאה >>הגדרות עמוד ראשי </em> מוגדרות כברירת "
+"מחדל ל- <strong> פוסטים אחרונים </strong>. <br><br> אם אתם רוצים שעמוד אחר "
+"יציג את הפוסטים האחרונים שלכם בחרו ב\"תבנית בלוג\" מאפשרויות התבניות בזמן "
+"שאתם יוצרים את העמוד הזה."
+
+#: New Folder/nirvana/admin/settings.php:220 nirvana/admin/settings.php:220
+#, php-format
+msgid ""
+"You have enabled the Presentation Page but your WordPress <em>Front page "
+"displays</em> option is not set to your latest posts. <br>\r\n"
+"\t\t\t\t\tGo to %1$s and make sure you have selected <strong>Your latest "
+"posts</strong> under <em>Front page displays</em>."
+msgstr ""
+"הפעלתם את עמוד הפרזנטציה אבל הגדרות <em> תצוגת עמוד ראשי </em> שלכם אינן על "
+"פוסטים אחרונים. <br> עברו ל %1$s וודאו שבחרתם <strong> פוסטים אחרונים </"
+"strong> תחת <em> הגדרות עמוד ראשי</em>."
+
+#: New Folder/nirvana/admin/settings.php:232
+#: nirvana.local-copy/admin/settings.php:232 nirvana/admin/settings.php:232
+msgid ""
+"Enable to display the latest posts on the presentation page, below the "
+"columns. Sticky posts are always displayed and not counted."
+msgstr ""
+"אפשר להציג את הפוסטים האחרונים בדף המצגת, מתחת לעמודות. פוסטים דביקים תמיד "
+"מוצגים ולא נספרים במסגרת הפוסטים האחרונים."
+
+#: New Folder/nirvana/admin/settings.php:233
+#: nirvana.local-copy/admin/settings.php:233 nirvana/admin/settings.php:233
+msgid "Show:"
+msgstr "הצג:"
+
+#: New Folder/nirvana/admin/settings.php:235
+#: nirvana.local-copy/admin/settings.php:235 nirvana/admin/settings.php:235
+msgid "posts"
+msgstr "פוסטים"
+
+#: New Folder/nirvana/admin/settings.php:236
+#: nirvana.local-copy/admin/settings.php:236 nirvana/admin/settings.php:236
+msgid ""
+"The number of posts to show on the Presentation Page. The same number of "
+"posts will be loaded with the <em>More Posts</em> button."
+msgstr ""
+"מספר הפוסטים להצגה בעמוד הפרזנטציה. אותו מספר פוסטים יוטענו ביחד עם כפתור "
+"<em> פוסטים נוספים</em>."
+
+#: New Folder/nirvana/admin/settings.php:239
+#: nirvana.local-copy/admin/settings.php:239 nirvana/admin/settings.php:239
+msgid "Posts per row:"
+msgstr "כמה פוסטים בשורה:"
+
+#: New Folder/nirvana/admin/settings.php:254
+#: nirvana.local-copy/admin/settings.php:254 nirvana/admin/settings.php:254
+msgid "Slider Dimensions:"
+msgstr "מידות הסליידר (מצגת):"
+
+#: New Folder/nirvana/admin/settings.php:255
+#: nirvana.local-copy/admin/settings.php:255 nirvana/admin/settings.php:255
+msgid "width"
+msgstr "רוחב"
+
+#: New Folder/nirvana/admin/settings.php:256
+#: nirvana.local-copy/admin/settings.php:256 nirvana/admin/settings.php:256
+msgid "height"
+msgstr "גובה"
+
+#: New Folder/nirvana/admin/settings.php:257
+#: nirvana.local-copy/admin/settings.php:257 nirvana/admin/settings.php:257
+msgid ""
+"The dimensions of your slider. Make sure your images are of the same size."
+msgstr "מידות המצגת שלכם. ודאו שהתמונות שלכם הן באותו גודל."
+
+#: New Folder/nirvana/admin/settings.php:259
+#: nirvana.local-copy/admin/settings.php:259 nirvana/admin/settings.php:259
+msgid "Animation:"
+msgstr "אנימציה:"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "Random"
+msgstr "אקראי"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "Fold"
+msgstr "קפל"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "Fade"
+msgstr "דעיכה (fade)"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "SlideInRight"
+msgstr "הצג פנימה מימין"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "SlideInLeft"
+msgstr "הצג פנימה משמאל"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "SliceDown"
+msgstr "חתוך ללמטה"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "SliceDownLeft"
+msgstr "חתוך ללמטה ושמאלה"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "SliceUp"
+msgstr "חתוך ללמעלה"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "SliceUpLeft"
+msgstr "קוביות קטנות ללמעלה"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "SliceUpDown"
+msgstr "קוביות קטנות שמאל לימין"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "SliceUpDownLeft"
+msgstr "קוביות קטנות ימין לשמאל"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "BoxRandom"
+msgstr "קוביות רנדומליות"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "BoxRain"
+msgstr "קוביות גדולות משמאל"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "BoxRainReverse"
+msgstr "קוביות גדולות מימין"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "BoxRainGrow"
+msgstr "קוביות ארוכות משמאל"
+
+#: New Folder/nirvana/admin/settings.php:261
+#: nirvana.local-copy/admin/settings.php:261 nirvana/admin/settings.php:261
+msgid "BoxRainGrowReverse"
+msgstr "גשם קוביות מימין לשמאל"
+
+#: New Folder/nirvana/admin/settings.php:270
+#: nirvana.local-copy/admin/settings.php:270 nirvana/admin/settings.php:270
+msgid "The transition effect of your slides."
+msgstr "אפקט המעבר של השיקופיות שלכם."
+
+#: New Folder/nirvana/admin/settings.php:272
+#: nirvana.local-copy/admin/settings.php:272 nirvana/admin/settings.php:272
+msgid "Animation Time:"
+msgstr "זמן האנימציה:"
+
+#: New Folder/nirvana/admin/settings.php:273
+#: Folder/nirvana/admin/settings.php:277
+#: nirvana.local-copy/admin/settings.php:273
+#: nirvana.local-copy/admin/settings.php:277 nirvana/admin/settings.php:273
+#: nirvana/admin/settings.php:277
+msgid "milliseconds"
+msgstr "מילי-שניות"
+
+#: New Folder/nirvana/admin/settings.php:274
+#: nirvana.local-copy/admin/settings.php:274 nirvana/admin/settings.php:274
+msgid "The time in which the transition animation will take place."
+msgstr "הזמן שבו אנימצית המעבר תתבצע."
+
+#: New Folder/nirvana/admin/settings.php:276
+#: nirvana.local-copy/admin/settings.php:276 nirvana/admin/settings.php:276
+msgid "Pause Time:"
+msgstr "זמן השהייה:"
+
+#: New Folder/nirvana/admin/settings.php:278
+#: nirvana.local-copy/admin/settings.php:278 nirvana/admin/settings.php:278
+msgid "The time in which a slide will be still and visible."
+msgstr "הזמן שבו השיקופית תהיה יציבה ונראית."
+
+#: New Folder/nirvana/admin/settings.php:280
+#: nirvana.local-copy/admin/settings.php:280 nirvana/admin/settings.php:280
+msgid "Slider navigation:"
+msgstr "ניווט בסליידר:"
+
+#: New Folder/nirvana/admin/settings.php:282
+#: nirvana.local-copy/admin/settings.php:282 nirvana/admin/settings.php:282
+msgid "Numbers"
+msgstr "מספרים"
+
+#: New Folder/nirvana/admin/settings.php:282
+#: nirvana.local-copy/admin/settings.php:282 nirvana/admin/settings.php:282
+msgid "Bullets"
+msgstr "פתיחים"
+
+#: New Folder/nirvana/admin/settings.php:282
+#: nirvana.local-copy/admin/settings.php:282 nirvana/admin/settings.php:282
+msgid "None"
+msgstr "כלום"
+
+#: New Folder/nirvana/admin/settings.php:290
+#: nirvana.local-copy/admin/settings.php:290 nirvana/admin/settings.php:290
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "סוג הניווט בסליידר שלכם. מוצג מתחת לסליידר (מצגת)."
+
+#: New Folder/nirvana/admin/settings.php:292
+#: nirvana.local-copy/admin/settings.php:292 nirvana/admin/settings.php:292
+msgid "Slider arrows:"
+msgstr "חיצי המצגת:"
+
+#: New Folder/nirvana/admin/settings.php:294
+#: nirvana.local-copy/admin/settings.php:294 nirvana/admin/settings.php:294
+msgid "Always Visible"
+msgstr "נראים תמיד"
+
+#: New Folder/nirvana/admin/settings.php:294
+#: nirvana.local-copy/admin/settings.php:294 nirvana/admin/settings.php:294
+msgid "Visible on Hover"
+msgstr "נראים במעבר על"
+
+#: New Folder/nirvana/admin/settings.php:294
+#: nirvana.local-copy/admin/settings.php:294 nirvana/admin/settings.php:294
+msgid "Hidden"
+msgstr "מוסתר"
+
+#: New Folder/nirvana/admin/settings.php:302
+#: nirvana.local-copy/admin/settings.php:302 nirvana/admin/settings.php:302
+msgid "The Left and Right arrows on your slider"
+msgstr "החיצים הימני והשמאלי במצגת שלכם"
+
+#: New Folder/nirvana/admin/settings.php:304
+#: nirvana.local-copy/admin/settings.php:304 nirvana/admin/settings.php:304
+msgid "Title font size:"
+msgstr "גודל גופן כותרת הפוסט:"
+
+#: New Folder/nirvana/admin/settings.php:313
+#: Folder/nirvana/admin/settings.php:325
+#: nirvana.local-copy/admin/settings.php:313
+#: nirvana.local-copy/admin/settings.php:325 nirvana/admin/settings.php:313
+#: nirvana/admin/settings.php:325
+msgid "All Caps"
+msgstr "הכל באותיות גדולות"
+
+#: New Folder/nirvana/admin/settings.php:314
+#: nirvana.local-copy/admin/settings.php:314 nirvana/admin/settings.php:314
+msgid "Slider title Font size."
+msgstr "גודל הגופן של כותרת המצגת."
+
+#: New Folder/nirvana/admin/settings.php:316
+#: nirvana.local-copy/admin/settings.php:316 nirvana/admin/settings.php:316
+msgid "Text font size:"
+msgstr "גודל הגופן של הטקסט:"
+
+#: New Folder/nirvana/admin/settings.php:326
+#: nirvana.local-copy/admin/settings.php:326 nirvana/admin/settings.php:326
+msgid "Center Align"
+msgstr "יישור למרכז"
+
+#: New Folder/nirvana/admin/settings.php:327
+#: nirvana.local-copy/admin/settings.php:327 nirvana/admin/settings.php:327
+msgid "Text font size."
+msgstr "גודל גופן הטקסט."
+
+#: New Folder/nirvana/admin/settings.php:329
+#: nirvana.local-copy/admin/settings.php:329 nirvana/admin/settings.php:329
+msgid "Slider Border Width:"
+msgstr "רוחב גבול המצגת:"
+
+#: New Folder/nirvana/admin/settings.php:330
+#: Folder/nirvana/admin/settings.php:334
+#: nirvana.local-copy/admin/settings.php:330
+#: nirvana.local-copy/admin/settings.php:334 nirvana/admin/settings.php:330
+#: nirvana/admin/settings.php:334
+msgid "px"
+msgstr "px"
+
+#: New Folder/nirvana/admin/settings.php:331
+#: nirvana.local-copy/admin/settings.php:331 nirvana/admin/settings.php:331
+msgid ""
+"The slider's border width. You can also edit its color from the Color "
+"Settings. Use a border width when your slider is smaller than the total site "
+"width."
+msgstr ""
+"רוחב גבול הסליידר. אתם יכולים לערוך גם את צבע הגבול בהגדרות הצבעים. השתמשו "
+"ברוחב הגבול כאשר הסליידר שלכם קטן יותר מהרוחב הכללי של האתר."
+
+#: New Folder/nirvana/admin/settings.php:333
+#: nirvana.local-copy/admin/settings.php:333 nirvana/admin/settings.php:333
+msgid "Slider Top/Bottom Margin:"
+msgstr "שולי המצגת למעלה/למטה:"
+
+#: New Folder/nirvana/admin/settings.php:335
+#: nirvana.local-copy/admin/settings.php:335 nirvana/admin/settings.php:335
+msgid ""
+"Add margins to the slider. By default this is set to 0 and you will want to "
+"increase this value when the slider is not full width."
+msgstr ""
+"הוסף שוליים למצגת. ברירת המחדל מוגדרת ל-0 ותרצו להגדיל את הערך הזה עם המצגת "
+"שלכם היא לא ברוחב מלא."
+
+#: New Folder/nirvana/admin/settings.php:402
+#: nirvana.local-copy/admin/settings.php:402 nirvana/admin/settings.php:402
+msgid "Custom Slides"
+msgstr "שיקופיות מותאמות אישית"
+
+#: New Folder/nirvana/admin/settings.php:402
+#: Folder/nirvana/admin/settings.php:508
+#: nirvana.local-copy/admin/settings.php:402
+#: nirvana.local-copy/admin/settings.php:508 nirvana/admin/settings.php:402
+#: nirvana/admin/settings.php:508
+msgid "Latest Posts"
+msgstr "פוסטים אחרונים"
+
+#: New Folder/nirvana/admin/settings.php:402
+#: Folder/nirvana/admin/settings.php:508
+#: nirvana.local-copy/admin/settings.php:402
+#: nirvana.local-copy/admin/settings.php:508 nirvana/admin/settings.php:402
+#: nirvana/admin/settings.php:508
+msgid "Random Posts"
+msgstr "פוסטים אקראיים"
+
+#: New Folder/nirvana/admin/settings.php:402
+#: Folder/nirvana/admin/settings.php:508
+#: nirvana.local-copy/admin/settings.php:402
+#: nirvana.local-copy/admin/settings.php:508 nirvana/admin/settings.php:402
+#: nirvana/admin/settings.php:508
+msgid "Latest Posts from Category"
+msgstr "פוסטים אחרונים מקטגוריה"
+
+#: New Folder/nirvana/admin/settings.php:402
+#: Folder/nirvana/admin/settings.php:508
+#: nirvana.local-copy/admin/settings.php:402
+#: nirvana.local-copy/admin/settings.php:508 nirvana/admin/settings.php:402
+#: nirvana/admin/settings.php:508
+msgid "Random Posts from Category"
+msgstr "פוסטים אקראיים מקטגוריה "
+
+#: New Folder/nirvana/admin/settings.php:402
+#: Folder/nirvana/admin/settings.php:508
+#: nirvana.local-copy/admin/settings.php:402
+#: nirvana.local-copy/admin/settings.php:508 nirvana/admin/settings.php:402
+#: nirvana/admin/settings.php:508
+msgid "Specific Posts"
+msgstr "פוסטים ספציפיים"
+
+#: New Folder/nirvana/admin/settings.php:402
+#: Folder/nirvana/admin/settings.php:508
+#: nirvana.local-copy/admin/settings.php:402
+#: nirvana.local-copy/admin/settings.php:508 nirvana/admin/settings.php:402
+#: nirvana/admin/settings.php:508
+msgid "Disabled"
+msgstr "מופסק"
+
+#: New Folder/nirvana/admin/settings.php:411
+#: nirvana.local-copy/admin/settings.php:411 nirvana/admin/settings.php:411
+msgid ""
+"Only the slides with a defined image will become active and visible in the "
+"live slider.<br>When using slides from posts, make sure the selected posts "
+"have featured images.<br>Read the FAQs for more info."
+msgstr ""
+"רק שקפים עם תמונות מוגדרות יהפכו לאקטיביים וייראו במצגת החייה. <br> "
+"כשמשתמשים בשקפים (תמונות) מפוסטים ודאו שלפוסטים הנבחרים יש תמונה נבחרת. <br> "
+"קראו את ה- FAQ לפרטים נוספים."
+
+#: New Folder/nirvana/admin/settings.php:416
+#: nirvana.local-copy/admin/settings.php:416 nirvana/admin/settings.php:416
+msgid "Latest posts will be loaded into the slider."
+msgstr "פוסטים אחרונים יוטענו לתוך המצגת (סליידר)."
+
+#: New Folder/nirvana/admin/settings.php:420
+#: nirvana.local-copy/admin/settings.php:420 nirvana/admin/settings.php:420
+msgid "Random posts will be loaded into the slider."
+msgstr "פוסטים אקראיים יוטענו לתוך המצגת."
+
+#: New Folder/nirvana/admin/settings.php:424
+#: nirvana.local-copy/admin/settings.php:424 nirvana/admin/settings.php:424
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "פוסטים אחרונים מהקטגוריה שבחרתם יוצגו במצגת."
+
+#: New Folder/nirvana/admin/settings.php:428
+#: nirvana.local-copy/admin/settings.php:428 nirvana/admin/settings.php:428
+msgid ""
+"Random posts from the category you choose will be loaded into the slider."
+msgstr "פוסטים רנדומליים מהקטגוריה שבחרתם יוצגו במצגת (סליידר)."
+
+#: New Folder/nirvana/admin/settings.php:432
+#: nirvana.local-copy/admin/settings.php:432 nirvana/admin/settings.php:432
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "רק פוסטים דביקים יוטענו לתוך המצגת."
+
+#: New Folder/nirvana/admin/settings.php:436
+#: Folder/nirvana/admin/settings.php:544
+#: nirvana.local-copy/admin/settings.php:436
+#: nirvana.local-copy/admin/settings.php:544 nirvana/admin/settings.php:436
+#: nirvana/admin/settings.php:544
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr "רישמו את המספר המזהה של הפוסטים שתרצו להציג (מופרדים על ידי פסיק):"
+
+#: New Folder/nirvana/admin/settings.php:441
+#: Folder/nirvana/admin/settings.php:554
+#: nirvana.local-copy/admin/settings.php:441
+#: nirvana.local-copy/admin/settings.php:554 nirvana/admin/settings.php:441
+#: nirvana/admin/settings.php:554
+msgid "<br> Choose the category: "
+msgstr "<br> בחרו את הקטגוריה:"
+
+#: New Folder/nirvana/admin/settings.php:443
+#: Folder/nirvana/admin/settings.php:556
+#: nirvana.local-copy/admin/settings.php:443
+#: nirvana.local-copy/admin/settings.php:556 nirvana/admin/settings.php:443
+#: nirvana/admin/settings.php:556
+msgid "Select Category"
+msgstr "בחרו קטגוריה"
+
+#: New Folder/nirvana/admin/settings.php:458
+#: nirvana.local-copy/admin/settings.php:458 nirvana/admin/settings.php:458
+msgid "Number of posts:"
+msgstr "מספר פוסטים:"
+
+#: New Folder/nirvana/admin/settings.php:459
+#: Folder/nirvana/admin/settings.php:463
+#: nirvana.local-copy/admin/settings.php:459
+#: nirvana.local-copy/admin/settings.php:463 nirvana/admin/settings.php:459
+#: nirvana/admin/settings.php:463
+msgid "words"
+msgstr "מילים"
+
+#: New Folder/nirvana/admin/settings.php:460
+#: nirvana.local-copy/admin/settings.php:460 nirvana/admin/settings.php:460
+msgid "The number of posts to show in the slider."
+msgstr "מספר הפוסטים לתצוגה במצגת."
+
+#: New Folder/nirvana/admin/settings.php:462
+#: nirvana.local-copy/admin/settings.php:462 nirvana/admin/settings.php:462
+msgid "Slider excerpt:"
+msgstr "תקצירי המצגת:"
+
+#: New Folder/nirvana/admin/settings.php:464
+#: nirvana.local-copy/admin/settings.php:464 nirvana/admin/settings.php:464
+msgid "The number of words for the slider excerpts."
+msgstr "מספר המילים לתקצירי המצגת."
+
+#: New Folder/nirvana/admin/settings.php:474
+#: nirvana.local-copy/admin/settings.php:474 nirvana/admin/settings.php:474
+msgid "Slide"
+msgstr "שיקופית"
+
+#: New Folder/nirvana/admin/settings.php:476
+#: Folder/nirvana/content/content-image.php:14
+#: nirvana.local-copy/admin/settings.php:476
+#: nirvana.local-copy/content/content-image.php:14
+#: nirvana/admin/settings.php:476 nirvana/content/content-image.php:14
+msgid "Image"
+msgstr "תמונה"
+
+#: New Folder/nirvana/admin/settings.php:480
+#: Folder/nirvana/admin/settings.php:630 Folder/nirvana/admin/settings.php:637
+#: Folder/nirvana/admin/settings.php:644
+#: nirvana.local-copy/admin/settings.php:480
+#: nirvana.local-copy/admin/settings.php:630
+#: nirvana.local-copy/admin/settings.php:637
+#: nirvana.local-copy/admin/settings.php:644 nirvana/admin/settings.php:480
+#: nirvana/admin/settings.php:630 nirvana/admin/settings.php:637
+#: nirvana/admin/settings.php:644
+msgid "Title"
+msgstr "כותרת"
+
+#: New Folder/nirvana/admin/settings.php:483
+#: Folder/nirvana/admin/settings.php:632 Folder/nirvana/admin/settings.php:639
+#: Folder/nirvana/admin/settings.php:646
+#: nirvana.local-copy/admin/settings.php:483
+#: nirvana.local-copy/admin/settings.php:632
+#: nirvana.local-copy/admin/settings.php:639
+#: nirvana.local-copy/admin/settings.php:646 nirvana/admin/settings.php:483
+#: nirvana/admin/settings.php:632 nirvana/admin/settings.php:639
+#: nirvana/admin/settings.php:646
+msgid "Text"
+msgstr "טקסט"
+
+#: New Folder/nirvana/admin/settings.php:486
+#: Folder/nirvana/content/content-link.php:15
+#: nirvana.local-copy/admin/settings.php:486
+#: nirvana.local-copy/content/content-link.php:15
+#: nirvana/admin/settings.php:486 nirvana/content/content-link.php:15
+msgid "Link"
+msgstr "קישור"
+
+#: New Folder/nirvana/admin/settings.php:494
+#: nirvana.local-copy/admin/settings.php:494 nirvana/admin/settings.php:494
+msgid "Read more text:"
+msgstr "טקסט \"קראו עוד\":"
+
+#: New Folder/nirvana/admin/settings.php:497
+#: nirvana.local-copy/admin/settings.php:497 nirvana/admin/settings.php:497
+msgid ""
+"The linked text that appears at the bottom of each slide. Leave empty to "
+"hide the link."
+msgstr ""
+"הטקסט המקושר המופיע בתחתית כל שיקופית במצגת. השאירו ריק על מנת להסתיר את "
+"הקישור."
+
+#: New Folder/nirvana/admin/settings.php:508
+#: nirvana.local-copy/admin/settings.php:508 nirvana/admin/settings.php:508
+msgid "Widget Columns"
+msgstr "עמודות ווידג'טים"
+
+#: New Folder/nirvana/admin/settings.php:517
+#: nirvana.local-copy/admin/settings.php:517 nirvana/admin/settings.php:517
+msgid ""
+"Only the columns with a defined image will become active and visible on the "
+"presentation page.<br>When using columns from posts, make sure the selected "
+"posts have featured images.<br>Read the FAQs for more info."
+msgstr ""
+"רק העמודות עם תמונות מוגדרות יהפכו לאקטיביות וייראו בעמוד הפרזנטציה. <br> "
+"כשמשתמשים בעמודות מתוך פוסטים שימו לב שלפוסטים הנבחרים יהיו תמונות נבחרות. "
+"<br> קראו ב- FAQ למידע נוסף."
+
+#: New Folder/nirvana/admin/settings.php:524
+#: nirvana.local-copy/admin/settings.php:524 nirvana/admin/settings.php:524
+msgid "Latest posts will be loaded into the columns."
+msgstr "פוסטים אחרונים יוטענו לתוך העמודות."
+
+#: New Folder/nirvana/admin/settings.php:528
+#: nirvana.local-copy/admin/settings.php:528 nirvana/admin/settings.php:528
+msgid "Random posts will be loaded into the columns."
+msgstr "פוסטים אקראיים יוטענו לתוך העמודות."
+
+#: New Folder/nirvana/admin/settings.php:532
+#: nirvana.local-copy/admin/settings.php:532 nirvana/admin/settings.php:532
+msgid ""
+"Latest posts from the category you choose will be loaded in the columns."
+msgstr "פוסטים אחרונים מתוך הקטגוריה שתבחרו יוטענו לתוך העמודות."
+
+#: New Folder/nirvana/admin/settings.php:536
+#: nirvana.local-copy/admin/settings.php:536 nirvana/admin/settings.php:536
+msgid ""
+"Random posts from the category you choose will be loaded into the columns."
+msgstr "פוסטים אקראיים מתוך הקטגוריה שתבחרו יוטענו לתוך העמודות."
+
+#: New Folder/nirvana/admin/settings.php:540
+#: nirvana.local-copy/admin/settings.php:540 nirvana/admin/settings.php:540
+msgid "Only sticky posts will be loaded into the columns."
+msgstr "רק פוסטים דביקים יוטענו לתוך העמודות."
+
+#: New Folder/nirvana/admin/settings.php:549
+#: nirvana.local-copy/admin/settings.php:549 nirvana/admin/settings.php:549
+msgid ""
+"Load your custom Widgets as columns. Go to <a>Appearance >> Widgets</a> and "
+"create your custom columns using the Columns widget. You can use as many as "
+"you want."
+msgstr ""
+"טוען את הווידג'טים המותאמים אישית שלכם כעמודות. עברו ל- <a>עיצוב >> "
+"ווידג'טים </a> וצרו את הווידג'טים המותאמים אישית שלכם ע\"י ווידג'ט העמודות. "
+"אתם יכולים להשתמש בכמה שתרצו."
+
+#: New Folder/nirvana/admin/settings.php:569
+#: nirvana.local-copy/admin/settings.php:569 nirvana/admin/settings.php:569
+msgid "Number of posts to show:"
+msgstr "מספר הפוסטים לתצוגה:"
+
+#: New Folder/nirvana/admin/settings.php:577
+#: nirvana.local-copy/admin/settings.php:577 nirvana/admin/settings.php:577
+msgid "Column Display:"
+msgstr "תצוגת עמודה:"
+
+#: New Folder/nirvana/admin/settings.php:579
+#: nirvana.local-copy/admin/settings.php:579 nirvana/admin/settings.php:579
+msgid "Animated"
+msgstr "מונפש"
+
+#: New Folder/nirvana/admin/settings.php:579
+#: nirvana.local-copy/admin/settings.php:579 nirvana/admin/settings.php:579
+msgid "Static on Image"
+msgstr "סטטי על התמונה"
+
+#: New Folder/nirvana/admin/settings.php:579
+#: nirvana.local-copy/admin/settings.php:579 nirvana/admin/settings.php:579
+msgid "Static under Image"
+msgstr "סטטי מתחת לתמונה"
+
+#: New Folder/nirvana/admin/settings.php:587
+#: nirvana.local-copy/admin/settings.php:587 nirvana/admin/settings.php:587
+msgid "How to display your Presentation Page Columns."
+msgstr "כיצד להציג את עמודות עמוד הפרזנטציה שלכם."
+
+#: New Folder/nirvana/admin/settings.php:589
+#: nirvana.local-copy/admin/settings.php:589 nirvana/admin/settings.php:589
+msgid "Columns per row:"
+msgstr "עמודות לשורה:"
+
+#: New Folder/nirvana/admin/settings.php:599
+#: nirvana.local-copy/admin/settings.php:599 nirvana/admin/settings.php:599
+msgid "Image Size:"
+msgstr "גודל תמונה:"
+
+#: New Folder/nirvana/admin/settings.php:600
+#: nirvana.local-copy/admin/settings.php:600 nirvana/admin/settings.php:600
+msgid "Height: "
+msgstr "גובה:"
+
+#: New Folder/nirvana/admin/settings.php:601
+#: nirvana.local-copy/admin/settings.php:601 nirvana/admin/settings.php:601
+msgid "Width: "
+msgstr "רוחב:"
+
+#: New Folder/nirvana/admin/settings.php:602
+#: nirvana.local-copy/admin/settings.php:602 nirvana/admin/settings.php:602
+msgid ""
+"The sizes for your column images. The width is dependent on total site width "
+"and the number of columns per row so it isn't configurable."
+msgstr ""
+"המידות של תמונות העמודות שלכם. ברוחב תלוי ברוחב הכללי של האתר ומספר העמודות "
+"לשורה, כך שהוא לא ניתן להגדרה."
+
+#: New Folder/nirvana/admin/settings.php:605
+#: nirvana.local-copy/admin/settings.php:605 nirvana/admin/settings.php:605
+msgid "Column spacing:"
+msgstr "ריווח עמודה:"
+
+#: New Folder/nirvana/admin/settings.php:607
+#: nirvana.local-copy/admin/settings.php:607 nirvana/admin/settings.php:607
+msgid ""
+"The space between your columns. Increasing the column spacing will naturally "
+"decrease the visible area of your images."
+msgstr ""
+"המרווח בין העמודות. הגדלת המרווח תוריד באופן טבעי את השטח הנראה של התמונות "
+"שלכם."
+
+#: New Folder/nirvana/admin/settings.php:609
+#: nirvana.local-copy/admin/settings.php:609 nirvana/admin/settings.php:609
+msgid "Columns Title:"
+msgstr "כותרת העמודה:"
+
+#: New Folder/nirvana/admin/settings.php:612
+#: nirvana.local-copy/admin/settings.php:612 nirvana/admin/settings.php:612
+msgid "The title for the columns area on the presentation page."
+msgstr "הכותרת לאזור העמודות בעמוד הפרזנטציה."
+
+#: New Folder/nirvana/admin/settings.php:613
+#: nirvana.local-copy/admin/settings.php:613 nirvana/admin/settings.php:613
+msgid "Photo Frames"
+msgstr "מסגרות התמונה"
+
+#: New Folder/nirvana/admin/settings.php:615
+#: nirvana.local-copy/admin/settings.php:615 nirvana/admin/settings.php:615
+msgid ""
+"Enable subtle foto frames around your column images. Your columns will have "
+"white borders and a small shadow around them and will be slightly skewed."
+msgstr ""
+"הפעילו מסגרות עדינות מסביב לתמונות העמודות שלכם. העמודות שלכם יהיו עם גבולות "
+"לבנים וצל קטן מסביב להן ויוטו מעט הצידה."
+
+#: New Folder/nirvana/admin/settings.php:624
+#: Folder/nirvana/admin/settings.php:635 Folder/nirvana/admin/settings.php:642
+#: nirvana.local-copy/admin/settings.php:624
+#: nirvana.local-copy/admin/settings.php:635
+#: nirvana.local-copy/admin/settings.php:642 nirvana/admin/settings.php:624
+#: nirvana/admin/settings.php:635 nirvana/admin/settings.php:642
+msgid "Text Area"
+msgstr "אזור הטקסט"
+
+#: New Folder/nirvana/admin/settings.php:626
+#: nirvana.local-copy/admin/settings.php:626 nirvana/admin/settings.php:626
+msgid "Text for the Presentation Page"
+msgstr "טקסט עבור עמוד הפרזנטציה"
+
+#: New Folder/nirvana/admin/settings.php:627
+#: nirvana.local-copy/admin/settings.php:627 nirvana/admin/settings.php:627
+msgid ""
+"More text for the Presentation Page. The top title is just below the slider, "
+"the second title is below the columns. A text area supporting HTML tags and "
+"shortcodes below each title<br>It's all optional so leave any input field "
+"empty to not display it."
+msgstr ""
+"טקסט נוסף עבור עמוד הפרזנציה. הכותרת העליונה תהיה מתחת למצגת (סליידר) הכותרת "
+"השנייה תהיה מתחת לעמודות. אזור טקסט התומך ב- HTML וקיצורי קוד מופיע מתחת לכל "
+"כותרת. <br> הכל אופציונלי אז כדי לא להציג אזורים אלה השאירו את השדות האלה "
+"ריקים."
+
+#: New Folder/nirvana/admin/settings.php:653
+#: nirvana.local-copy/admin/settings.php:653 nirvana/admin/settings.php:653
+msgid "Hide areas"
+msgstr "הסתר אזורים"
+
+#: New Folder/nirvana/admin/settings.php:655
+#: nirvana.local-copy/admin/settings.php:655 nirvana/admin/settings.php:655
+msgid "Choose the areas to hide on the Presentation Page:"
+msgstr "בחרו את השטחים אותם תרצו להסתיר בעמוד הפרזנטציה:"
+
+#: New Folder/nirvana/admin/settings.php:666
+#: nirvana.local-copy/admin/settings.php:666 nirvana/admin/settings.php:666
+msgid "Hide the topbar (includes the top social area and top menu)."
+msgstr ""
+"הסתר את הסרגל העליון (כולל את אזור המדיה החברתית העליון והתפריט העליון)."
+
+#: New Folder/nirvana/admin/settings.php:669
+#: nirvana.local-copy/admin/settings.php:669 nirvana/admin/settings.php:669
+msgid "Hide the header area (logo/title and/or image/empty area)."
+msgstr "הסתר את אזור הכותרת (לוגו/כותרת ו/או תמונה או אזור ריק)."
+
+#: New Folder/nirvana/admin/settings.php:672
+#: nirvana.local-copy/admin/settings.php:672 nirvana/admin/settings.php:672
+msgid "Hide the main menu."
+msgstr "הסתר את התפריט הראשי."
+
+#: New Folder/nirvana/admin/settings.php:675
+#: nirvana.local-copy/admin/settings.php:675 nirvana/admin/settings.php:675
+msgid "Hide the footer widgets. "
+msgstr "הסתר את הווידג'טים בתחתית."
+
+#: New Folder/nirvana/admin/settings.php:678
+#: nirvana.local-copy/admin/settings.php:678 nirvana/admin/settings.php:678
+msgid "Hide the footer (copyright area)."
+msgstr "הסתר את האזור התחתון (אזור זכויות היוצרים)."
+
+#: New Folder/nirvana/admin/settings.php:703 nirvana/admin/settings.php:703
+msgid ""
+"Select the general font family and size or insert the Google Font name "
+"you'll use in your blog. This will affect all text except the text controlled"
+"\r\n"
+"\t\t\t\t\t\t\tby the options below.<br><br> <strong>Additional Info:</"
+"strong><br>The fonts under the <em>General Theme Fonts</em> category are "
+"suggested for this\r\n"
+"\t\t\t\t\t\t\tbecause they have all the font weights used througout the "
+"theme.<br> When using Google Fonts for General Font make sure they also have "
+"multiple font weights and\r\n"
+"\t\t\t\t\t\t\tthat you specify them all eg.: <em>Roboto:400,300,500,700</em>"
+msgstr ""
+"בחרו את משפחת הגופן הכללי וגודלו או הכניסו שם של גופן גוגל בו תשתמשו בבלוג. "
+"זה ישפיע על כל הטקסט במובאות וכל טקסט הנשלט ע\"י האפשרויות למטה. <br><br> "
+"<strong> מידע נוסף: </strong> <br> הגופנים תחת הקטגוריה<em> גופני הערכה "
+"הכלליים</em> הם המוצעים כי יש להם את כל מה שדרוש בכל המקומות בערכת הנושא. "
+"<br> כשמשתמשים בגופני גוגל כגופנים כלליים ודאו שיש להם משקלים שונים ושציינתם "
+"את כולם. לדוגמא: <em>Roboto:400,300,500,700</em>"
+
+#: New Folder/nirvana/admin/settings.php:725
+#: nirvana.local-copy/admin/settings.php:725 nirvana/admin/settings.php:725
+msgid ""
+"Select the font family and size or insert the Google Font name you want for "
+"your titles. It will affect post titles and page titles. Leave 'General "
+"Font' and the general font values you selected will be used."
+msgstr ""
+"בחרו את משפחת הגופן והגודל או הכניסו שם של גופן גוגל עבור הכותרות שלכם. זה "
+"ישפיע על כותרות של פוסטים ועמודים. השאירו את \"גופן כללי\" על מנת להשתמש "
+"בגופן כללי עם ערכים קבועים מראש."
+
+#: New Folder/nirvana/admin/settings.php:744
+#: nirvana.local-copy/admin/settings.php:744 nirvana/admin/settings.php:744
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"widget titles to have. Leave 'General Font' and the general font values you "
+"selected will be used."
+msgstr ""
+"בחרו את משפחת הגופן והגודלו או הכניסו שם של גופן גוגל בו תשתמשו לכותרות "
+"הווידג'טים שלכם. השאירו את \"גופן כללי\" על מנת שגופן כללי וערכיו ישמשו "
+"לכותרות הווידג'טים."
+
+#: New Folder/nirvana/admin/settings.php:763
+#: nirvana.local-copy/admin/settings.php:763 nirvana/admin/settings.php:763
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"widgets to have. Leave 'General Font' and the general font values you "
+"selected will be used."
+msgstr ""
+"בחרו את משפחת הגופן והגודלו או הכניסו שם של גופן גוגל בו תשתמשו לווידג'טים "
+"שלכם. השאירו את \"גופן כללי\" על מנת שגופן כללי וערכיו ישמשו לווידג'טים."
+
+#: New Folder/nirvana/admin/settings.php:781
+#: nirvana.local-copy/admin/settings.php:781 nirvana/admin/settings.php:781
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"site title and tagline to use. Leave 'General Font' and the general font "
+"values you selected will be used."
+msgstr ""
+"בחרו את משפחת הגופן והגודלו או הכניסו שם של גופן גוגל בו תשתמשו לכותרת האתר "
+"שלכם ולשורת התגיות. השאירו את \"גופן כללי\" על מנת שגופן כללי וערכיו ישמשו "
+"לכותרת האתר ולשורת התגיות."
+
+#: New Folder/nirvana/admin/settings.php:799
+#: nirvana.local-copy/admin/settings.php:799 nirvana/admin/settings.php:799
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"main menu to use. Leave 'General Font' and the general font values you "
+"selected will be used."
+msgstr ""
+"בחרו את משפחת הגופן והגודלו או הכניסו שם של גופן גוגל בו תשתמשו לתפריט הראשי "
+"שלכם. השאירו את \"גופן כללי\" על מנת שגופן כללי וערכיו ישמשו לתפריט הראשי."
+
+#: New Folder/nirvana/admin/settings.php:820
+#: nirvana.local-copy/admin/settings.php:820 nirvana/admin/settings.php:820
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"headings to have (h1 - h6 tags will be affected). Leave 'General Font' and "
+"the general font values you selected will be used."
+msgstr ""
+"בחרו את משפחת הגופן והגודלו או הכניסו שם של גופן גוגל בו תשתמשו לכותרות שלכם "
+"(h1-h6 יושפעו מהגדרה זו). השאירו את \"גופן כללי\" על מנת שגופן כללי וערכיו "
+"ישמשו לכותרות."
+
+#: New Folder/nirvana/admin/settings.php:828
+#: Folder/nirvana/admin/settings.php:869 Folder/nirvana/admin/settings.php:879
+#: Folder/nirvana/admin/settings.php:896
+#: nirvana.local-copy/admin/settings.php:828
+#: nirvana.local-copy/admin/settings.php:869
+#: nirvana.local-copy/admin/settings.php:879
+#: nirvana.local-copy/admin/settings.php:896 nirvana/admin/settings.php:828
+#: nirvana/admin/settings.php:869 nirvana/admin/settings.php:879
+#: nirvana/admin/settings.php:896
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: New Folder/nirvana/admin/settings.php:828
+#: Folder/nirvana/admin/settings.php:1129
+#: Folder/nirvana/admin/settings.php:1498
+#: nirvana.local-copy/admin/settings.php:828
+#: nirvana.local-copy/admin/settings.php:1129
+#: nirvana.local-copy/admin/settings.php:1498 nirvana/admin/settings.php:828
+#: nirvana/admin/settings.php:1129 nirvana/admin/settings.php:1498
+msgid "Left"
+msgstr "שמאל"
+
+#: New Folder/nirvana/admin/settings.php:828
+#: Folder/nirvana/admin/settings.php:1129
+#: Folder/nirvana/admin/settings.php:1498
+#: nirvana.local-copy/admin/settings.php:828
+#: nirvana.local-copy/admin/settings.php:1129
+#: nirvana.local-copy/admin/settings.php:1498 nirvana/admin/settings.php:828
+#: nirvana/admin/settings.php:1129 nirvana/admin/settings.php:1498
+msgid "Right"
+msgstr "ימין"
+
+#: New Folder/nirvana/admin/settings.php:828
+#: nirvana.local-copy/admin/settings.php:828 nirvana/admin/settings.php:828
+msgid "Justify"
+msgstr "הצדיקו"
+
+#: New Folder/nirvana/admin/settings.php:828
+#: Folder/nirvana/admin/settings.php:1129
+#: Folder/nirvana/admin/settings.php:1498
+#: nirvana.local-copy/admin/settings.php:828
+#: nirvana.local-copy/admin/settings.php:1129
+#: nirvana.local-copy/admin/settings.php:1498 nirvana/admin/settings.php:828
+#: nirvana/admin/settings.php:1129 nirvana/admin/settings.php:1498
+msgid "Center"
+msgstr "מרכז"
+
+#: New Folder/nirvana/admin/settings.php:830
+#: nirvana.local-copy/admin/settings.php:830 nirvana/admin/settings.php:830
+msgid ""
+"This overwrites the text alignment in posts and pages. Leave 'Default' for "
+"normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr ""
+"זה מחליף את יישור הטקסט בפוסטים ועמודים. השאירו \"ברירת מחדל\" להגדרות "
+"רגילות. ( היישור יישאר כפי שהוגדר בפוסטים, תגובות וכו')."
+
+#: New Folder/nirvana/admin/settings.php:840
+#: nirvana.local-copy/admin/settings.php:840 nirvana/admin/settings.php:840
+msgid "Choose the indent for your paragraphs."
+msgstr "בחרו את המרחק מהשוליים עבור הפסקאות שלכם."
+
+#: New Folder/nirvana/admin/settings.php:851
+#: nirvana.local-copy/admin/settings.php:851 nirvana/admin/settings.php:851
+msgid "Disable the default headings indent (left margin)."
+msgstr "הפסיקו את המרווח מהשוליים ברירת המחדל של הכותרות שלכם (גבול שמאלי)."
+
+#: New Folder/nirvana/admin/settings.php:861
+#: nirvana.local-copy/admin/settings.php:861 nirvana/admin/settings.php:861
+msgid "Text line height. The height between 2 rows of text."
+msgstr "גובה שורת הטקסט. הגובה בין שתי שורות טקסט."
+
+#: New Folder/nirvana/admin/settings.php:871
+#: nirvana.local-copy/admin/settings.php:871 nirvana/admin/settings.php:871
+msgid ""
+"The space between <i>words</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"המרווח בין <i> המילים</i>. השאירו \"ברירת מחדל\" עבור הגדרות רגילות. (ערכי "
+"הגודל יוגדרו ב- CSS)."
+
+#: New Folder/nirvana/admin/settings.php:881
+#: nirvana.local-copy/admin/settings.php:881 nirvana/admin/settings.php:881
+msgid ""
+"The space between <i>letters</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"הרווח בין <I> אותיות </I>. השאירו \"ברירת מחדל\" להגדרות נורמליות (ערכי "
+"הגודל יוגדרו מה- CSS)."
+
+#: New Folder/nirvana/admin/settings.php:889
+#: nirvana.local-copy/admin/settings.php:889 nirvana/admin/settings.php:889
+msgid "Select the spacing between the paragraphs."
+msgstr "בחרו את המרווח בין הפסקאות."
+
+#: New Folder/nirvana/admin/settings.php:896
+#: nirvana.local-copy/admin/settings.php:896 nirvana/admin/settings.php:896
+msgid "Force Uppercase"
+msgstr "כפה אותיות גדולות"
+
+#: New Folder/nirvana/admin/settings.php:896
+#: nirvana.local-copy/admin/settings.php:896 nirvana/admin/settings.php:896
+msgid "Force Lowercase"
+msgstr "כפה אותיות קטנות"
+
+#: New Folder/nirvana/admin/settings.php:898
+#: nirvana.local-copy/admin/settings.php:898 nirvana/admin/settings.php:898
+msgid ""
+"By default text is both uppercase and lowercase throughout the theme. With "
+"this option you can force uppercase or lowercase text styling in the whole "
+"theme. This option won't affect content text."
+msgstr ""
+"כברירת מחדל הטקסט בערכת הנושא הוא גם טקסט עילי (uppercase) וגם תחתי "
+"(Lowercase) בכל התבנית. באמצעות אפשרות זו תוכלו להכריח עיצוב טקסט עילי או "
+"תחתי לכל ערכת הנושא. האפשרות הזו לא תשפיע על טקסט התוכן."
+
+#: New Folder/nirvana/admin/settings.php:906
+#: nirvana.local-copy/admin/settings.php:906 nirvana/admin/settings.php:906
+msgid "Define background image"
+msgstr "הגדירו תמונת רקע"
+
+#: New Folder/nirvana/admin/settings.php:911
+#: Folder/nirvana/admin/settings.php:937 Folder/nirvana/admin/settings.php:962
+#: Folder/nirvana/admin/settings.php:998 Folder/nirvana/admin/settings.php:1009
+#: nirvana.local-copy/admin/settings.php:911
+#: nirvana.local-copy/admin/settings.php:937
+#: nirvana.local-copy/admin/settings.php:962
+#: nirvana.local-copy/admin/settings.php:998
+#: nirvana.local-copy/admin/settings.php:1009 nirvana/admin/settings.php:911
+#: nirvana/admin/settings.php:937 nirvana/admin/settings.php:962
+#: nirvana/admin/settings.php:998 nirvana/admin/settings.php:1009
+msgid "Background:"
+msgstr "רקע:"
+
+#: New Folder/nirvana/admin/settings.php:912
+#: nirvana.local-copy/admin/settings.php:912 nirvana/admin/settings.php:912
+msgid "Header Background"
+msgstr "רקע הכותרת"
+
+#: New Folder/nirvana/admin/settings.php:913
+#: nirvana.local-copy/admin/settings.php:913 nirvana/admin/settings.php:913
+msgid "Main Site Background"
+msgstr "רקע האתר הראשי"
+
+#: New Folder/nirvana/admin/settings.php:914
+#: nirvana.local-copy/admin/settings.php:914 nirvana/admin/settings.php:914
+msgid "Footer Widgets Area Background"
+msgstr "רקע אזור הווידג'טים בתחתית"
+
+#: New Folder/nirvana/admin/settings.php:915
+#: nirvana.local-copy/admin/settings.php:915 nirvana/admin/settings.php:915
+msgid "Footer Background"
+msgstr "רקע האזור התחתון"
+
+#: New Folder/nirvana/admin/settings.php:916
+#: Folder/nirvana/admin/settings.php:939 Folder/nirvana/admin/settings.php:964
+#: Folder/nirvana/admin/settings.php:991 Folder/nirvana/admin/settings.php:1001
+#: Folder/nirvana/admin/settings.php:1012
+#: nirvana.local-copy/admin/settings.php:916
+#: nirvana.local-copy/admin/settings.php:939
+#: nirvana.local-copy/admin/settings.php:964
+#: nirvana.local-copy/admin/settings.php:991
+#: nirvana.local-copy/admin/settings.php:1001
+#: nirvana.local-copy/admin/settings.php:1012 nirvana/admin/settings.php:916
+#: nirvana/admin/settings.php:939 nirvana/admin/settings.php:964
+#: nirvana/admin/settings.php:991 nirvana/admin/settings.php:1001
+#: nirvana/admin/settings.php:1012
+msgid "Text:"
+msgstr "טקסט:"
+
+#: New Folder/nirvana/admin/settings.php:917
+#: nirvana.local-copy/admin/settings.php:917 nirvana/admin/settings.php:917
+msgid "General Text"
+msgstr "טקסט כללי"
+
+#: New Folder/nirvana/admin/settings.php:918
+#: nirvana.local-copy/admin/settings.php:918 nirvana/admin/settings.php:918
+msgid "General Lighter Text"
+msgstr "טקסט בהיר כללי"
+
+#: New Folder/nirvana/admin/settings.php:919
+#: nirvana.local-copy/admin/settings.php:919 nirvana/admin/settings.php:919
+msgid "Footer Text"
+msgstr "טקסט תחתי"
+
+#: New Folder/nirvana/admin/settings.php:920
+#: nirvana.local-copy/admin/settings.php:920 nirvana/admin/settings.php:920
+msgid ""
+"The site background features 4 separately coloured areas.<br />The general "
+"text colour applies to all text on the website that is not controlled by any "
+"other option."
+msgstr ""
+"רקע האתר מאופיין ב- 4 אשורי צבעים נפרדים. <br> צבע הטקסט הכללי מוכל על כל "
+"הטקסט באתר שאינו נשלט ע\"י כל אפשרות אחרת."
+
+#: New Folder/nirvana/admin/settings.php:925
+#: nirvana.local-copy/admin/settings.php:925 nirvana/admin/settings.php:925
+msgid "Accent Color #1"
+msgstr "צבע מודגש 1#"
+
+#: New Folder/nirvana/admin/settings.php:926
+#: nirvana.local-copy/admin/settings.php:926 nirvana/admin/settings.php:926
+msgid "Accent Color #2"
+msgstr "צבע מודגש 2#"
+
+#: New Folder/nirvana/admin/settings.php:927
+#: nirvana.local-copy/admin/settings.php:927 nirvana/admin/settings.php:927
+msgid "Accent Color #3"
+msgstr "צבע מודגש 3#"
+
+#: New Folder/nirvana/admin/settings.php:928
+#: nirvana.local-copy/admin/settings.php:928 nirvana/admin/settings.php:928
+msgid "Accent Color #4"
+msgstr "צבע מודגש 4#"
+
+#: New Folder/nirvana/admin/settings.php:929
+#: nirvana.local-copy/admin/settings.php:929 nirvana/admin/settings.php:929
+msgid "Accent Color #5"
+msgstr "צבע מודגש 5#"
+
+#: New Folder/nirvana/admin/settings.php:930 nirvana/admin/settings.php:930
+msgid ""
+"Accents #1 and #2 should either be the same as the link colours or be "
+"separate from all other colours on the site.<br />\r\n"
+"     Accent #5 is used for input fields and buttons backgrounds, borders and "
+"lines.<br />\r\n"
+"     Accents #3 and #4 should be the lighter/darker than the content "
+"background colour, being used as borders/shades on elements where accent #5 "
+"is background colour."
+msgstr ""
+"הצבעים המודגשים 1# ו- 2# צריכים להיות זהים לצבעי הקישורים או שונים מכל צבע "
+"אחר באתר. <br> הצבע המודגש 5# משמש לשדות למילוי ולרקע לכפתורים/לחצנים, "
+"גבולות וקווים. <br> הצבעים המודגשים 3# ו- 4# צריכים להיות בהירים יותר או "
+"כהים יותר מצבע הרקע של התוכן ומשמשים כגבול/צל של רכיבים בהם צבע מודגש 5# הוא "
+"צבע הרקע."
+
+#: New Folder/nirvana/admin/settings.php:938
+#: nirvana.local-copy/admin/settings.php:938 nirvana/admin/settings.php:938
+msgid "Site Description Background"
+msgstr "רקע תיאור האתר"
+
+#: New Folder/nirvana/admin/settings.php:941
+#: nirvana.local-copy/admin/settings.php:941 nirvana/admin/settings.php:941
+msgid "Site Description"
+msgstr "תאור האתר"
+
+#: New Folder/nirvana/admin/settings.php:947
+#: nirvana.local-copy/admin/settings.php:947 nirvana/admin/settings.php:947
+msgid "Menu:"
+msgstr "תפריט:"
+
+#: New Folder/nirvana/admin/settings.php:948
+#: nirvana.local-copy/admin/settings.php:948 nirvana/admin/settings.php:948
+msgid "Menu Background"
+msgstr "רקע התפריט"
+
+#: New Folder/nirvana/admin/settings.php:949
+#: nirvana.local-copy/admin/settings.php:949 nirvana/admin/settings.php:949
+msgid "Menu Text"
+msgstr "טקסט התפריט"
+
+#: New Folder/nirvana/admin/settings.php:952
+#: nirvana.local-copy/admin/settings.php:952 nirvana/admin/settings.php:952
+msgid "Submenu:"
+msgstr "תת תפריט:"
+
+#: New Folder/nirvana/admin/settings.php:953
+#: nirvana.local-copy/admin/settings.php:953 nirvana/admin/settings.php:953
+msgid "Submenu Background"
+msgstr "רקע תת התפריט"
+
+#: New Folder/nirvana/admin/settings.php:954
+#: nirvana.local-copy/admin/settings.php:954 nirvana/admin/settings.php:954
+msgid "Submenu Text"
+msgstr "טקסט תת-תפריט"
+
+#: New Folder/nirvana/admin/settings.php:955
+#: nirvana.local-copy/admin/settings.php:955 nirvana/admin/settings.php:955
+msgid "Submenu Shadow"
+msgstr "צל תת התפריט"
+
+#: New Folder/nirvana/admin/settings.php:957
+#: nirvana.local-copy/admin/settings.php:957 nirvana/admin/settings.php:957
+msgid "These colours apply to the main site menu (and dropdown elements)."
+msgstr ""
+"הצבעים האלה יוכלו על התפריט הראשי של האתר (ועל הרכיבים הנגללים מטה שלו)."
+
+#: New Folder/nirvana/admin/settings.php:963
+#: nirvana.local-copy/admin/settings.php:963 nirvana/admin/settings.php:963
+msgid "Top Bar Background"
+msgstr "רקע הסרגל העליון"
+
+#: New Folder/nirvana/admin/settings.php:965
+#: nirvana.local-copy/admin/settings.php:965 nirvana/admin/settings.php:965
+msgid "Top Bar Menu Link"
+msgstr "קישור לתפריט בסרגל עליון"
+
+#: New Folder/nirvana/admin/settings.php:966
+#: nirvana.local-copy/admin/settings.php:966 nirvana/admin/settings.php:966
+msgid "Top Bar Menu Link Hover"
+msgstr "צבע קישור בתפריט עליון במעבר על (Hover)"
+
+#: New Folder/nirvana/admin/settings.php:967
+#: nirvana.local-copy/admin/settings.php:967 nirvana/admin/settings.php:967
+msgid "These colours apply to the top bar menu."
+msgstr "הצבעים האלו מוכלים על התפריט בסרגל העליון."
+
+#: New Folder/nirvana/admin/settings.php:972
+#: nirvana.local-copy/admin/settings.php:972 nirvana/admin/settings.php:972
+msgid "Content Background"
+msgstr "רקע התוכן"
+
+#: New Folder/nirvana/admin/settings.php:973
+#: nirvana.local-copy/admin/settings.php:973 nirvana/admin/settings.php:973
+msgid "Page/Post Title"
+msgstr "כותרת עמוד/פוסט"
+
+#: New Folder/nirvana/admin/settings.php:974
+#: nirvana.local-copy/admin/settings.php:974 nirvana/admin/settings.php:974
+msgid "Page/Post Title Hover"
+msgstr "כותרת עמוד/פוסט במעבר על"
+
+#: New Folder/nirvana/admin/settings.php:975
+#: nirvana.local-copy/admin/settings.php:975 nirvana/admin/settings.php:975
+msgid "Content Headings"
+msgstr "תוכן הכותרת"
+
+#: New Folder/nirvana/admin/settings.php:976
+#: nirvana.local-copy/admin/settings.php:976 nirvana/admin/settings.php:976
+msgid "Content colours apply to post and page areas of the site."
+msgstr "צבעי התוכן מוכלים על אזורי הפוסטים והעמודים של האתר."
+
+#: New Folder/nirvana/admin/settings.php:981
+#: nirvana.local-copy/admin/settings.php:981 nirvana/admin/settings.php:981
+msgid "Slider:"
+msgstr "מצגת/שיקופית:"
+
+#: New Folder/nirvana/admin/settings.php:982
+#: nirvana.local-copy/admin/settings.php:982 nirvana/admin/settings.php:982
+msgid "Slider Background Color"
+msgstr "צבע רקע המצגת (Slider)"
+
+#: New Folder/nirvana/admin/settings.php:983
+#: nirvana.local-copy/admin/settings.php:983 nirvana/admin/settings.php:983
+msgid "Slider Border Color"
+msgstr "צבע גבול המצגת"
+
+#: New Folder/nirvana/admin/settings.php:984
+#: nirvana.local-copy/admin/settings.php:984 nirvana/admin/settings.php:984
+msgid "Slider Caption Text Color"
+msgstr "צבע טקסט כותרת המצגת"
+
+#: New Folder/nirvana/admin/settings.php:985
+#: nirvana.local-copy/admin/settings.php:985 nirvana/admin/settings.php:985
+msgid "Slider Caption Background"
+msgstr "רקע כותרת המצגת"
+
+#: New Folder/nirvana/admin/settings.php:986
+#: nirvana.local-copy/admin/settings.php:986 nirvana/admin/settings.php:986
+msgid "Areas:"
+msgstr "אזורים:"
+
+#: New Folder/nirvana/admin/settings.php:987
+#: nirvana.local-copy/admin/settings.php:987 nirvana/admin/settings.php:987
+msgid "Text Area 1 Background Color"
+msgstr "צבע הרקע של אזור טקסט מס' 1"
+
+#: New Folder/nirvana/admin/settings.php:988
+#: nirvana.local-copy/admin/settings.php:988 nirvana/admin/settings.php:988
+msgid "Text Area 2 Background Color"
+msgstr "צבע הרקע של אזור טקסט מס' 2"
+
+#: New Folder/nirvana/admin/settings.php:989
+#: nirvana.local-copy/admin/settings.php:989 nirvana/admin/settings.php:989
+msgid "Text Area 3 Background Color"
+msgstr "צבע הרקע של אזור טקסט מס' 3"
+
+#: New Folder/nirvana/admin/settings.php:990
+#: nirvana.local-copy/admin/settings.php:990 nirvana/admin/settings.php:990
+msgid "Columns Background Color"
+msgstr "צבע רקע העמודות"
+
+#: New Folder/nirvana/admin/settings.php:992
+#: nirvana.local-copy/admin/settings.php:992 nirvana/admin/settings.php:992
+msgid "Titles Color"
+msgstr "צבע הכותרות"
+
+#: New Folder/nirvana/admin/settings.php:993
+#: nirvana.local-copy/admin/settings.php:993 nirvana/admin/settings.php:993
+msgid "These colours apply to specific areas of the presentation page."
+msgstr "הצבעים האלה מוכלים לאזורים ספציפיים של עמוד הפרזנטציה."
+
+#: New Folder/nirvana/admin/settings.php:999
+#: nirvana.local-copy/admin/settings.php:999 nirvana/admin/settings.php:999
+msgid "Sidebars Background"
+msgstr "רקע סרגלי הצד"
+
+#: New Folder/nirvana/admin/settings.php:1000
+#: nirvana.local-copy/admin/settings.php:1000 nirvana/admin/settings.php:1000
+msgid "Sidebars Widget Title Background"
+msgstr "צבע הרקע של כותרות הווידג'טים בסרגלי הצד"
+
+#: New Folder/nirvana/admin/settings.php:1002
+#: nirvana.local-copy/admin/settings.php:1002 nirvana/admin/settings.php:1002
+msgid "Sidebars Text"
+msgstr "טקסט סרגלי הצד"
+
+#: New Folder/nirvana/admin/settings.php:1003
+#: nirvana.local-copy/admin/settings.php:1003 nirvana/admin/settings.php:1003
+msgid "Sidebars Widget Title Text"
+msgstr "צבע הטקסט של כותרת הווידג'טים בסרגלי הצד"
+
+#: New Folder/nirvana/admin/settings.php:1004
+#: nirvana.local-copy/admin/settings.php:1004 nirvana/admin/settings.php:1004
+msgid "These colours apply to the widgets placed in either sidebar."
+msgstr "הצבעים האלה יוכלו על הווידג'טים בסרגלי הצד."
+
+#: New Folder/nirvana/admin/settings.php:1010
+#: nirvana.local-copy/admin/settings.php:1010 nirvana/admin/settings.php:1010
+msgid "Footer Widgets Background"
+msgstr "צבע הרקע של הווידג'טים בתחתית"
+
+#: New Folder/nirvana/admin/settings.php:1011
+#: nirvana.local-copy/admin/settings.php:1011 nirvana/admin/settings.php:1011
+msgid "Footer Widgets Title Background"
+msgstr "צבע הרקע של כותרות הווידג'טים בתחתית"
+
+#: New Folder/nirvana/admin/settings.php:1013
+#: nirvana.local-copy/admin/settings.php:1013 nirvana/admin/settings.php:1013
+msgid "Footer Widget Text"
+msgstr "טקסט בווידג'טים התחתיים"
+
+#: New Folder/nirvana/admin/settings.php:1014
+#: nirvana.local-copy/admin/settings.php:1014 nirvana/admin/settings.php:1014
+msgid "Footer Widgets Title Text"
+msgstr "צבע הטקסט של כותרות הווידג'טים בתחתית"
+
+#: New Folder/nirvana/admin/settings.php:1015
+#: nirvana.local-copy/admin/settings.php:1015 nirvana/admin/settings.php:1015
+msgid "These colours apply to the widgets in the footer area."
+msgstr "הצבעים האלה יוכלו על הווידג'טים באזור התחתון."
+
+#: New Folder/nirvana/admin/settings.php:1020
+#: nirvana.local-copy/admin/settings.php:1020 nirvana/admin/settings.php:1020
+msgid "General:"
+msgstr "כללי:"
+
+#: New Folder/nirvana/admin/settings.php:1021
+#: nirvana.local-copy/admin/settings.php:1021 nirvana/admin/settings.php:1021
+msgid "General Links"
+msgstr "קישורים כלליים"
+
+#: New Folder/nirvana/admin/settings.php:1022
+#: nirvana.local-copy/admin/settings.php:1022 nirvana/admin/settings.php:1022
+msgid "General Links Hover"
+msgstr "מעבר על קישורים כללים"
+
+#: New Folder/nirvana/admin/settings.php:1023
+#: nirvana.local-copy/admin/settings.php:1023 nirvana/admin/settings.php:1023
+msgid "Sidebar Widgets:"
+msgstr "ווידג'טים של סרגלי הצד:"
+
+#: New Folder/nirvana/admin/settings.php:1024
+#: nirvana.local-copy/admin/settings.php:1024 nirvana/admin/settings.php:1024
+msgid "Sidebar Widgets Links"
+msgstr "קישורי הווידג'טים של סרגלי הצד"
+
+#: New Folder/nirvana/admin/settings.php:1025
+#: nirvana.local-copy/admin/settings.php:1025 nirvana/admin/settings.php:1025
+msgid "Sidebar Widgets Links Hover"
+msgstr "צבע הקישורים של הווידג'טים בסרגלי הצד במעבר על (Hover)"
+
+#: New Folder/nirvana/admin/settings.php:1026
+#: nirvana.local-copy/admin/settings.php:1026 nirvana/admin/settings.php:1026
+msgid "Footer Widgets:"
+msgstr "ווידג'טים בתחתית:"
+
+#: New Folder/nirvana/admin/settings.php:1027
+#: nirvana.local-copy/admin/settings.php:1027 nirvana/admin/settings.php:1027
+msgid "Footer Widgets Links"
+msgstr "קישורי הווידג'טים בתחתית"
+
+#: New Folder/nirvana/admin/settings.php:1028
+#: nirvana.local-copy/admin/settings.php:1028 nirvana/admin/settings.php:1028
+msgid "Footer Widgets Links Hover"
+msgstr "צבע הקישורים במעבר על בווידג'טים בתחתית"
+
+#: New Folder/nirvana/admin/settings.php:1029
+#: nirvana.local-copy/admin/settings.php:1029 nirvana/admin/settings.php:1029
+msgid "Footer:"
+msgstr "תחתי (footer):"
+
+#: New Folder/nirvana/admin/settings.php:1030
+#: nirvana.local-copy/admin/settings.php:1030 nirvana/admin/settings.php:1030
+msgid "Footer Links"
+msgstr "צבע הקישורים בתחתית"
+
+#: New Folder/nirvana/admin/settings.php:1031
+#: nirvana.local-copy/admin/settings.php:1031 nirvana/admin/settings.php:1031
+msgid "Footer Links Hover"
+msgstr "צבע הקישורים בתחתית במעבר על"
+
+#: New Folder/nirvana/admin/settings.php:1032
+#: nirvana.local-copy/admin/settings.php:1032 nirvana/admin/settings.php:1032
+msgid "Footer colours include the footer menu colours."
+msgstr "צבעי האזור התחתון כולל צבעי התפריט התחתון."
+
+#: New Folder/nirvana/admin/settings.php:1037
+#: nirvana.local-copy/admin/settings.php:1037 nirvana/admin/settings.php:1037
+msgid "Meta Icons"
+msgstr "אייקוני המטה (Meta)"
+
+#: New Folder/nirvana/admin/settings.php:1038
+#: nirvana.local-copy/admin/settings.php:1038 nirvana/admin/settings.php:1038
+msgid "Meta Links"
+msgstr "קישורי המטה (Meta)"
+
+#: New Folder/nirvana/admin/settings.php:1039
+#: nirvana.local-copy/admin/settings.php:1039 nirvana/admin/settings.php:1039
+msgid "Meta Links Hover"
+msgstr "במעבר על קישורי המטה (Meta)"
+
+#: New Folder/nirvana/admin/settings.php:1040
+#: nirvana.local-copy/admin/settings.php:1040 nirvana/admin/settings.php:1040
+msgid "Colours for your meta area (post information)."
+msgstr "הצבעים לאזור המטה (Meta) שלכם (מידע הפוסט)."
+
+#: New Folder/nirvana/admin/settings.php:1045
+#: nirvana.local-copy/admin/settings.php:1045 nirvana/admin/settings.php:1045
+msgid "Social Icons Background"
+msgstr "רקע האייקונים של הרשתות החברתיות"
+
+#: New Folder/nirvana/admin/settings.php:1046
+#: nirvana.local-copy/admin/settings.php:1046 nirvana/admin/settings.php:1046
+msgid "Social Icons Background Hover"
+msgstr "רקע האייקונים של הרשתות החברתיות במעבר על"
+
+#: New Folder/nirvana/admin/settings.php:1047
+#: nirvana.local-copy/admin/settings.php:1047 nirvana/admin/settings.php:1047
+msgid "Background colours for your social icons."
+msgstr "צבע רקע עבור אייקוני המדיה החברתית."
+
+#: New Folder/nirvana/admin/settings.php:1053
+#: nirvana.local-copy/admin/settings.php:1053 nirvana/admin/settings.php:1053
+msgid "Light"
+msgstr "בהיר"
+
+#: New Folder/nirvana/admin/settings.php:1053
+#: nirvana.local-copy/admin/settings.php:1053 nirvana/admin/settings.php:1053
+msgid "Dark"
+msgstr "חשוך"
+
+#: New Folder/nirvana/admin/settings.php:1053
+#: nirvana.local-copy/admin/settings.php:1053 nirvana/admin/settings.php:1053
+msgid "Simple"
+msgstr "פשוט"
+
+#: New Folder/nirvana/admin/settings.php:1061
+#: nirvana.local-copy/admin/settings.php:1061 nirvana/admin/settings.php:1061
+msgid ""
+"This setting changes the look of your captions. Images that are not inserted "
+"through captions will not be affected."
+msgstr ""
+"ההגדרה הזו משנה את המראה של הכותרות שלכם. תמונות שאינן מוכנסות דרך כותרות לא "
+"יושפעו."
+
+#: New Folder/nirvana/admin/settings.php:1074
+#: nirvana.local-copy/admin/settings.php:1074 nirvana/admin/settings.php:1074
+msgid "Normal"
+msgstr "נורמלי"
+
+#: New Folder/nirvana/admin/settings.php:1074
+#: nirvana.local-copy/admin/settings.php:1074 nirvana/admin/settings.php:1074
+msgid "Fixed"
+msgstr "קבוע"
+
+#: New Folder/nirvana/admin/settings.php:1074
+#: Folder/nirvana/admin/settings.php:1183
+#: Folder/nirvana/admin/settings.php:1198
+#: Folder/nirvana/admin/settings.php:1248
+#: Folder/nirvana/admin/settings.php:1297
+#: Folder/nirvana/admin/settings.php:1328
+#: nirvana.local-copy/admin/settings.php:1074
+#: nirvana.local-copy/admin/settings.php:1183
+#: nirvana.local-copy/admin/settings.php:1198
+#: nirvana.local-copy/admin/settings.php:1248
+#: nirvana.local-copy/admin/settings.php:1297
+#: nirvana.local-copy/admin/settings.php:1328 nirvana/admin/settings.php:1074
+#: nirvana/admin/settings.php:1183 nirvana/admin/settings.php:1198
+#: nirvana/admin/settings.php:1248 nirvana/admin/settings.php:1297
+#: nirvana/admin/settings.php:1328
+msgid "Hide"
+msgstr "הסתר"
+
+#: New Folder/nirvana/admin/settings.php:1084
+#: nirvana.local-copy/admin/settings.php:1084 nirvana/admin/settings.php:1084
+msgid "Site width"
+msgstr "רוחב האתר"
+
+#: New Folder/nirvana/admin/settings.php:1084
+#: nirvana.local-copy/admin/settings.php:1084 nirvana/admin/settings.php:1084
+msgid "Full width"
+msgstr "רוחב מלא"
+
+#: New Folder/nirvana/admin/settings.php:1093
+#: nirvana.local-copy/admin/settings.php:1093 nirvana/admin/settings.php:1093
+msgid "Show the topbar that can include social icons and the top menu."
+msgstr ""
+"הצג את הסרגל העליון שיכול להכיל את האייקונים של המדיה החברתית ואת התפריט "
+"העליון."
+
+#: New Folder/nirvana/admin/settings.php:1108
+#: nirvana.local-copy/admin/settings.php:1108 nirvana/admin/settings.php:1108
+msgid ""
+"Show breadcrumbs at the top of the content area. Breadcrumbs are a form of "
+"navigation that keeps track of your location withtin the site."
+msgstr ""
+"הצג את שביל פירורי הלחם בחלק העליון של התוכן. פרורי הלחם הם סוג של ניווט "
+"ששומר מעקב על המיקום שלכם באתר."
+
+#: New Folder/nirvana/admin/settings.php:1123
+#: nirvana.local-copy/admin/settings.php:1123 nirvana/admin/settings.php:1123
+msgid ""
+"Show numbered pagination. Where there is more than one page, instead of the "
+"bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered "
+"pagination. "
+msgstr ""
+"הצג מספור עימודים. היכן שיש יותר מעמוד אחד, במקום הכפתורים <b>פוסטים ישנים</"
+"b> ו<b>פוסטים חדשים</b> יוצג מספר העמודים."
+
+#: New Folder/nirvana/admin/settings.php:1129
+#: nirvana.local-copy/admin/settings.php:1129 nirvana/admin/settings.php:1129
+msgid "Right (multiline)"
+msgstr "ימין (רב-שורות)"
+
+#: New Folder/nirvana/admin/settings.php:1137
+#: nirvana.local-copy/admin/settings.php:1137 nirvana/admin/settings.php:1137
+msgid "Sets the desired menu items alignment."
+msgstr "מגדיר את מיקום רכיבי התפריט."
+
+#: New Folder/nirvana/admin/settings.php:1143
+#: nirvana.local-copy/admin/settings.php:1143 nirvana/admin/settings.php:1143
+msgid "Top Menu"
+msgstr "תפריט עליון"
+
+#: New Folder/nirvana/admin/settings.php:1143
+#: nirvana.local-copy/admin/settings.php:1143 nirvana/admin/settings.php:1143
+msgid "Footer Menu"
+msgstr "תפריט תחתון"
+
+#: New Folder/nirvana/admin/settings.php:1152
+#: nirvana.local-copy/admin/settings.php:1152 nirvana/admin/settings.php:1152
+msgid "Select the menus where to add a search bar."
+msgstr "בחרו את התפריטים בהם תרצו להוסיף את חלון החיפוש."
+
+#: New Folder/nirvana/admin/settings.php:1157
+#: nirvana.local-copy/admin/settings.php:1157 nirvana/admin/settings.php:1157
+msgid "Margin top: "
+msgstr "שוליים למעלה:"
+
+#: New Folder/nirvana/admin/settings.php:1158
+#: nirvana.local-copy/admin/settings.php:1158 nirvana/admin/settings.php:1158
+msgid ""
+"Set the margin between the content and the menu. It can be set to 0px if you "
+"want the content area and menu to join."
+msgstr ""
+"מגדיר את השוליים בין התוכן והתפריט. זה יכול להיות מוגדר ל- 0px אם אתם רוצים "
+"שהתוכן והתפריט יהיו מחוברים."
+
+#: New Folder/nirvana/admin/settings.php:1160
+#: nirvana.local-copy/admin/settings.php:1160 nirvana/admin/settings.php:1160
+msgid "Padding left/right: "
+msgstr "ריפוד שמאלה/ימינה:"
+
+#: New Folder/nirvana/admin/settings.php:1161
+#: nirvana.local-copy/admin/settings.php:1161 nirvana/admin/settings.php:1161
+msgid ""
+"Set the left/right padding around the content area. Only works with Boxed "
+"layouts."
+msgstr ""
+"מגדיר את הריפוד מימין/שמאל לאשור התוכן. עובד רק בפריסת קופסא (לא רחבה)."
+
+#: New Folder/nirvana/admin/settings.php:1176
+#: nirvana.local-copy/admin/settings.php:1176 nirvana/admin/settings.php:1176
+msgid ""
+"The border style for your images. Only images inserted in your posts and "
+"pages will be affected. "
+msgstr ""
+"סגנון הגבול לתמונות שלכם. רק תמונות שהוכנסו לפוסטים ולעמודים יושפעו מהגדרה "
+"זו."
+
+#: New Folder/nirvana/admin/settings.php:1183
+#: Folder/nirvana/admin/settings.php:1198
+#: Folder/nirvana/admin/settings.php:1297
+#: Folder/nirvana/admin/settings.php:1312
+#: Folder/nirvana/admin/settings.php:1328
+#: nirvana.local-copy/admin/settings.php:1183
+#: nirvana.local-copy/admin/settings.php:1198
+#: nirvana.local-copy/admin/settings.php:1297
+#: nirvana.local-copy/admin/settings.php:1312
+#: nirvana.local-copy/admin/settings.php:1328 nirvana/admin/settings.php:1183
+#: nirvana/admin/settings.php:1198 nirvana/admin/settings.php:1297
+#: nirvana/admin/settings.php:1312 nirvana/admin/settings.php:1328
+msgid "Show"
+msgstr "הראה"
+
+#: New Folder/nirvana/admin/settings.php:1191
+#: nirvana.local-copy/admin/settings.php:1191 nirvana/admin/settings.php:1191
+msgid "Hide or show titles on pages."
+msgstr "הסתר או הצג כותרות בעמודים."
+
+#: New Folder/nirvana/admin/settings.php:1206
+#: nirvana.local-copy/admin/settings.php:1206 nirvana/admin/settings.php:1206
+msgid "Hide or show titles on Categories and Archives."
+msgstr "הסתר או הצג כותרות  בקטגוריות וארכיב."
+
+#: New Folder/nirvana/admin/settings.php:1221
+#: nirvana.local-copy/admin/settings.php:1221 nirvana/admin/settings.php:1221
+msgid "Hide table borders and background color."
+msgstr "הסתר את צבעי הגבולות והרקע של הטבלה."
+
+#: New Folder/nirvana/admin/settings.php:1237
+#: nirvana.local-copy/admin/settings.php:1237 nirvana/admin/settings.php:1237
+msgid ""
+"Enable the Back to Top button. The button appears after scrolling the page "
+"down."
+msgstr ""
+"אפשרו את כפתור \"חזור למעלה\". הכפתור יופיע לאחר תחילת הגלילה של העמוד למטה."
+
+#: New Folder/nirvana/admin/settings.php:1248
+#: nirvana.local-copy/admin/settings.php:1248 nirvana/admin/settings.php:1248
+msgid "Top"
+msgstr "עליון"
+
+#: New Folder/nirvana/admin/settings.php:1248
+#: nirvana.local-copy/admin/settings.php:1248 nirvana/admin/settings.php:1248
+msgid "Bottom"
+msgstr "תחתון"
+
+#: New Folder/nirvana/admin/settings.php:1256
+#: nirvana.local-copy/admin/settings.php:1256 nirvana/admin/settings.php:1256
+msgid ""
+"The position of your meta bar (author, date, category, tags and edit button)."
+msgstr ""
+"מיקום סרגל המטה שלכם (Meta) שמכיל את (המחבר, התאריך, הקטגוריה, התגיות וכפתור "
+"העריכה)."
+
+#: New Folder/nirvana/admin/settings.php:1263
+#: Folder/nirvana/admin/settings.php:1279
+#: nirvana.local-copy/admin/settings.php:1263
+#: nirvana.local-copy/admin/settings.php:1279 nirvana/admin/settings.php:1263
+#: nirvana/admin/settings.php:1279
+msgid "Author"
+msgstr "מחבר"
+
+#: New Folder/nirvana/admin/settings.php:1263
+#: Folder/nirvana/admin/settings.php:1279
+#: Folder/nirvana/includes/theme-loop.php:214
+#: nirvana.local-copy/admin/settings.php:1263
+#: nirvana.local-copy/admin/settings.php:1279
+#: nirvana.local-copy/includes/theme-loop.php:214
+#: nirvana/admin/settings.php:1263 nirvana/admin/settings.php:1279
+#: nirvana/includes/theme-loop.php:214
+msgid "Date"
+msgstr "תאריך"
+
+#: New Folder/nirvana/admin/settings.php:1263
+#: Folder/nirvana/admin/settings.php:1279
+#: nirvana.local-copy/admin/settings.php:1263
+#: nirvana.local-copy/admin/settings.php:1279 nirvana/admin/settings.php:1263
+#: nirvana/admin/settings.php:1279
+msgid "Time"
+msgstr "שעה"
+
+#: New Folder/nirvana/admin/settings.php:1263
+#: Folder/nirvana/admin/settings.php:1279
+#: nirvana.local-copy/admin/settings.php:1263
+#: nirvana.local-copy/admin/settings.php:1279 nirvana/admin/settings.php:1263
+#: nirvana/admin/settings.php:1279
+msgid "Category"
+msgstr "קטגוריה"
+
+#: New Folder/nirvana/admin/settings.php:1263
+#: Folder/nirvana/admin/settings.php:1279
+#: nirvana.local-copy/admin/settings.php:1263
+#: nirvana.local-copy/admin/settings.php:1279 nirvana/admin/settings.php:1263
+#: nirvana/admin/settings.php:1279
+msgid "Tag"
+msgstr "תגית"
+
+#: New Folder/nirvana/admin/settings.php:1263
+#: Folder/nirvana/includes/theme-comments.php:88
+#: nirvana.local-copy/admin/settings.php:1263
+#: nirvana.local-copy/includes/theme-comments.php:88
+#: nirvana/admin/settings.php:1263 nirvana/includes/theme-comments.php:88
+msgid "Comments"
+msgstr "תגובות"
+
+#: New Folder/nirvana/admin/settings.php:1272
+#: nirvana.local-copy/admin/settings.php:1272 nirvana/admin/settings.php:1272
+msgid ""
+"Choose the post metas you want to show on multiple post pages (home, blog, "
+"category, archive etc.)"
+msgstr ""
+"בחרו את מטות הפוסט (Meta) שתרצו להציג במספר עמודי פוסטים (עמוד הבית, בלוג, "
+"קטגוריה, ארכיב וכו' )."
+
+#: New Folder/nirvana/admin/settings.php:1279
+#: Folder/nirvana/includes/theme-loop.php:311
+#: nirvana.local-copy/admin/settings.php:1279
+#: nirvana.local-copy/includes/theme-loop.php:311
+#: nirvana/admin/settings.php:1279 nirvana/includes/theme-loop.php:311
+msgid "Bookmark"
+msgstr "סימנייה"
+
+#: New Folder/nirvana/admin/settings.php:1288
+#: nirvana.local-copy/admin/settings.php:1288 nirvana/admin/settings.php:1288
+msgid "Choose the post metas you want to show on sigle post pages."
+msgstr "בחרו את מטות הפוסט (Meta) שתרצו להציג בעמודי פוסט בודד."
+
+#: New Folder/nirvana/admin/settings.php:1305
+#: nirvana.local-copy/admin/settings.php:1305 nirvana/admin/settings.php:1305
+msgid ""
+"Hide the explanatory text under the comments form (starts with  <i>You may "
+"use these HTML tags and attributes:...</i>)."
+msgstr ""
+"הסתר את טקסט ההסבר תחת טופס התגובות (מתחיל ב- <I> אתם יכולים להשתמש בתגי ה-"
+"HTML הבאים...</I>)."
+
+#: New Folder/nirvana/admin/settings.php:1312
+#: nirvana.local-copy/admin/settings.php:1312 nirvana/admin/settings.php:1312
+msgid "Hide in posts"
+msgstr "הסתר בפוסטים"
+
+#: New Folder/nirvana/admin/settings.php:1312
+#: nirvana.local-copy/admin/settings.php:1312 nirvana/admin/settings.php:1312
+msgid "Hide in pages"
+msgstr "הסתר בעמודים"
+
+#: New Folder/nirvana/admin/settings.php:1312
+#: nirvana.local-copy/admin/settings.php:1312 nirvana/admin/settings.php:1312
+msgid "Hide everywhere"
+msgstr "הסתר בכל מקום"
+
+#: New Folder/nirvana/admin/settings.php:1320
+#: nirvana.local-copy/admin/settings.php:1320 nirvana/admin/settings.php:1320
+msgid ""
+"Hide the <b>Comments are closed</b> text that by default shows up on pages "
+"or posts with comments disabled."
+msgstr ""
+"הסתר את הטקסט <b>התגובות סגורות</b> שכברירת מחדל מופיע בעמודים או פוסטים בהם "
+"התגובות אינן מאופשרות."
+
+#: New Folder/nirvana/admin/settings.php:1336
+#: nirvana.local-copy/admin/settings.php:1336 nirvana/admin/settings.php:1336
+msgid ""
+"Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr ""
+"הסתר את הטקסט <b>התגובות כבויות </b>ליד פוסטים שבהם התגובות אינן מאופשרות."
+
+#: New Folder/nirvana/admin/settings.php:1348
+#: Folder/nirvana/admin/settings.php:1363
+#: Folder/nirvana/admin/settings.php:1379
+#: nirvana.local-copy/admin/settings.php:1348
+#: nirvana.local-copy/admin/settings.php:1363
+#: nirvana.local-copy/admin/settings.php:1379 nirvana/admin/settings.php:1348
+#: nirvana/admin/settings.php:1363 nirvana/admin/settings.php:1379
+msgid "Excerpt"
+msgstr "מובאה"
+
+#: New Folder/nirvana/admin/settings.php:1348
+#: Folder/nirvana/admin/settings.php:1363
+#: Folder/nirvana/admin/settings.php:1379
+#: nirvana.local-copy/admin/settings.php:1348
+#: nirvana.local-copy/admin/settings.php:1363
+#: nirvana.local-copy/admin/settings.php:1379 nirvana/admin/settings.php:1348
+#: nirvana/admin/settings.php:1363 nirvana/admin/settings.php:1379
+msgid "Full Post"
+msgstr "הפוסט המלא"
+
+#: New Folder/nirvana/admin/settings.php:1356
+#: nirvana.local-copy/admin/settings.php:1356 nirvana/admin/settings.php:1356
+msgid ""
+"Excerpts on the main page. Only standard posts will be affected. All other "
+"post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr ""
+"תקצירי פוסטים בעמוד ראשי. רק פוסטים סטנדרטיים יושפעו מהגדרה זו. לכל סוגי "
+"הפוסטים האחרים (תמונה, צ'ט, ציטוט וכו') יש את הפורמט שלהם."
+
+#: New Folder/nirvana/admin/settings.php:1371
+#: nirvana.local-copy/admin/settings.php:1371 nirvana/admin/settings.php:1371
+msgid ""
+"Choose if you want the sticky posts on your home page to be visible in full "
+"or just the excerpts. "
+msgstr ""
+"בחרו האם תרצו שהפוסטים הדביקים בעמוד הבית שלכם יוצגו במלואם או רק תקצירים."
+
+#: New Folder/nirvana/admin/settings.php:1387
+#: nirvana.local-copy/admin/settings.php:1387 nirvana/admin/settings.php:1387
+msgid ""
+"Excerpts on archive, categroy and search pages. Same as above, only standard "
+"posts will be affected."
+msgstr ""
+"מובאות בארכיון, קטגוריות ועמודי חיפוש. כמו למעלה, רק פוסטים סטנדרטיים יושפעו."
+
+#: New Folder/nirvana/admin/settings.php:1396
+#: nirvana.local-copy/admin/settings.php:1396 nirvana/admin/settings.php:1396
+msgid "Words"
+msgstr "מילים"
+
+#: New Folder/nirvana/admin/settings.php:1396
+#: nirvana.local-copy/admin/settings.php:1396 nirvana/admin/settings.php:1396
+msgid "Characters"
+msgstr "תווים (אותיות)"
+
+#: New Folder/nirvana/admin/settings.php:1404
+#: nirvana.local-copy/admin/settings.php:1404 nirvana/admin/settings.php:1404
+msgid ""
+"The number of characters/words for excerpts. When that number is reached the "
+"post will be interrupted by a <i>Continue reading</i> link that will take "
+"the reader to the full post page."
+msgstr ""
+"מספר התווים/אותיות לתקצירי הפוסטים. כאשר מספר המילים הגיע למספר המוגדר הטקסט "
+"ייעצר על ידי קישור<i> \"המשיכו לקרוא\"</i> אשר יעביר את הקורא לעמוד הפוסט "
+"המלא."
+
+#: New Folder/nirvana/admin/settings.php:1419
+#: nirvana.local-copy/admin/settings.php:1419 nirvana/admin/settings.php:1419
+msgid ""
+"Enable the Magazine Layout. This layout applies to pages with posts and "
+"shows 2 posts per row."
+msgstr ""
+"אפשר את פריסת המגזין. פריסה זו מוכלת על עמודים עם פוסטים ומציגה 2 פוסטים "
+"בשורה."
+
+#: New Folder/nirvana/admin/settings.php:1426
+#: nirvana.local-copy/admin/settings.php:1426 nirvana/admin/settings.php:1426
+msgid ""
+"Replaces the three dots ('[...])' that are appended automatically to "
+"excerpts."
+msgstr "מחליף את 3 הנקודות (...) שמתווספות אוטומטית למובאות."
+
+#: New Folder/nirvana/admin/settings.php:1433
+#: nirvana.local-copy/admin/settings.php:1433 nirvana/admin/settings.php:1433
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr "ערכו את בקישור \"המשיכו לקרוא\" שמתווסף לתקצירי הפוסטים שלכם."
+
+#: New Folder/nirvana/admin/settings.php:1448 nirvana/admin/settings.php:1448
+msgid ""
+"By default WordPress excerpts remove all HTML tags (&lt;pre&gt;, &lt;a&gt;, "
+"&lt;b&gt and all others) and only clean text is left in the excerpt.\r\n"
+"Enabling this option allows HTML tags to remain in excerpts so all your "
+"default formating will be kept.<br /> <b>Just a warning: </b>If HTML tags "
+"are enabled, you have to make sure\r\n"
+"they are not left open. So if within your post you have an opened HTML tag "
+"but the except ends before that tag closes, the rest of the site will be "
+"contained in that HTML tag. -- Leave 'Disable' if unsure -- "
+msgstr ""
+"כברירת מחדל, וורדפרס מסיר את כל תגי ה-HTML (&lt;pre&gt;, &lt;a&gt;, &lt;b&gt "
+"וכל האחרים) ומשאיר רק טקסט פשוט במובאות. הפעלת האופציה הזו תאפשר לתגי HRML "
+"להופיע במובאות כך שכל העיצובים שלכם יישמרו. <br> <b> רק אזהרה: </b> אם "
+"אפשרתם תגיות HTML אתם חייבים לוודא שסגרתם את הקוד במובאה. כך שאם בפוסט יש "
+"לכם תגיות HTML פתוחות אבל המובאה מסתיימת לפני סגירת תגית ה- HTML כל יתר האתר "
+"יושפע מזה. -- השאירו \"כבוי\" אם אינכם בטוחים."
+
+#: New Folder/nirvana/admin/settings.php:1474
+#: nirvana.local-copy/admin/settings.php:1474 nirvana/admin/settings.php:1474
+msgid "Link the thumbnail to the post"
+msgstr "קשר את התמונה הממוזערת לפוסט"
+
+#: New Folder/nirvana/admin/settings.php:1475
+#: nirvana.local-copy/admin/settings.php:1475 nirvana/admin/settings.php:1475
+msgid ""
+"Show featured images as thumbnails on posts. The images must be selected for "
+"each post in the Featured Image section."
+msgstr ""
+"הציגו תמונות ראשיות כתמונות ממוזערות של הפוסט. התמונות חייבות להבחר לכל פוסט "
+"בהגדרת \"תמונה ראשית\"."
+
+#: New Folder/nirvana/admin/settings.php:1490
+#: nirvana.local-copy/admin/settings.php:1490 nirvana/admin/settings.php:1490
+msgid ""
+"Show the first image that you inserted in a post as a thumbnail. If there is "
+"a Featured Image selected for that post, it will have priority."
+msgstr ""
+"הציגו את התמונה הראשונה שהכנסתם לפוסט כתמונה ממוזערת. אם ישנה \"תמונה ראשית"
+"\" לפוסט היא תועדף לתצוגה."
+
+#: New Folder/nirvana/admin/settings.php:1506
+#: nirvana.local-copy/admin/settings.php:1506 nirvana/admin/settings.php:1506
+msgid "Thumbnail alignment."
+msgstr "יישור תמונות ממוזערות."
+
+#: New Folder/nirvana/admin/settings.php:1513
+#: nirvana.local-copy/admin/settings.php:1513 nirvana/admin/settings.php:1513
+msgid "(width)"
+msgstr "(רוחב)"
+
+#: New Folder/nirvana/admin/settings.php:1514
+#: nirvana.local-copy/admin/settings.php:1514 nirvana/admin/settings.php:1514
+msgid "(height)"
+msgstr "(גובה)"
+
+#: New Folder/nirvana/admin/settings.php:1520
+#: nirvana.local-copy/admin/settings.php:1520 nirvana/admin/settings.php:1520
+msgid "Crop images to exact size."
+msgstr "חתכו את התמונות למידה מדויקת."
+
+#: New Folder/nirvana/admin/settings.php:1523
+#: nirvana.local-copy/admin/settings.php:1523 nirvana/admin/settings.php:1523
+msgid ""
+"The size (in pixels) for your thumbnails. By default imges will be scaled "
+"with aspect ratio kept. Choose to crop the images if you want the exact size."
+msgstr ""
+"הגודל (בפיקסלים) של התמונות הממוזערות שלכם. כברירת מחדל התמונות יותאמו תוך "
+"שמירה על פרופורציות. בחרו לקרופ את התמונות אם אתם רוצים מידה מדויקת."
+
+#: New Folder/nirvana/admin/settings.php:1539
+#: nirvana.local-copy/admin/settings.php:1539 nirvana/admin/settings.php:1539
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured "
+"image if you selected it as a Featured Image in the post and if it is bigger "
+"or at least equal to the current header size."
+msgstr ""
+"הציגו תמונות ראשיות הכותרת. הכותרת תוחלף בתמונה הראשית אם נבחרה כזו בפוסט "
+"ואם היא שווה בגודלה או גדולה יותר מגודל הכותרת."
+
+#: New Folder/nirvana/admin/settings.php:1550
+#: nirvana.local-copy/admin/settings.php:1550 nirvana/admin/settings.php:1550
+msgid ""
+"Select your desired Social network from the left dropdown menu and insert "
+"your corresponding address in the right input field. (ex: <i>http://www."
+"facebook.com/yourname</i> )"
+msgstr ""
+"בחרו את הרשת החברתית שתרצו מהתפריט הנגלל בצד ימין והכניסו את כתובת האינטרנט "
+"המתאימה בשדה בצד שמאל. (לדוגמא: <i>http://www.facebook.com/yourname</i>)"
+
+#: New Folder/nirvana/admin/settings.php:1551
+#: nirvana.local-copy/admin/settings.php:1551 nirvana/admin/settings.php:1551
+msgid ""
+"You can also choose if you want the link to open in a new window and what "
+"title to display while hovering over the icon."
+msgstr ""
+"אתם גם יכולים לבחור אם הקישור ייפתח בחלון חדש ואיזה טקסט יוצג בזמן המעבר על "
+"האייקון."
+
+#: New Folder/nirvana/admin/settings.php:1552
+#: nirvana.local-copy/admin/settings.php:1552 nirvana/admin/settings.php:1552
+msgid ""
+"You can show up to 5 different social icons from over 35 social networks."
+msgstr ""
+"אתם יכולים להציג 5 אייקונים שונים של מדיה חברתית מתוך יותר מ- 35 רשתות "
+"חברתיות."
+
+#: New Folder/nirvana/admin/settings.php:1553
+#: nirvana.local-copy/admin/settings.php:1553 nirvana/admin/settings.php:1553
+msgid "You can leave any number of inputs empty."
+msgstr "אתם יכולים להשאיר גם שדות ריקים."
+
+#: New Folder/nirvana/admin/settings.php:1554
+#: nirvana.local-copy/admin/settings.php:1554 nirvana/admin/settings.php:1554
+msgid ""
+"You can change the background for your social colors from the colors "
+"settings section."
+msgstr ""
+"אתם יכולים לשנות את צבע הרקע של אייקוני המדיה החברתית באזור הגדרות הצבעים."
+
+#: New Folder/nirvana/admin/settings.php:1572
+#: nirvana.local-copy/admin/settings.php:1572 nirvana/admin/settings.php:1572
+msgid "Social Network Link"
+msgstr "קישור לרשת החברתית"
+
+#: New Folder/nirvana/admin/settings.php:1577
+#: nirvana.local-copy/admin/settings.php:1577 nirvana/admin/settings.php:1577
+msgid "Open in new window"
+msgstr "פתח בחלון חדש"
+
+#: New Folder/nirvana/admin/settings.php:1579
+#: nirvana.local-copy/admin/settings.php:1579 nirvana/admin/settings.php:1579
+msgid "Social Network Title"
+msgstr "כותרת הרשת החברתית"
+
+#: New Folder/nirvana/admin/settings.php:1622
+#: nirvana.local-copy/admin/settings.php:1622 nirvana/admin/settings.php:1622
+msgid "Footer"
+msgstr "אזור תחתון (footer)"
+
+#: New Folder/nirvana/admin/settings.php:1626
+#: nirvana.local-copy/admin/settings.php:1626 nirvana/admin/settings.php:1626
+msgid "Left side"
+msgstr "צד שמאל"
+
+#: New Folder/nirvana/admin/settings.php:1630
+#: nirvana.local-copy/admin/settings.php:1630 nirvana/admin/settings.php:1630
+msgid "Right side"
+msgstr "צד ימין"
+
+#: New Folder/nirvana/admin/settings.php:1636
+#: Folder/nirvana/includes/theme-setup.php:254
+#: Folder/nirvana/sidebar-left.php:26
+#: nirvana.local-copy/admin/settings.php:1636
+#: nirvana.local-copy/includes/theme-setup.php:252
+#: nirvana.local-copy/sidebar-left.php:26 nirvana/admin/settings.php:1636
+#: nirvana/includes/theme-setup.php:252 nirvana/sidebar-left.php:26
+msgid "Left Sidebar"
+msgstr "סרגל צד שמאלי"
+
+#: New Folder/nirvana/admin/settings.php:1640
+#: Folder/nirvana/includes/theme-setup.php:265
+#: Folder/nirvana/sidebar-right.php:26
+#: nirvana.local-copy/admin/settings.php:1640
+#: nirvana.local-copy/includes/theme-setup.php:263
+#: nirvana.local-copy/sidebar-right.php:26 nirvana/admin/settings.php:1640
+#: nirvana/includes/theme-setup.php:263 nirvana/sidebar-right.php:26
+msgid "Right Sidebar"
+msgstr "סרגל צד ימני"
+
+#: New Folder/nirvana/admin/settings.php:1642
+#: nirvana.local-copy/admin/settings.php:1642 nirvana/admin/settings.php:1642
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr "בחרו את <b>האזורים</b> בהם תרצו להציג את האייקונים של המדיה החברתית."
+
+#: New Folder/nirvana/admin/settings.php:1655
+#: nirvana.local-copy/admin/settings.php:1655 nirvana/admin/settings.php:1655
+msgid ""
+"Insert custom text or HTML code that will appear in you footer. <br /> You "
+"can use HTML to insert links, images and special characters like &copy;."
+msgstr ""
+"הכניסו טקסט או קוד HTML מותאם אישית אשר יופיע בתחתית הבלוג שלכם. <br> אתם "
+"יכולים להשתמש ב- HTML על מנת להכניס קישורים, תמונות ואפילו סימנים מיוחדים "
+"כמו &copy;."
+
+#: New Folder/nirvana/admin/settings.php:1663
+#: nirvana.local-copy/admin/settings.php:1663 nirvana/admin/settings.php:1663
+msgid ""
+"Insert your custom CSS here. Any CSS declarations made here will overwrite "
+"Nirvana's (even the custom options specified right here in the Nirvana "
+"Settings page). <br /> Your custom CSS will be preserved when updating the "
+"theme."
+msgstr ""
+"הכניסו את קוד ה- CSS המותאם אישית שלכם פה. כל שינוי CSS שנעשה כאן עוקף כל "
+"CSS של נירוונה (אפילו שינויים מותאמים אישית שביצעתם בהגדרות נירוונה). <br> ה-"
+"CSS המותאם אישית שלכם יישמר בזמן עדכון ערכת הנושא."
+
+#: New Folder/nirvana/admin/settings.php:1670
+#: nirvana.local-copy/admin/settings.php:1670 nirvana/admin/settings.php:1670
+msgid ""
+"Insert your custom Javascript code here. (Google Analytics and any other "
+"forms of Analytic software)."
+msgstr ""
+"הכניסו את קוד הג'אוה שלכם פה.( גוגל אנאליטיקס וכל תוכנת אנאליטיקס אחרת)."
+
+#: New Folder/nirvana/admin/settings.php:1686
+#: nirvana.local-copy/admin/settings.php:1686 nirvana/admin/settings.php:1686
+msgid ""
+"Enable extra compatibility tag for older Internet Explorer versions. Turning "
+"this option on will trigger W3C validation errors."
+msgstr ""
+"מאפשר תג תאימות יתר לגירסאות אינטרנט אקספלורר ישנות. הפעלת אופציה זו תגרור "
+"שגיאות באימות הפניות W3C."
+
+#: New Folder/nirvana/admin/settings.php:1700
+#: nirvana.local-copy/admin/settings.php:1700 nirvana/admin/settings.php:1700
+msgid ""
+"Enable output from Nirvana's injection protection engine. Will display which "
+"extensions attempted to interfere with the theme. Uses some memory when "
+"enabled and a large number of injections are detected."
+msgstr ""
+"אפשר פלט ממנוע ההגנה נגד פריצות (Injection) של נירוונה. הפלט יציג אילו "
+"תוספות מנסות להפריע לערכת הנושא שלכם. משתמש בזיכרון מוגבר כאשר מופעל וכאשר "
+"מספר ניסיונות גבוה של הזרקות (פריצות) מתגלה."
+
+#: New Folder/nirvana/archive.php:26 nirvana.local-copy/archive.php:26
+#: nirvana/archive.php:26
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "ארכיונים יומיים: %s"
+
+#: New Folder/nirvana/archive.php:28 nirvana.local-copy/archive.php:28
+#: nirvana/archive.php:28
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "ארכיונים חודשיים: %s"
+
+#: New Folder/nirvana/archive.php:28 nirvana.local-copy/archive.php:28
+#: nirvana/archive.php:28
+msgid "F Y"
+msgstr "F Y"
+
+#: New Folder/nirvana/archive.php:30 nirvana.local-copy/archive.php:30
+#: nirvana/archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "ארכיונים שנתיים: %s"
+
+#: New Folder/nirvana/archive.php:30 nirvana.local-copy/archive.php:30
+#: nirvana/archive.php:30
+msgid "Y"
+msgstr "Y"
+
+#: New Folder/nirvana/archive.php:32 nirvana.local-copy/archive.php:32
+#: nirvana/archive.php:32
+msgid "Blog Archives"
+msgstr "ארכיוני הבלוג"
+
+#: New Folder/nirvana/archive.php:56 Folder/nirvana/author.php:71
+#: Folder/nirvana/category.php:49 Folder/nirvana/content/content-index.php:35
+#: Folder/nirvana/search.php:38 Folder/nirvana/tag.php:50
+#: Folder/nirvana/templates/template-blog.php:34
+#: nirvana.local-copy/archive.php:56 nirvana.local-copy/author.php:71
+#: nirvana.local-copy/category.php:49
+#: nirvana.local-copy/content/content-index.php:35
+#: nirvana.local-copy/search.php:38 nirvana.local-copy/tag.php:50
+#: nirvana.local-copy/templates/template-blog.php:34 nirvana/archive.php:56
+#: nirvana/author.php:71 nirvana/category.php:49
+#: nirvana/content/content-index.php:35 nirvana/search.php:38
+#: nirvana/tag.php:50 nirvana/templates/template-blog.php:34
+msgid "Nothing Found"
+msgstr "לא נמצא כלום"
+
+#: New Folder/nirvana/archive.php:60 Folder/nirvana/author.php:75
+#: Folder/nirvana/category.php:53 Folder/nirvana/content/content-index.php:39
+#: Folder/nirvana/tag.php:54 Folder/nirvana/templates/template-blog.php:38
+#: nirvana.local-copy/archive.php:60 nirvana.local-copy/author.php:75
+#: nirvana.local-copy/category.php:53
+#: nirvana.local-copy/content/content-index.php:39
+#: nirvana.local-copy/tag.php:54
+#: nirvana.local-copy/templates/template-blog.php:38 nirvana/archive.php:60
+#: nirvana/author.php:75 nirvana/category.php:53
+#: nirvana/content/content-index.php:39 nirvana/tag.php:54
+#: nirvana/templates/template-blog.php:38
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"מצטערים, אבל לא נמצאו תוצאות לארכיון המבוקש.  אולי חיפוש יעזור למצוא פוסט "
+"קשור."
+
+#: New Folder/nirvana/attachment.php:18 nirvana.local-copy/attachment.php:18
+#: nirvana/attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr "חזור אל %s"
+
+#: New Folder/nirvana/attachment.php:32 nirvana.local-copy/attachment.php:32
+#: nirvana/attachment.php:32
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "הגודל המלא הוא %s פיקסלים"
+
+#: New Folder/nirvana/attachment.php:35 nirvana.local-copy/attachment.php:35
+#: nirvana/attachment.php:35
+msgid "Link to full-size image"
+msgstr "קישור לתמונה בגודל מלא"
+
+#: New Folder/nirvana/attachment.php:75
+#: Folder/nirvana/content/content-page.php:23
+#: Folder/nirvana/includes/theme-loop.php:247 Folder/nirvana/single.php:49
+#: Folder/nirvana/templates/template-page-with-intro.php:17
+#: nirvana.local-copy/attachment.php:75
+#: nirvana.local-copy/content/content-page.php:23
+#: nirvana.local-copy/includes/theme-loop.php:247
+#: nirvana.local-copy/single.php:49
+#: nirvana.local-copy/templates/template-page-with-intro.php:17
+#: nirvana/attachment.php:75 nirvana/content/content-page.php:23
+#: nirvana/includes/theme-loop.php:247 nirvana/single.php:49
+#: nirvana/templates/template-page-with-intro.php:17
+msgid "Edit"
+msgstr "ערוך"
+
+#: New Folder/nirvana/attachment.php:86 nirvana.local-copy/attachment.php:86
+#: nirvana/attachment.php:86
+msgid "Continue reading"
+msgstr "המשיכו לקרוא"
+
+#: New Folder/nirvana/attachment.php:87
+#: Folder/nirvana/content/content-aside.php:30
+#: Folder/nirvana/content/content-audio.php:24
+#: Folder/nirvana/content/content-chat.php:29
+#: Folder/nirvana/content/content-gallery.php:51
+#: Folder/nirvana/content/content-image.php:23
+#: Folder/nirvana/content/content-link.php:29
+#: Folder/nirvana/content/content-page.php:22
+#: Folder/nirvana/content/content-quote.php:27
+#: Folder/nirvana/content/content-video.php:24
+#: Folder/nirvana/content/content.php:40 Folder/nirvana/content/content.php:56
+#: Folder/nirvana/single.php:27
+#: Folder/nirvana/templates/template-page-with-intro.php:16
+#: nirvana.local-copy/attachment.php:87
+#: nirvana.local-copy/content/content-aside.php:30
+#: nirvana.local-copy/content/content-audio.php:24
+#: nirvana.local-copy/content/content-chat.php:29
+#: nirvana.local-copy/content/content-gallery.php:51
+#: nirvana.local-copy/content/content-image.php:23
+#: nirvana.local-copy/content/content-link.php:29
+#: nirvana.local-copy/content/content-page.php:22
+#: nirvana.local-copy/content/content-quote.php:27
+#: nirvana.local-copy/content/content-video.php:24
+#: nirvana.local-copy/content/content.php:40
+#: nirvana.local-copy/content/content.php:56 nirvana.local-copy/single.php:27
+#: nirvana.local-copy/templates/template-page-with-intro.php:16
+#: nirvana/attachment.php:87 nirvana/content/content-aside.php:30
+#: nirvana/content/content-audio.php:24 nirvana/content/content-chat.php:29
+#: nirvana/content/content-gallery.php:51 nirvana/content/content-image.php:23
+#: nirvana/content/content-link.php:29 nirvana/content/content-page.php:22
+#: nirvana/content/content-quote.php:27 nirvana/content/content-video.php:24
+#: nirvana/content/content.php:40 nirvana/content/content.php:56
+#: nirvana/single.php:27 nirvana/templates/template-page-with-intro.php:16
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: New Folder/nirvana/attachment.php:92 nirvana.local-copy/attachment.php:92
+#: nirvana/attachment.php:92
+msgid "Previous image"
+msgstr "תמונה קודמת"
+
+#: New Folder/nirvana/attachment.php:93 nirvana.local-copy/attachment.php:93
+#: nirvana/attachment.php:93
+msgid "Next image"
+msgstr "התמונה הבאה"
+
+#: New Folder/nirvana/author.php:29 nirvana.local-copy/author.php:29
+#: nirvana/author.php:29
+#, php-format
+msgid "Author Archives: %s"
+msgstr "ארכיוני הכותב: %s"
+
+#: New Folder/nirvana/category.php:20 nirvana.local-copy/category.php:20
+#: nirvana/category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr "ארכיוני קטגוריות: %s"
+
+#: New Folder/nirvana/comments.php:25 nirvana.local-copy/comments.php:25
+#: nirvana/comments.php:25
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "פוסט זה מוגן באמצעות סיסמא. יש להכניס סיסמא על מנת לצפות בתגובות."
+
+#: New Folder/nirvana/comments.php:50 nirvana.local-copy/comments.php:50
+#: nirvana/comments.php:50
+msgid "Comments are closed"
+msgstr "התגובות סגורות"
+
+#: New Folder/nirvana/content/content-aside.php:15
+#: Folder/nirvana/content/content-audio.php:15
+#: Folder/nirvana/content/content-chat.php:15
+#: Folder/nirvana/content/content-gallery.php:18
+#: Folder/nirvana/content/content-gallery.php:42
+#: Folder/nirvana/content/content-image.php:14
+#: Folder/nirvana/content/content-link.php:15
+#: Folder/nirvana/content/content-quote.php:13
+#: Folder/nirvana/content/content-status.php:14
+#: Folder/nirvana/content/content-video.php:15
+#: Folder/nirvana/content/content.php:21
+#: nirvana.local-copy/content/content-aside.php:15
+#: nirvana.local-copy/content/content-audio.php:15
+#: nirvana.local-copy/content/content-chat.php:15
+#: nirvana.local-copy/content/content-gallery.php:18
+#: nirvana.local-copy/content/content-gallery.php:42
+#: nirvana.local-copy/content/content-image.php:14
+#: nirvana.local-copy/content/content-link.php:15
+#: nirvana.local-copy/content/content-quote.php:13
+#: nirvana.local-copy/content/content-status.php:14
+#: nirvana.local-copy/content/content-video.php:15
+#: nirvana.local-copy/content/content.php:21
+#: nirvana/content/content-aside.php:15 nirvana/content/content-audio.php:15
+#: nirvana/content/content-chat.php:15 nirvana/content/content-gallery.php:18
+#: nirvana/content/content-gallery.php:42 nirvana/content/content-image.php:14
+#: nirvana/content/content-link.php:15 nirvana/content/content-quote.php:13
+#: nirvana/content/content-status.php:14 nirvana/content/content-video.php:15
+#: nirvana/content/content.php:21
+#, php-format
+msgid "Permalink to %s"
+msgstr "קישור קבוע ל %s"
+
+#: New Folder/nirvana/content/content-aside.php:21
+#: nirvana.local-copy/content/content-aside.php:21
+#: nirvana/content/content-aside.php:21
+msgid "Aside"
+msgstr "בצד"
+
+#: New Folder/nirvana/content/content-aside.php:29
+#: Folder/nirvana/content/content-audio.php:23
+#: Folder/nirvana/content/content-chat.php:28
+#: Folder/nirvana/content/content-image.php:22
+#: Folder/nirvana/content/content-link.php:28
+#: Folder/nirvana/content/content-quote.php:26
+#: Folder/nirvana/content/content-status.php:32
+#: Folder/nirvana/content/content-video.php:23
+#: nirvana.local-copy/content/content-aside.php:29
+#: nirvana.local-copy/content/content-audio.php:23
+#: nirvana.local-copy/content/content-chat.php:28
+#: nirvana.local-copy/content/content-image.php:22
+#: nirvana.local-copy/content/content-link.php:28
+#: nirvana.local-copy/content/content-quote.php:26
+#: nirvana.local-copy/content/content-status.php:32
+#: nirvana.local-copy/content/content-video.php:23
+#: nirvana/content/content-aside.php:29 nirvana/content/content-audio.php:23
+#: nirvana/content/content-chat.php:28 nirvana/content/content-image.php:22
+#: nirvana/content/content-link.php:28 nirvana/content/content-quote.php:26
+#: nirvana/content/content-status.php:32 nirvana/content/content-video.php:23
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "המשיכו לקרוא <span class=\"meta-nav\">&rarr;</span>"
+
+#: New Folder/nirvana/content/content-audio.php:15
+#: nirvana.local-copy/content/content-audio.php:15
+#: nirvana/content/content-audio.php:15
+msgid "Audio"
+msgstr "אודיו"
+
+#: New Folder/nirvana/content/content-chat.php:15
+#: nirvana.local-copy/content/content-chat.php:15
+#: nirvana/content/content-chat.php:15
+msgid "Chat"
+msgstr "צ'אט"
+
+#: New Folder/nirvana/content/content-frontpage.php:42
+#: nirvana.local-copy/content/content-frontpage.php:41
+#: nirvana/content/content-frontpage.php:41
+msgid "No Posts to Display"
+msgstr "אין פוסטים להצגה"
+
+#: New Folder/nirvana/content/content-frontpage.php:47
+#: nirvana.local-copy/content/content-frontpage.php:46
+#: nirvana/content/content-frontpage.php:46
+#, php-format
+msgid ""
+"You currently have no published posts. To hide this message either <a href="
+"\"%s\">add some posts</a> or disable displaying posts on the Presentation "
+"Page in <a href=\"%s\">theme settings</a>."
+msgstr ""
+"אין לכם כרגע פוסטים מפורסמים. כדי להסתיר הודעה זו בחרו אחת מהשתיים: <a href="
+"\"%s\">הוסיפו קצת פוסטים</a> או בטלו אפשרות הצגת פוסטים בעמוד הפרזנטציה "
+"דרך<a href=\"%s\"> הגדרות ערכת הנושא</a>."
+
+#: New Folder/nirvana/content/content-gallery.php:18
+#: nirvana.local-copy/content/content-gallery.php:18
+#: nirvana/content/content-gallery.php:18
+msgid "Gallery"
+msgstr "גלרייה"
+
+#: New Folder/nirvana/content/content-gallery.php:41
+#: nirvana.local-copy/content/content-gallery.php:41
+#: nirvana/content/content-gallery.php:41
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "הגלריה הזו מכילה <a %1$s> תמונה %2$s </a>."
+msgstr[1] "הגלריה הזו מכילה <a %1$s> %2$s תמונות  </a>."
+
+#: New Folder/nirvana/content/content-quote.php:13
+#: nirvana.local-copy/content/content-quote.php:13
+#: nirvana/content/content-quote.php:13
+msgid "Quote"
+msgstr "ציטוט"
+
+#: New Folder/nirvana/content/content-status.php:14
+#: nirvana.local-copy/content/content-status.php:14
+#: nirvana/content/content-status.php:14
+msgid "Status"
+msgstr "סטטוס"
+
+#: New Folder/nirvana/content/content-video.php:15
+#: nirvana.local-copy/content/content-video.php:15
+#: nirvana/content/content-video.php:15
+msgid "Video"
+msgstr "וידאו"
+
+#: New Folder/nirvana/includes/ajax.php:81
+#: nirvana.local-copy/includes/ajax.php:81 nirvana/includes/ajax.php:81
+msgid "More posts"
+msgstr "פוסטים נוספים"
+
+#: New Folder/nirvana/includes/theme-comments.php:26
+#: nirvana.local-copy/includes/theme-comments.php:26
+#: nirvana/includes/theme-comments.php:26
+msgid "Pingback: "
+msgstr "פינגבק:"
+
+#: New Folder/nirvana/includes/theme-comments.php:26
+#: Folder/nirvana/includes/theme-comments.php:41
+#: nirvana.local-copy/includes/theme-comments.php:26
+#: nirvana.local-copy/includes/theme-comments.php:41
+#: nirvana/includes/theme-comments.php:26
+#: nirvana/includes/theme-comments.php:41
+msgid "(Edit)"
+msgstr "(ערוך)"
+
+#: New Folder/nirvana/includes/theme-comments.php:41
+#: nirvana.local-copy/includes/theme-comments.php:41
+#: nirvana/includes/theme-comments.php:41
+msgid "at"
+msgstr "ב"
+
+#: New Folder/nirvana/includes/theme-comments.php:48
+#: nirvana.local-copy/includes/theme-comments.php:48
+#: nirvana/includes/theme-comments.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "התגובה שלכם ממתינה לאישור."
+
+#: New Folder/nirvana/includes/theme-comments.php:54
+#: nirvana.local-copy/includes/theme-comments.php:54
+#: nirvana/includes/theme-comments.php:54
+msgid "Reply"
+msgstr "השב"
+
+#: New Folder/nirvana/includes/theme-comments.php:89
+#: nirvana.local-copy/includes/theme-comments.php:89
+#: nirvana/includes/theme-comments.php:89
+msgid "<b>0</b>"
+msgstr "<b>0</b>"
+
+#: New Folder/nirvana/includes/theme-comments.php:89
+#: nirvana.local-copy/includes/theme-comments.php:89
+#: nirvana/includes/theme-comments.php:89
+msgid "<b>1</b>"
+msgstr "<b>1</b>"
+
+#: New Folder/nirvana/includes/theme-comments.php:89
+#: nirvana.local-copy/includes/theme-comments.php:89
+#: nirvana/includes/theme-comments.php:89
+msgid "<b>%</b>"
+msgstr "<b>%</b>"
+
+#: New Folder/nirvana/includes/theme-comments.php:89
+#: nirvana.local-copy/includes/theme-comments.php:89
+#: nirvana/includes/theme-comments.php:89
+msgid "<b>-</b>"
+msgstr "<b>-</b>"
+
+#: New Folder/nirvana/includes/theme-comments.php:100
+#: nirvana.local-copy/includes/theme-comments.php:100
+#: nirvana/includes/theme-comments.php:100
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "תגובה אחת"
+msgstr[1] "%1$s תגובות"
+
+#: New Folder/nirvana/includes/theme-comments.php:114
+#: nirvana.local-copy/includes/theme-comments.php:114
+#: nirvana/includes/theme-comments.php:114
+msgid "Older Comments"
+msgstr "תגובות ישנות"
+
+#: New Folder/nirvana/includes/theme-comments.php:115
+#: nirvana.local-copy/includes/theme-comments.php:115
+#: nirvana/includes/theme-comments.php:115
+msgid "Newer Comments"
+msgstr "תגובות חדשות"
+
+#: New Folder/nirvana/includes/theme-comments.php:142
+#: nirvana.local-copy/includes/theme-comments.php:142
+#: nirvana/includes/theme-comments.php:142
+msgid "Comments are closed."
+msgstr "התגובות סגורות."
+
+#: New Folder/nirvana/includes/theme-comments.php:158
+#: nirvana.local-copy/includes/theme-comments.php:158
+#: nirvana/includes/theme-comments.php:158
+msgid "Name"
+msgstr "שם"
+
+#: New Folder/nirvana/includes/theme-comments.php:159
+#: nirvana.local-copy/includes/theme-comments.php:159
+#: nirvana/includes/theme-comments.php:159
+msgid "Name*"
+msgstr "שם*"
+
+#: New Folder/nirvana/includes/theme-comments.php:163
+#: nirvana.local-copy/includes/theme-comments.php:163
+#: nirvana/includes/theme-comments.php:163
+msgid "Email"
+msgstr "אימייל"
+
+#: New Folder/nirvana/includes/theme-comments.php:164
+#: nirvana.local-copy/includes/theme-comments.php:164
+#: nirvana/includes/theme-comments.php:164
+msgid "Email*"
+msgstr "אימייל*"
+
+#: New Folder/nirvana/includes/theme-comments.php:168
+#: Folder/nirvana/includes/theme-comments.php:169
+#: nirvana.local-copy/includes/theme-comments.php:168
+#: nirvana.local-copy/includes/theme-comments.php:169
+#: nirvana/includes/theme-comments.php:168
+#: nirvana/includes/theme-comments.php:169
+msgid "Website"
+msgstr "אתר"
+
+#: New Folder/nirvana/includes/theme-comments.php:180
+#: Folder/nirvana/includes/theme-comments.php:181
+#: nirvana.local-copy/includes/theme-comments.php:180
+#: nirvana.local-copy/includes/theme-comments.php:181
+#: nirvana/includes/theme-comments.php:180
+#: nirvana/includes/theme-comments.php:181
+msgid "Comment"
+msgstr "תגובה"
+
+#: New Folder/nirvana/includes/theme-functions.php:215
+#: nirvana-child-blog/theme-functions.php:215
+#: nirvana-child-blog10/theme-functions.php:215
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:215
+#: nirvana.local-copy/includes/theme-functions.php:215
+#: nirvana/includes/theme-functions.php:215
+msgid "Archive by category"
+msgstr "ארכיון לפי קטגוריה"
+
+#: New Folder/nirvana/includes/theme-functions.php:218
+#: nirvana-child-blog/theme-functions.php:218
+#: nirvana-child-blog10/theme-functions.php:218
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:218
+#: nirvana.local-copy/includes/theme-functions.php:218
+#: nirvana/includes/theme-functions.php:218
+msgid "Search results for"
+msgstr "תוצאות חיפוש עבור"
+
+#: New Folder/nirvana/includes/theme-functions.php:276
+#: nirvana-child-blog/theme-functions.php:276
+#: nirvana-child-blog10/theme-functions.php:276
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:276
+#: nirvana.local-copy/includes/theme-functions.php:276
+#: nirvana/includes/theme-functions.php:276
+msgid "Posts tagged"
+msgstr "תיוגי פוסטים"
+
+#: New Folder/nirvana/includes/theme-functions.php:281
+#: nirvana-child-blog/theme-functions.php:281
+#: nirvana-child-blog10/theme-functions.php:281
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:281
+#: nirvana.local-copy/includes/theme-functions.php:281
+#: nirvana/includes/theme-functions.php:281
+msgid "Articles posted by"
+msgstr "מאמרים שפורסמו ע\"י"
+
+#: New Folder/nirvana/includes/theme-functions.php:284
+#: nirvana-child-blog/theme-functions.php:284
+#: nirvana-child-blog10/theme-functions.php:284
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:284
+#: nirvana.local-copy/includes/theme-functions.php:284
+#: nirvana/includes/theme-functions.php:284
+msgid "Error 404"
+msgstr "שגיאת 404"
+
+#: New Folder/nirvana/includes/theme-functions.php:289
+#: nirvana-child-blog/theme-functions.php:289
+#: nirvana-child-blog10/theme-functions.php:289
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:289
+#: nirvana.local-copy/includes/theme-functions.php:289
+#: nirvana/includes/theme-functions.php:289
+msgid "Page"
+msgstr "עמוד"
+
+#: New Folder/nirvana/includes/theme-functions.php:313
+#: Folder/nirvana/includes/theme-functions.php:328
+#: Folder/nirvana/includes/theme-functions.php:343
+#: Folder/nirvana/searchform.php:1 nirvana-child-blog/theme-functions.php:313
+#: nirvana-child-blog/theme-functions.php:328
+#: nirvana-child-blog/theme-functions.php:343
+#: nirvana-child-blog10/theme-functions.php:313
+#: nirvana-child-blog10/theme-functions.php:328
+#: nirvana-child-blog10/theme-functions.php:343
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:313
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:328
+#: nirvana.local-copy/includes/theme-functions-ORIG.php:343
+#: nirvana.local-copy/includes/theme-functions.php:313
+#: nirvana.local-copy/includes/theme-functions.php:328
+#: nirvana.local-copy/includes/theme-functions.php:343
+#: nirvana.local-copy/searchform.php:1 nirvana/includes/theme-functions.php:313
+#: nirvana/includes/theme-functions.php:328
+#: nirvana/includes/theme-functions.php:343 nirvana/searchform.php:1
+msgid "Search"
+msgstr "חפשו"
+
+#: New Folder/nirvana/includes/theme-loop.php:194
+#: nirvana.local-copy/includes/theme-loop.php:194
+#: nirvana/includes/theme-loop.php:194
+msgid "Author "
+msgstr "מחבר"
+
+#: New Folder/nirvana/includes/theme-loop.php:197
+#: nirvana.local-copy/includes/theme-loop.php:197
+#: nirvana/includes/theme-loop.php:197
+#, php-format
+msgid "View all posts by %s"
+msgstr "צפו בכל הפוסטים מאת %s"
+
+#: New Folder/nirvana/includes/theme-loop.php:220
+#: nirvana.local-copy/includes/theme-loop.php:220
+#: nirvana/includes/theme-loop.php:220
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: New Folder/nirvana/includes/theme-loop.php:244
+#: nirvana.local-copy/includes/theme-loop.php:244
+#: nirvana/includes/theme-loop.php:244
+msgid "Tags"
+msgstr "תגיות"
+
+#: New Folder/nirvana/includes/theme-loop.php:308
+#: nirvana.local-copy/includes/theme-loop.php:308
+#: nirvana/includes/theme-loop.php:308
+msgid "Tagged"
+msgstr "תגיות"
+
+#: New Folder/nirvana/includes/theme-loop.php:311
+#: nirvana.local-copy/includes/theme-loop.php:311
+#: nirvana/includes/theme-loop.php:311
+msgid " Bookmark the permalink"
+msgstr "שמרו את הקישור הקבוע במועדפים"
+
+#: New Folder/nirvana/includes/theme-loop.php:311
+#: nirvana.local-copy/includes/theme-loop.php:311
+#: nirvana/includes/theme-loop.php:311
+msgid "Permalink to"
+msgstr "קישור קבוע ל "
+
+#: New Folder/nirvana/includes/theme-loop.php:335
+#: nirvana.local-copy/includes/theme-loop.php:335
+#: nirvana/includes/theme-loop.php:335
+msgid "<i class=\"meta-nav-prev\"></i> <span>Older posts</span>"
+msgstr "<i class=\"meta-nav-prev\"></i> <span>פוסטים ישנים יותר</span>"
+
+#: New Folder/nirvana/includes/theme-loop.php:338
+#: nirvana.local-copy/includes/theme-loop.php:338
+#: nirvana/includes/theme-loop.php:338
+msgid "<span>Newer posts</span> <i class=\"meta-nav-next\"></i>"
+msgstr "<span>פוסטים חדשים יותר</span> <i class=\"meta-nav-next\"></i>"
+
+#: New Folder/nirvana/includes/theme-setup.php:89
+#: nirvana.local-copy/includes/theme-setup.php:87
+#: nirvana/includes/theme-setup.php:87
+msgid "Primary Navigation"
+msgstr "תפריט ראשי"
+
+#: New Folder/nirvana/includes/theme-setup.php:90
+#: nirvana.local-copy/includes/theme-setup.php:88
+#: nirvana/includes/theme-setup.php:88
+msgid "Top Navigation"
+msgstr "תפריט אזור עליון"
+
+#: New Folder/nirvana/includes/theme-setup.php:91
+#: nirvana.local-copy/includes/theme-setup.php:89
+#: nirvana/includes/theme-setup.php:89
+msgid "Footer Navigation"
+msgstr "תפריט אזור תחתון (footer)"
+
+#: New Folder/nirvana/includes/theme-setup.php:130
+#: nirvana.local-copy/includes/theme-setup.php:128
+#: nirvana/includes/theme-setup.php:128
+msgid "Nirvana Default Header Image"
+msgstr "תמונת הכותרת ברירת המחדל של נירוונה"
+
+#: New Folder/nirvana/includes/theme-setup.php:163
+#: nirvana.local-copy/includes/theme-setup.php:161
+#: nirvana/includes/theme-setup.php:161
+#, php-format
+msgid "Page %s"
+msgstr "עמוד %s"
+
+#: New Folder/nirvana/includes/theme-setup.php:227
+#: nirvana.local-copy/includes/theme-setup.php:225
+#: nirvana/includes/theme-setup.php:225
+msgid "Skip to content"
+msgstr "דלגו לתוכן"
+
+#: New Folder/nirvana/includes/theme-setup.php:256
+#: nirvana.local-copy/includes/theme-setup.php:254
+#: nirvana/includes/theme-setup.php:254
+msgid "Left sidebar"
+msgstr "סרגל צד שמאלי"
+
+#: New Folder/nirvana/includes/theme-setup.php:267
+#: nirvana.local-copy/includes/theme-setup.php:265
+#: nirvana/includes/theme-setup.php:265
+msgid "Right sidebar"
+msgstr "סרגל צד ימני"
+
+#: New Folder/nirvana/includes/theme-setup.php:276
+#: nirvana.local-copy/includes/theme-setup.php:274
+#: nirvana/includes/theme-setup.php:274
+msgid "First Footer Area"
+msgstr "אזור תחתון ראשון"
+
+#: New Folder/nirvana/includes/theme-setup.php:278
+#: nirvana.local-copy/includes/theme-setup.php:276
+#: nirvana/includes/theme-setup.php:276
+msgid "First footer area"
+msgstr "אזור תחתון ראשון"
+
+#: New Folder/nirvana/includes/theme-setup.php:287
+#: nirvana.local-copy/includes/theme-setup.php:285
+#: nirvana/includes/theme-setup.php:285
+msgid "Second Footer Area"
+msgstr "אזור תחתון שני"
+
+#: New Folder/nirvana/includes/theme-setup.php:289
+#: nirvana.local-copy/includes/theme-setup.php:287
+#: nirvana/includes/theme-setup.php:287
+msgid "Second footer area"
+msgstr "אזור תחתון שני"
+
+#: New Folder/nirvana/includes/theme-setup.php:298
+#: nirvana.local-copy/includes/theme-setup.php:296
+#: nirvana/includes/theme-setup.php:296
+msgid "Third Footer Area"
+msgstr "אזור תחתון שלישי"
+
+#: New Folder/nirvana/includes/theme-setup.php:300
+#: nirvana.local-copy/includes/theme-setup.php:298
+#: nirvana/includes/theme-setup.php:298
+msgid "The third footer area"
+msgstr "אזור התחתית השלישי"
+
+#: New Folder/nirvana/includes/theme-setup.php:309
+#: nirvana.local-copy/includes/theme-setup.php:307
+#: nirvana/includes/theme-setup.php:307
+msgid "Fourth Footer Area"
+msgstr "אזור תחתית רביעי"
+
+#: New Folder/nirvana/includes/theme-setup.php:311
+#: nirvana.local-copy/includes/theme-setup.php:309
+#: nirvana/includes/theme-setup.php:309
+msgid "The fourth footer area"
+msgstr "אזור התחתית הרביעי"
+
+#: New Folder/nirvana/includes/theme-setup.php:320
+#: Folder/nirvana/includes/theme-setup.php:322
+#: nirvana.local-copy/includes/theme-setup.php:318
+#: nirvana.local-copy/includes/theme-setup.php:320
+#: nirvana/includes/theme-setup.php:318 nirvana/includes/theme-setup.php:320
+msgid "Above Content Area"
+msgstr "מעל אזור התוכן"
+
+#: New Folder/nirvana/includes/theme-setup.php:331
+#: Folder/nirvana/includes/theme-setup.php:333
+#: nirvana.local-copy/includes/theme-setup.php:329
+#: nirvana.local-copy/includes/theme-setup.php:331
+#: nirvana/includes/theme-setup.php:329 nirvana/includes/theme-setup.php:331
+msgid "Below Content Area"
+msgstr "מתחת אזור התוכן"
+
+#: New Folder/nirvana/includes/theme-setup.php:342
+#: Folder/nirvana/includes/theme-setup.php:344
+#: nirvana.local-copy/includes/theme-setup.php:340
+#: nirvana.local-copy/includes/theme-setup.php:342
+#: nirvana/includes/theme-setup.php:340 nirvana/includes/theme-setup.php:342
+msgid "Header Widgets"
+msgstr "ווידג'טים בכותרת"
+
+#: New Folder/nirvana/includes/theme-setup.php:355
+#: nirvana.local-copy/includes/theme-setup.php:353
+#: nirvana/includes/theme-setup.php:353
+msgid "Presentation Page Columns"
+msgstr "עמודות עמוד הפרזנטציה"
+
+#: New Folder/nirvana/includes/theme-setup.php:357
+#: nirvana.local-copy/includes/theme-setup.php:355
+#: nirvana/includes/theme-setup.php:355
+#, php-format
+msgid ""
+"Only drag [Cryout Column] widgets here. Recommended size for uploaded "
+"images: %1$dpx (width) x %2$dpx (height). Go to the Nirvana Settings page >> "
+"Presentation Page Settings >> Columns to edit sizes and more."
+msgstr ""
+"גררו את הווידג'ט Cryout Columns לכאן. הגודל המומלץ לתמונות המועלות לכאן הוא: "
+"%1$dpx (רוחב) X %2$dpx (גובה). עברו להגדרות נירוונה >> עמוד פרזנטציה >> "
+"עמודות, על מנת לערוך את הגדלים ועוד."
+
+#: New Folder/nirvana/search.php:18 nirvana.local-copy/search.php:18
+#: nirvana/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור: %s."
+
+#: New Folder/nirvana/search.php:40 nirvana.local-copy/search.php:40
+#: nirvana/search.php:40
+#, php-format
+msgid "No search results for: %s."
+msgstr "לא נמצאו תוצאות עבור חיפוש: %s."
+
+#: New Folder/nirvana/sidebar-left.php:28
+#: nirvana.local-copy/sidebar-left.php:28 nirvana/sidebar-left.php:28
+#, php-format
+msgid ""
+"You currently have no widgets set in the left sidebar. You can add widgets "
+"via the <a href=\"%s\">Dashboard</a>."
+msgstr ""
+"אין לכם כרגע ווידג'טים מוגדרים בסרגל הצד השמאלי. אתם יכולים להוסיף ווידג'טים "
+"דרך <a href=\"%s\"> לוח הבקרה</a>."
+
+#: New Folder/nirvana/sidebar-left.php:29 Folder/nirvana/sidebar-right.php:29
+#: nirvana.local-copy/sidebar-left.php:29
+#: nirvana.local-copy/sidebar-right.php:29 nirvana/sidebar-left.php:29
+#: nirvana/sidebar-right.php:29
+#, php-format
+msgid ""
+"To hide this sidebar, switch to a different Layout via the <a href=\"%s"
+"\">Theme Settings</a>."
+msgstr ""
+"כדי להסתיר סרגל צד זה בחרו סידור תבנית אחר דרך <a href=\"%s\"> הגדרות "
+"התבנית</a>."
+
+#: New Folder/nirvana/sidebar-right.php:28
+#: nirvana.local-copy/sidebar-right.php:28 nirvana/sidebar-right.php:28
+#, php-format
+msgid ""
+"You currently have no widgets set in the right sidebar. You can add widgets "
+"via the <a href=\"%s\">Dashboard</a>."
+msgstr ""
+"אין לכם כרגע ווידג'טים ממוקמים סרגל הצד הימני. באפשרותכם להוסיף ווידג'טים "
+"באמצעות<a href=\"%s\">לוח הבקרה</a>."
+
+#: New Folder/nirvana/single.php:36 nirvana.local-copy/single.php:36
+#: nirvana/single.php:36
+msgid "About"
+msgstr "אודות"
+
+#: New Folder/nirvana/single.php:40 nirvana.local-copy/single.php:40
+#: nirvana/single.php:40
+msgid "View all posts by "
+msgstr "צפו בכל הפוסטים מאת "
+
+#: New Folder/nirvana/tag.php:21 nirvana.local-copy/tag.php:21
+#: nirvana/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "ארכיוני תגיות: %s"
+
+#: nirvana.local-copy/admin/settings.php:216
+msgid ""
+"Enable the presentation front-page. This will become your new home page. "
+"<br><br>\n"
+"\t     <em> If you have this option enabled and you can't see the "
+"presentation page, make sure that the option under WordPress Dashboard >> "
+"Settings >> Reading >> <strong>Front page displays</strong> is set to the "
+"default value <strong>Your Latest Posts</strong>.<br><br></em>\n"
+"\t\tIf you want another page to hold your latest blog posts, choose 'Blog "
+"Template (Posts Page)' from Page Templates while creating or editing that "
+"page."
+msgstr ""
+"מפעיל את עמוד הפרזנטציה בעמוד הראשי. זה יהיה עמוד הבית החדש שלכם. <br><br> "
+"<em> אם הפעלתם את האפשרות הזו ואינכם יכולים לראות את עמוד הפרזנטציה ודאו "
+"שהאופציה תחת הגדרות וורדפרס >> קריאה >>הגדרות עמוד ראשי </em> מוגדרות כברירת "
+"מחדל ל- <strong> פוסטים אחרונים </strong>. <br><br> אם אתם רוצים שעמוד אחר "
+"יציג את הפוסטים האחרונים שלכם בחרו ב\"תבנית בלוג\" מאפשרויות התבניות בזמן "
+"שאתם יוצרים את העמוד הזה."
+
+#: nirvana.local-copy/admin/settings.php:220
+#, php-format
+msgid ""
+"You have enabled the Presentation Page but your WordPress <em>Front page "
+"displays</em> option is not set to your latest posts. <br>\n"
+"\t\t\t\t\tGo to %1$s and make sure you have selected <strong>Your latest "
+"posts</strong> under <em>Front page displays</em>."
+msgstr ""
+"הפעלתם את עמוד הפרזנטציה אבל הגדרות <em> תצוגת עמוד ראשי </em> שלכם אינן על "
+"פוסטים אחרונים. <br> עברו ל %1$s וודאו שבחרתם <strong> פוסטים אחרונים </"
+"strong> תחת <em> הגדרות עמוד ראשי</em>."
+
+#: nirvana.local-copy/admin/settings.php:703
+msgid ""
+"Select the general font family and size or insert the Google Font name "
+"you'll use in your blog. This will affect all text except the text "
+"controlled\n"
+"\t\t\t\t\t\t\tby the options below.<br><br> <strong>Additional Info:</"
+"strong><br>The fonts under the <em>General Theme Fonts</em> category are "
+"suggested for this\n"
+"\t\t\t\t\t\t\tbecause they have all the font weights used througout the "
+"theme.<br> When using Google Fonts for General Font make sure they also have "
+"multiple font weights and\n"
+"\t\t\t\t\t\t\tthat you specify them all eg.: <em>Roboto:400,300,500,700</em>"
+msgstr ""
+"בחרו את משפחת הגופן הכללי וגודלו או הכניסו שם של גופן גוגל בו תשתמשו בבלוג. "
+"זה ישפיע על כל הטקסט במובאות וכל טקסט הנשלט ע\"י האפשרויות למטה. <br><br> "
+"<strong> מידע נוסף: </strong> <br> הגופנים תחת הקטגוריה<em> גופני הערכה "
+"הכלליים</em> הם המוצעים כי יש להם את כל מה שדרוש בכל המקומות בערכת הנושא. "
+"<br> כשמשתמשים בגופני גוגל כגופנים כלליים ודאו שיש להם משקלים שונים ושציינתם "
+"את כולם. לדוגמא: <em>Roboto:400,300,500,700</em>"
+
+#: nirvana.local-copy/admin/settings.php:930
+msgid ""
+"Accents #1 and #2 should either be the same as the link colours or be "
+"separate from all other colours on the site.<br />\n"
+"     Accent #5 is used for input fields and buttons backgrounds, borders and "
+"lines.<br />\n"
+"     Accents #3 and #4 should be the lighter/darker than the content "
+"background colour, being used as borders/shades on elements where accent #5 "
+"is background colour."
+msgstr ""
+"הצבעים המודגשים 1# ו- 2# צריכים להיות זהים לצבעי הקישורים או שונים מכל צבע "
+"אחר באתר. <br> הצבע המודגש 5# משמש לשדות למילוי ולרקע לכפתורים/לחצנים, "
+"גבולות וקווים. <br> הצבעים המודגשים 3# ו- 4# צריכים להיות בהירים יותר או "
+"כהים יותר מצבע הרקע של התוכן ומשמשים כגבול/צל של רכיבים בהם צבע מודגש 5# הוא "
+"צבע הרקע."
+
+#: nirvana.local-copy/admin/settings.php:1448
+msgid ""
+"By default WordPress excerpts remove all HTML tags (&lt;pre&gt;, &lt;a&gt;, "
+"&lt;b&gt and all others) and only clean text is left in the excerpt.\n"
+"Enabling this option allows HTML tags to remain in excerpts so all your "
+"default formating will be kept.<br /> <b>Just a warning: </b>If HTML tags "
+"are enabled, you have to make sure\n"
+"they are not left open. So if within your post you have an opened HTML tag "
+"but the except ends before that tag closes, the rest of the site will be "
+"contained in that HTML tag. -- Leave 'Disable' if unsure -- "
+msgstr ""
+"כברירת מחדל, וורדפרס מסיר את כל תגי ה-HTML (&lt;pre&gt;, &lt;a&gt;, &lt;b&gt "
+"וכל האחרים) ומשאיר רק טקסט פשוט במובאות. הפעלת האופציה הזו תאפשר לתגי HRML "
+"להופיע במובאות כך שכל העיצובים שלכם יישמרו. <br> <b> רק אזהרה: </b> אם "
+"אפשרתם תגיות HTML אתם חייבים לוודא שסגרתם את הקוד במובאה. כך שאם בפוסט יש "
+"לכם תגיות HTML פתוחות אבל המובאה מסתיימת לפני סגירת תגית ה- HTML כל יתר האתר "
+"יושפע מזה. -- השאירו \"כבוי\" אם אינכם בטוחים."

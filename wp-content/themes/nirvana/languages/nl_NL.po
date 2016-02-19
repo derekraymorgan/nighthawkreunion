@@ -1,0 +1,3449 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nirvana v0.9.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-25 13:02+0100\n"
+"PO-Revision-Date: 2015-03-25 13:08+0100\n"
+"Last-Translator: John Mulder <john@splendesco.nl>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ nirvana
+#: 404.php:17
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+# @ nirvana
+#: 404.php:20
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Sorry. De opgevraagde pagina werd niet gevonden. Probeer de zoekfunctie!"
+
+# @ nirvana
+#: archive.php:26
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagelijks archief: %s"
+
+# @ nirvana
+#: archive.php:28
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Maandarchief: %s"
+
+# @ nirvana
+#: archive.php:28
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+# @ nirvana
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jaararchief: %s"
+
+# @ nirvana
+#: archive.php:30
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+# @ nirvana
+#: archive.php:32
+msgid "Blog Archives"
+msgstr "Blogarchief"
+
+# @ nirvana
+#: archive.php:56 author.php:71 category.php:49 search.php:38 tag.php:50
+#: content/content-index.php:35 templates/template-blog.php:34
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+# @ nirvana
+#: archive.php:60 author.php:75 category.php:53 tag.php:54
+#: content/content-index.php:39 templates/template-blog.php:38
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Sorry, maar voor het gezochte archief werd niets gevonden.Misschien helpt de "
+"zoekfunctie je om een artikel te vinden."
+
+# @ nirvana
+#: attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr "Terug naar %s"
+
+# @ nirvana
+#: attachment.php:32
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "Originale grootte =  %s Pixel"
+
+# @ nirvana
+#: attachment.php:35
+msgid "Link to full-size image"
+msgstr "Link naar beeld op volledige grootte"
+
+# @ nirvana
+#: attachment.php:75 single.php:49 content/content-page.php:23
+#: includes/theme-loop.php:247 templates/template-page-with-intro.php:17
+msgid "Edit"
+msgstr "Bewerken"
+
+# @ nirvana
+#: attachment.php:86
+msgid "Continue reading"
+msgstr "Lees verder"
+
+# @ nirvana
+#: attachment.php:87 single.php:27 content/content-aside.php:30
+#: content/content-audio.php:24 content/content-chat.php:29
+#: content/content-gallery.php:51 content/content-image.php:23
+#: content/content-link.php:29 content/content-page.php:22
+#: content/content-quote.php:27 content/content-video.php:24
+#: content/content.php:40 content/content.php:56
+#: templates/template-page-with-intro.php:16
+msgid "Pages:"
+msgstr "Pagina's:"
+
+# @ nirvana
+#: attachment.php:92
+msgid "Previous image"
+msgstr "Vorig beeld"
+
+# @ nirvana
+#: attachment.php:93
+msgid "Next image"
+msgstr "Volgende beeld"
+
+# @ nirvana
+#: author.php:29
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Auteursarchief: %s"
+
+# @ nirvana
+#: category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Categorieënarchief: %s"
+
+# @ nirvana
+#: comments.php:25
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Dit artikel is beschermd met een wachtwoord. Vul het wachtwoord in om "
+"commentaren te lezen."
+
+# @ nirvana
+#: comments.php:50
+msgid "Comments are closed"
+msgstr "Reactiemogelijkheid is gesloten"
+
+# @ nirvana
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+# @ nirvana
+#: search.php:40
+#, php-format
+msgid "No search results for: %s."
+msgstr "Geen zoekresultaten voor: %s."
+
+# @ nirvana
+#: searchform.php:1 includes/theme-functions.php:312
+#: includes/theme-functions.php:327 includes/theme-functions.php:342
+msgid "Search"
+msgstr "Zoeken"
+
+# @ nirvana
+#: sidebar-left.php:26 admin/settings.php:1635 includes/theme-setup.php:255
+msgid "Left Sidebar"
+msgstr "Linker sidebar"
+
+# @ nirvana
+#: sidebar-left.php:28
+#, fuzzy, php-format
+msgid ""
+"You currently have no widgets set in the left sidebar. You can add widgets "
+"via the <a href=\"%s\">Dashboard</a>."
+msgstr ""
+"Je hebt momenteel geen widgets in de linker sidebar. Via het <a href=\"%s"
+"\">Dashboard</a> kunnen widgets worden toegevoegd."
+
+# @ nirvana
+#: sidebar-left.php:29 sidebar-right.php:29
+#, php-format
+msgid ""
+"To hide this sidebar, switch to a different Layout via the <a href=\"%s"
+"\">Theme Settings</a>."
+msgstr ""
+"Om deze sidebar te verbergen schakel je over naar een andere layout via <a "
+"href=\"%s\">Thema Instellingen</a>."
+
+# @ nirvana
+#: sidebar-right.php:26 admin/settings.php:1639 includes/theme-setup.php:266
+msgid "Right Sidebar"
+msgstr "Rechter sidebar"
+
+# @ nirvana
+#: sidebar-right.php:28
+#, fuzzy, php-format
+msgid ""
+"You currently have no widgets set in the right sidebar. You can add widgets "
+"via the <a href=\"%s\">Dashboard</a>."
+msgstr ""
+"Je hebt momenteel geen widgets in de rechter sidebar. Via het <a href=\"%s"
+"\">Dashboard</a> kunnen widgets worden toegevoegd."
+
+# @ nirvana
+#: single.php:36
+msgid "About"
+msgstr "Over"
+
+# @ nirvana
+#: single.php:40
+msgid "View all posts by "
+msgstr "Toon alle bijdragen van "
+
+# @ nirvana
+#: tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag archief: %s"
+
+# @ nirvana
+#: admin/admin-functions.php:62
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+"Voordat je de geïmporteerde data kunt uploaden dien de de volgende fout "
+"tecorrigeren:"
+
+# @ nirvana
+#: admin/admin-functions.php:70
+msgid "Import Nirvana Theme Options"
+msgstr "Importeer Nirvana Thema opties"
+
+# @ nirvana
+#: admin/admin-functions.php:72
+msgid ""
+"Hi! This is where you import the  Nirvana settings.<i> Please remember that "
+"this is still an experimental feature.</i>"
+msgstr ""
+"Hi! Hier kun je de Nirvana instellingen importeren. Denk eraan dat deze "
+"functie experimenteel is.</i>"
+
+# @ nirvana
+#: admin/admin-functions.php:74
+msgid "Just choose a file from your computer:"
+msgstr "Selecteer een bestand op je computer:"
+
+# @ nirvana
+#: admin/admin-functions.php:76
+#, php-format
+msgid "Maximum size: %s"
+msgstr "Maximum grootte: %s"
+
+# @ nirvana
+#: admin/admin-functions.php:82
+msgid "And import!"
+msgstr "... en importeren!"
+
+# @ nirvana
+#: admin/admin-functions.php:148
+msgid "Import Nirvana Theme Options "
+msgstr "Nirvana Thema Opties importeren"
+
+# @ nirvana
+#: admin/admin-functions.php:151
+msgid "Great! The options have been imported!"
+msgstr "Cool! De opties werden geïmporteerd!"
+
+# @ nirvana
+#: admin/admin-functions.php:152
+msgid "Go back to the Nirvana options page and check them out!"
+msgstr "Terug naar de Nirvana Opties!"
+
+# @ nirvana
+#: admin/admin-functions.php:155 admin/admin-functions.php:161
+#: admin/admin-functions.php:167
+msgid "Oops, there's a small problem."
+msgstr "Oeps - er is een klein probleem."
+
+# @ nirvana
+#: admin/admin-functions.php:156
+msgid ""
+"The uploaded file does not contain valid Nirvana options. Make sure the file "
+"is exported from the Nirvana Options page."
+msgstr ""
+"Het geüploade bestand bevat niet geldige Nirvana opties. Zorg ervoor dat het "
+"bestand is geëxporteerd vanuit de Nirvana Opties pagina!"
+
+# @ nirvana
+#: admin/admin-functions.php:162
+msgid "The uploaded file could not be read."
+msgstr "Het geüploade bestadn kan niet worden gelezen."
+
+# @ nirvana
+#: admin/admin-functions.php:168
+msgid ""
+"The uploaded file is not supported. Make sure the file was exported from the "
+"Nirvana page and that it is a text file."
+msgstr ""
+"Het geüploade bestand wordt niet ondersteund. Zorg ervoor dat het bestand "
+"wordt geëxpoteerd van de Nirvana pagina en dat het een tekstbestand is."
+
+# @ nirvana
+#: admin/admin-functions.php:177
+msgid ""
+"Oops! The file is empty or there was no file. This error could also be "
+"caused by uploads being disabled in your php.ini or by post_max_size being "
+"defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+"Oeps! Het bestand is leeg of bestaat niet. Deze fout kan ook worden "
+"veroorzaakt doordat uploads in je php.ini bestand zijn uitgeschakeld of "
+"doordat de post_max_size kleiner is gedefinieerd dan de upload_max_filesize "
+"in je php.ini."
+
+# @ nirvana
+#: admin/admin-functions.php:183
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "FOUT: Je hebt niet de rechten om deze operatie uit te voeren"
+
+# @ nirvana
+#: admin/admin-functions.php:197
+msgid ""
+"Select one of the preset color schemes and press the Load button.<br> <b> "
+"CAUTION! </b> When loading a color scheme, the Nirvana theme settings under "
+"Text and Color Settings will be overriden. All other settings will remain "
+"intact.<br> <u>SUGGESTION:</u> It's always better to export your current "
+"theme settings before loading a color scheme."
+msgstr ""
+"Selecteer een van de kleurschema's en druk op de laad-knop<br> <b> "
+"VOORZICHTIG! </b> Wanneer je een kleurschema laadt worden de Nirva thema "
+"instellingen onder Tekst en Kleur instellingen overschreven! Alle andere "
+"instellingen blijven intact.<br><b>SUGGESTIE:</b> Exporteer je huidige thema "
+"instellingen voordat je een ander kleurschema laadt."
+
+# @ nirvana
+#: admin/admin-functions.php:221
+msgid "Load Color Scheme"
+msgstr "Kleurschema laden"
+
+# @ nirvana
+#: admin/admin-functions.php:289
+msgid "No news items."
+msgstr "Geen nieuws."
+
+# @ nirvana
+#: admin/admin-functions.php:293
+msgid "Posted on"
+msgstr "Gepost op"
+
+#: admin/admin-functions.php:294
+msgid "Read the full post"
+msgstr "Lees het volledige artikel"
+
+# @ nirvana
+#: admin/customizer.php:14
+#, fuzzy
+msgid "Nirvana Settings"
+msgstr "Nirvana instellingen"
+
+# @ nirvana
+#: admin/customizer.php:33
+#, fuzzy
+msgid "Nirvana Advanced Settings"
+msgstr "Nirvana geavanceerde instellingen"
+
+#: admin/customizer.php:36
+msgid " "
+msgstr " "
+
+# @ nirvana
+#: admin/main.php:139
+msgid "Layout Settings"
+msgstr "Layout instellingen"
+
+# @ nirvana
+#: admin/main.php:140
+msgid "Header Settings"
+msgstr "Header instellingen"
+
+# @ nirvana
+#: admin/main.php:141 admin/main.php:202
+msgid "Presentation Page"
+msgstr "Presentatiepagina"
+
+# @ nirvana
+#: admin/main.php:142
+msgid "Text Settings"
+msgstr "Tekstinstellingen"
+
+# @ nirvana
+#: admin/main.php:143
+msgid "Color Settings"
+msgstr "Kleurinstellingen"
+
+# @ nirvana
+#: admin/main.php:144
+msgid "Graphics Settings"
+msgstr "Afbeeldingsinstellingen"
+
+# @ nirvana
+#: admin/main.php:145
+msgid "Post Information Settings"
+msgstr "Instellingen postinformatie"
+
+# @ nirvana
+#: admin/main.php:146
+msgid "Post Excerpt Settings"
+msgstr "Instellingen samenvattingen"
+
+# @ nirvana
+#: admin/main.php:147
+msgid "Featured Image Settings"
+msgstr "Instellingen 'featured image'"
+
+# @ nirvana
+#: admin/main.php:148
+msgid "Social Media Settings"
+msgstr "Social media instellingen"
+
+# @ nirvana
+#: admin/main.php:149
+msgid "Miscellaneous Settings"
+msgstr "Overige instellingen"
+
+# @ nirvana
+#: admin/main.php:152
+msgid "Main Layout"
+msgstr "Hoofd layout"
+
+# @ nirvana
+#: admin/main.php:153
+msgid "Content / Sidebar Width"
+msgstr "Inhoud / Breedte sidebar"
+
+# @ nirvana
+#: admin/main.php:154
+msgid "Content Margins"
+msgstr "Content marge"
+
+#: admin/main.php:155
+msgid "Duality"
+msgstr "Dualiteit"
+
+# @ nirvana
+#: admin/main.php:156
+msgid "Responsiveness"
+msgstr "Responsiveness"
+
+# @ nirvana
+#: admin/main.php:159
+msgid "Enable Presentation Page"
+msgstr "Presentatiepagina activeren"
+
+# @ nirvana
+#: admin/main.php:160
+msgid "Show Posts on Presentation Page"
+msgstr "Toon posts op presentatiepagina"
+
+# @ nirvana
+#: admin/main.php:161
+msgid "Slider Settings"
+msgstr "Slider instellingen"
+
+# @ nirvana
+#: admin/main.php:162
+msgid "Slides"
+msgstr "Sliderafbeeldingen"
+
+# @ nirvana
+#: admin/main.php:163
+msgid "Columns"
+msgstr "Kolommen"
+
+# @ nirvana
+#: admin/main.php:164
+msgid "Text Areas"
+msgstr "Tekstgebieden"
+
+# @ nirvana
+#: admin/main.php:165
+msgid "Extras"
+msgstr "Extra's"
+
+# @ nirvana
+#: admin/main.php:168
+msgid "Header Height"
+msgstr "Hoogte header"
+
+# @ nirvana
+#: admin/main.php:169
+msgid "Header Image"
+msgstr "Afbeelding header"
+
+# @ nirvana
+#: admin/main.php:170
+msgid "Site Header"
+msgstr "Site header"
+
+# @ nirvana
+#: admin/main.php:171
+msgid "Custom Logo Upload"
+msgstr "Eigen logo uploaden"
+
+# @ nirvana
+#: admin/main.php:172
+msgid "Header Content Spacing"
+msgstr "Afstand content tot header"
+
+# @ nirvana
+#: admin/main.php:173
+msgid "FavIcon Upload"
+msgstr "Favicon uploaden"
+
+# @ nirvana
+#: admin/main.php:174
+#, fuzzy
+msgid "Header Widget Width"
+msgstr "Breedte header widget"
+
+# @ nirvana
+#: admin/main.php:177 admin/settings.php:722 admin/settings.php:741
+#: admin/settings.php:760 admin/settings.php:778 admin/settings.php:796
+#: admin/settings.php:817
+msgid "General Font"
+msgstr "Standaard font"
+
+# @ nirvana
+#: admin/main.php:178
+msgid "Post Title Font "
+msgstr "Font posttitel"
+
+# @ nirvana
+#: admin/main.php:179
+msgid "Widget Title Font"
+msgstr "Font widget titel"
+
+# @ nirvana
+#: admin/main.php:180
+msgid "Widget Font"
+msgstr "Widget font"
+
+# @ nirvana
+#: admin/main.php:181
+msgid "Site Title Font"
+msgstr "Font paginatitel"
+
+# @ nirvana
+#: admin/main.php:182
+msgid "Main Menu Font"
+msgstr "Font hoofdmenu"
+
+# @ nirvana
+#: admin/main.php:183
+msgid "Headings Font"
+msgstr "Font kopregel"
+
+# @ nirvana
+#: admin/main.php:184
+msgid "Force Text Align"
+msgstr "Tekstuitlijning forceren"
+
+# @ nirvana
+#: admin/main.php:185
+msgid "Paragraph spacing"
+msgstr "Alinea marge"
+
+# @ nirvana
+#: admin/main.php:186
+msgid "Paragraph Indent"
+msgstr "Inspringen alinea"
+
+# @ nirvana
+#: admin/main.php:187
+msgid "Headings Indent"
+msgstr "Inspringen kopregel"
+
+# @ nirvana
+#: admin/main.php:188
+msgid "Line Height"
+msgstr "Regelafstand"
+
+# @ nirvana
+#: admin/main.php:189
+msgid "Word Spacing"
+msgstr "Woordspatiëring"
+
+# @ nirvana
+#: admin/main.php:190
+msgid "Letter Spacing"
+msgstr "Letterspatiëring"
+
+# @ nirvana
+#: admin/main.php:191
+msgid "Uppercase Text"
+msgstr "Kapitaaltekst"
+
+# @ nirvana
+#: admin/main.php:195
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+# @ nirvana
+#: admin/main.php:196
+msgid "General"
+msgstr "Algemeen"
+
+# @ nirvana
+#: admin/main.php:197
+msgid "Accents"
+msgstr "Accenten"
+
+# @ nirvana
+#: admin/main.php:198 admin/settings.php:939
+msgid "Site Title"
+msgstr "Site naam"
+
+# @ nirvana
+#: admin/main.php:199 admin/settings.php:1142
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+# @ nirvana
+#: admin/main.php:200 admin/main.php:212 admin/settings.php:1617
+msgid "Top Bar"
+msgstr "Top Bar"
+
+# @ nirvana
+#: admin/main.php:201
+msgid "Content"
+msgstr "Inhoud"
+
+# @ nirvana
+#: admin/main.php:203
+msgid "Sidebar Widgets"
+msgstr "Sidebar widgets"
+
+# @ nirvana
+#: admin/main.php:204
+msgid "Footer Widgets"
+msgstr "Footer widgets"
+
+# @ nirvana
+#: admin/main.php:205
+msgid "Links"
+msgstr "Links"
+
+# @ nirvana
+#: admin/main.php:206
+msgid "Post metas"
+msgstr "Meta-informatie posts"
+
+# @ nirvana
+#: admin/main.php:207
+msgid "Socials"
+msgstr "Social media"
+
+# @ nirvana
+#: admin/main.php:208
+msgid "Caption type"
+msgstr "Bijschrift type"
+
+# @ nirvana
+#: admin/main.php:213
+msgid "Breadcrumbs"
+msgstr "Broodkruimels"
+
+# @ nirvana
+#: admin/main.php:214
+msgid "Pagination"
+msgstr "Paginanummering"
+
+# @ nirvana
+#: admin/main.php:215
+msgid "Menu Alignment"
+msgstr "Uitlijning menu"
+
+# @ nirvana
+#: admin/main.php:216
+msgid "Search Bar Locations"
+msgstr "Positie zoekbalk"
+
+# @ nirvana
+#: admin/main.php:217
+msgid "Post Images Border"
+msgstr "Kaders afbeeldingen"
+
+# @ nirvana
+#: admin/main.php:218
+msgid "Page Titles"
+msgstr "Paginatitels"
+
+# @ nirvana
+#: admin/main.php:219
+msgid "Category Titles"
+msgstr "Categorietitels"
+
+# @ nirvana
+#: admin/main.php:220
+msgid "Hide Tables"
+msgstr "Tabellen verbergen"
+
+# @ nirvana
+#: admin/main.php:221
+msgid "Back to Top button"
+msgstr "Button 'Naar boven'"
+
+# @ nirvana
+#: admin/main.php:224
+msgid "Meta Bar Position"
+msgstr "Positie Metabalk"
+
+# @ nirvana
+#: admin/main.php:225
+msgid "Show on Blog Pages"
+msgstr "Toon op blogpagina's"
+
+# @ nirvana
+#: admin/main.php:226
+msgid "Show on Single Pages"
+msgstr "Op één pagina tonen"
+
+# @ nirvana
+#: admin/main.php:227
+msgid "Text Under Comments"
+msgstr "Tekst onder commentaar"
+
+# @ nirvana
+#: admin/main.php:228
+msgid "Comments are closed text"
+msgstr "Tekst: 'Commentaren zijn gesloten'"
+
+# @ nirvana
+#: admin/main.php:229
+msgid "Comments off"
+msgstr "Commentaar uit"
+
+# @ nirvana
+#: admin/main.php:232 includes/theme-functions.php:205
+msgid "Home Page"
+msgstr "Homepage"
+
+# @ nirvana
+#: admin/main.php:233 admin/settings.php:401 admin/settings.php:507
+msgid "Sticky Posts"
+msgstr "Sticky posts"
+
+# @ nirvana
+#: admin/main.php:234
+msgid "Archive and Category Pages"
+msgstr "Archief- en categoriepagina's"
+
+# @ nirvana
+#: admin/main.php:235
+msgid "Post Excerpt Length "
+msgstr "Lengte van de samenvatting"
+
+# @ nirvana
+#: admin/main.php:236
+msgid "Magazine Layout"
+msgstr "Magazine layout"
+
+# @ nirvana
+#: admin/main.php:237
+msgid "Excerpt suffix"
+msgstr "Achtervoegsel samenvatting"
+
+# @ nirvana
+#: admin/main.php:238
+msgid "Continue reading link text "
+msgstr "Tekst voor 'verder lezen ...'"
+
+# @ nirvana
+#: admin/main.php:239
+msgid "HTML tags in Excerpts"
+msgstr "HTML-Tags in samenvattingen"
+
+# @ nirvana
+#: admin/main.php:242
+msgid "Featured Images as POST Thumbnails "
+msgstr "Featured afbeelding als thumbnail voor posts"
+
+# @ nirvana
+#: admin/main.php:243
+msgid "Auto Select Images From Posts "
+msgstr "Automatisch beelden uit posts selecteren"
+
+# @ nirvana
+#: admin/main.php:244
+msgid "Thumbnails Alignment "
+msgstr "Uitlijning Thumbnails"
+
+# @ nirvana
+#: admin/main.php:245
+msgid "Thumbnails Size "
+msgstr "Grootte Thumbnails"
+
+# @ nirvana
+#: admin/main.php:246
+msgid "Featured Images as HEADER Images "
+msgstr "Featured afbeeldingen als header afbeelding"
+
+# @ nirvana
+#: admin/main.php:249
+msgid "Link nr. 1"
+msgstr "Link #1"
+
+# @ nirvana
+#: admin/main.php:250
+msgid "Link nr. 2"
+msgstr "Link #2"
+
+# @ nirvana
+#: admin/main.php:251
+msgid "Link nr. 3"
+msgstr "Link #3"
+
+# @ nirvana
+#: admin/main.php:252
+msgid "Link nr. 4"
+msgstr "Link #4"
+
+# @ nirvana
+#: admin/main.php:253
+msgid "Link nr. 5"
+msgstr "Link #5"
+
+# @ nirvana
+#: admin/main.php:254
+msgid "Socials display"
+msgstr "Weergave social media"
+
+#: admin/main.php:257
+msgid "Protection Engine Notices"
+msgstr "Meldingen protection engine"
+
+# @ nirvana
+#: admin/main.php:258
+msgid "Internet Explorer Compatibility Tag"
+msgstr "Internet Explorer compatibiliteitstag"
+
+# @ nirvana
+#: admin/main.php:259
+msgid "Custom Footer Text"
+msgstr "Custom footer tekst"
+
+# @ nirvana
+#: admin/main.php:260
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+# @ nirvana
+#: admin/main.php:261
+msgid "Custom JavaScript"
+msgstr "Custom JavaScript"
+
+# @ nirvana
+#: admin/main.php:286
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "Sorry, je hebt onvoldoende rechten om deze pagina te bekijken."
+
+# @ nirvana
+#: admin/main.php:305
+msgid "Nirvana settings updated successfully."
+msgstr "Nirvana instellingen succesvol geüpdate!"
+
+# @ nirvana
+#: admin/main.php:341
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+# @ nirvana
+#: admin/main.php:342
+msgid "Reset to Defaults"
+msgstr "Terugzetten naar standaardwaarden"
+
+# @ nirvana
+#: admin/main.php:388
+msgid "Import/Export Settings"
+msgstr "Importeer/Exporteer instellingen"
+
+# @ nirvana
+#: admin/main.php:393
+msgid "Export Theme options"
+msgstr "Exporteer thema-opties"
+
+# @ nirvana
+#: admin/main.php:394
+msgid ""
+"It's that easy: a mouse click away - the ability to export your Nirvana "
+"settings and save them on your computer. Feeling safer? You should!"
+msgstr ""
+"Zo eenvoudig is het: slechts een muisklik en je exporteert je Nirvana "
+"instellingen naar je computer. Voel je je nu veiliger? Goed zo!"
+
+# @ nirvana
+#: admin/main.php:399
+msgid "Import Theme options"
+msgstr "Importeer thema opties"
+
+# @ nirvana
+#: admin/main.php:400
+msgid ""
+"Without the import, the export would just be a fool's exercise. Make sure "
+"you have the exported file ready and see you after the mouse click."
+msgstr ""
+"Zonder importeermogelijkheid zou de export een domme optie zijn. Zorg ervoor "
+"dat je het geëxporteerde bestand klaar hebt staan. Tot zo, na de muisklik."
+
+# @ nirvana
+#: admin/main.php:405
+#, fuzzy
+msgid "Color Schemes"
+msgstr "Kleurschema laden"
+
+#: admin/main.php:406
+msgid ""
+"A collection of preset color schemes to use as the starting point for your "
+"site. Just load one up and see your blog in a different light."
+msgstr ""
+"Een verzameling standaard kleurschema's die je kunt gebruiken als een "
+"startpunt voor je website. Laad er een en zie je website in een ander licht."
+
+# @ nirvana
+#: admin/main.php:413
+msgid "Nirvana Latest News"
+msgstr "Laatste nieuws van Nirvana"
+
+# @ nirvana
+#: admin/main.php:423
+msgid "Reset Nirvana Settings to Defaults?"
+msgstr "Nirvana standaardinstellingen terugzetten?"
+
+# @ nirvana
+#: admin/prototypes.php:30
+msgid "or Google font"
+msgstr "of Google Font"
+
+# @ nirvana
+#: admin/settings.php:28
+msgid "One column (no sidebars)"
+msgstr "Eén kolom (geen sidebars)"
+
+# @ nirvana
+#: admin/settings.php:29
+msgid "Two columns, sidebar on the right"
+msgstr "Twee kolommen, sidebar rechts"
+
+# @ nirvana
+#: admin/settings.php:30
+msgid "Two columns, sidebar on the left"
+msgstr "Twee kolommen, sidebar links"
+
+# @ nirvana
+#: admin/settings.php:31
+msgid "Three columns, sidebars on the right"
+msgstr "Drie kolommen, sidebar rechts"
+
+# @ nirvana
+#: admin/settings.php:32
+msgid "Three columns, sidebars on the left"
+msgstr "Drie kolommen, sidebar links"
+
+# @ nirvana
+#: admin/settings.php:33
+msgid "Three columns, one sidebar on each side"
+msgstr "Drie kolommen, sidebar rechts en links"
+
+# @ nirvana
+#: admin/settings.php:41
+msgid ""
+"Choose your layout. Possible options are: <br> No sidebar, a single sidebar "
+"on either left of right, two sidebars on either left or right and two "
+"sidebars on each side.<br>This can be overriden in pages by using Page "
+"Templates."
+msgstr ""
+"Kies je layout. De mogelijkheden zijn: <br> Geen sidebar, één sidebar links "
+"of rechts, twee sidebars links of rechts en twee sidebars aan elke zijde."
+"<br>Binnen een pagina kan dit overschreven worden met door een pagina "
+"template te gebruiken"
+
+# @ nirvana
+#: admin/settings.php:90
+msgid "Content ="
+msgstr "Inhoud ="
+
+# @ nirvana
+#: admin/settings.php:91
+msgid "Sidebar(s) ="
+msgstr "Sidebar(s) ="
+
+# @ nirvana
+#: admin/settings.php:92
+msgid "Total width ="
+msgstr "Totale breedte ="
+
+# @ nirvana
+#: admin/settings.php:99
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. When using a "
+"3 columns layout (with 2 sidebars) they will each have half the configured "
+"width."
+msgstr ""
+"Kies de breedte van je <b>content</b> en <b>sidebar(s)</b>. Wanneer je een 3-"
+"koloms layout gebruikt (met 2 sidebars) dan heeft is elke sidebar de helft "
+"van de ingestelde breedte."
+
+#: admin/settings.php:108
+msgid "Wide"
+msgstr "Volle breedte"
+
+#: admin/settings.php:108
+msgid "Boxed"
+msgstr "Vaste breedte"
+
+#: admin/settings.php:116
+msgid ""
+"Select the layout format for your site.<br> <strong>Wide</strong> - full "
+"width layout. <br><strong>Boxed</strong> - fixed width layout."
+msgstr ""
+"Kies de layout voor je website.<br> <strong>Volle breedte</strong> - Volle "
+"breedte layout.<br><strong>Vaste breedte</strong> - Layout met vaste breedte."
+
+# @ nirvana
+#: admin/settings.php:124 admin/settings.php:214 admin/settings.php:230
+#: admin/settings.php:613 admin/settings.php:848 admin/settings.php:1099
+#: admin/settings.php:1114 admin/settings.php:1212 admin/settings.php:1228
+#: admin/settings.php:1410 admin/settings.php:1439 admin/settings.php:1462
+#: admin/settings.php:1481 admin/settings.php:1530 admin/settings.php:1675
+#: admin/settings.php:1691
+msgid "Enable"
+msgstr "Inschakelen"
+
+# @ nirvana
+#: admin/settings.php:124 admin/settings.php:214 admin/settings.php:230
+#: admin/settings.php:848 admin/settings.php:1099 admin/settings.php:1114
+#: admin/settings.php:1212 admin/settings.php:1228 admin/settings.php:1410
+#: admin/settings.php:1439 admin/settings.php:1462 admin/settings.php:1481
+#: admin/settings.php:1530 admin/settings.php:1675 admin/settings.php:1691
+msgid "Disable"
+msgstr "Uitschakelen"
+
+# @ nirvana
+#: admin/settings.php:132
+msgid "Allow zoom"
+msgstr "Zoom toestaan"
+
+# @ nirvana
+#: admin/settings.php:133
+msgid ""
+"Enable to make Nirvana fully responsive. The layout and general sizes of "
+"your blog will adjust depending on what device and what resolution it is "
+"viewed in.<br> Do not disable unless you have a good reason to."
+msgstr ""
+"Schakel in om Nirvana volledig responsive te maken. De layout en de algemene "
+"afmetingen van je website zullen zich aanpassen afhankelijk van het device "
+"en de resolutie waarmee de site bekeken wordt.<br> Schakel alleen uit "
+"wanneer je daar een goede reden voor hebt."
+
+# @ nirvana
+#: admin/settings.php:145
+msgid ""
+"Select the header's height. After saving the settings go and upload your new "
+"header image. The header's minimum width should be "
+msgstr ""
+"Kies de hoogte van de header. Upload een nieuwe header afbeelding na het "
+"opslaan.De minimum breedte van de header is "
+
+# @ nirvana
+#: admin/settings.php:151
+msgid "Define header image"
+msgstr "Header afbeelding kiezen"
+
+# @ nirvana
+#: admin/settings.php:152
+msgid "Center the header image horizontally"
+msgstr "Afbeelding horizontaal centreren"
+
+# @ nirvana
+#: admin/settings.php:154
+msgid "Force header image responsiveness."
+msgstr "Afbeelding responsive?"
+
+# @ nirvana
+#: admin/settings.php:155
+msgid ""
+"By default the header has a minimum height set to accommodate the site title "
+"or custom logo. Enabling this option removes that minimum height and the "
+"header becomes fully responsive, scalling to any size.<br> Only enable this "
+"if you're <b>not</b> using a logo or site title and description in the "
+"header. Also make sure you have a header image uploaded. "
+msgstr ""
+"Standaard heeft de header een minimum hoogte waar de titel van de website of "
+"een logo in past. het inschakelen van deze optie maakt die minimum hoogte "
+"ongedaan waardoor de header volledig responsive wordt en naar elke afmeting "
+"schaalt.<br> Schakel dit alleen in wanneer je <b>niet</b> een logo of site "
+"titel met beschrijving of een logo in de header gebruikt. Controleer of je "
+"een header afbeelding hebt geüpload. "
+
+# @ nirvana
+#: admin/settings.php:163
+msgid "Site Title and Description"
+msgstr "Website titel en beschrijving"
+
+# @ nirvana
+#: admin/settings.php:163
+msgid "Custom Logo"
+msgstr "Eigen logo"
+
+# @ nirvana
+#: admin/settings.php:163
+msgid "Clickable header image"
+msgstr "Klikbare header afbeelding"
+
+# @ nirvana
+#: admin/settings.php:163
+msgid "Empty"
+msgstr "Leeg"
+
+# @ nirvana
+#: admin/settings.php:165
+msgid "Choose what to display inside your header area."
+msgstr "Kies wat je in de header wilt tonen."
+
+# @ nirvana
+#: admin/settings.php:173
+msgid ""
+"Custom Logo upload. The logo will appear over the header image if you have "
+"used one."
+msgstr ""
+"Eigen logo uploaden. Het logo wordt boven de header afbeelding getoond "
+"indien je die gebruikt."
+
+# @ nirvana
+#: admin/settings.php:174 admin/settings.php:190 admin/settings.php:478
+msgid "Select / Upload Image"
+msgstr "Afbeelding kiezen / uploaden"
+
+# @ nirvana
+#: admin/settings.php:179
+msgid "top"
+msgstr "boven"
+
+# @ nirvana
+#: admin/settings.php:180
+msgid "left"
+msgstr "links"
+
+# @ nirvana
+#: admin/settings.php:181
+msgid ""
+"Select the top and left spacing for the header content. Use it to better "
+"position your site title and description or custom logo inside the header. "
+msgstr ""
+"Kies de ruimte links en boven de header inhoud. Gebruik dit om de titel en "
+"beschrijving of je eigen logo beter binnen de header te plaatsen. "
+
+# @ nirvana
+#: admin/settings.php:189
+msgid ""
+"Limitations: It has to be an image. It should be max 64x64 pixels in "
+"dimensions. Recommended file extensions .ico and .png. <br> <strong>Note "
+"that some browsers do not display the changed favicon instantly.</strong>"
+msgstr ""
+"Let op: dit moet een afbeelding zijn. Maximale afmetingen: 64x64 pixels. "
+"Aanbevolen bestandsformaten .ico en .png. <br> <strong>Denk eraan dat "
+"sommige browsers niet direct een gewijzigd favicon tonen.</strong>"
+
+#: admin/settings.php:199
+msgid "60%"
+msgstr ""
+
+#: admin/settings.php:199
+msgid "50%"
+msgstr ""
+
+#: admin/settings.php:199
+msgid "33%"
+msgstr ""
+
+#: admin/settings.php:199
+msgid "25%"
+msgstr ""
+
+#: admin/settings.php:201
+msgid ""
+"Limit the header widget area max width as percentage of the entire header "
+"width."
+msgstr ""
+"Beperk de max breedte van de ruimte voor de header widget als een percentage "
+"van de hele header."
+
+# @ nirvana
+#: admin/settings.php:216
+#, fuzzy
+msgid ""
+"Enable the presentation front-page. This will become your new home page. "
+"<br><br>\n"
+"\t     <em> If you have this option enabled and you can't see the "
+"presentation page, make sure that the option under WordPress Dashboard >> "
+"Settings >> Reading >> <strong>Front page displays</strong> is set to the "
+"default value <strong>Your Latest Posts</strong>.<br><br></em>\n"
+"\t\tIf you want another page to hold your latest blog posts, choose 'Blog "
+"Template (Posts Page)' from Page Templates while creating or editing that "
+"page."
+msgstr ""
+"Schakel de presentatiepagina in. Dit wordt je nieuwe home page. <br><br>\n"
+"\t     <em>Wanneer je deze optie hebt ingeschakeld en je ziet de "
+"presentatiepagina niet, zorg er dan voor dat de optie onder WordPress "
+"Dashboard >> Settings >> Reading >> <strong>Front page displays</strong> "
+"standaard ingesteld is op het tonen van  <strong>Your Latest Posts</strong>."
+"<br><br></em>\n"
+"\t\tWanneer je een andere pagina wilt die je posts toont, kies dan 'Blog "
+"Template (Posts Page)' in de lijst van pagina templates wanneer je die "
+"pagina maakt of bewerkt."
+
+#: admin/settings.php:220
+#, php-format
+msgid ""
+"You have enabled the Presentation Page but your WordPress <em>Front page "
+"displays</em> option is not set to your latest posts. <br>\n"
+"\t\t\t\t\tGo to %1$s and make sure you have selected <strong>Your latest "
+"posts</strong> under <em>Front page displays</em>."
+msgstr ""
+"Je hebt de presentatiepagina ingeschakeld maar de Wordpress <em>Front page "
+"displays</em> optie is niet ingesteld op je meest recente posts.<br>\n"
+"\t\t\t\t\tGa naar %1$s en zorg ervoor dat je <strong>Your latest posts</"
+"strong> selecteert onder <em>Front page displays</em>."
+
+# @ nirvana
+#: admin/settings.php:232
+#, fuzzy
+msgid ""
+"Enable to display the latest posts on the presentation page, below the "
+"columns. Sticky posts are always displayed and not counted."
+msgstr ""
+"Schakel in om de meeste recente posts te tonen op de presentatiepagina onder "
+"de kolommen. Sticky posts worden altijd getoond en niet geteld."
+
+# @ nirvana
+#: admin/settings.php:233
+#, fuzzy
+msgid "Show:"
+msgstr "Tonen"
+
+# @ nirvana
+#: admin/settings.php:235
+msgid "posts"
+msgstr "posts"
+
+#: admin/settings.php:236
+msgid ""
+"The number of posts to show on the Presentation Page. The same number of "
+"posts will be loaded with the <em>More Posts</em> button."
+msgstr ""
+"Het aantal posts dat wordt getoond op de presentatiepagina. Hetzelfde aantal "
+"posts zal getoond worden met de <em>Meer posts</em> button."
+
+# @ nirvana
+#: admin/settings.php:239
+#, fuzzy
+msgid "Posts per row:"
+msgstr "Posts per regel:"
+
+# @ nirvana
+#: admin/settings.php:254
+msgid "Slider Dimensions:"
+msgstr "Slider afmetingen:"
+
+# @ nirvana
+#: admin/settings.php:255
+msgid "width"
+msgstr "breedte"
+
+# @ nirvana
+#: admin/settings.php:256
+msgid "height"
+msgstr "hoogte"
+
+# @ nirvana
+#: admin/settings.php:257
+msgid ""
+"The dimensions of your slider. Make sure your images are of the same size."
+msgstr ""
+"De afmetingen van de slider. De afbeeldingen moeten dezelfde grootte hebben."
+
+# @ nirvana
+#: admin/settings.php:259
+msgid "Animation:"
+msgstr "Animatie:"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "Random"
+msgstr "Random"
+
+# @ nirvana - Übersetzung Ralf Lexis | ralflexis.de
+#: admin/settings.php:261
+#, fuzzy
+msgid "Fold"
+msgstr "Vouw"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "Fade"
+msgstr "In- en uitfaden"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "SlideInRight"
+msgstr "Slide in vanaf rechts"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "SlideInLeft"
+msgstr "Slide in vanaf links"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "SliceDown"
+msgstr "Slice naar beneden"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "SliceDownLeft"
+msgstr "Slice naar beneden en links"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "SliceUp"
+msgstr "Slice naar boven"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "SliceUpLeft"
+msgstr "Slice naar boven en links"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "SliceUpDown"
+msgstr "Slice naar boven en beneden"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "SliceUpDownLeft"
+msgstr "Slice naar boven-beneden en links"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "BoxRandom"
+msgstr "Box random"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "BoxRain"
+msgstr "Box Rain"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "BoxRainReverse"
+msgstr "Box Rain achteruit"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "BoxRainGrow"
+msgstr "Box Rain groeiend"
+
+# @ nirvana
+#: admin/settings.php:261
+msgid "BoxRainGrowReverse"
+msgstr "Box Rain achteruit groeiend"
+
+# @ nirvana
+#: admin/settings.php:270
+msgid "The transition effect of your slides."
+msgstr "Overgangseffect van de afbeeldingen."
+
+# @ nirvana
+#: admin/settings.php:272
+msgid "Animation Time:"
+msgstr "Duur van de animatie:"
+
+# @ nirvana
+#: admin/settings.php:273 admin/settings.php:277
+msgid "milliseconds"
+msgstr "milliseconden"
+
+# @ nirvana
+#: admin/settings.php:274
+msgid "The time in which the transition animation will take place."
+msgstr "Tijdsperiode waarin het overgangseffect plaatsvindt."
+
+# @ nirvana
+#: admin/settings.php:276
+msgid "Pause Time:"
+msgstr "Pauzetijd:"
+
+# @ nirvana
+#: admin/settings.php:278
+msgid "The time in which a slide will be still and visible."
+msgstr "Tijd dat het beeld zichtbaar is."
+
+# @ nirvana
+#: admin/settings.php:280
+msgid "Slider navigation:"
+msgstr "Slidernavigatie:"
+
+# @ nirvana
+#: admin/settings.php:282
+msgid "Numbers"
+msgstr "Cijfers"
+
+# @ nirvana
+#: admin/settings.php:282
+msgid "Bullets"
+msgstr "Bullets"
+
+# @ nirvana
+#: admin/settings.php:282
+msgid "None"
+msgstr "Geen"
+
+# @ nirvana
+#: admin/settings.php:290
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "Type slidernavigatie. Onderin de slider zichtbaar."
+
+# @ nirvana
+#: admin/settings.php:292
+msgid "Slider arrows:"
+msgstr "Slider pijlen:"
+
+# @ nirvana
+#: admin/settings.php:294
+msgid "Always Visible"
+msgstr "Altijd zichtbaar"
+
+# @ nirvana
+#: admin/settings.php:294
+msgid "Visible on Hover"
+msgstr "Zichtbaar on hover"
+
+# @ nirvana
+#: admin/settings.php:294
+msgid "Hidden"
+msgstr "Verborgen"
+
+# @ nirvana
+#: admin/settings.php:302
+msgid "The Left and Right arrows on your slider"
+msgstr "Linker- en rechterpijl op je slider"
+
+# @ nirvana
+#: admin/settings.php:304
+#, fuzzy
+msgid "Title font size:"
+msgstr "Fontgrootte titel"
+
+#: admin/settings.php:313 admin/settings.php:325
+msgid "All Caps"
+msgstr "Kapitalen"
+
+# @ nirvana
+#: admin/settings.php:314
+msgid "Slider title Font size."
+msgstr "Fontgrootte slidertitel"
+
+#: admin/settings.php:316
+msgid "Text font size:"
+msgstr "Fontgrootte tekst"
+
+#: admin/settings.php:326
+msgid "Text font size."
+msgstr "Fontgrootte tekst"
+
+# @ nirvana
+#: admin/settings.php:328
+msgid "Slider Border Width:"
+msgstr "Breedte van de rand van de slider:"
+
+# @ nirvana
+#: admin/settings.php:329 admin/settings.php:333
+msgid "px"
+msgstr "px"
+
+# @ nirvana
+#: admin/settings.php:330
+msgid ""
+"The slider's border width. You can also edit its color from the Color "
+"Settings. Use a border width when your slider is smaller than the total site "
+"width."
+msgstr ""
+"De breedte van de rand van de slider. Je kunt de kleur bewerken bij "
+"Kleurinstellingen. Gebruik een rand wanneer je slider smaller is dan de "
+"breedte van de website."
+
+# @ nirvana
+#: admin/settings.php:332
+msgid "Slider Top/Bottom Margin:"
+msgstr "Marge boven en onder de slider:"
+
+# @ nirvana
+#: admin/settings.php:334
+msgid ""
+"Add margins to the slider. By default this is set to 0 and you will want to "
+"increase this value when the slider is not full width."
+msgstr ""
+"Voeg marges toe aan de slider. Standaard staan de marges op 0 en je zult ze "
+"willen vergroten wanneer de slider niet de volle breedte inneemt."
+
+# @ nirvana
+#: admin/settings.php:401
+msgid "Custom Slides"
+msgstr "Custom slider afbeeldingen"
+
+# @ nirvana
+#: admin/settings.php:401 admin/settings.php:507
+msgid "Latest Posts"
+msgstr "Laatste posts"
+
+# @ nirvana
+#: admin/settings.php:401 admin/settings.php:507
+msgid "Random Posts"
+msgstr "Random posts"
+
+# @ nirvana
+#: admin/settings.php:401 admin/settings.php:507
+msgid "Latest Posts from Category"
+msgstr "Laatste posts in de categorie "
+
+# @ nirvana
+#: admin/settings.php:401 admin/settings.php:507
+msgid "Random Posts from Category"
+msgstr "Random posts in de categorie "
+
+# @ nirvana
+#: admin/settings.php:401 admin/settings.php:507
+msgid "Specific Posts"
+msgstr "Specifieke posts"
+
+# @ nirvana
+#: admin/settings.php:401 admin/settings.php:507
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+# @ nirvana
+#: admin/settings.php:410
+msgid ""
+"Only the slides with a defined image will become active and visible in the "
+"live slider.<br>When using slides from posts, make sure the selected posts "
+"have featured images.<br>Read the FAQs for more info."
+msgstr ""
+"Alleen slides waarvoor een afbeelding is gedefinieerd zijn actief en "
+"zichtbaar in de live slider.<br>Wanneer je slides van posts gebruikt, zorg "
+"er dan voor dat de geselecteerde posts featured afbeeldingen bevatten."
+"<br>Lees de FAQs voor meer informatie."
+
+# @ nirvana
+#: admin/settings.php:415
+msgid "Latest posts will be loaded into the slider."
+msgstr "De laatste posts worden in de slider getoond."
+
+# @ nirvana
+#: admin/settings.php:419
+msgid "Random posts will be loaded into the slider."
+msgstr "Random posts worden in de slider getoond."
+
+# @ nirvana
+#: admin/settings.php:423
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "De laatste posts in de gekozen categorie worden in de slider getoond."
+
+# @ nirvana
+#: admin/settings.php:427
+msgid ""
+"Random posts from the category you choose will be loaded into the slider."
+msgstr ""
+"Random posts van de gkozen categorie zullen in de slider worden getoond."
+
+# @ nirvana
+#: admin/settings.php:431
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "Alleen sticky posts zullen worden getoond in de slider."
+
+# @ nirvana
+#: admin/settings.php:435 admin/settings.php:543
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr ""
+"Geef de ID's van de posts aam doe getoond moeten worden (kommagescheiden "
+"aangeven):"
+
+# @ nirvana
+#: admin/settings.php:440 admin/settings.php:553
+msgid "<br> Choose the category: "
+msgstr "<br> Categorie kiezen: "
+
+# @ nirvana
+#: admin/settings.php:442 admin/settings.php:555
+msgid "Select Category"
+msgstr "Categorie kiezen"
+
+# @ nirvana
+#: admin/settings.php:457
+#, fuzzy
+msgid "Number of posts:"
+msgstr "Aantal posts:"
+
+# @ nirvana
+#: admin/settings.php:458 admin/settings.php:462
+#, fuzzy
+msgid "words"
+msgstr "woorden"
+
+# @ nirvana
+#: admin/settings.php:459
+#, fuzzy
+msgid "The number of posts to show in the slider."
+msgstr "Aantal posts in die in de slider moeten worden getoond:"
+
+# @ nirvana
+#: admin/settings.php:461
+#, fuzzy
+msgid "Slider excerpt:"
+msgstr "Slider samenvatting:"
+
+#: admin/settings.php:463
+msgid "The number of words for the slider excerpts."
+msgstr "Aantal woorden van de slider samenvatting."
+
+# @ nirvana
+#: admin/settings.php:473
+msgid "Slide"
+msgstr "Sliderafbeelding"
+
+# @ nirvana
+#: admin/settings.php:475 content/content-image.php:14
+msgid "Image"
+msgstr "Afbeelding"
+
+# @ nirvana
+#: admin/settings.php:479 admin/settings.php:629 admin/settings.php:636
+#: admin/settings.php:643
+msgid "Title"
+msgstr "Titel"
+
+# @ nirvana
+#: admin/settings.php:482 admin/settings.php:631 admin/settings.php:638
+#: admin/settings.php:645
+msgid "Text"
+msgstr "Tekst"
+
+# @ nirvana
+#: admin/settings.php:485 content/content-link.php:15
+msgid "Link"
+msgstr "Link"
+
+# @ nirvana
+#: admin/settings.php:493
+msgid "Read more text:"
+msgstr "'Lees verder' tekst:"
+
+# @ nirvana
+#: admin/settings.php:496
+msgid ""
+"The linked text that appears at the bottom of each slide. Leave empty to "
+"hide the link."
+msgstr ""
+"De link-tekst die onderaan elke slide verschijnt. Laat leeg om te verbergen."
+
+# @ nirvana
+#: admin/settings.php:507
+msgid "Widget Columns"
+msgstr "Widget kolommen"
+
+# @ nirvana
+#: admin/settings.php:516
+msgid ""
+"Only the columns with a defined image will become active and visible on the "
+"presentation page.<br>When using columns from posts, make sure the selected "
+"posts have featured images.<br>Read the FAQs for more info."
+msgstr ""
+"Alleen slides waarvoor een afbeelding is gedefinieerd zijn actief en "
+"zichtbaar in de live slider.<br>Wanneer je slides van posts gebruikt, zorg "
+"er dan voor dat de geselecteerde posts featured afbeeldingen bevatten."
+"<br>Lees de FAQs voor meer informatie."
+
+# @ nirvana
+#: admin/settings.php:523
+msgid "Latest posts will be loaded into the columns."
+msgstr "De meest recente posts worden in de kolommen getoond."
+
+# @ nirvana
+#: admin/settings.php:527
+msgid "Random posts will be loaded into the columns."
+msgstr "Random posts worden in de kolommen getoond."
+
+# @ nirvana
+#: admin/settings.php:531
+msgid ""
+"Latest posts from the category you choose will be loaded in the columns."
+msgstr "Recente posts uit de gekozen categorie worden in de kolommen getoond."
+
+# @ nirvana
+#: admin/settings.php:535
+msgid ""
+"Random posts from the category you choose will be loaded into the columns."
+msgstr ""
+"Random posts uit de gekozen categorie worden in de kolommen getoond.geladen."
+
+# @ nirvana
+#: admin/settings.php:539
+msgid "Only sticky posts will be loaded into the columns."
+msgstr "Alleen sticky posts worden in de kolommen getoond."
+
+# @ nirvana
+#: admin/settings.php:548
+msgid ""
+"Load your custom Widgets as columns. Go to <a>Appearance >> Widgets</a> and "
+"create your custom columns using the Columns widget. You can use as many as "
+"you want."
+msgstr ""
+"Laad je custom widgets als kolommen. Ga naar <a>Weergave >> Widgets</a> en "
+"maak je eigen custom kolommen met de Kolom widget. Je kunt zoveel gebruiken "
+"als je wil."
+
+# @ nirvana
+#: admin/settings.php:568
+msgid "Number of posts to show:"
+msgstr "Aantal te tonen posts:"
+
+# @ nirvana
+#: admin/settings.php:576
+#, fuzzy
+msgid "Column Display:"
+msgstr "Kolomweergave"
+
+# @ nirvana
+#: admin/settings.php:578
+#, fuzzy
+msgid "Animated"
+msgstr "Animatie:"
+
+# @ nirvana
+#: admin/settings.php:578
+#, fuzzy
+msgid "Static on Image"
+msgstr "Statische achtergrondafbeelding"
+
+# @ nirvana
+#: admin/settings.php:578
+#, fuzzy
+msgid "Static under Image"
+msgstr "Static under image"
+
+# @ nirvana
+#: admin/settings.php:586
+#, fuzzy
+msgid "How to display your Presentation Page Columns."
+msgstr "Weergave van kolommen op de presentatiepagina"
+
+# @ nirvana
+#: admin/settings.php:588
+msgid "Columns per row:"
+msgstr "Kolommen per regel:"
+
+# @ nirvana
+#: admin/settings.php:598
+msgid "Image Size:"
+msgstr "Afbeeldingsgrootte:"
+
+# @ nirvana
+#: admin/settings.php:599
+msgid "Height: "
+msgstr "Hoogte:"
+
+# @ nirvana
+#: admin/settings.php:600
+msgid "Width: "
+msgstr "Breedte:"
+
+# @ nirvana
+#: admin/settings.php:601
+msgid ""
+"The sizes for your column images. The width is dependent on total site width "
+"and the number of columns per row so it isn't configurable."
+msgstr ""
+"De afmetingen van de kolomafbeeldingen. De breedte is afhankelijk van de "
+"totale breedte van de website en van het aantal kolommen per regel en is "
+"daarom niet in te stellen."
+
+# @ nirvana
+#: admin/settings.php:604
+msgid "Column spacing:"
+msgstr "Ruimte tussen kolommen"
+
+# @ nirvana
+#: admin/settings.php:606
+msgid ""
+"The space between your columns. Increasing the column spacing will naturally "
+"decrease the visible area of your images."
+msgstr ""
+"De ruimte tussen de kolommen. Het vegroten van de ruimte tussen de kolommen "
+"verkleint het zichtbare gedeelte van de afbeelding."
+
+# @ nirvana
+#: admin/settings.php:608
+msgid "Columns Title:"
+msgstr "Kolomtitel:"
+
+# @ nirvana
+#: admin/settings.php:611
+msgid "The title for the columns area on the presentation page."
+msgstr "Titel van het kolommengebied op de presentatiepagina."
+
+# @ nirvana
+#: admin/settings.php:612
+msgid "Photo Frames"
+msgstr "Fotoranden"
+
+# @ nirvana
+#: admin/settings.php:614
+msgid ""
+"Enable subtle foto frames around your column images. Your columns will have "
+"white borders and a small shadow around them and will be slightly skewed."
+msgstr ""
+"Schakel subtiele randen in rondom kolomafbeeldingen. Kolommen zullen een "
+"witte rand hebben met een lichte schaduw die licht afgeschuind is."
+
+# @ nirvana
+#: admin/settings.php:623 admin/settings.php:634 admin/settings.php:641
+msgid "Text Area"
+msgstr "Tekstgebied"
+
+# @ nirvana
+#: admin/settings.php:625
+msgid "Text for the Presentation Page"
+msgstr "Tekst voor de presentatiepagina"
+
+# @ nirvana
+#: admin/settings.php:626
+#, fuzzy
+msgid ""
+"More text for the Presentation Page. The top title is just below the slider, "
+"the second title is below the columns. A text area supporting HTML tags and "
+"shortcodes below each title<br>It's all optional so leave any input field "
+"empty to not display it."
+msgstr ""
+"Meer tekst voor de presentatiepagina. De bovenste titel staat net onder de "
+"slider, de tweede titel staat onder de kolommen. Een text area waarin HTML "
+"tags en shortcodes worden ondersteund staat onder elke titel.<br>Het is "
+"allemaal optioneel, dus laat een veld gewoon leeg om het niet te tonen."
+
+# @ nirvana
+#: admin/settings.php:652
+msgid "Hide areas"
+msgstr "Gebieden verbergen"
+
+# @ nirvana
+#: admin/settings.php:654
+msgid "Choose the areas to hide on the Presentation Page:"
+msgstr "Kies de gebieden op de presentatiepagina die verborgen moeten worden:"
+
+# @ nirvana
+#: admin/settings.php:665
+msgid "Hide the topbar (includes the top social area and top menu)."
+msgstr "Top balk verbergen (inclusief social media icons en topmenu)."
+
+# @ nirvana
+#: admin/settings.php:668
+msgid "Hide the header area (logo/title and/or image/empty area)."
+msgstr "Header verbergen (logo/titel en/of afbeelding/leeg gebied)."
+
+# @ nirvana
+#: admin/settings.php:671
+msgid "Hide the main menu."
+msgstr "Verberg het hoofdmenu"
+
+# @ nirvana
+#: admin/settings.php:674
+msgid "Hide the footer widgets. "
+msgstr "Verberg de footer widgets."
+
+# @ nirvana
+#: admin/settings.php:677
+msgid "Hide the footer (copyright area)."
+msgstr "Verberg de footer (copyright)."
+
+# @ nirvana
+#: admin/settings.php:702
+#, fuzzy
+msgid ""
+"Select the general font family and size or insert the Google Font name "
+"you'll use in your blog. This will affect all text except the text "
+"controlled\n"
+"\t\t\t\t\t\t\tby the options below.<br><br> <strong>Additional Info:</"
+"strong><br>The fonts under the <em>General Theme Fonts</em> category are "
+"suggested for this\n"
+"\t\t\t\t\t\t\tbecause they have all the font weights used througout the "
+"theme.<br> When using Google Fonts for General Font make sure they also have "
+"multiple font weights and\n"
+"\t\t\t\t\t\t\tthat you specify them all eg.: <em>Roboto:400,300,500,700</em>"
+msgstr ""
+"Selecteer de standaard font family en fontgrootte of vul de naam van het "
+"Google font in dat je op je website wilt gebruiken. Dit heeft invloed op "
+"alle tekst behalve de tekst die gecontroleerd wordt door\n"
+"\t\t\t\t\t\t\tde opties hieronder.<br><br> <strong>Extra informatie:</"
+"strong><br>De fonts in de categorie <em>Standaard thema fonts</em> worden "
+"hiervoor aangeraden\n"
+"\t\t\t\t\t\t\tomdat ze allemaal het gewicht hebben dat overal in het thema "
+"wordt gebruikt.<br> Wanneer je een Google font als standaard font gebruikt "
+"zorg er dan voor dat het font meerdere gewichten heeft en\n"
+"\t\t\t\t\t\t\tdat je ze allemaal specificeert zoals bv.: "
+"<em>Roboto:400,300,500,700</em>"
+
+# @ nirvana
+#: admin/settings.php:724
+msgid ""
+"Select the font family and size or insert the Google Font name you want for "
+"your titles. It will affect post titles and page titles. Leave 'General "
+"Font' and the general font values you selected will be used."
+msgstr ""
+"Selecteer de font family en de fontgrootte of vul de naam in van het Google "
+"font dat je voor je titels wilt gebruiken. Dit heeft invloed op je "
+"paginatitels. Wanneer je 'Standaard font' laat staan dan worden de standaard "
+"fonts gebruikt die je hebt geselecteerd."
+
+# @ nirvana
+#: admin/settings.php:743
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"widget titles to have. Leave 'General Font' and the general font values you "
+"selected will be used."
+msgstr ""
+"Selecteer de font family en de fontgrootte of vul de naam in van het Google "
+"font dat je voor widget titels wilt gebruiken. Wanneer je 'Standaard font' "
+"laat staan dan worden de standaard fonts gebruikt die je hebt geselecteerd."
+
+# @ nirvana
+#: admin/settings.php:762
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"widgets to have. Leave 'General Font' and the general font values you "
+"selected will be used."
+msgstr ""
+"Selecteer de font family en de fontgrootte of vul de naam in van het Google "
+"font dat je voor widgets wilt gebruiken. Wanneer je 'Standaard font' laat "
+"staan dan worden de standaard fonts gebruikt die je hebt geselecteerd."
+
+# @ nirvana
+#: admin/settings.php:780
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"site title and tagline to use. Leave 'General Font' and the general font "
+"values you selected will be used."
+msgstr ""
+"Selecteer de font family en de fontgrootte of vul de naam in van het Google "
+"font dat je voor de site titel en de ondertitel wilt gebruiken. Wanneer je "
+"'Standaard font' laat staan dan worden de standaard fonts gebruikt die je "
+"hebt geselecteerd."
+
+# @ nirvana
+#: admin/settings.php:798
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"main menu to use. Leave 'General Font' and the general font values you "
+"selected will be used."
+msgstr ""
+"Selecteer de font family en de fontgrootte of vul de naam in van het Google "
+"font dat je voor het hoofdmenu wilt gebruiken. Wanneer je 'Standaard font' "
+"laat staan dan worden de standaard fonts gebruikt die je hebt geselecteerd."
+
+# @ nirvana
+#: admin/settings.php:819
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"headings to have (h1 - h6 tags will be affected). Leave 'General Font' and "
+"the general font values you selected will be used."
+msgstr ""
+"Selecteer de font family en de fontgrootte of vul de naam in van het Google "
+"font dat je voor de koppen (h1 - h6 tags) wilt gebruiken. Wanneer je "
+"'Standaard font' laat staan dan worden de standaard fonts gebruikt die je "
+"hebt geselecteerd."
+
+# @ nirvana
+#: admin/settings.php:827 admin/settings.php:868 admin/settings.php:878
+#: admin/settings.php:895
+msgid "Default"
+msgstr "Standaard"
+
+# @ nirvana
+#: admin/settings.php:827 admin/settings.php:1128 admin/settings.php:1497
+msgid "Left"
+msgstr "Links"
+
+# @ nirvana
+#: admin/settings.php:827 admin/settings.php:1128 admin/settings.php:1497
+msgid "Right"
+msgstr "Rechts"
+
+# @ nirvana
+#: admin/settings.php:827
+msgid "Justify"
+msgstr "Blokuitlijning"
+
+# @ nirvana
+#: admin/settings.php:827 admin/settings.php:1128 admin/settings.php:1497
+msgid "Center"
+msgstr "Centreren"
+
+# @ nirvana
+#: admin/settings.php:829
+msgid ""
+"This overwrites the text alignment in posts and pages. Leave 'Default' for "
+"normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr ""
+"Dit overschrijft de tekstuitlijning in posts en op pagina's. Laat op "
+"'Standaard' staan voor normale instellingen (uitlijning blijft zoals "
+"aangegeven in posts, commentaren etc.)."
+
+# @ nirvana
+#: admin/settings.php:839
+msgid "Choose the indent for your paragraphs."
+msgstr "Kies de inspringing voor je alinea's."
+
+# @ nirvana
+#: admin/settings.php:850
+msgid "Disable the default headings indent (left margin)."
+msgstr ""
+"Schakel de vooraf ingesteld inspringing voor kopregels uit (linker marge)."
+
+# @ nirvana
+#: admin/settings.php:860
+msgid "Text line height. The height between 2 rows of text."
+msgstr "Regelafstand voor tekst. Hoogte tussen twee regels tekst."
+
+# @ nirvana
+#: admin/settings.php:870
+msgid ""
+"The space between <i>words</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"De afstand tussen <i>woorden</i>. Kies 'Standaard' voor normale instellingen "
+"(grootte is zoals aangegeven in de CSS)."
+
+# @ nirvana
+#: admin/settings.php:880
+msgid ""
+"The space between <i>letters</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"De ruimte tussen <i>letters</i>. Kies 'Standaard' voor normale instellingen "
+"(grootte is zoals aangegeven in de CSS)."
+
+# @ nirvana
+#: admin/settings.php:888
+msgid "Select the spacing between the paragraphs."
+msgstr "Kies de ruimte tussen alinea's."
+
+# @ nirvana
+#: admin/settings.php:895
+msgid "Force Uppercase"
+msgstr "Kapitalen forceren"
+
+# @ nirvana
+#: admin/settings.php:895
+msgid "Force Lowercase"
+msgstr "Onderkast (kleine letters) forceren"
+
+# @ nirvana
+#: admin/settings.php:897
+msgid ""
+"By default text is both uppercase and lowercase throughout the theme. With "
+"this option you can force uppercase or lowercase text styling in the whole "
+"theme. This option won't affect content text."
+msgstr ""
+"Standaard is tekst in het thema zowel in kapitalen als in onderkast. Met "
+"deze optie kun je kapitalen of onderkast (kleine letters) in het hele thema "
+"afdwingen. Deze optie heeft geen invloed op de tekst van de inhoud."
+
+# @ nirvana
+#: admin/settings.php:905
+msgid "Define background image"
+msgstr "Achtergrondafbeelding definiëren"
+
+# @ nirvana
+#: admin/settings.php:910 admin/settings.php:936 admin/settings.php:961
+#: admin/settings.php:997 admin/settings.php:1008
+msgid "Background:"
+msgstr "Achtergrond:"
+
+# @ nirvana
+#: admin/settings.php:911
+msgid "Header Background"
+msgstr "Achtergrond header"
+
+# @ nirvana
+#: admin/settings.php:912
+msgid "Main Site Background"
+msgstr "Achtergond website"
+
+# @ nirvana
+#: admin/settings.php:913
+msgid "Footer Widgets Area Background"
+msgstr "Achtergrond widget gebied in footer"
+
+# @ nirvana
+#: admin/settings.php:914
+msgid "Footer Background"
+msgstr "Achtergrond footer"
+
+# @ nirvana
+#: admin/settings.php:915 admin/settings.php:938 admin/settings.php:963
+#: admin/settings.php:990 admin/settings.php:1000 admin/settings.php:1011
+msgid "Text:"
+msgstr "Tekst:"
+
+# @ nirvana
+#: admin/settings.php:916
+msgid "General Text"
+msgstr "Algemene tekst"
+
+# @ nirvana
+#: admin/settings.php:917
+msgid "General Lighter Text"
+msgstr "Standaard lichtere tekst"
+
+# @ nirvana
+#: admin/settings.php:918
+msgid "Footer Text"
+msgstr "Tekst footer"
+
+# @ nirvana
+#: admin/settings.php:919
+msgid ""
+"The site background features 4 separately coloured areas.<br />The general "
+"text colour applies to all text on the website that is not controlled by any "
+"other option."
+msgstr ""
+"De achtergrond van de website bevat 4 aparte gebieden met een kleur. De "
+"standaard tekstkleur is van toepassing op alles tekst in de website die niet "
+"door andere opties kan worden aangepast."
+
+# @ nirvana
+#: admin/settings.php:924
+msgid "Accent Color #1"
+msgstr "Accentkleur #1"
+
+# @ nirvana
+#: admin/settings.php:925
+msgid "Accent Color #2"
+msgstr "Accentkleur #2"
+
+# @ nirvana
+#: admin/settings.php:926
+msgid "Accent Color #3"
+msgstr "Accentkleur #3"
+
+# @ nirvana
+#: admin/settings.php:927
+msgid "Accent Color #4"
+msgstr "Accentkleur #4"
+
+# @ nirvana
+#: admin/settings.php:928
+msgid "Accent Color #5"
+msgstr "Accentkleur #5"
+
+# @ nirvana
+#: admin/settings.php:929
+msgid ""
+"Accents #1 and #2 should either be the same as the link colours or be "
+"separate from all other colours on the site.<br />\n"
+"     Accent #5 is used for input fields and buttons backgrounds, borders and "
+"lines.<br />\n"
+"     Accents #3 and #4 should be the lighter/darker than the content "
+"background colour, being used as borders/shades on elements where accent #5 "
+"is background colour."
+msgstr ""
+"Accenten #1 en #2 moeten ofwel hetzelfde zijn als de kleuren van links of "
+"totaal verschillen van alle andere kleuren op de website.<br />\n"
+"     Accent #5 wordt gebruikt voor invoervelden en de achtergrond van "
+"buttons, randen en lijne.<br />\n"
+"     Accenten #3 en #4 dienen lichter te zijn dan de achtergrondkleur van de "
+"inhoud. Wordt gebruikt als rand/schaduw op elementen waarvan accent #5 de "
+"achtergrondkleur is."
+
+# @ nirvana
+#: admin/settings.php:937
+msgid "Site Description Background"
+msgstr "Achtergrond sitebeschrijving"
+
+# @ nirvana
+#: admin/settings.php:940
+msgid "Site Description"
+msgstr "Sitebeschrijving"
+
+# @ nirvana
+#: admin/settings.php:946
+msgid "Menu:"
+msgstr "Menu:"
+
+# @ nirvana
+#: admin/settings.php:947
+msgid "Menu Background"
+msgstr "Achtergrond van het menu"
+
+# @ nirvana
+#: admin/settings.php:948
+msgid "Menu Text"
+msgstr "Menutekst"
+
+# @ nirvana
+#: admin/settings.php:951
+msgid "Submenu:"
+msgstr "Submenu:"
+
+# @ nirvana
+#: admin/settings.php:952
+msgid "Submenu Background"
+msgstr "Achtergrond submenu"
+
+# @ nirvana
+#: admin/settings.php:953
+msgid "Submenu Text"
+msgstr "Subemenu tekst"
+
+# @ nirvana
+#: admin/settings.php:954
+msgid "Submenu Shadow"
+msgstr "Submenu schaduw"
+
+# @ nirvana
+#: admin/settings.php:956
+msgid "These colours apply to the main site menu (and dropdown elements)."
+msgstr ""
+"Deze kleuren betreffen het hoofdmenu van de site (en dropdown elementen)"
+
+# @ nirvana
+#: admin/settings.php:962
+msgid "Top Bar Background"
+msgstr "Top bar achtergrond"
+
+# @ nirvana
+#: admin/settings.php:964
+msgid "Top Bar Menu Link"
+msgstr "Top bar menu links"
+
+# @ nirvana
+#: admin/settings.php:965
+msgid "Top Bar Menu Link Hover"
+msgstr "Top bar menu links hover"
+
+# @ nirvana
+#: admin/settings.php:966
+msgid "These colours apply to the top bar menu."
+msgstr "Deze kleuren betreffen het menu in de top bar."
+
+# @ nirvana
+#: admin/settings.php:971
+msgid "Content Background"
+msgstr "Achtergrond content"
+
+# @ nirvana
+#: admin/settings.php:972
+msgid "Page/Post Title"
+msgstr "Pagina-/posttitel"
+
+# @ nirvana
+#: admin/settings.php:973
+msgid "Page/Post Title Hover"
+msgstr "Pagina-/posttitel hover"
+
+# @ nirvana
+#: admin/settings.php:974
+msgid "Content Headings"
+msgstr "Content koppen"
+
+# @ nirvana
+#: admin/settings.php:975
+msgid "Content colours apply to post and page areas of the site."
+msgstr "Content kleuren betreffen de post en page gebieden van de site."
+
+# @ nirvana
+#: admin/settings.php:980
+msgid "Slider:"
+msgstr "Slider:"
+
+# @ nirvana
+#: admin/settings.php:981
+msgid "Slider Background Color"
+msgstr "Slider achtergrond"
+
+# @ nirvana
+#: admin/settings.php:982
+msgid "Slider Border Color"
+msgstr "Slider randkleur"
+
+# @ nirvana
+#: admin/settings.php:983
+msgid "Slider Caption Text Color"
+msgstr "Slider kleur koptekst"
+
+# @ nirvana
+#: admin/settings.php:984
+msgid "Slider Caption Background"
+msgstr "Slider achtergrond tekst"
+
+# @ nirvana
+#: admin/settings.php:985
+msgid "Areas:"
+msgstr "Gebieden:"
+
+# @ nirvana
+#: admin/settings.php:986
+msgid "Text Area 1 Background Color"
+msgstr "Tekstgebied 1 achtergrondkleur"
+
+# @ nirvana
+#: admin/settings.php:987
+msgid "Text Area 2 Background Color"
+msgstr "Tekstgebied 2 achtergrondkleur"
+
+# @ nirvana
+#: admin/settings.php:988
+msgid "Text Area 3 Background Color"
+msgstr "Tekstgebied 3 achtergrondkleur"
+
+# @ nirvana
+#: admin/settings.php:989
+msgid "Columns Background Color"
+msgstr "Achtergrondkleur kolommen"
+
+# @ nirvana
+#: admin/settings.php:991
+msgid "Titles Color"
+msgstr "Titelkleur"
+
+# @ nirvana
+#: admin/settings.php:992
+msgid "These colours apply to specific areas of the presentation page."
+msgstr "Deze kleuren betreffen specifieke gebieden van de presentatiepagina."
+
+# @ nirvana
+#: admin/settings.php:998
+msgid "Sidebars Background"
+msgstr "Sidebar achtergrond"
+
+# @ nirvana
+#: admin/settings.php:999
+msgid "Sidebars Widget Title Background"
+msgstr "Achtergrond titel sidebar widget"
+
+# @ nirvana
+#: admin/settings.php:1001
+msgid "Sidebars Text"
+msgstr "Sidebar tekst"
+
+# @ nirvana
+#: admin/settings.php:1002
+msgid "Sidebars Widget Title Text"
+msgstr "Titeltekst sidebar widget"
+
+# @ nirvana
+#: admin/settings.php:1003
+msgid "These colours apply to the widgets placed in either sidebar."
+msgstr "Deze kleuren betreffen de widgets in een sidebar."
+
+# @ nirvana
+#: admin/settings.php:1009
+msgid "Footer Widgets Background"
+msgstr "Achtergrond footer widgets"
+
+# @ nirvana
+#: admin/settings.php:1010
+msgid "Footer Widgets Title Background"
+msgstr "Achtergrond titel footer widgets"
+
+# @ nirvana
+#: admin/settings.php:1012
+msgid "Footer Widget Text"
+msgstr "Tekst footer widget"
+
+# @ nirvana
+#: admin/settings.php:1013
+msgid "Footer Widgets Title Text"
+msgstr "Titeletekst footer widget"
+
+# @ nirvana
+#: admin/settings.php:1014
+msgid "These colours apply to the widgets in the footer area."
+msgstr "Deze kleuren betreffen de widgets in de footer."
+
+# @ nirvana
+#: admin/settings.php:1019
+msgid "General:"
+msgstr "Algemeen:"
+
+# @ nirvana
+#: admin/settings.php:1020
+msgid "General Links"
+msgstr "Algemene links"
+
+# @ nirvana
+#: admin/settings.php:1021
+msgid "General Links Hover"
+msgstr "Hover algemene links"
+
+# @ nirvana
+#: admin/settings.php:1022
+msgid "Sidebar Widgets:"
+msgstr "Sidebar widgets:"
+
+# @ nirvana
+#: admin/settings.php:1023
+msgid "Sidebar Widgets Links"
+msgstr "Links in sidebar widgets"
+
+# @ nirvana
+#: admin/settings.php:1024
+msgid "Sidebar Widgets Links Hover"
+msgstr "Hover links in sidebar widgets"
+
+# @ nirvana
+#: admin/settings.php:1025
+msgid "Footer Widgets:"
+msgstr "Footer widgets"
+
+# @ nirvana
+#: admin/settings.php:1026
+msgid "Footer Widgets Links"
+msgstr "Links in footer widgets"
+
+# @ nirvana
+#: admin/settings.php:1027
+msgid "Footer Widgets Links Hover"
+msgstr "Hover links in footer widgets"
+
+# @ nirvana
+#: admin/settings.php:1028
+msgid "Footer:"
+msgstr "Footer:"
+
+# @ nirvana
+#: admin/settings.php:1029
+msgid "Footer Links"
+msgstr "Footer links"
+
+# @ nirvana
+#: admin/settings.php:1030
+msgid "Footer Links Hover"
+msgstr "Hover footer links"
+
+# @ nirvana
+#: admin/settings.php:1031
+msgid "Footer colours include the footer menu colours."
+msgstr "Deze kleuren betreffen ook de kleuren in het footer menu"
+
+# @ nirvana
+#: admin/settings.php:1036
+msgid "Meta Icons"
+msgstr "Meta iconen"
+
+# @ nirvana
+#: admin/settings.php:1037
+msgid "Meta Links"
+msgstr "Meta links"
+
+# @ nirvana
+#: admin/settings.php:1038
+msgid "Meta Links Hover"
+msgstr "Hover meta links"
+
+# @ nirvana
+#: admin/settings.php:1039
+msgid "Colours for your meta area (post information)."
+msgstr "Kleuren voor het metagebied (post informatie)."
+
+# @ nirvana
+#: admin/settings.php:1044
+msgid "Social Icons Background"
+msgstr "Achtergrond social icons"
+
+# @ nirvana
+#: admin/settings.php:1045
+msgid "Social Icons Background Hover"
+msgstr "Hover achtergrond social icons"
+
+# @ nirvana
+#: admin/settings.php:1046
+msgid "Background colours for your social icons."
+msgstr "Achtergrondkleur social icons"
+
+# @ nirvana
+#: admin/settings.php:1052
+msgid "Light"
+msgstr "Licht"
+
+# @ nirvana
+#: admin/settings.php:1052
+msgid "Dark"
+msgstr "Donker"
+
+# @ nirvana
+#: admin/settings.php:1052
+msgid "Simple"
+msgstr "Eenvoudig"
+
+# @ nirvana
+#: admin/settings.php:1060
+msgid ""
+"This setting changes the look of your captions. Images that are not inserted "
+"through captions will not be affected."
+msgstr ""
+"Deze instelling beïnvloedt de weergave van kopregels. Afbeeldingen die NIET "
+"via kopregels zijn geplaatst worden niet geraakt."
+
+# @ nirvana
+#: admin/settings.php:1073
+msgid "Normal"
+msgstr "Normaal"
+
+# @ nirvana
+#: admin/settings.php:1073
+msgid "Fixed"
+msgstr "Vast"
+
+# @ nirvana
+#: admin/settings.php:1073 admin/settings.php:1182 admin/settings.php:1197
+#: admin/settings.php:1247 admin/settings.php:1296 admin/settings.php:1327
+msgid "Hide"
+msgstr "Verberg"
+
+# @ nirvana
+#: admin/settings.php:1083
+msgid "Site width"
+msgstr "Breedte site"
+
+# @ nirvana
+#: admin/settings.php:1083
+msgid "Full width"
+msgstr "Volle breedte"
+
+# @ nirvana
+#: admin/settings.php:1092
+msgid "Show the topbar that can include social icons and the top menu."
+msgstr "Toon de top bar die social icons en het top menu kan bevatten."
+
+# @ nirvana
+#: admin/settings.php:1107
+msgid ""
+"Show breadcrumbs at the top of the content area. Breadcrumbs are a form of "
+"navigation that keeps track of your location withtin the site."
+msgstr ""
+"Toon broodkruimelpad bovenaan de content. Een broodkruimelpad is een vorm "
+"van navigatie die bijhoudt waar je bent in de site."
+
+# @ nirvana
+#: admin/settings.php:1122
+msgid ""
+"Show numbered pagination. Where there is more than one page, instead of the "
+"bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered "
+"pagination. "
+msgstr ""
+"Toon paginanummering. Wanneer er meer dan één pagina is worden gelinkte "
+"paginanummers getoond  in plaats van links naar <b>Oudere posts</b> en "
+"<b>Nieuwere posts</b> onderaan de pagina. "
+
+# @ nirvana
+#: admin/settings.php:1128
+msgid "Right (multiline)"
+msgstr "Rechts (meerregelig)"
+
+# @ nirvana
+#: admin/settings.php:1136
+msgid "Sets the desired menu items alignment."
+msgstr "Stelt de uitlijning van de gewenste menu items in."
+
+# @ nirvana
+#: admin/settings.php:1142
+msgid "Top Menu"
+msgstr "Top menu"
+
+# @ nirvana
+#: admin/settings.php:1142
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+# @ nirvana
+#: admin/settings.php:1151
+msgid "Select the menus where to add a search bar."
+msgstr "Selecteer de menu's waar een zoekbalk aan toe wordt gevoegd."
+
+# @ nirvana
+#: admin/settings.php:1156
+msgid "Margin top: "
+msgstr "Top marge:"
+
+# @ nirvana
+#: admin/settings.php:1157
+#, fuzzy
+msgid ""
+"Set the margin between the content and the menu. It can be set to 0px if you "
+"want the content area and menu to join."
+msgstr ""
+"Stel de marge in tussen de content en het menu. Zet de marge op 0px als je "
+"geen ruimte wilt tussen content en menu."
+
+# @ nirvana
+#: admin/settings.php:1159
+msgid "Padding left/right: "
+msgstr "Padding links/rechts:"
+
+# @ nirvana
+#: admin/settings.php:1160
+#, fuzzy
+msgid ""
+"Set the left/right padding around the content area. Only works with Boxed "
+"layouts."
+msgstr ""
+"Stel de linker en rechter padding in rondom de content. Werkt alleen met "
+"layouts met een vaste breedte."
+
+# @ nirvana
+#: admin/settings.php:1175
+msgid ""
+"The border style for your images. Only images inserted in your posts and "
+"pages will be affected. "
+msgstr ""
+"De stijl van de rand van afbeeldingen. Heeft alleen invloed op afbeeldingen "
+"in posts en pagina's."
+
+# @ nirvana
+#: admin/settings.php:1182 admin/settings.php:1197 admin/settings.php:1296
+#: admin/settings.php:1311 admin/settings.php:1327
+msgid "Show"
+msgstr "Tonen"
+
+# @ nirvana
+#: admin/settings.php:1190
+msgid "Hide or show titles on pages."
+msgstr "Toon of verberg paginatitels."
+
+# @ nirvana
+#: admin/settings.php:1205
+msgid "Hide or show titles on Categories and Archives."
+msgstr "Toon of verberg categorie- en archieftitels."
+
+# @ nirvana
+#: admin/settings.php:1220
+msgid "Hide table borders and background color."
+msgstr "Verberg randen en achtergrondkleuren van tabellen."
+
+# @ nirvana
+#: admin/settings.php:1236
+msgid ""
+"Enable the Back to Top button. The button appears after scrolling the page "
+"down."
+msgstr ""
+"Schakel de 'Naar boven' button in. Deze button verschijnt nadat de pagina "
+"naar beneden is gescrolld."
+
+# @ nirvana
+#: admin/settings.php:1247
+msgid "Top"
+msgstr "Boven"
+
+# @ nirvana
+#: admin/settings.php:1247
+msgid "Bottom"
+msgstr "Onder"
+
+# @ nirvana
+#: admin/settings.php:1255
+msgid ""
+"The position of your meta bar (author, date, category, tags and edit button)."
+msgstr ""
+"De positie van de meta bar (auteur, datum, categorie, tags en 'bewerk' "
+"button)."
+
+# @ nirvana
+#: admin/settings.php:1262 admin/settings.php:1278
+msgid "Author"
+msgstr "Auteur"
+
+# @ nirvana
+#: admin/settings.php:1262 admin/settings.php:1278 includes/theme-loop.php:214
+msgid "Date"
+msgstr "Datum"
+
+# @ nirvana
+#: admin/settings.php:1262 admin/settings.php:1278
+msgid "Time"
+msgstr "Tijd"
+
+# @ nirvana
+#: admin/settings.php:1262 admin/settings.php:1278
+msgid "Category"
+msgstr "Categorie"
+
+# @ nirvana
+#: admin/settings.php:1262 admin/settings.php:1278
+msgid "Tag"
+msgstr "Tag"
+
+# @ nirvana
+#: admin/settings.php:1262 includes/theme-comments.php:88
+msgid "Comments"
+msgstr "Commentaren"
+
+# @ nirvana
+#: admin/settings.php:1271
+msgid ""
+"Choose the post metas you want to show on multiple post pages (home, blog, "
+"category, archive etc.)"
+msgstr ""
+"Kies de metadata die je wilt tonen op posts met meer pagina's (home, blog, "
+"categorie, archief etc.)"
+
+# @ nirvana
+#: admin/settings.php:1278 includes/theme-loop.php:311
+msgid "Bookmark"
+msgstr "Bookmark"
+
+# @ nirvana
+#: admin/settings.php:1287
+msgid "Choose the post metas you want to show on sigle post pages."
+msgstr "Kies de meta data die je op een enkelvoudige post pagina wilt tonen."
+
+# @ nirvana
+#: admin/settings.php:1304
+msgid ""
+"Hide the explanatory text under the comments form (starts with  <i>You may "
+"use these HTML tags and attributes:...</i>)."
+msgstr ""
+"Verberg de verklarende tekst onder het commentaarformulier (dat begint met "
+"<i>Je kunt deze HTML tags en attributen gebruiken:...</i>)."
+
+# @ nirvana
+#: admin/settings.php:1311
+msgid "Hide in posts"
+msgstr "Verbergen in posts"
+
+# @ nirvana
+#: admin/settings.php:1311
+msgid "Hide in pages"
+msgstr "Verbergen in pagina's"
+
+# @ nirvana
+#: admin/settings.php:1311
+msgid "Hide everywhere"
+msgstr "Overal verbergen"
+
+# @ nirvana
+#: admin/settings.php:1319
+msgid ""
+"Hide the <b>Comments are closed</b> text that by default shows up on pages "
+"or posts with comments disabled."
+msgstr ""
+"Verberg de <b>Commentaren gesloten</b> tekst die standaard getoond wordt op "
+"pagina's en posts waar commentaren zijn uitgeschakeld."
+
+# @ nirvana
+#: admin/settings.php:1335
+msgid ""
+"Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr ""
+"Verberg de <b>Commentaren uitgeschakeld</b> tekst bij posts waar commentaren "
+"zijn uitgeschakeld."
+
+# @ nirvana
+#: admin/settings.php:1347 admin/settings.php:1362 admin/settings.php:1378
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+# @ nirvana
+#: admin/settings.php:1347 admin/settings.php:1362 admin/settings.php:1378
+msgid "Full Post"
+msgstr "Volledige post"
+
+# @ nirvana
+#: admin/settings.php:1355
+msgid ""
+"Excerpts on the main page. Only standard posts will be affected. All other "
+"post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr ""
+"Samenvattingen op de hoofdpagina. Heeft aleen invloed op standaardposts. "
+"Alle andere post formaten (aside, image, chat, quote etc.) hebben hun eigen "
+"formattering."
+
+# @ nirvana
+#: admin/settings.php:1370
+msgid ""
+"Choose if you want the sticky posts on your home page to be visible in full "
+"or just the excerpts. "
+msgstr ""
+"Kies of sticky posts op je home page volledig zichtbaar zijn of alleen de "
+"samenvattingen. "
+
+# @ nirvana
+#: admin/settings.php:1386
+msgid ""
+"Excerpts on archive, categroy and search pages. Same as above, only standard "
+"posts will be affected."
+msgstr ""
+"Samenvattingen op archief-, categorie en zoekpagina's. Zoals hierboven heeft "
+"dit alleen betrekking op standaard posts."
+
+# @ nirvana
+#: admin/settings.php:1395
+msgid "Words"
+msgstr "Woorden"
+
+# @ nirvana
+#: admin/settings.php:1395
+msgid "Characters"
+msgstr "Tekens"
+
+# @ nirvana
+#: admin/settings.php:1403
+msgid ""
+"The number of characters/words for excerpts. When that number is reached the "
+"post will be interrupted by a <i>Continue reading</i> link that will take "
+"the reader to the full post page."
+msgstr ""
+"Het aantal karakters/woorden van samenvattingen. Wanneer dat aantal wordt "
+"bereikt dan wordt de post afgebroken met een <i>Lees verder</i> link die "
+"linkt naar devolledige post."
+
+# @ nirvana
+#: admin/settings.php:1418
+msgid ""
+"Enable the Magazine Layout. This layout applies to pages with posts and "
+"shows 2 posts per row."
+msgstr ""
+"Magazine layout inschakelen. Deze layout is er voor posts en toont twee "
+"posts per rij."
+
+# @ nirvana
+#: admin/settings.php:1425
+msgid ""
+"Replaces the three dots ('[...])' that are appended automatically to "
+"excerpts."
+msgstr ""
+"Vervangt de drie puntjes ('[...])' die automatisch aan het einde van een "
+"samenvatting worden toegevoegd."
+
+# @ nirvana
+#: admin/settings.php:1432
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr "Bewerk de 'Lees verder' link bij de samenvattingen van posts"
+
+# @ nirvana
+#: admin/settings.php:1447
+msgid ""
+"By default WordPress excerpts remove all HTML tags (&lt;pre&gt;, &lt;a&gt;, "
+"&lt;b&gt and all others) and only clean text is left in the excerpt.\n"
+"Enabling this option allows HTML tags to remain in excerpts so all your "
+"default formating will be kept.<br /> <b>Just a warning: </b>If HTML tags "
+"are enabled, you have to make sure\n"
+"they are not left open. So if within your post you have an opened HTML tag "
+"but the except ends before that tag closes, the rest of the site will be "
+"contained in that HTML tag. -- Leave 'Disable' if unsure -- "
+msgstr ""
+"Standaard verwijdert Wordpress alle HTML Tags (&lt;pre&gt;, &lt;a&gt;, &lt;"
+"b&gt and all others) uit samenvattingen en laat alleen schone tekst over.\n"
+"Inschakelen van deze optie zorgt ervoor dat de HTML tags intact blijven "
+"zodat de standaard formattering gehandhaafd blijft.<br /> <b>Een "
+"waarschuwing: </b>Als HTML tags ingeschakeld zijn zorg er dan voor de "
+"afgesloten zijn.\n"
+"Dus als een post een geopende HTML tag heeft, maar de samenvatting eindigt "
+"voor de afsluitende tag, dan wordt de rest van de site getoond binnen die "
+"HTML tag.\n"
+"Laat uitgeschakeld als je niet weet wat je doet, of onzeker bent."
+
+# @ nirvana
+#: admin/settings.php:1473
+msgid "Link the thumbnail to the post"
+msgstr "Link de thumbnail naar de post"
+
+# @ nirvana
+#: admin/settings.php:1474
+msgid ""
+"Show featured images as thumbnails on posts. The images must be selected for "
+"each post in the Featured Image section."
+msgstr ""
+"Toon featured afbeeldingen als thumbnails bij een post. Afbeeldingen moeten "
+"in elke post geselecteerd zijn bij de featured afbeeldingen."
+
+# @ nirvana
+#: admin/settings.php:1489
+msgid ""
+"Show the first image that you inserted in a post as a thumbnail. If there is "
+"a Featured Image selected for that post, it will have priority."
+msgstr ""
+"Toon de eerste afbeelding in de post als thumbnail. Indien er ook een "
+"featured afbeelding is, dan gaat die voor."
+
+# @ nirvana
+#: admin/settings.php:1505
+msgid "Thumbnail alignment."
+msgstr "Uitlijning thumbnail."
+
+# @ nirvana
+#: admin/settings.php:1512
+msgid "(width)"
+msgstr "(breedte)"
+
+# @ nirvana
+#: admin/settings.php:1513
+msgid "(height)"
+msgstr "(hoogte)"
+
+# @ nirvana
+#: admin/settings.php:1519
+msgid "Crop images to exact size."
+msgstr "Afbeeldingen op het exacte formaat uitsnijden."
+
+# @ nirvana
+#: admin/settings.php:1522
+msgid ""
+"The size (in pixels) for your thumbnails. By default imges will be scaled "
+"with aspect ratio kept. Choose to crop the images if you want the exact size."
+msgstr ""
+"De afmetingen van de thumbnail (in pixels). Standaard worden afbeeldingen "
+"geschaald waarbij de verhoudingen intact blijven. Kies ervoor de "
+"afbeeldingen bij de snijden als je de exacte afmetingen wilt."
+
+# @ nirvana
+#: admin/settings.php:1538
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured "
+"image if you selected it as a Featured Image in the post and if it is bigger "
+"or at least equal to the current header size."
+msgstr ""
+"Toon featured afbeeldingen in headers. De header zal vervangen worden door "
+"een featured afbeelding als je de afbeelding in de post selecteert als "
+"featured afbeelding en indien deze groter of in elk geval minimaal gelijk is "
+"aan de huidige afmeting van de header."
+
+# @ nirvana
+#: admin/settings.php:1549
+msgid ""
+"Select your desired Social network from the left dropdown menu and insert "
+"your corresponding address in the right input field. (ex: <i>http://www."
+"facebook.com/yourname</i> )"
+msgstr ""
+"Selecteer het gewenste sociale netwerk uit de dropdown en vul de juiste url "
+"in in het invoerveld (bijvoorbeeld: <i>http://www.facebook.com/jouwnaam</i> )"
+
+# @ nirvana
+#: admin/settings.php:1550
+#, fuzzy
+msgid ""
+"You can also choose if you want the link to open in a new window and what "
+"title to display while hovering over the icon."
+msgstr ""
+"Je kunt hier ook kiezen of je de link in een nieuw venster wilt openen en "
+"welke titel je wilt tonen bij hover over de link."
+
+# @ nirvana
+#: admin/settings.php:1551
+msgid ""
+"You can show up to 5 different social icons from over 35 social networks."
+msgstr ""
+"Je kunt maximaal 5 verschillende social icons tonen van de 35 beschikbare "
+"sociale netwerken."
+
+# @ nirvana
+#: admin/settings.php:1552
+msgid "You can leave any number of inputs empty."
+msgstr "Je kunt een willekeurig aantal velden leeglaten."
+
+# @ nirvana
+#: admin/settings.php:1553
+msgid ""
+"You can change the background for your social colors from the colors "
+"settings section."
+msgstr ""
+"Je kunt de achtergondkleur van de social icons wijzigen bij de instellingen "
+"voor kleur."
+
+# @ nirvana
+#: admin/settings.php:1571
+msgid "Social Network Link"
+msgstr "Sociale netwerk link"
+
+# @ nirvana
+#: admin/settings.php:1576
+msgid "Open in new window"
+msgstr "Open in een nieuw venster"
+
+# @ nirvana
+#: admin/settings.php:1578
+msgid "Social Network Title"
+msgstr "Naam van het sociale netwerk"
+
+# @ nirvana
+#: admin/settings.php:1621
+msgid "Footer"
+msgstr "Footer"
+
+# @ nirvana
+#: admin/settings.php:1625
+msgid "Left side"
+msgstr "Linkerzijde"
+
+# @ nirvana
+#: admin/settings.php:1629
+msgid "Right side"
+msgstr "Rechterzijde"
+
+# @ nirvana
+#: admin/settings.php:1641
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr " <b>Gebieden</b> kiezen waar de social icons getoond worden."
+
+# @ nirvana
+#: admin/settings.php:1654
+msgid ""
+"Insert custom text or HTML code that will appear in you footer. <br /> You "
+"can use HTML to insert links, images and special characters like &copy;."
+msgstr ""
+"Eigen tekst of HTML invoegen voor de footer.<br /> Je kunt HTML gebruiken om "
+"links, afbeeldingen en speciale karakters zoals bv. &copy; in te voegen."
+
+# @ nirvana
+#: admin/settings.php:1662
+msgid ""
+"Insert your custom CSS here. Any CSS declarations made here will overwrite "
+"Nirvana's (even the custom options specified right here in the Nirvana "
+"Settings page). <br /> Your custom CSS will be preserved when updating the "
+"theme."
+msgstr ""
+"Vul hier je eigen CSS in. CSS declaraties die hier staan overschrijven die "
+"van van het Nirvana thema (ook de  custom opties die zijn aangegeven op de "
+"pagina met instellingen <br /> Je eigen CSS blijft behouden wanneer je het "
+"thema update."
+
+# @ nirvana
+#: admin/settings.php:1669
+msgid ""
+"Insert your custom Javascript code here. (Google Analytics and any other "
+"forms of Analytic software)."
+msgstr ""
+"Voeg hier eigen javascript code toe. (Google Analytics en andere typen "
+"analytics)."
+
+# @ nirvana
+#: admin/settings.php:1685
+msgid ""
+"Enable extra compatibility tag for older Internet Explorer versions. Turning "
+"this option on will trigger W3C validation errors."
+msgstr ""
+"Schakel compatibility tags in  voor oudere Internet Explorer versies. Door "
+"inschakelen ontstaan wel W3C validatiefouten."
+
+#: admin/settings.php:1699
+msgid ""
+"Enable output from Nirvana's injection protection engine. Will display which "
+"extensions attempted to interfere with the theme. Uses some memory when "
+"enabled and a large number of injections are detected."
+msgstr ""
+"Schakel meldingen door Nirvana's injection protection engine in. Dit toont "
+"welke extensies proberen het thema te wijzigen. Geheugengebruik neemt toe "
+"wanneer ingeschakeld en er veel injecties worden gedetecteerd."
+
+# @ nirvana
+#: content/content-aside.php:21
+msgid "Aside"
+msgstr "Notitie"
+
+# @ nirvana
+#: content/content-aside.php:29 content/content-audio.php:23
+#: content/content-chat.php:28 content/content-image.php:22
+#: content/content-link.php:28 content/content-quote.php:26
+#: content/content-status.php:32 content/content-video.php:23
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder <span class=\"meta-nav\">&rarr;</span>"
+
+# @ nirvana
+#: content/content-audio.php:15
+msgid "Audio"
+msgstr "Audio"
+
+# @ nirvana
+#: content/content-chat.php:15
+msgid "Chat"
+msgstr "Chat"
+
+#: content/content-frontpage.php:41
+msgid "No Posts to Display"
+msgstr "Geen posts te tonen"
+
+#: content/content-frontpage.php:46
+#, php-format
+msgid ""
+"You currently have no published posts. To hide this message either <a href="
+"\"%s\">add some posts</a> or disable displaying posts on the Presentation "
+"Page in <a href=\"%s\">theme settings</a>."
+msgstr ""
+"Je hebt op dit moment geen gepubliceerde posts. <a href=\"%s\">Voeg posts "
+"toe</a> om deze mededeling te verbergen, of schakel het tonen van posts op "
+"de presentatiepagina uit bij <a href=\"%s\">thema instellingen</a>."
+
+# @ nirvana
+#: content/content-gallery.php:18
+msgid "Gallery"
+msgstr "Galerie"
+
+# @ nirvana
+#: content/content-gallery.php:41
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Deze galerie bevat <a %1$s>%2$s foto</a>."
+msgstr[1] "Deze galerie bevat <a %1$s>%2$s foto's</a>."
+
+# @ nirvana
+#: content/content-quote.php:13
+msgid "Quote"
+msgstr "Citaat"
+
+# @ nirvana
+#: content/content-status.php:14
+msgid "Status"
+msgstr "Status"
+
+# @ nirvana
+#: content/content-video.php:15
+msgid "Video"
+msgstr "Video"
+
+# @ nirvana
+#: content/content.php:21
+#, fuzzy, php-format
+msgid "Permalink to %s"
+msgstr "Permalink naar"
+
+# @ nirvana
+#: includes/ajax.php:81
+msgid "More posts"
+msgstr "Meer posts"
+
+# @ nirvana
+#: includes/theme-comments.php:26
+msgid "Pingback: "
+msgstr "Pingback: "
+
+# @ nirvana
+#: includes/theme-comments.php:26 includes/theme-comments.php:41
+msgid "(Edit)"
+msgstr "(Bewerken)"
+
+# @ nirvana
+#: includes/theme-comments.php:41
+msgid "at"
+msgstr "bij"
+
+# @ nirvana
+#: includes/theme-comments.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wacht op beoordeling."
+
+# @ nirvana
+#: includes/theme-comments.php:54
+msgid "Reply"
+msgstr "Antwoorden"
+
+# @ nirvana
+#: includes/theme-comments.php:89
+msgid "<b>0</b>"
+msgstr "<b>0</b>"
+
+# @ nirvana
+#: includes/theme-comments.php:89
+msgid "<b>1</b>"
+msgstr "<b>1</b>"
+
+# @ nirvana
+#: includes/theme-comments.php:89
+msgid "<b>%</b>"
+msgstr "<b>%</b>"
+
+# @ nirvana
+#: includes/theme-comments.php:89
+msgid "<b>-</b>"
+msgstr "<b>-</b>"
+
+# @ nirvana
+#: includes/theme-comments.php:100
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Eén reactie"
+msgstr[1] "%1$s reacties"
+
+# @ nirvana
+#: includes/theme-comments.php:114
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+# @ nirvana
+#: includes/theme-comments.php:115
+msgid "Newer Comments"
+msgstr "Recentere reacties"
+
+# @ nirvana
+#: includes/theme-comments.php:142
+msgid "Comments are closed."
+msgstr "Reactiemogelijkheid is gesloten."
+
+# @ nirvana
+#: includes/theme-comments.php:158
+msgid "Name"
+msgstr "Naam"
+
+# @ nirvana
+#: includes/theme-comments.php:159
+msgid "Name*"
+msgstr "Naam*"
+
+# @ nirvana
+#: includes/theme-comments.php:163
+msgid "Email"
+msgstr "E-Mail"
+
+# @ nirvana
+#: includes/theme-comments.php:164
+msgid "Email*"
+msgstr "E-Mail*"
+
+# @ nirvana
+#: includes/theme-comments.php:168 includes/theme-comments.php:169
+msgid "Website"
+msgstr "Website"
+
+# @ nirvana
+#: includes/theme-comments.php:180 includes/theme-comments.php:181
+msgctxt "noun"
+msgid "Comment"
+msgstr "Reactie"
+
+# @ nirvana
+#: includes/theme-functions.php:214
+msgid "Archive by category"
+msgstr "Archief per categorie"
+
+# @ nirvana
+#: includes/theme-functions.php:217
+msgid "Search results for"
+msgstr "Zoekresultaten voor"
+
+# @ nirvana
+#: includes/theme-functions.php:275
+msgid "Posts tagged"
+msgstr "Posts met tags"
+
+# @ nirvana
+#: includes/theme-functions.php:280
+msgid "Articles posted by"
+msgstr "Posts door"
+
+# @ nirvana
+#: includes/theme-functions.php:283
+msgid "Error 404"
+msgstr "Oeps, 404 fout"
+
+# @ nirvana
+#: includes/theme-functions.php:288
+msgid "Page"
+msgstr "Pagina"
+
+# @ nirvana
+#: includes/theme-functions.php:411
+msgid "Powered by"
+msgstr "Mogelijk gemaakt door"
+
+# @ nirvana
+#: includes/theme-loop.php:194
+msgid "Author "
+msgstr "Auteur"
+
+# @ nirvana
+#: includes/theme-loop.php:197
+#, fuzzy, php-format
+msgid "View all posts by %s"
+msgstr "Toon alle bijdragen van "
+
+# @ nirvana
+#: includes/theme-loop.php:220
+msgid "Categories"
+msgstr "Categorieën"
+
+# @ nirvana
+#: includes/theme-loop.php:244
+msgid "Tags"
+msgstr "Tags"
+
+# @ nirvana
+#: includes/theme-loop.php:308
+msgid "Tagged"
+msgstr "Getagt"
+
+# @ nirvana
+#: includes/theme-loop.php:311
+msgid " Bookmark the permalink"
+msgstr "Bookmark de permalink"
+
+# @ nirvana
+#: includes/theme-loop.php:311
+msgid "Permalink to"
+msgstr "Permalink naar"
+
+# @ nirvana
+#: includes/theme-loop.php:335
+msgid "<i class=\"meta-nav-prev\"></i> <span>Older posts</span>"
+msgstr "<i class=\"meta-nav-prev\"></i> <span>Oudere posts</span>"
+
+# @ nirvana
+#: includes/theme-loop.php:338
+msgid "<span>Newer posts</span> <i class=\"meta-nav-next\"></i>"
+msgstr "<span>Recentere posts</span> <i class=\"meta-nav-next\"></i>"
+
+# @ nirvana
+#: includes/theme-setup.php:87
+msgid "Primary Navigation"
+msgstr "Primaire navigatie / hoofdnavigatie"
+
+# @ nirvana
+#: includes/theme-setup.php:88
+msgid "Top Navigation"
+msgstr "Topnavigatie"
+
+# @ nirvana
+#: includes/theme-setup.php:89
+msgid "Footer Navigation"
+msgstr "Footernavigatie"
+
+# @ nirvana
+#: includes/theme-setup.php:131
+msgid "Nirvana Default Header Image"
+msgstr "Nirvana default header afbeelding"
+
+# @ parabola
+#: includes/theme-setup.php:164
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+# @ nirvana
+#: includes/theme-setup.php:228
+msgid "Skip to content"
+msgstr "Overslaan en naar inhoud"
+
+# @ nirvana
+#: includes/theme-setup.php:257
+msgid "Left sidebar"
+msgstr "Linker sidebar"
+
+# @ nirvana
+#: includes/theme-setup.php:268
+msgid "Right sidebar"
+msgstr "Rechter sidebar"
+
+# @ nirvana
+#: includes/theme-setup.php:277
+msgid "First Footer Area"
+msgstr "Eerste footergebied"
+
+# @ nirvana
+#: includes/theme-setup.php:279
+msgid "First footer area"
+msgstr "Eerste footergebied"
+
+# @ nirvana
+#: includes/theme-setup.php:288
+msgid "Second Footer Area"
+msgstr "Tweede footergebied"
+
+# @ nirvana
+#: includes/theme-setup.php:290
+msgid "Second footer area"
+msgstr "Tweede footergebied"
+
+# @ nirvana
+#: includes/theme-setup.php:299
+msgid "Third Footer Area"
+msgstr "Derde footergebied"
+
+# @ nirvana
+#: includes/theme-setup.php:301
+msgid "The third footer area"
+msgstr "Derde footergebied"
+
+# @ nirvana
+#: includes/theme-setup.php:310
+msgid "Fourth Footer Area"
+msgstr "Vierde footergebied"
+
+# @ nirvana
+#: includes/theme-setup.php:312
+msgid "The fourth footer area"
+msgstr "Vierde footergebied"
+
+# @ nirvana
+#: includes/theme-setup.php:321 includes/theme-setup.php:323
+msgid "Above Content Area"
+msgstr "Gebied boven de inhoud"
+
+# @ nirvana
+#: includes/theme-setup.php:332 includes/theme-setup.php:334
+msgid "Below Content Area"
+msgstr "Gebied onder de inhoud"
+
+# @ nirvana
+#: includes/theme-setup.php:343 includes/theme-setup.php:345
+msgid "Header Widgets"
+msgstr "Header widgets"
+
+# @ nirvana
+#: includes/theme-setup.php:356
+msgid "Presentation Page Columns"
+msgstr "Kolommen op de presentatiepagina"
+
+# @ nirvana
+#: includes/theme-setup.php:358
+#, php-format
+msgid ""
+"Only drag [Cryout Column] widgets here. Recommended size for uploaded "
+"images: %1$dpx (width) x %2$dpx (height). Go to the Nirvana Settings page >> "
+"Presentation Page Settings >> Columns to edit sizes and more."
+msgstr ""
+"Sleep alleen [Cryout Column] widgets hierheen. Aanbevolen grootte voor "
+"geüploade afbeeldingen: %1$dpx (breedte) x %2$dpx (hoogte). Ga naar Nirvana "
+"instellingenpagina >> Instellingen presentatiepagina >> Kolomgroottes en "
+"meer."

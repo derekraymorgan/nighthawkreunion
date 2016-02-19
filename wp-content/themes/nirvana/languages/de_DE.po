@@ -1,0 +1,3654 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nirvana v0.9.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-10 15:57+0100\n"
+"Last-Translator: Ralf Lexis <info@ralflexis.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ nirvana
+#: 404.php:17
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+# @ nirvana
+#: 404.php:20
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Entschuldigung, aber die gewünschte Seite konnte nicht gefunden werden. "
+"Vielleicht hilft eine Suche?"
+
+# @ nirvana
+#: admin/admin-functions.php:62
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+"Vor dem Hochladen Deiner Import-Datei bitte erst folgenden Fehler "
+"korrigieren:"
+
+# @ nirvana
+#: admin/admin-functions.php:70
+msgid "Import Nirvana Theme Options"
+msgstr "Nirvana Theme-Optionen importieren"
+
+# @ nirvana
+#: admin/admin-functions.php:72
+msgid ""
+"Hi! This is where you import the  Nirvana settings.<i> Please remember that "
+"this is still an experimental feature.</i>"
+msgstr ""
+"Hi! Hier werden die Nirvana Einstellungen importiert.<i>Bitte denk dran, "
+"dass dies immer noch ein experimentelles Feature ist.</i>"
+
+# @ nirvana
+#: admin/admin-functions.php:74
+msgid "Just choose a file from your computer:"
+msgstr "Einfach eine Datei auf Deinem Computer auswählen:"
+
+# @ nirvana
+#: admin/admin-functions.php:76
+#, php-format
+msgid "Maximum size: %s"
+msgstr "Maximale Größe: %s"
+
+# @ nirvana
+#: admin/admin-functions.php:82
+msgid "And import!"
+msgstr "...und importieren!"
+
+# @ nirvana
+#: admin/admin-functions.php:148
+msgid "Import Nirvana Theme Options "
+msgstr "Nirvana Theme-Optionen importieren"
+
+# @ nirvana
+#: admin/admin-functions.php:151
+msgid "Great! The options have been imported!"
+msgstr "Super! Die Optionen wurden importiert!"
+
+# @ nirvana
+#: admin/admin-functions.php:152
+msgid "Go back to the Nirvana options page and check them out!"
+msgstr "Zurück zu den Nirvana Optionen!"
+
+# @ nirvana
+#: admin/admin-functions.php:155 admin/admin-functions.php:161
+#: admin/admin-functions.php:167
+msgid "Oops, there's a small problem."
+msgstr "Hoppla - es gab ein kleines Problem."
+
+# @ nirvana
+#: admin/admin-functions.php:156
+msgid ""
+"The uploaded file does not contain valid Nirvana options. Make sure the file "
+"is exported from the Nirvana Options page."
+msgstr ""
+"Die hochgeladene Datei enthält keine gültigen Nirvana-Optionen. Wurde die "
+"Datei wirklich von den Nirvana Optionen exportiert?"
+
+# @ nirvana
+#: admin/admin-functions.php:162
+msgid "The uploaded file could not be read."
+msgstr "Die hochgeladene Datei konnte nicht gelesen werden."
+
+# @ nirvana
+#: admin/admin-functions.php:168
+msgid ""
+"The uploaded file is not supported. Make sure the file was exported from the "
+"Nirvana page and that it is a text file."
+msgstr ""
+"Die hochgeladene Datei wird nicht unterstützt. Bitte sicherstellen, dass es "
+"sich um eine Textdatei handelt, die von der Nirvana-Seite exportiert wurde."
+
+# @ nirvana
+#: admin/admin-functions.php:177
+msgid ""
+"Oops! The file is empty or there was no file. This error could also be "
+"caused by uploads being disabled in your php.ini or by post_max_size being "
+"defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+"Hoppla - die Datei scheint leer zu sein oder es gibt keine Datei. Dieser "
+"Fehler könnte durch deaktivierte Uploads in Deiner php-ini oder eine zu "
+"klein definierte \\\"post-max-size\\\" aufgetreten sein."
+
+# @ nirvana
+#: admin/admin-functions.php:183
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "FEHLER: Du bist nicht befugt diese Operation auzuführen"
+
+# @ nirvana
+#: admin/admin-functions.php:192
+msgid ""
+"Are you sure you want to load a new color scheme? \n"
+"All current saved settings under Text and Color Settings will be lost."
+msgstr ""
+"Möchtest Du das neue Farbschema wirklich laden? <br>Alle momentan "
+"gespeicherten Text- und Farbeinstellungen werden dadurch verloren gehen.."
+
+# @ nirvana
+#: admin/admin-functions.php:198
+msgid ""
+"Select one of the preset color schemes and press the Load button.<br> <b> "
+"CAUTION! </b> When loading a color scheme, the Nirvana theme settings under "
+"Text and Color Settings will be overriden. All other settings will remain "
+"intact.<br> <u>SUGGESTION:</u> It's always better to export your current "
+"theme settings before loading a color scheme."
+msgstr ""
+"Such Dir ein Farbschema aus und drück den \\\"Lade\\\"-Button.<br> <b> "
+"VORSICHT! </b> Beim Laden eines Farbschemas werden alle bisherigen Nirvana "
+"Text- und Farbeinstellungen überschrieben. Alle anderen Einstellungen "
+"bleiben erhalten.<br> <u>VORSCHLAG:</u> Es ist immer besser die alten "
+"Einstellungen zu exportieren, bevor ein neues Farbschema geladen wird."
+
+# @ nirvana
+#: admin/admin-functions.php:222
+msgid "Load Color Scheme"
+msgstr "Farbschema laden"
+
+# @ nirvana
+#: admin/admin-functions.php:289
+msgid "No news items."
+msgstr "Keine Neuigkeiten."
+
+# @ nirvana
+#: admin/admin-functions.php:293
+msgid "Posted on"
+msgstr "gepostet am"
+
+# @ nirvana
+#: admin/main.php:121
+msgid "Layout Settings"
+msgstr "Layout"
+
+# @ nirvana
+#: admin/main.php:122
+msgid "Header Settings"
+msgstr "Kopfzeile"
+
+# @ nirvana
+#: admin/main.php:123 admin/main.php:181
+msgid "Presentation Page"
+msgstr "Präsentationsseite"
+
+# @ nirvana
+#: admin/main.php:124
+msgid "Text Settings"
+msgstr "Text"
+
+# @ nirvana
+#: admin/main.php:125
+msgid "Color Settings"
+msgstr "Farbe"
+
+# @ nirvana
+#: admin/main.php:126
+msgid "Graphics Settings"
+msgstr "Grafik"
+
+# @ nirvana
+#: admin/main.php:127
+msgid "Post Information Settings"
+msgstr "Beitragsinformationen"
+
+# @ nirvana
+#: admin/main.php:128
+msgid "Post Excerpt Settings"
+msgstr "Beitragsauszüge"
+
+# @ nirvana
+#: admin/main.php:129
+msgid "Featured Image Settings"
+msgstr "Bildgestaltung"
+
+# @ nirvana
+#: admin/main.php:130
+msgid "Social Media Settings"
+msgstr "Soziale Netzwerke"
+
+# @ nirvana
+#: admin/main.php:131
+msgid "Miscellaneous Settings"
+msgstr "Verschiedenes"
+
+# @ nirvana
+#: admin/main.php:134
+msgid "Main Layout"
+msgstr "Hauptlayout"
+
+# @ nirvana
+#: admin/main.php:135
+msgid "Content / Sidebar Width"
+msgstr "Inhalt / Sidebar Breite"
+
+# @ nirvana
+#: admin/main.php:136
+msgid "Responsiveness"
+msgstr "Responsiv-Fähigkeit"
+
+# @ nirvana
+#: admin/main.php:139
+msgid "Enable Presentation Page"
+msgstr "Präsentationsseite aktivieren"
+
+# @ nirvana
+#: admin/main.php:140
+msgid "Show Posts on Presentation Page"
+msgstr "Beiträge auf der Präsentationsseite zeigen"
+
+# @ nirvana
+#: admin/main.php:141
+msgid "Slider Settings"
+msgstr "Slider"
+
+# @ nirvana
+#: admin/main.php:142
+msgid "Slides"
+msgstr "Sliderbilder"
+
+# @ nirvana
+#: admin/main.php:143
+msgid "Columns"
+msgstr "Kolumnen"
+
+# @ nirvana
+#: admin/main.php:144
+msgid "Text Areas"
+msgstr "Textbereiche"
+
+# @ nirvana
+#: admin/main.php:145
+msgid "Extras"
+msgstr "Extras"
+
+# @ nirvana
+#: admin/main.php:148
+msgid "Header Height"
+msgstr "Höhe der Kopfzeile"
+
+# @ nirvana
+#: admin/main.php:149
+msgid "Header Image"
+msgstr "Kopfzeilenbild"
+
+# @ nirvana
+#: admin/main.php:150
+msgid "Site Header"
+msgstr "Seitenkopfzeile"
+
+# @ nirvana
+#: admin/main.php:151
+msgid "Custom Logo Upload"
+msgstr "Eigenes Logo hochladen"
+
+# @ nirvana
+#: admin/main.php:152
+msgid "Header Content Spacing"
+msgstr "Inhaltsabstand zur Kopfzeile"
+
+# @ nirvana
+#: admin/main.php:153
+msgid "FavIcon Upload"
+msgstr "FavIcon hochladen"
+
+# @ nirvana
+#: admin/main.php:156 admin/settings.php:636 admin/settings.php:655
+#: admin/settings.php:674 admin/settings.php:692 admin/settings.php:710
+#: admin/settings.php:731 admin/settings___CUSTOMCSS.php:636
+#: admin/settings___CUSTOMCSS.php:655 admin/settings___CUSTOMCSS.php:674
+#: admin/settings___CUSTOMCSS.php:692 admin/settings___CUSTOMCSS.php:710
+#: admin/settings___CUSTOMCSS.php:731 admin/settings___ORIG.php:636
+#: admin/settings___ORIG.php:655 admin/settings___ORIG.php:674
+#: admin/settings___ORIG.php:692 admin/settings___ORIG.php:710
+#: admin/settings___ORIG.php:731
+msgid "General Font"
+msgstr "Allgemein"
+
+# @ nirvana
+#: admin/main.php:157
+msgid "Post Title Font "
+msgstr "Beitragstitel"
+
+# @ nirvana
+#: admin/main.php:158
+msgid "Widget Title Font"
+msgstr "Widget-Titel"
+
+# @ nirvana
+#: admin/main.php:159
+msgid "Widget Font"
+msgstr "Widget"
+
+# @ nirvana
+#: admin/main.php:160
+msgid "Site Title Font"
+msgstr "Seitentitel"
+
+# @ nirvana
+#: admin/main.php:161
+msgid "Main Menu Font"
+msgstr "Hauptmenü"
+
+# @ nirvana
+#: admin/main.php:162
+msgid "Headings Font"
+msgstr "Überschrift"
+
+# @ nirvana
+#: admin/main.php:163
+msgid "Force Text Align"
+msgstr "Textausrichtung erzwingen"
+
+# @ nirvana
+#: admin/main.php:164
+msgid "Paragraph spacing"
+msgstr "Absatzabstand"
+
+# @ nirvana
+#: admin/main.php:165
+msgid "Paragraph Indent"
+msgstr "Absatz Zeileneinzug"
+
+# @ nirvana
+#: admin/main.php:166
+msgid "Headings Indent"
+msgstr "Titel Abstand"
+
+# @ nirvana
+#: admin/main.php:167
+msgid "Line Height"
+msgstr "Zeilenhöhe"
+
+# @ nirvana
+#: admin/main.php:168
+msgid "Word Spacing"
+msgstr "Wortabstand"
+
+# @ nirvana
+#: admin/main.php:169
+msgid "Letter Spacing"
+msgstr "Zeichenabstand"
+
+# @ nirvana
+#: admin/main.php:170
+msgid "Uppercase Text"
+msgstr "Großbuchstaben"
+
+# @ nirvana
+#: admin/main.php:174
+msgid "Background Image"
+msgstr "Hintergrundbild"
+
+# @ nirvana
+#: admin/main.php:175
+msgid "General"
+msgstr "Allgemein"
+
+# @ nirvana
+#: admin/main.php:176
+msgid "Accents"
+msgstr "Akzente"
+
+# @ nirvana
+#: admin/main.php:177 admin/settings.php:853
+#: admin/settings___CUSTOMCSS.php:853 admin/settings___ORIG.php:853
+msgid "Site Title"
+msgstr "Seitentitel"
+
+# @ nirvana
+#: admin/main.php:178 admin/settings.php:1056
+#: admin/settings___CUSTOMCSS.php:1056 admin/settings___ORIG.php:1056
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+# @ nirvana
+#: admin/main.php:179 admin/main.php:191 admin/settings.php:1532
+#: admin/settings___CUSTOMCSS.php:1532 admin/settings___ORIG.php:1532
+msgid "Top Bar"
+msgstr "Top Bar"
+
+# @ nirvana
+#: admin/main.php:180
+msgid "Content"
+msgstr "Inhalt"
+
+# @ nirvana
+#: admin/main.php:182
+msgid "Sidebar Widgets"
+msgstr "Sidebar Widgets"
+
+# @ nirvana
+#: admin/main.php:183
+msgid "Footer Widgets"
+msgstr "Fußzeilen Widgets"
+
+# @ nirvana
+#: admin/main.php:184
+msgid "Links"
+msgstr "Verknüpfungen"
+
+# @ nirvana
+#: admin/main.php:185
+msgid "Post metas"
+msgstr "Meta der Beiträge"
+
+# @ nirvana
+#: admin/main.php:186
+msgid "Socials"
+msgstr "Soziale Netzwerke"
+
+# @ nirvana
+#: admin/main.php:187
+msgid "Caption type"
+msgstr "Art der Beschriftung"
+
+# @ nirvana
+#: admin/main.php:192
+msgid "Breadcrumbs"
+msgstr "Brotkrumen"
+
+# @ nirvana
+#: admin/main.php:193
+msgid "Pagination"
+msgstr "Seitennummerierung"
+
+# @ nirvana
+#: admin/main.php:194
+msgid "Menu Alignment"
+msgstr "Ausrichtung des Menüs"
+
+# @ nirvana
+#: admin/main.php:195
+msgid "Search Bar Locations"
+msgstr "Positionen der Suchleiste"
+
+# @ nirvana
+#: admin/main.php:196
+msgid "Content Margins"
+msgstr "Ränder des Inhalts"
+
+# @ nirvana
+#: admin/main.php:197
+msgid "Post Images Border"
+msgstr "Rahmen der Beitragsbilder"
+
+# @ nirvana
+#: admin/main.php:198
+msgid "Page Titles"
+msgstr "Titel der Seiten"
+
+# @ nirvana
+#: admin/main.php:199
+msgid "Category Titles"
+msgstr "Titel der Kategorien"
+
+# @ nirvana
+#: admin/main.php:200
+msgid "Hide Tables"
+msgstr "Tabellen verstecken"
+
+# @ nirvana
+#: admin/main.php:201
+msgid "Back to Top button"
+msgstr "Button 'Zurück nach oben'"
+
+# @ nirvana
+#: admin/main.php:204
+msgid "Meta Bar Position"
+msgstr "Position der Meta Bar"
+
+# @ nirvana
+#: admin/main.php:205
+msgid "Show on Blog Pages"
+msgstr "Auf Blogseiten zeigen"
+
+# @ nirvana
+#: admin/main.php:206
+msgid "Show on Single Pages"
+msgstr "Auf einzelnen Seiten zeigen"
+
+# @ nirvana
+#: admin/main.php:207
+msgid "Text Under Comments"
+msgstr "Text unter Kommentaren"
+
+# @ nirvana
+#: admin/main.php:208
+msgid "Comments are closed text"
+msgstr "Text: 'Kommentare sind geschlossen'"
+
+# @ nirvana
+#: admin/main.php:209
+msgid "Comments off"
+msgstr "Kommentare aus"
+
+# @ nirvana
+#: admin/main.php:212 includes/theme-functions.php:217
+#: includes/theme-functions___ORIG.php:217
+msgid "Home Page"
+msgstr "Homepage"
+
+# @ nirvana
+#: admin/main.php:213 admin/settings.php:334 admin/settings.php:434
+#: admin/settings___CUSTOMCSS.php:334 admin/settings___CUSTOMCSS.php:434
+#: admin/settings___ORIG.php:334 admin/settings___ORIG.php:434
+msgid "Sticky Posts"
+msgstr "Statische Beiträge"
+
+# @ nirvana
+#: admin/main.php:214
+msgid "Archive and Category Pages"
+msgstr "Archiv- und Kategorieseiten"
+
+# @ nirvana
+#: admin/main.php:215
+msgid "Post Excerpt Length "
+msgstr "Länge der Beitragsauszüge"
+
+# @ nirvana
+#: admin/main.php:216
+msgid "Magazine Layout"
+msgstr "Magazinlayout"
+
+# @ nirvana
+#: admin/main.php:217
+msgid "Excerpt suffix"
+msgstr "Auszugsanhang"
+
+# @ nirvana
+#: admin/main.php:218
+msgid "Continue reading link text "
+msgstr "Text für 'weiterlesen...'"
+
+# @ nirvana
+#: admin/main.php:219
+msgid "HTML tags in Excerpts"
+msgstr "HTML-Tags in Auszügen"
+
+# @ nirvana
+#: admin/main.php:222
+msgid "Featured Images as POST Thumbnails "
+msgstr "Bilder als Thumbnails für den Beitrag"
+
+# @ nirvana
+#: admin/main.php:223
+msgid "Auto Select Images From Posts "
+msgstr "Beitragsbilder automatisch auswählen"
+
+# @ nirvana
+#: admin/main.php:224
+msgid "Thumbnails Alignment "
+msgstr "Ausrichtung der Thumbnails"
+
+# @ nirvana
+#: admin/main.php:225
+msgid "Thumbnails Size "
+msgstr "Größe der Thumbnails"
+
+# @ nirvana
+#: admin/main.php:226
+msgid "Featured Images as HEADER Images "
+msgstr "Beitragsbilder als Kopfzeilenbilder"
+
+# @ nirvana
+#: admin/main.php:229
+msgid "Link nr. 1"
+msgstr "Verknüpfung #1"
+
+# @ nirvana
+#: admin/main.php:230
+msgid "Link nr. 2"
+msgstr "Verknüpfung #2"
+
+# @ nirvana
+#: admin/main.php:231
+msgid "Link nr. 3"
+msgstr "Verknüpfung #3"
+
+# @ nirvana
+#: admin/main.php:232
+msgid "Link nr. 4"
+msgstr "Verknüpfung #4"
+
+# @ nirvana
+#: admin/main.php:233
+msgid "Link nr. 5"
+msgstr "Verknüpfung #5"
+
+# @ nirvana
+#: admin/main.php:234
+msgid "Socials display"
+msgstr "Anzeige für Soziale Netzwerke"
+
+# @ nirvana
+#: admin/main.php:237
+msgid "Internet Explorer Compatibility Tag"
+msgstr "Internet Explorer Kompatibilitäts-Tag"
+
+# @ nirvana
+#: admin/main.php:238
+msgid "Custom Footer Text"
+msgstr "Eigener Text für die Fußzeile"
+
+# @ nirvana
+#: admin/main.php:239
+msgid "Custom CSS"
+msgstr "Eigenes CSS"
+
+# @ nirvana
+#: admin/main.php:240
+msgid "Custom JavaScript"
+msgstr "Eigenes JavaScript"
+
+# @ nirvana
+#: admin/main.php:263
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr ""
+"Sorry, aber Du hast keine ausreichenden Rechte um auf diese Seite zugreifen "
+"zu können."
+
+# @ nirvana
+#: admin/main.php:282
+msgid "Nirvana settings updated successfully."
+msgstr "Update der Nirvana-Einstellungen erfolgreich!"
+
+# @ nirvana
+#: admin/main.php:298
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+# @ nirvana
+#: admin/main.php:299
+msgid "Reset to Defaults"
+msgstr "Auf Standardwerte zurücksetzen"
+
+# @ nirvana
+#: admin/main.php:335
+msgid "Import/Export Settings"
+msgstr "Import/Export Einstellungen"
+
+# @ nirvana
+#: admin/main.php:340
+msgid "Export Theme options"
+msgstr "Theme-Optionen Export"
+
+# @ nirvana
+#: admin/main.php:341
+msgid ""
+"It's that easy: a mouse click away - the ability to export your Nirvana "
+"settings and save them on your computer. Feeling safer? You should!"
+msgstr ""
+"Ganz einfach: Ein Mausklick entfernt - Nirvana-Einstellungen exportieren und "
+"auf Deinem Computer speichern. Ein sicheres Gefühl? Unbedingt!"
+
+# @ nirvana
+#: admin/main.php:346
+msgid "Import Theme options"
+msgstr "Theme-Optionen Import"
+
+# @ nirvana
+#: admin/main.php:347
+msgid ""
+"Without the import, the export would just be a fool's exercise. Make sure "
+"you have the exported file ready and see you after the mouse click."
+msgstr ""
+"Ohne den Import wäre der Export sinnlos. Also: Exportierte Datei "
+"bereithalten - wir sehen uns nach dem Mausklick."
+
+# @ nirvana
+#: admin/main.php:362
+msgid "Nirvana Latest News"
+msgstr "Das Neueste von Nirvana"
+
+# @ nirvana
+#: admin/main.php:373
+msgid "Reset Nirvana Settings to Defaults?"
+msgstr "Nirvana Einstellungen zurücksetzen?"
+
+# @ nirvana
+#: admin/prototypes.php:30
+msgid "or Google font"
+msgstr "oder Google Font"
+
+# @ nirvana
+#: admin/settings.php:28 admin/settings___CUSTOMCSS.php:28
+#: admin/settings___ORIG.php:28
+msgid "One column (no sidebars)"
+msgstr "Eine Spalte (keine Sidebar)"
+
+# @ nirvana
+#: admin/settings.php:29 admin/settings___CUSTOMCSS.php:29
+#: admin/settings___ORIG.php:29
+msgid "Two columns, sidebar on the right"
+msgstr "Zwei Spalten, Sidebar rechts"
+
+# @ nirvana
+#: admin/settings.php:30 admin/settings___CUSTOMCSS.php:30
+#: admin/settings___ORIG.php:30
+msgid "Two columns, sidebar on the left"
+msgstr "Zwei Spalten, Sidebar links"
+
+# @ nirvana
+#: admin/settings.php:31 admin/settings___CUSTOMCSS.php:31
+#: admin/settings___ORIG.php:31
+msgid "Three columns, sidebars on the right"
+msgstr "Drei Spalten, Sidebar rechts"
+
+# @ nirvana
+#: admin/settings.php:32 admin/settings___CUSTOMCSS.php:32
+#: admin/settings___ORIG.php:32
+msgid "Three columns, sidebars on the left"
+msgstr "Drei Spalten, Sidebar links"
+
+# @ nirvana
+#: admin/settings.php:33 admin/settings___CUSTOMCSS.php:33
+#: admin/settings___ORIG.php:33
+msgid "Three columns, one sidebar on each side"
+msgstr "Drei Spalten, Sidebar rechts und links"
+
+# @ nirvana
+#: admin/settings.php:41 admin/settings___CUSTOMCSS.php:41
+#: admin/settings___ORIG.php:41
+msgid ""
+"Choose your layout. Possible options are: <br> No sidebar, a single sidebar "
+"on either left of right, two sidebars on either left or right and two "
+"sidebars on each side.<br>This can be overriden in pages by using Page "
+"Templates."
+msgstr ""
+"Wähle Dein Layout. Mögliche Optionen sind: <br> Keine Sidebar, Eine einzelne "
+"Sidebar entweder rechts oder links,Zwei Sidebars entweder rechts oder links "
+"oder auf beiden Seiten.<br>Das kann auf Seiten über die Seiten-Templates "
+"überschrieben werden."
+
+# @ nirvana
+#: admin/settings.php:90 admin/settings___CUSTOMCSS.php:90
+#: admin/settings___ORIG.php:90
+msgid "Content ="
+msgstr "Inhalt ="
+
+# @ nirvana
+#: admin/settings.php:91 admin/settings___CUSTOMCSS.php:91
+#: admin/settings___ORIG.php:91
+msgid "Sidebar(s) ="
+msgstr "Sidebar(s) ="
+
+# @ nirvana
+#: admin/settings.php:92 admin/settings___CUSTOMCSS.php:92
+#: admin/settings___ORIG.php:92
+msgid "Total width ="
+msgstr "Gesamte Breite ="
+
+# @ nirvana
+#: admin/settings.php:99 admin/settings___CUSTOMCSS.php:99
+#: admin/settings___ORIG.php:99
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. When using a "
+"3 columns layout (with 2 sidebars) they will each have half the configured "
+"width."
+msgstr ""
+"Wähle die Breite Deines <b>Inhalts</b> und der <b>Sidebar(s)</b>. Bei einem "
+"3-Spalten-Layout (mit 2 Sidebars) werden beide die Hälfte der konfigurierten "
+"Breite haben."
+
+# @ nirvana
+#: admin/settings.php:108 admin/settings.php:191 admin/settings.php:200
+#: admin/settings.php:527 admin/settings.php:762 admin/settings.php:1013
+#: admin/settings.php:1028 admin/settings.php:1127 admin/settings.php:1143
+#: admin/settings.php:1325 admin/settings.php:1354 admin/settings.php:1377
+#: admin/settings.php:1396 admin/settings.php:1445 admin/settings.php:1589
+#: admin/settings___CUSTOMCSS.php:108 admin/settings___CUSTOMCSS.php:191
+#: admin/settings___CUSTOMCSS.php:200 admin/settings___CUSTOMCSS.php:527
+#: admin/settings___CUSTOMCSS.php:762 admin/settings___CUSTOMCSS.php:1013
+#: admin/settings___CUSTOMCSS.php:1028 admin/settings___CUSTOMCSS.php:1127
+#: admin/settings___CUSTOMCSS.php:1143 admin/settings___CUSTOMCSS.php:1325
+#: admin/settings___CUSTOMCSS.php:1354 admin/settings___CUSTOMCSS.php:1377
+#: admin/settings___CUSTOMCSS.php:1396 admin/settings___CUSTOMCSS.php:1445
+#: admin/settings___CUSTOMCSS.php:1589 admin/settings___ORIG.php:108
+#: admin/settings___ORIG.php:191 admin/settings___ORIG.php:200
+#: admin/settings___ORIG.php:527 admin/settings___ORIG.php:762
+#: admin/settings___ORIG.php:1013 admin/settings___ORIG.php:1028
+#: admin/settings___ORIG.php:1127 admin/settings___ORIG.php:1143
+#: admin/settings___ORIG.php:1325 admin/settings___ORIG.php:1354
+#: admin/settings___ORIG.php:1377 admin/settings___ORIG.php:1396
+#: admin/settings___ORIG.php:1445 admin/settings___ORIG.php:1589
+msgid "Enable"
+msgstr "Aktivieren"
+
+# @ nirvana
+#: admin/settings.php:108 admin/settings.php:191 admin/settings.php:200
+#: admin/settings.php:762 admin/settings.php:1013 admin/settings.php:1028
+#: admin/settings.php:1127 admin/settings.php:1143 admin/settings.php:1325
+#: admin/settings.php:1354 admin/settings.php:1377 admin/settings.php:1396
+#: admin/settings.php:1445 admin/settings.php:1589
+#: admin/settings___CUSTOMCSS.php:108 admin/settings___CUSTOMCSS.php:191
+#: admin/settings___CUSTOMCSS.php:200 admin/settings___CUSTOMCSS.php:762
+#: admin/settings___CUSTOMCSS.php:1013 admin/settings___CUSTOMCSS.php:1028
+#: admin/settings___CUSTOMCSS.php:1127 admin/settings___CUSTOMCSS.php:1143
+#: admin/settings___CUSTOMCSS.php:1325 admin/settings___CUSTOMCSS.php:1354
+#: admin/settings___CUSTOMCSS.php:1377 admin/settings___CUSTOMCSS.php:1396
+#: admin/settings___CUSTOMCSS.php:1445 admin/settings___CUSTOMCSS.php:1589
+#: admin/settings___ORIG.php:108 admin/settings___ORIG.php:191
+#: admin/settings___ORIG.php:200 admin/settings___ORIG.php:762
+#: admin/settings___ORIG.php:1013 admin/settings___ORIG.php:1028
+#: admin/settings___ORIG.php:1127 admin/settings___ORIG.php:1143
+#: admin/settings___ORIG.php:1325 admin/settings___ORIG.php:1354
+#: admin/settings___ORIG.php:1377 admin/settings___ORIG.php:1396
+#: admin/settings___ORIG.php:1445 admin/settings___ORIG.php:1589
+msgid "Disable"
+msgstr "Deaktivieren"
+
+# @ nirvana
+#: admin/settings.php:116 admin/settings___CUSTOMCSS.php:116
+#: admin/settings___ORIG.php:116
+msgid "Allow zoom"
+msgstr "Zoom erlauben"
+
+# @ nirvana
+#: admin/settings.php:117 admin/settings___CUSTOMCSS.php:117
+#: admin/settings___ORIG.php:117
+msgid ""
+"Enable to make Nirvana fully responsive. The layout and general sizes of "
+"your blog will adjust depending on what device and what resolution it is "
+"viewed in.<br> Do not disable unless you have a good reason to."
+msgstr ""
+"Aktivieren um Nirvana vollständig responsiv zu machen. Das Layout und die "
+"Standard-Größe Deines Blogs werden sich dem jeweiligen Anzeigegerät und "
+"dessen Auflösung anpassen.<br> Nicht deaktivieren - es sei denn es gibt "
+"einen guten Grund dafür..."
+
+# @ nirvana
+#: admin/settings.php:129 admin/settings___CUSTOMCSS.php:129
+#: admin/settings___ORIG.php:129
+msgid ""
+"Select the header's height. After saving the settings go and upload your new "
+"header image. The header's minimum width should be "
+msgstr ""
+"Höhe der Kopfzeile wählen. Nach dem Speichern sollte ein neues "
+"Kopfzeilenbild hochgeladen werden. Die Mindestbreite der Kopfzeile sollte "
+"sein "
+
+# @ nirvana
+#: admin/settings.php:135 admin/settings___CUSTOMCSS.php:135
+#: admin/settings___ORIG.php:135
+msgid "Define header image"
+msgstr "Bild auswählen"
+
+# @ nirvana
+#: admin/settings.php:136 admin/settings___CUSTOMCSS.php:136
+#: admin/settings___ORIG.php:136
+msgid "Center the header image horizontally"
+msgstr "Bild horizontal zentrieren"
+
+# @ nirvana
+#: admin/settings.php:138 admin/settings___CUSTOMCSS.php:138
+#: admin/settings___ORIG.php:138
+msgid "Force header image responsiveness."
+msgstr "Bild responsiv?"
+
+# @ nirvana
+#: admin/settings.php:139 admin/settings___CUSTOMCSS.php:139
+#: admin/settings___ORIG.php:139
+msgid ""
+"By default the header has a minimum height set to accommodate the site title "
+"or custom logo. Enabling this option removes that minimum height and the "
+"header becomes fully responsive, scalling to any size.<br> Only enable this "
+"if you're <b>not</b> using a logo or site title and description in the "
+"header. Also make sure you have a header image uploaded. "
+msgstr ""
+"Per Voreinstellung hat der Header eine Minimum-Größe um sich dem Seiten "
+"Titel und dem eigenen Logo anzupassen. Durch das Aktivieren dieser Option "
+"wird die Minimum-Größe entfernt und die Kopfzeile passt sich responsiv jeder "
+"Größe an.<br> Bitte nur aktivieren wenn Du <b>kein</b> eigenes Logo, "
+"Seitentitel oder Beschreibung in der Kopfzeile verwendest."
+
+# @ nirvana
+#: admin/settings.php:147 admin/settings___CUSTOMCSS.php:147
+#: admin/settings___ORIG.php:147
+msgid "Site Title and Description"
+msgstr "Seitentitel und Beschreibung"
+
+# @ nirvana
+#: admin/settings.php:147 admin/settings___CUSTOMCSS.php:147
+#: admin/settings___ORIG.php:147
+msgid "Custom Logo"
+msgstr "Eigenes Logo"
+
+# @ nirvana
+#: admin/settings.php:147 admin/settings___CUSTOMCSS.php:147
+#: admin/settings___ORIG.php:147
+msgid "Clickable header image"
+msgstr "Klickbares Bild für die Kopfzeile"
+
+# @ nirvana
+#: admin/settings.php:147 admin/settings___CUSTOMCSS.php:147
+#: admin/settings___ORIG.php:147
+msgid "Empty"
+msgstr "Leer"
+
+# @ nirvana
+#: admin/settings.php:149 admin/settings___CUSTOMCSS.php:149
+#: admin/settings___ORIG.php:149
+msgid "Choose what to display inside your header area."
+msgstr "Was möchtest Du innerhalb des Kopfzeilen-Bereichs anzeigen?"
+
+# @ nirvana
+#: admin/settings.php:157 admin/settings___CUSTOMCSS.php:157
+#: admin/settings___ORIG.php:157
+msgid ""
+"Custom Logo upload. The logo will appear over the header image if you have "
+"used one."
+msgstr ""
+"Eigenes Logo hochladen. Falls Du ein Kopfzeilenbild verwendest, wird das "
+"Logo darüber angezeigt."
+
+# @ nirvana
+#: admin/settings.php:158 admin/settings.php:175 admin/settings.php:405
+#: admin/settings___CUSTOMCSS.php:158 admin/settings___CUSTOMCSS.php:175
+#: admin/settings___CUSTOMCSS.php:405 admin/settings___ORIG.php:158
+#: admin/settings___ORIG.php:175 admin/settings___ORIG.php:405
+msgid "Select / Upload Image"
+msgstr "Bild auswählen / hochladen"
+
+# @ nirvana
+#: admin/settings.php:163 admin/settings___CUSTOMCSS.php:163
+#: admin/settings___ORIG.php:163
+msgid "top"
+msgstr "oben"
+
+# @ nirvana
+#: admin/settings.php:164 admin/settings___CUSTOMCSS.php:164
+#: admin/settings___ORIG.php:164
+msgid "left"
+msgstr "links"
+
+# @ nirvana
+#: admin/settings.php:165 admin/settings___CUSTOMCSS.php:165
+#: admin/settings___ORIG.php:165
+msgid ""
+"Select the top and left spacing for the header content. Use it to better "
+"position your site title and description or custom logo inside the header. "
+msgstr ""
+"Abstand des Kopfzeileninhalts oben und links wählen. So kann der "
+"Seitentitel, die Beschreibung oder das eigene Logo besser positioniert "
+"werden."
+
+# @ nirvana
+#: admin/settings.php:174 admin/settings___CUSTOMCSS.php:174
+#: admin/settings___ORIG.php:174
+msgid ""
+"Limitations: It has to be an image. It should be max 64x64 pixels in "
+"dimensions. Recommended file extensions .ico and .png. <br> <strong>Note "
+"that some browsers do not display the changed favicon instantly.</strong>"
+msgstr ""
+"Einschränkungen: Es muss ein Bild sein - maximal 64 x 64 pixel. Geeignete "
+"Formate sind .ico und .png. <br> <strong>Bitte beachte, dass manche Browser "
+"die Änderug des Favicons erst nach einem Programmneustart anzeigen.</strong>"
+
+# @ nirvana
+#: admin/settings.php:193 admin/settings___CUSTOMCSS.php:193
+#: admin/settings___ORIG.php:193
+msgid ""
+"Enable the presentation front-page. This will become your new home page. "
+"<br> If you want another page to hold your latest blog posts, choose 'Blog "
+"Template (Posts Page)' from Page Templates while creating or editing that "
+"page."
+msgstr ""
+"Präsentationsseite aktivieren. Dies wird Deine neue Startseite. <br> Wenn Du "
+"eine andere Seite zum Anzeigen Deiner neuesten Beiträge möchtest, wähle "
+"'Blog Template (Posts Page)' aus den Seiten-Templates während Du die Seite "
+"bearbeitest."
+
+# @ nirvana
+#: admin/settings.php:203 admin/settings___CUSTOMCSS.php:203
+#: admin/settings___ORIG.php:203
+msgid "posts"
+msgstr "Beiträge"
+
+# @ nirvana
+#: admin/settings.php:204 admin/settings___CUSTOMCSS.php:204
+#: admin/settings___ORIG.php:204
+msgid ""
+"Enable to display latest posts on the presentation page, below the columns. "
+"Sticky posts are always displayed and not counted."
+msgstr ""
+"Aktivieren um die neuesten Beiträge unter den Kolumnen der "
+"Präsentationsseite anzuzeigen. Statische Beiträge werden immer angezeigt und "
+"nicht gezählt."
+
+# @ nirvana
+#: admin/settings.php:211 admin/settings___CUSTOMCSS.php:211
+#: admin/settings___ORIG.php:211
+msgid "Slider Dimensions:"
+msgstr "Größe des Sliders:"
+
+# @ nirvana
+#: admin/settings.php:212 admin/settings___CUSTOMCSS.php:212
+#: admin/settings___ORIG.php:212
+msgid "width"
+msgstr "Breite"
+
+# @ nirvana
+#: admin/settings.php:213 admin/settings___CUSTOMCSS.php:213
+#: admin/settings___ORIG.php:213
+msgid "height"
+msgstr "Höhe"
+
+# @ nirvana
+#: admin/settings.php:214 admin/settings___CUSTOMCSS.php:214
+#: admin/settings___ORIG.php:214
+msgid ""
+"The dimensions of your slider. Make sure your images are of the same size."
+msgstr "Die Größe Deines Sliders. Deine Bilder sollten die selbe Größe haben."
+
+# @ nirvana
+#: admin/settings.php:216 admin/settings___CUSTOMCSS.php:216
+#: admin/settings___ORIG.php:216
+msgid "Animation:"
+msgstr "Animation:"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "Random"
+msgstr "Zufällig"
+
+# @ nirvana - Übersetzung Ralf Lexis | ralflexis.de
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+#, fuzzy
+msgid "Fold"
+msgstr "Fold"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "Fade"
+msgstr "Ein- und Ausblenden"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "SlideInRight"
+msgstr "SlideIn von rechts"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "SlideInLeft"
+msgstr "SlideIn von links"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "SliceDown"
+msgstr "SliceDown"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "SliceDownLeft"
+msgstr "SliceDown links"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "SliceUp"
+msgstr "SliceUp"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "SliceUpLeft"
+msgstr "SliceUp links"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "SliceUpDown"
+msgstr "SliceUpDown"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "SliceUpDownLeft"
+msgstr "SliceUpDown links"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "BoxRandom"
+msgstr "Box Zufall"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "BoxRain"
+msgstr "Box Rain"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "BoxRainReverse"
+msgstr "Box Rain rückwärts"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "BoxRainGrow"
+msgstr "Box Rain anwachsend"
+
+# @ nirvana
+#: admin/settings.php:218 admin/settings___CUSTOMCSS.php:218
+#: admin/settings___ORIG.php:218
+msgid "BoxRainGrowReverse"
+msgstr "Box Rain anwachsend rückwärts"
+
+# @ nirvana
+#: admin/settings.php:227 admin/settings___CUSTOMCSS.php:227
+#: admin/settings___ORIG.php:227
+msgid "The transition effect of your slides."
+msgstr "Der Übergang Deiner Bilder."
+
+# @ nirvana
+#: admin/settings.php:229 admin/settings___CUSTOMCSS.php:229
+#: admin/settings___ORIG.php:229
+msgid "Animation Time:"
+msgstr "Dauer der Animation:"
+
+# @ nirvana
+#: admin/settings.php:230 admin/settings.php:234
+#: admin/settings___CUSTOMCSS.php:230 admin/settings___CUSTOMCSS.php:234
+#: admin/settings___ORIG.php:230 admin/settings___ORIG.php:234
+msgid "milliseconds"
+msgstr "Millisekunden"
+
+# @ nirvana
+#: admin/settings.php:231 admin/settings___CUSTOMCSS.php:231
+#: admin/settings___ORIG.php:231
+msgid "The time in which the transition animation will take place."
+msgstr "Dauer, in der die Übergangsanimation stattfindet."
+
+# @ nirvana
+#: admin/settings.php:233 admin/settings___CUSTOMCSS.php:233
+#: admin/settings___ORIG.php:233
+msgid "Pause Time:"
+msgstr "Dauer der Pause:"
+
+# @ nirvana
+#: admin/settings.php:235 admin/settings___CUSTOMCSS.php:235
+#: admin/settings___ORIG.php:235
+msgid "The time in which a slide will be still and visible."
+msgstr "Dauer der Zeit, die Das Bild sichtbar angezeigt wird."
+
+# @ nirvana
+#: admin/settings.php:237 admin/settings___CUSTOMCSS.php:237
+#: admin/settings___ORIG.php:237
+msgid "Slider navigation:"
+msgstr "Navigation des Sliders:"
+
+# @ nirvana
+#: admin/settings.php:239 admin/settings___CUSTOMCSS.php:239
+#: admin/settings___ORIG.php:239
+msgid "Numbers"
+msgstr "Nummeriert"
+
+# @ nirvana
+#: admin/settings.php:239 admin/settings___CUSTOMCSS.php:239
+#: admin/settings___ORIG.php:239
+msgid "Bullets"
+msgstr "Pfeile"
+
+# @ nirvana
+#: admin/settings.php:239 admin/settings___CUSTOMCSS.php:239
+#: admin/settings___ORIG.php:239
+msgid "None"
+msgstr "Ohne"
+
+# @ nirvana
+#: admin/settings.php:247 admin/settings___CUSTOMCSS.php:247
+#: admin/settings___ORIG.php:247
+msgid "Your slider navigation type. Shown under the slider."
+msgstr ""
+"Art der Slider-Navigation, wie sie unterhalb des Sliders angezeigt wird."
+
+# @ nirvana
+#: admin/settings.php:249 admin/settings___CUSTOMCSS.php:249
+#: admin/settings___ORIG.php:249
+msgid "Slider arrows:"
+msgstr "Slider Pfeile:"
+
+# @ nirvana
+#: admin/settings.php:251 admin/settings___CUSTOMCSS.php:251
+#: admin/settings___ORIG.php:251
+msgid "Always Visible"
+msgstr "Immer sichtbar"
+
+# @ nirvana
+#: admin/settings.php:251 admin/settings___CUSTOMCSS.php:251
+#: admin/settings___ORIG.php:251
+msgid "Visible on Hover"
+msgstr "Sichtbar beim darüberfahren (hover)"
+
+# @ nirvana
+#: admin/settings.php:251 admin/settings___CUSTOMCSS.php:251
+#: admin/settings___ORIG.php:251
+msgid "Hidden"
+msgstr "Versteckt"
+
+# @ nirvana
+#: admin/settings.php:259 admin/settings___CUSTOMCSS.php:259
+#: admin/settings___ORIG.php:259
+msgid "The Left and Right arrows on your slider"
+msgstr "Pfeile link und rechts auf Deinem Slider"
+
+# @ nirvana
+#: admin/settings.php:261 admin/settings___CUSTOMCSS.php:261
+#: admin/settings___ORIG.php:261
+msgid "Slider Border Width:"
+msgstr "Rahmenbreite des Sliders:"
+
+# @ nirvana
+#: admin/settings.php:262 admin/settings.php:266
+#: admin/settings___CUSTOMCSS.php:262 admin/settings___CUSTOMCSS.php:266
+#: admin/settings___ORIG.php:262 admin/settings___ORIG.php:266
+msgid "px"
+msgstr "Pixel"
+
+# @ nirvana
+#: admin/settings.php:263 admin/settings___CUSTOMCSS.php:263
+#: admin/settings___ORIG.php:263
+msgid ""
+"The slider's border width. You can also edit its color from the Color "
+"Settings. Use a border width when your slider is smaller than the total site "
+"width."
+msgstr ""
+"Die Rahmenbreite des Sliders. Du kannst auch die Farbe in den "
+"Farbeinstellungen ändern. Benutze eine Umrandung, wenn Dein Slider schmäler "
+"als die gesamte Seitenbreite ist."
+
+# @ nirvana
+#: admin/settings.php:265 admin/settings___CUSTOMCSS.php:265
+#: admin/settings___ORIG.php:265
+msgid "Slider Top/Bottom Margin:"
+msgstr "Rand ober- und unterhalb des Sliders:"
+
+# @ nirvana
+#: admin/settings.php:267 admin/settings___CUSTOMCSS.php:267
+#: admin/settings___ORIG.php:267
+msgid ""
+"Add margins to the slider. By default this is set to 0 and you will want to "
+"increase this value when the slider is not full width."
+msgstr ""
+"Füge Ränder um den Slider hinzu. Die Voreinstellung ist '0' und Du kannst "
+"den Wert erhöhen, wenn der Slider nicht die volle Breite hat."
+
+# @ nirvana
+#: admin/settings.php:334 admin/settings___CUSTOMCSS.php:334
+#: admin/settings___ORIG.php:334
+msgid "Custom Slides"
+msgstr "Eigene Sliderbilder"
+
+# @ nirvana
+#: admin/settings.php:334 admin/settings.php:434
+#: admin/settings___CUSTOMCSS.php:334 admin/settings___CUSTOMCSS.php:434
+#: admin/settings___ORIG.php:334 admin/settings___ORIG.php:434
+msgid "Latest Posts"
+msgstr "Letzte Beiträge"
+
+# @ nirvana
+#: admin/settings.php:334 admin/settings.php:434
+#: admin/settings___CUSTOMCSS.php:334 admin/settings___CUSTOMCSS.php:434
+#: admin/settings___ORIG.php:334 admin/settings___ORIG.php:434
+msgid "Random Posts"
+msgstr "Zufällige Beiträge"
+
+# @ nirvana
+#: admin/settings.php:334 admin/settings.php:434
+#: admin/settings___CUSTOMCSS.php:334 admin/settings___CUSTOMCSS.php:434
+#: admin/settings___ORIG.php:334 admin/settings___ORIG.php:434
+msgid "Latest Posts from Category"
+msgstr "Letzte Beiträge aus der Kategorie"
+
+# @ nirvana
+#: admin/settings.php:334 admin/settings.php:434
+#: admin/settings___CUSTOMCSS.php:334 admin/settings___CUSTOMCSS.php:434
+#: admin/settings___ORIG.php:334 admin/settings___ORIG.php:434
+msgid "Random Posts from Category"
+msgstr "Zufällige Beiträge aus der Kategorie"
+
+# @ nirvana
+#: admin/settings.php:334 admin/settings.php:434
+#: admin/settings___CUSTOMCSS.php:334 admin/settings___CUSTOMCSS.php:434
+#: admin/settings___ORIG.php:334 admin/settings___ORIG.php:434
+msgid "Specific Posts"
+msgstr "Spezielle Beiträge"
+
+# @ nirvana
+#: admin/settings.php:334 admin/settings.php:434
+#: admin/settings___CUSTOMCSS.php:334 admin/settings___CUSTOMCSS.php:434
+#: admin/settings___ORIG.php:334 admin/settings___ORIG.php:434
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+# @ nirvana
+#: admin/settings.php:343 admin/settings___CUSTOMCSS.php:343
+#: admin/settings___ORIG.php:343
+msgid ""
+"Only the slides with a defined image will become active and visible in the "
+"live slider.<br>When using slides from posts, make sure the selected posts "
+"have featured images.<br>Read the FAQs for more info."
+msgstr ""
+"Nur Slides mit einem ausgewählten Bild werden aktiviert und sind im Slider "
+"sichtbar.<br>Wenn Slides aus Beiträgen benutzt werden sollen, muss der "
+"Beitrag auch ein Bild haben.<br>Für mehr Info dazu bitte ins FAQ schauen."
+
+# @ nirvana
+#: admin/settings.php:348 admin/settings___CUSTOMCSS.php:348
+#: admin/settings___ORIG.php:348
+msgid "Latest posts will be loaded into the slider."
+msgstr "Die letzten Beiträge werden im Slider angezeigt."
+
+# @ nirvana
+#: admin/settings.php:352 admin/settings___CUSTOMCSS.php:352
+#: admin/settings___ORIG.php:352
+msgid "Random posts will be loaded into the slider."
+msgstr "Zufällige Beitrage werden in den Slider geladen."
+
+# @ nirvana
+#: admin/settings.php:356 admin/settings___CUSTOMCSS.php:356
+#: admin/settings___ORIG.php:356
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr ""
+"Die letzten Beiträge aus der Kategorie Deiner Wahl werden in den Slider "
+"geladen."
+
+# @ nirvana
+#: admin/settings.php:360 admin/settings___CUSTOMCSS.php:360
+#: admin/settings___ORIG.php:360
+msgid ""
+"Random posts from the category you choose will be loaded into the slider."
+msgstr ""
+"Zufällige Beiträge aus der Kategorie Deiner Wahl werden in den Slider "
+"geladen."
+
+# @ nirvana
+#: admin/settings.php:364 admin/settings___CUSTOMCSS.php:364
+#: admin/settings___ORIG.php:364
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "Nur statische Beiträge werden in den Slider geladen."
+
+# @ nirvana
+#: admin/settings.php:368 admin/settings.php:470
+#: admin/settings___CUSTOMCSS.php:368 admin/settings___CUSTOMCSS.php:470
+#: admin/settings___ORIG.php:368 admin/settings___ORIG.php:470
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr ""
+"Gib die Beitrags-IDs an, die angezeigt werden sollen (durch Komma getrennt):"
+
+# @ nirvana
+#: admin/settings.php:373 admin/settings.php:480
+#: admin/settings___CUSTOMCSS.php:373 admin/settings___CUSTOMCSS.php:480
+#: admin/settings___ORIG.php:373 admin/settings___ORIG.php:480
+msgid "<br> Choose the category: "
+msgstr "<br> Kategorie wählen: "
+
+# @ nirvana
+#: admin/settings.php:375 admin/settings.php:482
+#: admin/settings___CUSTOMCSS.php:375 admin/settings___CUSTOMCSS.php:482
+#: admin/settings___ORIG.php:375 admin/settings___ORIG.php:482
+msgid "Select Category"
+msgstr "Kategorie wählen"
+
+# @ nirvana
+#: admin/settings.php:389 admin/settings.php:495
+#: admin/settings___CUSTOMCSS.php:389 admin/settings___CUSTOMCSS.php:495
+#: admin/settings___ORIG.php:389 admin/settings___ORIG.php:495
+msgid "Number of posts to show:"
+msgstr "Anzahl der zu zeigenden Beiträge:"
+
+# @ nirvana
+#: admin/settings.php:400 admin/settings___CUSTOMCSS.php:400
+#: admin/settings___ORIG.php:400
+msgid "Slide"
+msgstr "Sliderbild"
+
+# @ nirvana
+#: admin/settings.php:402 admin/settings___CUSTOMCSS.php:402
+#: admin/settings___ORIG.php:402 content/content-image.php:14
+msgid "Image"
+msgstr "Bild"
+
+# @ nirvana
+#: admin/settings.php:406 admin/settings.php:543 admin/settings.php:550
+#: admin/settings.php:557 admin/settings___CUSTOMCSS.php:406
+#: admin/settings___CUSTOMCSS.php:543 admin/settings___CUSTOMCSS.php:550
+#: admin/settings___CUSTOMCSS.php:557 admin/settings___ORIG.php:406
+#: admin/settings___ORIG.php:543 admin/settings___ORIG.php:550
+#: admin/settings___ORIG.php:557
+msgid "Title"
+msgstr "Titel"
+
+# @ nirvana
+#: admin/settings.php:409 admin/settings.php:545 admin/settings.php:552
+#: admin/settings.php:559 admin/settings___CUSTOMCSS.php:409
+#: admin/settings___CUSTOMCSS.php:545 admin/settings___CUSTOMCSS.php:552
+#: admin/settings___CUSTOMCSS.php:559 admin/settings___ORIG.php:409
+#: admin/settings___ORIG.php:545 admin/settings___ORIG.php:552
+#: admin/settings___ORIG.php:559
+msgid "Text"
+msgstr "Text"
+
+# @ nirvana
+#: admin/settings.php:412 admin/settings___CUSTOMCSS.php:412
+#: admin/settings___ORIG.php:412 content/content-link.php:15
+msgid "Link"
+msgstr "Verknüpfung"
+
+# @ nirvana
+#: admin/settings.php:420 admin/settings___CUSTOMCSS.php:420
+#: admin/settings___ORIG.php:420
+msgid "Read more text:"
+msgstr "Text für 'mehr lesen':"
+
+# @ nirvana
+#: admin/settings.php:423 admin/settings___CUSTOMCSS.php:423
+#: admin/settings___ORIG.php:423
+msgid ""
+"The linked text that appears at the bottom of each slide. Leave empty to "
+"hide the link."
+msgstr ""
+"Der verknüpfte Text, der unterhalb jedes Sliderbildes erscheint. Leer lassen "
+"um die Verknüpfung zu verstecken."
+
+# @ nirvana
+#: admin/settings.php:434 admin/settings___CUSTOMCSS.php:434
+#: admin/settings___ORIG.php:434
+msgid "Widget Columns"
+msgstr "Widget Kolumnen"
+
+# @ nirvana
+#: admin/settings.php:443 admin/settings___CUSTOMCSS.php:443
+#: admin/settings___ORIG.php:443
+msgid ""
+"Only the columns with a defined image will become active and visible on the "
+"presentation page.<br>When using columns from posts, make sure the selected "
+"posts have featured images.<br>Read the FAQs for more info."
+msgstr ""
+"Nur die Kolumnen mit einem ausgewählten Bild werden auf der "
+"Präsentationsseite aktiv und sichtbar.<br>Wenn Kolumnen aus Beiträgen "
+"benutzt werden sollen, muss der Beitrag auch ein Bild haben.<br>Für mehr "
+"Info dazu bitte ins FAQ schauen."
+
+# @ nirvana
+#: admin/settings.php:450 admin/settings___CUSTOMCSS.php:450
+#: admin/settings___ORIG.php:450
+msgid "Latest posts will be loaded into the columns."
+msgstr "Die lezten Beiträge werden in die Kolumnen geladen."
+
+# @ nirvana
+#: admin/settings.php:454 admin/settings___CUSTOMCSS.php:454
+#: admin/settings___ORIG.php:454
+msgid "Random posts will be loaded into the columns."
+msgstr "Zufällige Beiträge werden in die Kolumnen geladen."
+
+# @ nirvana
+#: admin/settings.php:458 admin/settings___CUSTOMCSS.php:458
+#: admin/settings___ORIG.php:458
+msgid ""
+"Latest posts from the category you choose will be loaded in the columns."
+msgstr ""
+"Die lezten Beiträge aus der Kategorie Deiner Wahl werden in die Kolumnen "
+"geladen."
+
+# @ nirvana
+#: admin/settings.php:462 admin/settings___CUSTOMCSS.php:462
+#: admin/settings___ORIG.php:462
+msgid ""
+"Random posts from the category you choose will be loaded into the columns."
+msgstr ""
+"Zufällige Beiträge aus der Kategorie Deiner Wahl werden in die Kolumnen "
+"geladen."
+
+# @ nirvana
+#: admin/settings.php:466 admin/settings___CUSTOMCSS.php:466
+#: admin/settings___ORIG.php:466
+msgid "Only sticky posts will be loaded into the columns."
+msgstr "Nur statische Beiträge werden in die Kolumnen geladen."
+
+# @ nirvana
+#: admin/settings.php:475 admin/settings___CUSTOMCSS.php:475
+#: admin/settings___ORIG.php:475
+msgid ""
+"Load your custom Widgets as columns. Go to <a>Appearance >> Widgets</a> and "
+"create your custom columns using the Columns widget. You can use as many as "
+"you want."
+msgstr ""
+"Lade Deine eigenen Widgets als Kolumnen. Gehe zu <a>Ansicht >> Design</a> "
+"und bau Dir Deine eigenen Kolumnen mit dem Column widget. Du kannst so viele "
+"verwenden wie Du möchtest."
+
+# @ nirvana
+#: admin/settings.php:502 admin/settings___CUSTOMCSS.php:502
+#: admin/settings___ORIG.php:502
+msgid "Columns per row:"
+msgstr "Kolumnen pro Zeile:"
+
+# @ nirvana
+#: admin/settings.php:512 admin/settings___CUSTOMCSS.php:512
+#: admin/settings___ORIG.php:512
+msgid "Image Size:"
+msgstr "Bildgröße:"
+
+# @ nirvana
+#: admin/settings.php:513 admin/settings___CUSTOMCSS.php:513
+#: admin/settings___ORIG.php:513
+msgid "Height: "
+msgstr "Höhe:"
+
+# @ nirvana
+#: admin/settings.php:514 admin/settings___CUSTOMCSS.php:514
+#: admin/settings___ORIG.php:514
+msgid "Width: "
+msgstr "Breite:"
+
+# @ nirvana
+#: admin/settings.php:515 admin/settings___CUSTOMCSS.php:515
+#: admin/settings___ORIG.php:515
+msgid ""
+"The sizes for your column images. The width is dependent on total site width "
+"and the number of columns per row so it isn't configurable."
+msgstr ""
+"Die Größe Deiner Kolumnen-Bilder. Die Größe ist abhängig von der gesamten "
+"Seitenbreite und der anzahl der Kolumnen pro Zeile. Daher ist die Größe "
+"nicht konfigurierbar."
+
+# @ nirvana
+#: admin/settings.php:518 admin/settings___CUSTOMCSS.php:518
+#: admin/settings___ORIG.php:518
+msgid "Column spacing:"
+msgstr "Abstand der Kolumnen"
+
+# @ nirvana
+#: admin/settings.php:520 admin/settings___CUSTOMCSS.php:520
+#: admin/settings___ORIG.php:520
+msgid ""
+"The space between your columns. Increasing the column spacing will naturally "
+"decrease the visible area of your images."
+msgstr ""
+"Der Abstand zwischen Deinen Kolumnen. Vergrößert sich der Abstand, wird der "
+"sichtbare Bildbereich der Kolumnen kleiner."
+
+# @ nirvana
+#: admin/settings.php:522 admin/settings___CUSTOMCSS.php:522
+#: admin/settings___ORIG.php:522
+msgid "Columns Title:"
+msgstr "Kolumnentitel:"
+
+# @ nirvana
+#: admin/settings.php:525 admin/settings___CUSTOMCSS.php:525
+#: admin/settings___ORIG.php:525
+msgid "The title for the columns area on the presentation page."
+msgstr "Der titel des Kolumnenbereichs auf der Präsentationsseite."
+
+# @ nirvana
+#: admin/settings.php:526 admin/settings___CUSTOMCSS.php:526
+#: admin/settings___ORIG.php:526
+msgid "Photo Frames"
+msgstr "Bilderrahmen"
+
+# @ nirvana
+#: admin/settings.php:528 admin/settings___CUSTOMCSS.php:528
+#: admin/settings___ORIG.php:528
+msgid ""
+"Enable subtle foto frames around your column images. Your columns will have "
+"white borders and a small shadow around them and will be slightly skewed."
+msgstr ""
+"Aktiviere subtile Bilderrahmen um Deine Kolumnenbilder. Die Kolumnen werden "
+"weiße Ränder und einen leichten Schatten haben und leicht gedreht."
+
+# @ nirvana
+#: admin/settings.php:537 admin/settings.php:548 admin/settings.php:555
+#: admin/settings___CUSTOMCSS.php:537 admin/settings___CUSTOMCSS.php:548
+#: admin/settings___CUSTOMCSS.php:555 admin/settings___ORIG.php:537
+#: admin/settings___ORIG.php:548 admin/settings___ORIG.php:555
+msgid "Text Area"
+msgstr "Textbereich"
+
+# @ nirvana
+#: admin/settings.php:539 admin/settings___CUSTOMCSS.php:539
+#: admin/settings___ORIG.php:539
+msgid "Text for the Presentation Page"
+msgstr "Text der Präsentationsseite"
+
+# @ nirvana
+#: admin/settings.php:541 admin/settings___CUSTOMCSS.php:541
+#: admin/settings___ORIG.php:541
+msgid ""
+"More text for the Presentation Page. The top title is just below the slider, "
+"the second title is below the columns. A text area supporting HTML tags and "
+"shortcodes below each title<br>It's all optional so leave any input field "
+"empty to not dispaly it."
+msgstr ""
+"Mehr Text auf der Präsentationsseite. Der obere Titel ist direkt unter dem "
+"Slider und der zweite Titel unterhalb der Kolumnen. Unterhalb jedes Titels "
+"gibt es einen Textbereich, der HTML-Tags und Shortcodes unterstützt."
+"<br>Alles ist optional - einfach leer lassen, wenn nichts angezeigt werden "
+"soll."
+
+# @ nirvana
+#: admin/settings.php:566 admin/settings___CUSTOMCSS.php:566
+#: admin/settings___ORIG.php:566
+msgid "Hide areas"
+msgstr "Bereiche verstecken"
+
+# @ nirvana
+#: admin/settings.php:568 admin/settings___CUSTOMCSS.php:568
+#: admin/settings___ORIG.php:568
+msgid "Choose the areas to hide on the Presentation Page:"
+msgstr ""
+"Bereiche wählen, die auf der Präsentationsseite versteckt werden sollen."
+
+# @ nirvana
+#: admin/settings.php:579 admin/settings___CUSTOMCSS.php:579
+#: admin/settings___ORIG.php:579
+msgid "Hide the topbar (includes the top social area and top menu)."
+msgstr "Top Bar verstecken (inkl. Social-Icons und Topmenü)."
+
+# @ nirvana
+#: admin/settings.php:582 admin/settings___CUSTOMCSS.php:582
+#: admin/settings___ORIG.php:582
+msgid "Hide the header area (logo/title and/or image/empty area)."
+msgstr ""
+"Kopfzeilenbereich verstecken (Logo/Titel und/oder Bild/leerer Bereich)."
+
+# @ nirvana
+#: admin/settings.php:585 admin/settings___CUSTOMCSS.php:585
+#: admin/settings___ORIG.php:585
+msgid "Hide the main menu."
+msgstr "Hauptmenü verstecken"
+
+# @ nirvana
+#: admin/settings.php:588 admin/settings___CUSTOMCSS.php:588
+#: admin/settings___ORIG.php:588
+msgid "Hide the footer widgets. "
+msgstr "Fußzeilen-Widget verstecken."
+
+# @ nirvana
+#: admin/settings.php:591 admin/settings___CUSTOMCSS.php:591
+#: admin/settings___ORIG.php:591
+msgid "Hide the footer (copyright area)."
+msgstr "Fußzeile (Copyright-Bereich) verstecken."
+
+# @ nirvana
+#: admin/settings.php:616 admin/settings___CUSTOMCSS.php:616
+#: admin/settings___ORIG.php:616
+msgid ""
+"Select the general font family and size or insert the Google Font name "
+"you'll use in your blog. This will affect all text except the text "
+"controlled \n"
+"\t\t\t\t\t\t\tby the options below.<br><br> <strong>Additional Info:</"
+"strong><br>The fonts under the <em>General Theme Fonts</em> category are "
+"suggested for this\n"
+"\t\t\t\t\t\t\tbecause they have all the font weights used througout the "
+"theme.<br> When using Google Fonts for General Font make sure they also have "
+"multiple font weights and \n"
+"\t\t\t\t\t\t\tthat you specify them all eg.: <em>Roboto:400,300,500,700</em>"
+msgstr ""
+"Wähle die Standard Schriftfamilie und Größe oder den Google Fontnamen. Dies "
+"betrifft alle Texte ausser denen die weiter unten gesondert eingestellt "
+"werden können.<br><br> <strong>Zusatzinfo:</strong><br>Die Schriften unter "
+"der Kategorie <em>Standard Theme Schriften</em> enthalten alle "
+"Schriftschnitte und Größen, die vom Nirvana-Theme verwendet werden.<br> Bei "
+"Verwendung von Google Fonts bitte sicherstellen, dass diese auch "
+"verschiedene Gewichtungen unterstützen, wie z.B.: "
+"<em>Roboto:400,300,500,700</em>"
+
+# @ nirvana
+#: admin/settings.php:638 admin/settings___CUSTOMCSS.php:638
+#: admin/settings___ORIG.php:638
+msgid ""
+"Select the font family and size or insert the Google Font name you want for "
+"your titles. It will affect post titles and page titles. Leave 'General "
+"Font' and the general font values you selected will be used."
+msgstr ""
+"Wähle die Schriftfamilie und Größe oder den Google Fontnamen für die Titel. "
+"Dies betrifft Beitrags- und Seitentitel. Wenn Du 'Allgemein' wählst, werden "
+"Deine Standardwerte verwendet."
+
+# @ nirvana
+#: admin/settings.php:657 admin/settings___CUSTOMCSS.php:657
+#: admin/settings___ORIG.php:657
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"widget titles to have. Leave 'General Font' and the general font values you "
+"selected will be used."
+msgstr ""
+"Wähle die Schriftfamilie und Größe oder den Google Fontnamen für die Widget-"
+"Titel. Wenn Du 'Allgemein' wählst, werden Deine Standardwerte verwendet."
+
+# @ nirvana
+#: admin/settings.php:676 admin/settings___CUSTOMCSS.php:676
+#: admin/settings___ORIG.php:676
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"widgets to have. Leave 'General Font' and the general font values you "
+"selected will be used."
+msgstr ""
+"Wähle die Schriftfamilie und Größe oder den Google Fontnamen für die "
+"Widgets. Wenn Du 'Allgemein' wählst, werden Deine Standardwerte verwendet."
+
+# @ nirvana
+#: admin/settings.php:694 admin/settings___CUSTOMCSS.php:694
+#: admin/settings___ORIG.php:694
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"site title and tagline to use. Leave 'General Font' and the general font "
+"values you selected will be used."
+msgstr ""
+"Wähle die Schriftfamilie und Größe oder den Google Fontnamen für die "
+"Seitentitel. Wenn Du 'Allgemein' wählst, werden Deine Standardwerte "
+"verwendet."
+
+# @ nirvana
+#: admin/settings.php:712 admin/settings___CUSTOMCSS.php:712
+#: admin/settings___ORIG.php:712
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"main menu to use. Leave 'General Font' and the general font values you "
+"selected will be used."
+msgstr ""
+"Wähle die Schriftfamilie und Größe oder den Google Fontnamen für dHauptmenü. "
+"Wenn Du 'Allgemein' wählst, werden Deine Standardwerte verwendet."
+
+# @ nirvana
+#: admin/settings.php:733 admin/settings___CUSTOMCSS.php:733
+#: admin/settings___ORIG.php:733
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"headings to have (h1 - h6 tags will be affected). Leave 'General Font' and "
+"the general font values you selected will be used."
+msgstr ""
+"Wähle die Schriftfamilie und Größe oder den Google Fontnamen für die "
+"Überschriften. Dies betrifft Dies betrifft H1 - H6 Tags. Wenn Du 'Allgemein' "
+"wählst, werden Deine Standardwerte verwendet."
+
+# @ nirvana
+#: admin/settings.php:741 admin/settings.php:782 admin/settings.php:792
+#: admin/settings.php:809 admin/settings___CUSTOMCSS.php:741
+#: admin/settings___CUSTOMCSS.php:782 admin/settings___CUSTOMCSS.php:792
+#: admin/settings___CUSTOMCSS.php:809 admin/settings___ORIG.php:741
+#: admin/settings___ORIG.php:782 admin/settings___ORIG.php:792
+#: admin/settings___ORIG.php:809
+msgid "Default"
+msgstr "Voreinstellung"
+
+# @ nirvana
+#: admin/settings.php:741 admin/settings.php:1042 admin/settings.php:1412
+#: admin/settings___CUSTOMCSS.php:741 admin/settings___CUSTOMCSS.php:1042
+#: admin/settings___CUSTOMCSS.php:1412 admin/settings___ORIG.php:741
+#: admin/settings___ORIG.php:1042 admin/settings___ORIG.php:1412
+msgid "Left"
+msgstr "Links"
+
+# @ nirvana
+#: admin/settings.php:741 admin/settings.php:1042 admin/settings.php:1412
+#: admin/settings___CUSTOMCSS.php:741 admin/settings___CUSTOMCSS.php:1042
+#: admin/settings___CUSTOMCSS.php:1412 admin/settings___ORIG.php:741
+#: admin/settings___ORIG.php:1042 admin/settings___ORIG.php:1412
+msgid "Right"
+msgstr "Richts"
+
+# @ nirvana
+#: admin/settings.php:741 admin/settings___CUSTOMCSS.php:741
+#: admin/settings___ORIG.php:741
+msgid "Justify"
+msgstr "Blocksatz"
+
+# @ nirvana
+#: admin/settings.php:741 admin/settings.php:1042 admin/settings.php:1412
+#: admin/settings___CUSTOMCSS.php:741 admin/settings___CUSTOMCSS.php:1042
+#: admin/settings___CUSTOMCSS.php:1412 admin/settings___ORIG.php:741
+#: admin/settings___ORIG.php:1042 admin/settings___ORIG.php:1412
+msgid "Center"
+msgstr "Zentriert"
+
+# @ nirvana
+#: admin/settings.php:743 admin/settings___CUSTOMCSS.php:743
+#: admin/settings___ORIG.php:743
+msgid ""
+"This overwrites the text alignment in posts and pages. Leave 'Default' for "
+"normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr ""
+"Dies überschreibt die Textausrichtung in Beiträgen und Seiten. Bei "
+"'Voreinstellung' wird die Ausrichtung verwendet, welche für Beiträge, "
+"Kommentare etc. definiert wurde."
+
+# @ nirvana
+#: admin/settings.php:753 admin/settings___CUSTOMCSS.php:753
+#: admin/settings___ORIG.php:753
+msgid "Choose the indent for your paragraphs."
+msgstr "Wähle den Zeielneinzug für Absätze."
+
+# @ nirvana
+#: admin/settings.php:764 admin/settings___CUSTOMCSS.php:764
+#: admin/settings___ORIG.php:764
+msgid "Disable the default headings indent (left margin)."
+msgstr ""
+"Deaktiviere den voreingestellten Zeileneinzug für Überschriften (linker "
+"Rand)."
+
+# @ nirvana
+#: admin/settings.php:774 admin/settings___CUSTOMCSS.php:774
+#: admin/settings___ORIG.php:774
+msgid "Text line height. The height between 2 rows of text."
+msgstr "Zeilenhöhe für Text (zwischen zwei Textzeilen)."
+
+# @ nirvana
+#: admin/settings.php:784 admin/settings___CUSTOMCSS.php:784
+#: admin/settings___ORIG.php:784
+msgid ""
+"The space between <i>words</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"Der Abstand zwischen <i>Wörtern</i>. Wähle 'Voreinstellung' für die Wete, "
+"die im CSS vorgegeben sind."
+
+# @ nirvana
+#: admin/settings.php:794 admin/settings___CUSTOMCSS.php:794
+#: admin/settings___ORIG.php:794
+msgid ""
+"The space between <i>letters</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"Der Abstand zwischen <i>Buchstaben</i>. Wähle 'Voreinstellung' für die Wete, "
+"die im CSS vorgegeben sind."
+
+# @ nirvana
+#: admin/settings.php:802 admin/settings___CUSTOMCSS.php:802
+#: admin/settings___ORIG.php:802
+msgid "Select the spacing between the paragraphs."
+msgstr "Absatz zwischen den Absätzen wählen."
+
+# @ nirvana
+#: admin/settings.php:809 admin/settings___CUSTOMCSS.php:809
+#: admin/settings___ORIG.php:809
+msgid "Force Uppercase"
+msgstr "Großbuchstaben erzwingen"
+
+# @ nirvana
+#: admin/settings.php:809 admin/settings___CUSTOMCSS.php:809
+#: admin/settings___ORIG.php:809
+msgid "Force Lowercase"
+msgstr "Kleinbuchstaben erzwingen"
+
+# @ nirvana
+#: admin/settings.php:811 admin/settings___CUSTOMCSS.php:811
+#: admin/settings___ORIG.php:811
+msgid ""
+"By default text is both uppercase and lowercase throughout the theme. With "
+"this option you can force uppercase or lowercase text styling in the whole "
+"theme. This option won't affect content text."
+msgstr ""
+"Per Voreinstellung ist Groß- und Kleinschreibung für das Theme aktiviert. "
+"Mit dieser Option ist es möglich Groß- oder Kleinbuchstaben für das gesamte "
+"Theme zu erzwingen. Inhaltstext (Content) ist nicht davon betroffen."
+
+# @ nirvana
+#: admin/settings.php:819 admin/settings___CUSTOMCSS.php:819
+#: admin/settings___ORIG.php:819
+msgid "Define background image"
+msgstr "Hintergrundbild festlegen"
+
+# @ nirvana
+#: admin/settings.php:824 admin/settings.php:850 admin/settings.php:875
+#: admin/settings.php:911 admin/settings.php:922
+#: admin/settings___CUSTOMCSS.php:824 admin/settings___CUSTOMCSS.php:850
+#: admin/settings___CUSTOMCSS.php:875 admin/settings___CUSTOMCSS.php:911
+#: admin/settings___CUSTOMCSS.php:922 admin/settings___ORIG.php:824
+#: admin/settings___ORIG.php:850 admin/settings___ORIG.php:875
+#: admin/settings___ORIG.php:911 admin/settings___ORIG.php:922
+msgid "Background:"
+msgstr "Hintergrund:"
+
+# @ nirvana
+#: admin/settings.php:825 admin/settings___CUSTOMCSS.php:825
+#: admin/settings___ORIG.php:825
+msgid "Header Background"
+msgstr "Hintergrund der Kopfzeile"
+
+# @ nirvana
+#: admin/settings.php:826 admin/settings___CUSTOMCSS.php:826
+#: admin/settings___ORIG.php:826
+msgid "Main Site Background"
+msgstr "Hintergrund der Seite"
+
+# @ nirvana
+#: admin/settings.php:827 admin/settings___CUSTOMCSS.php:827
+#: admin/settings___ORIG.php:827
+msgid "Footer Widgets Area Background"
+msgstr "Hintergrund des Fußzeielen-Widget Bereichs"
+
+# @ nirvana
+#: admin/settings.php:828 admin/settings___CUSTOMCSS.php:828
+#: admin/settings___ORIG.php:828
+msgid "Footer Background"
+msgstr "Hintergrund der Fußzeile"
+
+# @ nirvana
+#: admin/settings.php:829 admin/settings.php:852 admin/settings.php:877
+#: admin/settings.php:904 admin/settings.php:914 admin/settings.php:925
+#: admin/settings___CUSTOMCSS.php:829 admin/settings___CUSTOMCSS.php:852
+#: admin/settings___CUSTOMCSS.php:877 admin/settings___CUSTOMCSS.php:904
+#: admin/settings___CUSTOMCSS.php:914 admin/settings___CUSTOMCSS.php:925
+#: admin/settings___ORIG.php:829 admin/settings___ORIG.php:852
+#: admin/settings___ORIG.php:877 admin/settings___ORIG.php:904
+#: admin/settings___ORIG.php:914 admin/settings___ORIG.php:925
+msgid "Text:"
+msgstr "Text:"
+
+# @ nirvana
+#: admin/settings.php:830 admin/settings___CUSTOMCSS.php:830
+#: admin/settings___ORIG.php:830
+msgid "General Text"
+msgstr "Text allgemein"
+
+# @ nirvana
+#: admin/settings.php:831 admin/settings___CUSTOMCSS.php:831
+#: admin/settings___ORIG.php:831
+msgid "General Lighter Text"
+msgstr "Schlanker Text allgemein"
+
+# @ nirvana
+#: admin/settings.php:832 admin/settings___CUSTOMCSS.php:832
+#: admin/settings___ORIG.php:832
+msgid "Footer Text"
+msgstr "Text der Fußzeile"
+
+# @ nirvana
+#: admin/settings.php:833 admin/settings___CUSTOMCSS.php:833
+#: admin/settings___ORIG.php:833
+msgid ""
+"The site background features 4 separately coloured areas.<br />The general "
+"text colour applies to all text on the website that is not controlled by any "
+"other option."
+msgstr ""
+"Der Seitenhintergrund besteht aus vier separaten Farbbereichen.<br />Die "
+"Standard-Textfarbe wirkt sich auf den gesamten Text der Seite aus, sofern "
+"sie nicht durch eine andere Option definiert wurde."
+
+# @ nirvana
+#: admin/settings.php:838 admin/settings___CUSTOMCSS.php:838
+#: admin/settings___ORIG.php:838
+msgid "Accent Color #1"
+msgstr "Akzentfarbe #1"
+
+# @ nirvana
+#: admin/settings.php:839 admin/settings___CUSTOMCSS.php:839
+#: admin/settings___ORIG.php:839
+msgid "Accent Color #2"
+msgstr "Akzentfarbe #2"
+
+# @ nirvana
+#: admin/settings.php:840 admin/settings___CUSTOMCSS.php:840
+#: admin/settings___ORIG.php:840
+msgid "Accent Color #3"
+msgstr "Akzentfarbe #3"
+
+# @ nirvana
+#: admin/settings.php:841 admin/settings___CUSTOMCSS.php:841
+#: admin/settings___ORIG.php:841
+msgid "Accent Color #4"
+msgstr "Akzentfarbe #4"
+
+# @ nirvana
+#: admin/settings.php:842 admin/settings___CUSTOMCSS.php:842
+#: admin/settings___ORIG.php:842
+msgid "Accent Color #5"
+msgstr "Akzentfarbe #5"
+
+# @ nirvana
+#: admin/settings.php:843 admin/settings___CUSTOMCSS.php:843
+#: admin/settings___ORIG.php:843
+msgid ""
+"Accents #1 and #2 should either be the same as the link colours or be "
+"separate from all other colours on the site.<br />\n"
+"     Accent #5 is used for input fields and buttons backgrounds, borders and "
+"lines.<br />\n"
+"     Accents #3 and #4 should be the lighter/darker than the content "
+"background colour, being used as borders/shades on elements where accent #5 "
+"is background colour."
+msgstr ""
+"Akzentfarbe #1 und #2 sollten entweder identisch mit der Verknüpfungsfarbe "
+"(Links) sein oder sich deutlich von den anderen Farben des Themes "
+"unterscheiden.<br />\n"
+"     Akzentfarbe #5 wird für Eingabefelder, Button-Hintergründe, Rahmen und "
+"Linien benutzt.<br />\n"
+"     Akzentfarbe #3 und #4 sollten heller/dunkler als der Hintergrund des "
+"Inhalts sein, da sie für Ränder und Schatten von Elementen benutzt werden, "
+"während Akzentfarbe #5 als Hintergrundfarbe benutzt wird."
+
+# @ nirvana
+#: admin/settings.php:851 admin/settings___CUSTOMCSS.php:851
+#: admin/settings___ORIG.php:851
+msgid "Site Description Background"
+msgstr "Hintergrund der Seitenbeschreibung"
+
+# @ nirvana
+#: admin/settings.php:854 admin/settings___CUSTOMCSS.php:854
+#: admin/settings___ORIG.php:854
+msgid "Site Description"
+msgstr "Seitenbeschreibung"
+
+# @ nirvana
+#: admin/settings.php:860 admin/settings___CUSTOMCSS.php:860
+#: admin/settings___ORIG.php:860
+msgid "Menu:"
+msgstr "Menü:"
+
+# @ nirvana
+#: admin/settings.php:861 admin/settings___CUSTOMCSS.php:861
+#: admin/settings___ORIG.php:861
+msgid "Menu Background"
+msgstr "Hintergrund des Menüs"
+
+# @ nirvana
+#: admin/settings.php:862 admin/settings___CUSTOMCSS.php:862
+#: admin/settings___ORIG.php:862
+msgid "Menu Text"
+msgstr "Menütext"
+
+# @ nirvana
+#: admin/settings.php:865 admin/settings___CUSTOMCSS.php:865
+#: admin/settings___ORIG.php:865
+msgid "Submenu:"
+msgstr "Untermenü:"
+
+# @ nirvana
+#: admin/settings.php:866 admin/settings___CUSTOMCSS.php:866
+#: admin/settings___ORIG.php:866
+msgid "Submenu Background"
+msgstr "Untermenü Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:867 admin/settings___CUSTOMCSS.php:867
+#: admin/settings___ORIG.php:867
+msgid "Submenu Text"
+msgstr "Untermenü Text"
+
+# @ nirvana
+#: admin/settings.php:868 admin/settings___CUSTOMCSS.php:868
+#: admin/settings___ORIG.php:868
+msgid "Submenu Shadow"
+msgstr "Untermenü Schatten"
+
+# @ nirvana
+#: admin/settings.php:870 admin/settings___CUSTOMCSS.php:870
+#: admin/settings___ORIG.php:870
+msgid "These colours apply to the main site menu (and dropdown elements)."
+msgstr "Diese Farben betreffen das Hauptmenü (und Dropdown-Elemente)."
+
+# @ nirvana
+#: admin/settings.php:876 admin/settings___CUSTOMCSS.php:876
+#: admin/settings___ORIG.php:876
+msgid "Top Bar Background"
+msgstr "Top Bar Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:878 admin/settings___CUSTOMCSS.php:878
+#: admin/settings___ORIG.php:878
+msgid "Top Bar Menu Link"
+msgstr "Top Bar Menü Verknüpfung"
+
+# @ nirvana
+#: admin/settings.php:879 admin/settings___CUSTOMCSS.php:879
+#: admin/settings___ORIG.php:879
+msgid "Top Bar Menu Link Hover"
+msgstr "Top Bar Menü Verknüpfung Hover"
+
+# @ nirvana
+#: admin/settings.php:880 admin/settings___CUSTOMCSS.php:880
+#: admin/settings___ORIG.php:880
+msgid "These colours apply to the top bar menu."
+msgstr "Diese Farben betreffen das Top Bar Menü"
+
+# @ nirvana
+#: admin/settings.php:885 admin/settings___CUSTOMCSS.php:885
+#: admin/settings___ORIG.php:885
+msgid "Content Background"
+msgstr "Inhalt Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:886 admin/settings___CUSTOMCSS.php:886
+#: admin/settings___ORIG.php:886
+msgid "Page/Post Title"
+msgstr "Seiten- und Beitragstitel"
+
+# @ nirvana
+#: admin/settings.php:887 admin/settings___CUSTOMCSS.php:887
+#: admin/settings___ORIG.php:887
+msgid "Page/Post Title Hover"
+msgstr "Seiten- und Beitragstitel Hover"
+
+# @ nirvana
+#: admin/settings.php:888 admin/settings___CUSTOMCSS.php:888
+#: admin/settings___ORIG.php:888
+msgid "Content Headings"
+msgstr "Inhaltsüberschriften"
+
+# @ nirvana
+#: admin/settings.php:889 admin/settings___CUSTOMCSS.php:889
+#: admin/settings___ORIG.php:889
+msgid "Content colours apply to post and page areas of the site."
+msgstr "Inhaltsfarben betreffen Beitrags- und Seitenbereiche der Seite."
+
+# @ nirvana
+#: admin/settings.php:894 admin/settings___CUSTOMCSS.php:894
+#: admin/settings___ORIG.php:894
+msgid "Slider:"
+msgstr "Slider:"
+
+# @ nirvana
+#: admin/settings.php:895 admin/settings___CUSTOMCSS.php:895
+#: admin/settings___ORIG.php:895
+msgid "Slider Background Color"
+msgstr "Slider Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:896 admin/settings___CUSTOMCSS.php:896
+#: admin/settings___ORIG.php:896
+msgid "Slider Border Color"
+msgstr "Slider Rahmen"
+
+# @ nirvana
+#: admin/settings.php:897 admin/settings___CUSTOMCSS.php:897
+#: admin/settings___ORIG.php:897
+msgid "Slider Caption Text Color"
+msgstr "Slider Text"
+
+# @ nirvana
+#: admin/settings.php:898 admin/settings___CUSTOMCSS.php:898
+#: admin/settings___ORIG.php:898
+msgid "Slider Caption Background"
+msgstr "Slider Text Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:899 admin/settings___CUSTOMCSS.php:899
+#: admin/settings___ORIG.php:899
+msgid "Areas:"
+msgstr "Bereiche:"
+
+# @ nirvana
+#: admin/settings.php:900 admin/settings___CUSTOMCSS.php:900
+#: admin/settings___ORIG.php:900
+msgid "Text Area 1 Background Color"
+msgstr "Textbereich 1 Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:901 admin/settings___CUSTOMCSS.php:901
+#: admin/settings___ORIG.php:901
+msgid "Text Area 2 Background Color"
+msgstr "Textbereich 2 Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:902 admin/settings___CUSTOMCSS.php:902
+#: admin/settings___ORIG.php:902
+msgid "Text Area 3 Background Color"
+msgstr "Textbereich 3 Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:903 admin/settings___CUSTOMCSS.php:903
+#: admin/settings___ORIG.php:903
+msgid "Columns Background Color"
+msgstr "Kolumnen Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:905 admin/settings___CUSTOMCSS.php:905
+#: admin/settings___ORIG.php:905
+msgid "Titles Color"
+msgstr "Titel"
+
+# @ nirvana
+#: admin/settings.php:906 admin/settings___CUSTOMCSS.php:906
+#: admin/settings___ORIG.php:906
+msgid "These colours apply to specific areas of the presentation page."
+msgstr "Diese Farben betreffen bestimmte Bereiche auf der Präsentationsseite."
+
+# @ nirvana
+#: admin/settings.php:912 admin/settings___CUSTOMCSS.php:912
+#: admin/settings___ORIG.php:912
+msgid "Sidebars Background"
+msgstr "Sidebar Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:913 admin/settings___CUSTOMCSS.php:913
+#: admin/settings___ORIG.php:913
+msgid "Sidebars Widget Title Background"
+msgstr "Sidebar Widget Titel Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:915 admin/settings___CUSTOMCSS.php:915
+#: admin/settings___ORIG.php:915
+msgid "Sidebars Text"
+msgstr "Sidebar Text"
+
+# @ nirvana
+#: admin/settings.php:916 admin/settings___CUSTOMCSS.php:916
+#: admin/settings___ORIG.php:916
+msgid "Sidebars Widget Title Text"
+msgstr "Sidebar Widget Titel Text"
+
+# @ nirvana
+#: admin/settings.php:917 admin/settings___CUSTOMCSS.php:917
+#: admin/settings___ORIG.php:917
+msgid "These colours apply to the widgets placed in either sidebar."
+msgstr "Diese Farben betreffen Widgets in einer Sidebar."
+
+# @ nirvana
+#: admin/settings.php:923 admin/settings___CUSTOMCSS.php:923
+#: admin/settings___ORIG.php:923
+msgid "Footer Widgets Background"
+msgstr "Fußzeielen Widget Hintetrgrund"
+
+# @ nirvana
+#: admin/settings.php:924 admin/settings___CUSTOMCSS.php:924
+#: admin/settings___ORIG.php:924
+msgid "Footer Widgets Title Background"
+msgstr "Fußzeilen Widget Titel Hintergrund"
+
+# @ nirvana
+#: admin/settings.php:926 admin/settings___CUSTOMCSS.php:926
+#: admin/settings___ORIG.php:926
+msgid "Footer Widget Text"
+msgstr "Fußzeilen Widget Text"
+
+# @ nirvana
+#: admin/settings.php:927 admin/settings___CUSTOMCSS.php:927
+#: admin/settings___ORIG.php:927
+msgid "Footer Widgets Title Text"
+msgstr "Fußzeielen Widget Titel Text"
+
+# @ nirvana
+#: admin/settings.php:928 admin/settings___CUSTOMCSS.php:928
+#: admin/settings___ORIG.php:928
+msgid "These colours apply to the widgets in the footer area."
+msgstr "Diese Farben wirken sich auf die Widget in der Fußzeile aus."
+
+# @ nirvana
+#: admin/settings.php:933 admin/settings___CUSTOMCSS.php:933
+#: admin/settings___ORIG.php:933
+msgid "General:"
+msgstr "Allgemein:"
+
+# @ nirvana
+#: admin/settings.php:934 admin/settings___CUSTOMCSS.php:934
+#: admin/settings___ORIG.php:934
+msgid "General Links"
+msgstr "Verknüpfungen allgemein"
+
+# @ nirvana
+#: admin/settings.php:935 admin/settings___CUSTOMCSS.php:935
+#: admin/settings___ORIG.php:935
+msgid "General Links Hover"
+msgstr "Verknüpfungen allgemein (Hover)"
+
+# @ nirvana
+#: admin/settings.php:936 admin/settings___CUSTOMCSS.php:936
+#: admin/settings___ORIG.php:936
+msgid "Sidebar Widgets:"
+msgstr "Sidebar Widgets:"
+
+# @ nirvana
+#: admin/settings.php:937 admin/settings___CUSTOMCSS.php:937
+#: admin/settings___ORIG.php:937
+msgid "Sidebar Widgets Links"
+msgstr "Verknüpfungen in Sidebar Widgets"
+
+# @ nirvana
+#: admin/settings.php:938 admin/settings___CUSTOMCSS.php:938
+#: admin/settings___ORIG.php:938
+msgid "Sidebar Widgets Links Hover"
+msgstr "Verknüpfungen in Sidebar Widgets (Hover)"
+
+# @ nirvana
+#: admin/settings.php:939 admin/settings___CUSTOMCSS.php:939
+#: admin/settings___ORIG.php:939
+msgid "Footer Widgets:"
+msgstr "Fußzeielen Widgets"
+
+# @ nirvana
+#: admin/settings.php:940 admin/settings___CUSTOMCSS.php:940
+#: admin/settings___ORIG.php:940
+msgid "Footer Widgets Links"
+msgstr "Verknüpfungen in Fußzeilen Widgets"
+
+# @ nirvana
+#: admin/settings.php:941 admin/settings___CUSTOMCSS.php:941
+#: admin/settings___ORIG.php:941
+msgid "Footer Widgets Links Hover"
+msgstr "Verknüpfungen in Fußzeielen Widgets (Hover)"
+
+# @ nirvana
+#: admin/settings.php:942 admin/settings___CUSTOMCSS.php:942
+#: admin/settings___ORIG.php:942
+msgid "Footer:"
+msgstr "Fußzeile:"
+
+# @ nirvana
+#: admin/settings.php:943 admin/settings___CUSTOMCSS.php:943
+#: admin/settings___ORIG.php:943
+msgid "Footer Links"
+msgstr "Verknüpfungen in Fußzeilen"
+
+# @ nirvana
+#: admin/settings.php:944 admin/settings___CUSTOMCSS.php:944
+#: admin/settings___ORIG.php:944
+msgid "Footer Links Hover"
+msgstr "Verknüpfungen in Fußzeilen (Hover)"
+
+# @ nirvana
+#: admin/settings.php:945 admin/settings___CUSTOMCSS.php:945
+#: admin/settings___ORIG.php:945
+msgid "Footer colours include the footer menu colours."
+msgstr "Die Farben für Fußzeielen enthalten die Farben für Fußzeielen Menüs"
+
+# @ nirvana
+#: admin/settings.php:950 admin/settings___CUSTOMCSS.php:950
+#: admin/settings___ORIG.php:950
+msgid "Meta Icons"
+msgstr "Meta Icons"
+
+# @ nirvana
+#: admin/settings.php:951 admin/settings___CUSTOMCSS.php:951
+#: admin/settings___ORIG.php:951
+msgid "Meta Links"
+msgstr "Meta Verknüpfungen"
+
+# @ nirvana
+#: admin/settings.php:952 admin/settings___CUSTOMCSS.php:952
+#: admin/settings___ORIG.php:952
+msgid "Meta Links Hover"
+msgstr "Meta Verknüpfungen (Hover)"
+
+# @ nirvana
+#: admin/settings.php:953 admin/settings___CUSTOMCSS.php:953
+#: admin/settings___ORIG.php:953
+msgid "Colours for your meta area (post information)."
+msgstr "Farben des Metabereichs (Beitragsinformation)."
+
+# @ nirvana
+#: admin/settings.php:958 admin/settings___CUSTOMCSS.php:958
+#: admin/settings___ORIG.php:958
+msgid "Social Icons Background"
+msgstr "Hintergrund der Social Icons"
+
+# @ nirvana
+#: admin/settings.php:959 admin/settings___CUSTOMCSS.php:959
+#: admin/settings___ORIG.php:959
+msgid "Social Icons Background Hover"
+msgstr "Hintergrund der Social Icons (Hover)"
+
+# @ nirvana
+#: admin/settings.php:960 admin/settings___CUSTOMCSS.php:960
+#: admin/settings___ORIG.php:960
+msgid "Background colours for your social icons."
+msgstr "Hintergrundfarbe der Social Icons"
+
+# @ nirvana
+#: admin/settings.php:966 admin/settings___CUSTOMCSS.php:966
+#: admin/settings___ORIG.php:966
+msgid "Light"
+msgstr "Hell"
+
+# @ nirvana
+#: admin/settings.php:966 admin/settings___CUSTOMCSS.php:966
+#: admin/settings___ORIG.php:966
+msgid "Dark"
+msgstr "Dunkel"
+
+# @ nirvana
+#: admin/settings.php:966 admin/settings___CUSTOMCSS.php:966
+#: admin/settings___ORIG.php:966
+msgid "Simple"
+msgstr "Einfach"
+
+# @ nirvana
+#: admin/settings.php:974 admin/settings___CUSTOMCSS.php:974
+#: admin/settings___ORIG.php:974
+msgid ""
+"This setting changes the look of your captions. Images that are not inserted "
+"through captions will not be affected."
+msgstr ""
+"Hier wird das Aussehen der Bildunterschrift eingestellt. Bilder ohne "
+"Unterschrift sind nicht betroffen."
+
+# @ nirvana
+#: admin/settings.php:987 admin/settings___CUSTOMCSS.php:987
+#: admin/settings___ORIG.php:987
+msgid "Normal"
+msgstr "Normal"
+
+# @ nirvana
+#: admin/settings.php:987 admin/settings___CUSTOMCSS.php:987
+#: admin/settings___ORIG.php:987
+msgid "Fixed"
+msgstr "Fixiert"
+
+# @ nirvana
+#: admin/settings.php:987 admin/settings.php:1097 admin/settings.php:1112
+#: admin/settings.php:1162 admin/settings.php:1211 admin/settings.php:1242
+#: admin/settings___CUSTOMCSS.php:987 admin/settings___CUSTOMCSS.php:1097
+#: admin/settings___CUSTOMCSS.php:1112 admin/settings___CUSTOMCSS.php:1162
+#: admin/settings___CUSTOMCSS.php:1211 admin/settings___CUSTOMCSS.php:1242
+#: admin/settings___ORIG.php:987 admin/settings___ORIG.php:1097
+#: admin/settings___ORIG.php:1112 admin/settings___ORIG.php:1162
+#: admin/settings___ORIG.php:1211 admin/settings___ORIG.php:1242
+msgid "Hide"
+msgstr "Versteckt"
+
+# @ nirvana
+#: admin/settings.php:997 admin/settings___CUSTOMCSS.php:997
+#: admin/settings___ORIG.php:997
+msgid "Site width"
+msgstr "Seitenbreite"
+
+# @ nirvana
+#: admin/settings.php:997 admin/settings___CUSTOMCSS.php:997
+#: admin/settings___ORIG.php:997
+msgid "Full width"
+msgstr "Gesamtbreite"
+
+# @ nirvana
+#: admin/settings.php:1006 admin/settings___CUSTOMCSS.php:1006
+#: admin/settings___ORIG.php:1006
+msgid "Show the topbar that can include social icons and the top menu."
+msgstr ""
+"Anzeigen der Topbar, in der Social Icons und das Topmenü angezeigt werden "
+"können."
+
+# @ nirvana
+#: admin/settings.php:1021 admin/settings___CUSTOMCSS.php:1021
+#: admin/settings___ORIG.php:1021
+msgid ""
+"Show breadcrumbs at the top of the content area. Breadcrumbs are a form of "
+"navigation that keeps track of your location withtin the site."
+msgstr ""
+"Brotkrumen oberhalb des Inhalts anzeigen. Brotkrumen sind eine Möglichkeit "
+"innerhalb einer Seite die volle Navigation zu haben."
+
+# @ nirvana
+#: admin/settings.php:1036 admin/settings___CUSTOMCSS.php:1036
+#: admin/settings___ORIG.php:1036
+msgid ""
+"Show numbered pagination. Where there is more than one page, instead of the "
+"bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered "
+"pagination. "
+msgstr ""
+"Seitenzahlen anzeigen. Bei mehr als eine Seite gibt es statt den "
+"Verknüpfungen<b>Ältere Beiträge</b> und <b>Neuere Beiträge</b> klickbare "
+"Seitenzahlen. "
+
+# @ nirvana
+#: admin/settings.php:1042 admin/settings___CUSTOMCSS.php:1042
+#: admin/settings___ORIG.php:1042
+msgid "Right (multiline)"
+msgstr "Rechts (mehrzeilig)"
+
+# @ nirvana
+#: admin/settings.php:1050 admin/settings___CUSTOMCSS.php:1050
+#: admin/settings___ORIG.php:1050
+msgid "Sets the desired menu items alignment."
+msgstr "Festlegung der gewünschten Menüausrichtung."
+
+# @ nirvana
+#: admin/settings.php:1056 admin/settings.php:1058
+#: admin/settings___CUSTOMCSS.php:1056 admin/settings___CUSTOMCSS.php:1058
+#: admin/settings___ORIG.php:1056 admin/settings___ORIG.php:1058
+msgid "Top Menu"
+msgstr "Top Menü"
+
+# @ nirvana
+#: admin/settings.php:1056 admin/settings___CUSTOMCSS.php:1056
+#: admin/settings___ORIG.php:1056
+msgid "Footer Menu"
+msgstr "Fußzeilen Menü"
+
+# @ nirvana
+#: admin/settings.php:1066 admin/settings___CUSTOMCSS.php:1066
+#: admin/settings___ORIG.php:1066
+msgid "Select the menus where to add a search bar."
+msgstr "Menüs auswählen, zu denen eine Suchleiste hinzugefügt werden soll."
+
+# @ nirvana
+#: admin/settings.php:1071 admin/settings___CUSTOMCSS.php:1071
+#: admin/settings___ORIG.php:1071
+msgid "Margin top: "
+msgstr "Oberer Abstand:"
+
+# @ nirvana
+#: admin/settings.php:1072 admin/settings___CUSTOMCSS.php:1072
+#: admin/settings___ORIG.php:1072
+msgid ""
+"The margin between the content and the menu. It can be set to 0px if you "
+"want the content area and menu to join."
+msgstr ""
+"Der Abstand zwischen Inhalt und Menü. Kann auf '0 Pixel' gesetzt werden um "
+"beides miteinander zu verbinden."
+
+# @ nirvana
+#: admin/settings.php:1074 admin/settings___CUSTOMCSS.php:1074
+#: admin/settings___ORIG.php:1074
+msgid "Padding left/right: "
+msgstr "Innenabstand links/rechts:"
+
+# @ nirvana
+#: admin/settings.php:1075 admin/settings___CUSTOMCSS.php:1075
+#: admin/settings___ORIG.php:1075
+msgid ""
+"The left/right padding around the content. Should be set to 10px or less for "
+"designs without a content color."
+msgstr ""
+"Der linke/rechte Innenabstand um den Inhalt (Content). Dieser sollte auf '10 "
+"Pixel' oder weniger gesetzt werden für Designs ohne Inhaltsfarbe."
+
+# @ nirvana
+#: admin/settings.php:1090 admin/settings___CUSTOMCSS.php:1090
+#: admin/settings___ORIG.php:1090
+msgid ""
+"The border style for your images. Only images inserted in your posts and "
+"pages will be affected. "
+msgstr ""
+"Der Rahmenstil für Deine Bilder. Betroffen sind nur Bilder, die in Beiträge "
+"eingefügt wurden."
+
+# @ nirvana
+#: admin/settings.php:1097 admin/settings.php:1112 admin/settings.php:1211
+#: admin/settings.php:1226 admin/settings.php:1242
+#: admin/settings___CUSTOMCSS.php:1097 admin/settings___CUSTOMCSS.php:1112
+#: admin/settings___CUSTOMCSS.php:1211 admin/settings___CUSTOMCSS.php:1226
+#: admin/settings___CUSTOMCSS.php:1242 admin/settings___ORIG.php:1097
+#: admin/settings___ORIG.php:1112 admin/settings___ORIG.php:1211
+#: admin/settings___ORIG.php:1226 admin/settings___ORIG.php:1242
+msgid "Show"
+msgstr "Zeigen"
+
+# @ nirvana
+#: admin/settings.php:1105 admin/settings___CUSTOMCSS.php:1105
+#: admin/settings___ORIG.php:1105
+msgid "Hide or show titles on pages."
+msgstr "Seitentitel verstecken oder anzeigen."
+
+# @ nirvana
+#: admin/settings.php:1120 admin/settings___CUSTOMCSS.php:1120
+#: admin/settings___ORIG.php:1120
+msgid "Hide or show titles on Categories and Archives."
+msgstr "Kategorie- und Archivtitel verstecken oder anzeigen."
+
+# @ nirvana
+#: admin/settings.php:1135 admin/settings___CUSTOMCSS.php:1135
+#: admin/settings___ORIG.php:1135
+msgid "Hide table borders and background color."
+msgstr "Ränder und Hintergrundfarben von Tabellen verstecken oder anzeigen."
+
+# @ nirvana
+#: admin/settings.php:1151 admin/settings___CUSTOMCSS.php:1151
+#: admin/settings___ORIG.php:1151
+msgid ""
+"Enable the Back to Top button. The button appears after scrolling the page "
+"down."
+msgstr ""
+"Den 'Zurück nach oben'-Button aktivieren. Der Button erscheint erst, wenn "
+"die Seite nach unten gescrollt wurde."
+
+# @ nirvana
+#: admin/settings.php:1162 admin/settings___CUSTOMCSS.php:1162
+#: admin/settings___ORIG.php:1162
+msgid "Top"
+msgstr "Oben"
+
+# @ nirvana
+#: admin/settings.php:1162 admin/settings___CUSTOMCSS.php:1162
+#: admin/settings___ORIG.php:1162
+msgid "Bottom"
+msgstr "Unten"
+
+# @ nirvana
+#: admin/settings.php:1170 admin/settings___CUSTOMCSS.php:1170
+#: admin/settings___ORIG.php:1170
+msgid ""
+"The position of your meta bar (author, date, category, tags and edit button)."
+msgstr ""
+"Die Position Deiner Meta-Bar (Autor, Datum, Kategorie, Schlagworte und "
+"Bearbeiten-Button)."
+
+# @ nirvana
+#: admin/settings.php:1177 admin/settings.php:1193
+#: admin/settings___CUSTOMCSS.php:1177 admin/settings___CUSTOMCSS.php:1193
+#: admin/settings___ORIG.php:1177 admin/settings___ORIG.php:1193
+msgid "Author"
+msgstr "Autor"
+
+# @ nirvana
+#: admin/settings.php:1177 admin/settings.php:1193
+#: admin/settings___CUSTOMCSS.php:1177 admin/settings___CUSTOMCSS.php:1193
+#: admin/settings___ORIG.php:1177 admin/settings___ORIG.php:1193
+#: includes/theme-loop.php:202
+msgid "Date"
+msgstr "Datum"
+
+# @ nirvana
+#: admin/settings.php:1177 admin/settings.php:1193
+#: admin/settings___CUSTOMCSS.php:1177 admin/settings___CUSTOMCSS.php:1193
+#: admin/settings___ORIG.php:1177 admin/settings___ORIG.php:1193
+msgid "Time"
+msgstr "Zeit"
+
+# @ nirvana
+#: admin/settings.php:1177 admin/settings.php:1193
+#: admin/settings___CUSTOMCSS.php:1177 admin/settings___CUSTOMCSS.php:1193
+#: admin/settings___ORIG.php:1177 admin/settings___ORIG.php:1193
+msgid "Category"
+msgstr "Kategorie"
+
+# @ nirvana
+#: admin/settings.php:1177 admin/settings.php:1193
+#: admin/settings___CUSTOMCSS.php:1177 admin/settings___CUSTOMCSS.php:1193
+#: admin/settings___ORIG.php:1177 admin/settings___ORIG.php:1193
+msgid "Tag"
+msgstr "Schlagworte"
+
+# @ nirvana
+#: admin/settings.php:1177 admin/settings___CUSTOMCSS.php:1177
+#: admin/settings___ORIG.php:1177
+msgid "Comments"
+msgstr "Kommentare"
+
+# @ nirvana
+#: admin/settings.php:1186 admin/settings___CUSTOMCSS.php:1186
+#: admin/settings___ORIG.php:1186
+msgid ""
+"Choose the post metas you want to show on multiple post pages (home, blog, "
+"category, archive etc.)"
+msgstr ""
+"Welche Meta-Informationen sollen auf den verschiedenen Beitragsseiten "
+"angezeigt werden? (Home, Blog, Kategorie, Archiv etc.)"
+
+# @ nirvana
+#: admin/settings.php:1193 admin/settings___CUSTOMCSS.php:1193
+#: admin/settings___ORIG.php:1193 includes/theme-loop.php:291
+msgid "Bookmark"
+msgstr "Lesezeichen"
+
+# @ nirvana
+#: admin/settings.php:1202 admin/settings___CUSTOMCSS.php:1202
+#: admin/settings___ORIG.php:1202
+msgid "Choose the post metas you want to show on sigle post pages."
+msgstr ""
+"Welche Meta-Informationen sollen auf einzelnen Beitragsseiten angezeigt "
+"werden?"
+
+# @ nirvana
+#: admin/settings.php:1219 admin/settings___CUSTOMCSS.php:1219
+#: admin/settings___ORIG.php:1219
+msgid ""
+"Hide the explanatory text under the comments form (starts with  <i>You may "
+"use these HTML tags and attributes:...</i>)."
+msgstr ""
+"Den Erklärungstext unter dem Kommentarformular verstecken. (Beginnt mit  "
+"<i>Folgende HTML-Tags und Attribute können verwendet werden:...</i>)."
+
+# @ nirvana
+#: admin/settings.php:1226 admin/settings___CUSTOMCSS.php:1226
+#: admin/settings___ORIG.php:1226
+msgid "Hide in posts"
+msgstr "In Beiträgen verstecken"
+
+# @ nirvana
+#: admin/settings.php:1226 admin/settings___CUSTOMCSS.php:1226
+#: admin/settings___ORIG.php:1226
+msgid "Hide in pages"
+msgstr "In Seiten verstecken"
+
+# @ nirvana
+#: admin/settings.php:1226 admin/settings___CUSTOMCSS.php:1226
+#: admin/settings___ORIG.php:1226
+msgid "Hide everywhere"
+msgstr "Überall verstecken"
+
+# @ nirvana
+#: admin/settings.php:1234 admin/settings___CUSTOMCSS.php:1234
+#: admin/settings___ORIG.php:1234
+msgid ""
+"Hide the <b>Comments are closed</b> text that by default shows up on pages "
+"or posts with comments disabled."
+msgstr ""
+"Verstecke den Text <b>Kommentare geschlossen</b> der standardmäßig auf "
+"Beiträgen und Seiten erscheint, deren Kommentare geschlossen wurden."
+
+# @ nirvana
+#: admin/settings.php:1250 admin/settings___CUSTOMCSS.php:1250
+#: admin/settings___ORIG.php:1250
+msgid ""
+"Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr ""
+"Verstecke den Text <b>Kommentare aus</b> in Beiträgen, in denen die "
+"Kommentare deaktiviert wurden."
+
+# @ nirvana
+#: admin/settings.php:1262 admin/settings.php:1277 admin/settings.php:1293
+#: admin/settings___CUSTOMCSS.php:1262 admin/settings___CUSTOMCSS.php:1277
+#: admin/settings___CUSTOMCSS.php:1293 admin/settings___ORIG.php:1262
+#: admin/settings___ORIG.php:1277 admin/settings___ORIG.php:1293
+msgid "Excerpt"
+msgstr "Auszug"
+
+# @ nirvana
+#: admin/settings.php:1262 admin/settings.php:1277 admin/settings.php:1293
+#: admin/settings___CUSTOMCSS.php:1262 admin/settings___CUSTOMCSS.php:1277
+#: admin/settings___CUSTOMCSS.php:1293 admin/settings___ORIG.php:1262
+#: admin/settings___ORIG.php:1277 admin/settings___ORIG.php:1293
+msgid "Full Post"
+msgstr "Gesamter Beitrag"
+
+# @ nirvana
+#: admin/settings.php:1270 admin/settings___CUSTOMCSS.php:1270
+#: admin/settings___ORIG.php:1270
+msgid ""
+"Excerpts on the main page. Only standard posts will be affected. All other "
+"post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr ""
+"Beitragsauszüge auf der Hauptseite. Nur Standard-Beiträge sind betroffen. "
+"Alle anderen Beitragsformate (Notiz, Bild, Chat, Zital etc.) behalten ihr "
+"eigenes Format."
+
+# @ nirvana
+#: admin/settings.php:1285 admin/settings___CUSTOMCSS.php:1285
+#: admin/settings___ORIG.php:1285
+msgid ""
+"Choose if you want the sticky posts on your home page to be visible in full "
+"or just the excerpts. "
+msgstr ""
+"Sollen die statischen Beiträge auf Deiner Seite vollständig oder in Auszügen "
+"zu sehen sein?"
+
+# @ nirvana
+#: admin/settings.php:1301 admin/settings___CUSTOMCSS.php:1301
+#: admin/settings___ORIG.php:1301
+msgid ""
+"Excerpts on archive, categroy and search pages. Same as above, only standard "
+"posts will be affected."
+msgstr ""
+"Auszüge auf Archiv-, Kategorie- und Suchseiten. Genau wie oben sind nur "
+"Standardbeiträge betroffen."
+
+# @ nirvana
+#: admin/settings.php:1310 admin/settings___CUSTOMCSS.php:1310
+#: admin/settings___ORIG.php:1310
+msgid "Words"
+msgstr "Wörter"
+
+# @ nirvana
+#: admin/settings.php:1310 admin/settings___CUSTOMCSS.php:1310
+#: admin/settings___ORIG.php:1310
+msgid "Characters"
+msgstr "Zeichen"
+
+# @ nirvana
+#: admin/settings.php:1318 admin/settings___CUSTOMCSS.php:1318
+#: admin/settings___ORIG.php:1318
+msgid ""
+"The number of characters/words for excerpts. When that number is reached the "
+"post will be interrupted by a <i>Continue reading</i> link that will take "
+"the reader to the full post page."
+msgstr ""
+"Die Anzahl der Zeichen/Wörter für Auszüge. Wenn die Anzahl erreicht ist wird "
+"der Beitrag unterbrochen mit der <i>Weiterlesen...</i>-Verknüpfung die den "
+"Leser zum gesamten Beitrag führt."
+
+# @ nirvana
+#: admin/settings.php:1333 admin/settings___CUSTOMCSS.php:1333
+#: admin/settings___ORIG.php:1333
+msgid ""
+"Enable the Magazine Layout. This layout applies to pages with posts and "
+"shows 2 posts per row."
+msgstr ""
+"Magazin-Layout aktivieren. Dieses Layout betrifft Beitragsseiten und zeigt "
+"zwei Beiträge pro Reihe."
+
+# @ nirvana
+#: admin/settings.php:1340 admin/settings___CUSTOMCSS.php:1340
+#: admin/settings___ORIG.php:1340
+msgid ""
+"Replaces the three dots ('[...])' that are appended automatically to "
+"excerpts."
+msgstr ""
+"Ersetzt die drei Punkte ('[...])', die automatisch an Auszüge angehängt "
+"werden."
+
+# @ nirvana
+#: admin/settings.php:1347 admin/settings___CUSTOMCSS.php:1347
+#: admin/settings___ORIG.php:1347
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr ""
+"Die 'Weiterlesen...'-Verküpfung bearbeiten, die den Auszügen hinzugefügt "
+"wird."
+
+# @ nirvana
+#: admin/settings.php:1362 admin/settings___CUSTOMCSS.php:1362
+#: admin/settings___ORIG.php:1362
+msgid ""
+"By default WordPress excerpts remove all HTML tags (&lt;pre&gt;, &lt;a&gt;, "
+"&lt;b&gt and all others) and only clean text is left in the excerpt.\n"
+"Enabling this option allows HTML tags to remain in excerpts so all your "
+"default formating will be kept.<br /> <b>Just a warning: </b>If HTML tags "
+"are enabled, you have to make sure\n"
+"they are not left open. So if within your post you have an opened HTML tag "
+"but the except ends before that tag closes, the rest of the site will be "
+"contained in that HTML tag. -- Leave 'Disable' if unsure -- "
+msgstr ""
+"Per Voreinstellung werden bei WordPress Auszügen alle HTML-Tags entfernt "
+"(&lt;pre&gt;, &lt;a&gt;, &lt;b&gt and all others) und es bleibt nur reiner "
+"Text übrig.\n"
+"Durch Aktivierung dieser Option bleiben alle definierten Formatierungen von "
+"HTML-Tags erhalten.<br /> <b>Kleine Warnung: </b>Bei aktivierten HTM-Tags "
+"bitte sicherstellen, dass sie \n"
+" nicht offen bleiben. Hat man einen HTML-Tag auf einem Auszug, der nicht "
+"geschlossen wird bevor der Auszug endet, wird die gesamte restliche Seite in "
+"den HTML-Tag mit eingeschlossen. -- Fall unsicher: Deaktivieren -- "
+
+# @ nirvana
+#: admin/settings.php:1388 admin/settings___CUSTOMCSS.php:1388
+#: admin/settings___ORIG.php:1388
+msgid "Link the thumbnail to the post"
+msgstr "Thumbnail mit dem Beitrag verknüpfen"
+
+# @ nirvana
+#: admin/settings.php:1389 admin/settings___CUSTOMCSS.php:1389
+#: admin/settings___ORIG.php:1389
+msgid ""
+"Show featured images as thumbnails on posts. The images must be selected for "
+"each post in the Featured Image section."
+msgstr ""
+"Beitragsbilder als Thumbnail für den Beitrag verwenden. Die Bilder müssen "
+"jeweils im Beitrag unter 'Beitragsbild festlegen' ausgewählt sein."
+
+# @ nirvana
+#: admin/settings.php:1404 admin/settings___CUSTOMCSS.php:1404
+#: admin/settings___ORIG.php:1404
+msgid ""
+"Show the first image that you inserted in a post as a thumbnail. If there is "
+"a Featured Image selected for that post, it will have priority."
+msgstr ""
+"Das zuerst eingefügte Bild des Beitrags als Thumbnail zeigen. Bilder, die "
+"als Beitragsbild festgelegt wurden haben Priorität."
+
+# @ nirvana
+#: admin/settings.php:1420 admin/settings___CUSTOMCSS.php:1420
+#: admin/settings___ORIG.php:1420
+msgid "Thumbnail alignment."
+msgstr "Ausrichtung des Thumbnails"
+
+# @ nirvana
+#: admin/settings.php:1427 admin/settings___CUSTOMCSS.php:1427
+#: admin/settings___ORIG.php:1427
+msgid "(width)"
+msgstr "(Breite)"
+
+# @ nirvana
+#: admin/settings.php:1428 admin/settings___CUSTOMCSS.php:1428
+#: admin/settings___ORIG.php:1428
+msgid "(height)"
+msgstr "(Höhe)"
+
+# @ nirvana
+#: admin/settings.php:1434 admin/settings___CUSTOMCSS.php:1434
+#: admin/settings___ORIG.php:1434
+msgid "Crop images to exact size."
+msgstr "Bilder auf die genaue Größe beschneiden."
+
+# @ nirvana
+#: admin/settings.php:1437 admin/settings___CUSTOMCSS.php:1437
+#: admin/settings___ORIG.php:1437
+msgid ""
+"The size (in pixels) for your thumbnails. By default imges will be scaled "
+"with aspect ratio kept. Choose to crop the images if you want the exact size."
+msgstr ""
+"Die (Pixel-)Größe Deiner Thumbnails. Standardmäßig wird das Seitenverhältnis "
+"proportional skaliert. Für die genaue Größe können die Bilder beschnitten "
+"werden."
+
+# @ nirvana
+#: admin/settings.php:1453 admin/settings___CUSTOMCSS.php:1453
+#: admin/settings___ORIG.php:1453
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured "
+"image if you selected it as a Featured Image in the post and if it is bigger "
+"or at least equal to the current header size."
+msgstr ""
+"Beitragsbilder in Kopfzeilen anzeigen. Die Kopfzeile wird mit einem "
+"Beitragsbild ersetzt, wenn es als Beitragsbild festgelegt wurde und größer "
+"(oder mindestens genauso groß) ist wie die aktuelle Kopfzeilen-Größe."
+
+# @ nirvana
+#: admin/settings.php:1464 admin/settings___CUSTOMCSS.php:1464
+#: admin/settings___ORIG.php:1464
+msgid ""
+"Select your desired Social network from the left dropdown menu and insert "
+"your corresponding address in the right input field. (ex: <i>http://www."
+"facebook.com/yourname</i> )"
+msgstr ""
+"Das gewünschte Netzwerk aus dem linken Dropdown-Menü auswählen und im "
+"rechten eingabefeld die dazugehörige Adresse angeben (Beispiel: <i>http://"
+"www.sozialesnetzwerk.de/deinname</i> )"
+
+# @ nirvana
+#: admin/settings.php:1465 admin/settings___CUSTOMCSS.php:1465
+#: admin/settings___ORIG.php:1465
+msgid ""
+"You can also choose if you want the link to open in a new window and what "
+"title to dispaly while hovering over the icon."
+msgstr ""
+"Ebenso kannst Du auswählen ob der Link in einem neuen Fenster geöffnet "
+"werden soll und welcher Titel beim darüberfahren (hover) angezeigt wird."
+
+# @ nirvana
+#: admin/settings.php:1466 admin/settings___CUSTOMCSS.php:1466
+#: admin/settings___ORIG.php:1466
+msgid ""
+"You can show up to 5 different social icons from over 35 social networks."
+msgstr ""
+"Du kannst fünf verschiedene Social Icons aus insgesamt 35 sozialen "
+"Netzwerken anzeigen."
+
+# @ nirvana
+#: admin/settings.php:1467 admin/settings___CUSTOMCSS.php:1467
+#: admin/settings___ORIG.php:1467
+msgid "You can leave any number of inputs empty."
+msgstr ""
+"Natürlich kannst Du auch alle Felder leer lassen (werden dann nicht "
+"angezeigt)."
+
+# @ nirvana
+#: admin/settings.php:1468 admin/settings___CUSTOMCSS.php:1468
+#: admin/settings___ORIG.php:1468
+msgid ""
+"You can change the background for your social colors from the colors "
+"settings section."
+msgstr ""
+"Die Hintergrundfarbe der Social Icons kann in den Farbeinstellungen geändert "
+"werden."
+
+# @ nirvana
+#: admin/settings.php:1486 admin/settings___CUSTOMCSS.php:1486
+#: admin/settings___ORIG.php:1486
+msgid "Social Network Link"
+msgstr "Verknüpfung zum sozialen Netzwerk"
+
+# @ nirvana
+#: admin/settings.php:1491 admin/settings___CUSTOMCSS.php:1491
+#: admin/settings___ORIG.php:1491
+msgid "Open in new window"
+msgstr "In einem neuen Fenster öffnen"
+
+# @ nirvana
+#: admin/settings.php:1493 admin/settings___CUSTOMCSS.php:1493
+#: admin/settings___ORIG.php:1493
+msgid "Social Network Title"
+msgstr "Titel des sozialen Netzwerks"
+
+# @ nirvana
+#: admin/settings.php:1536 admin/settings___CUSTOMCSS.php:1536
+#: admin/settings___ORIG.php:1536
+msgid "Footer"
+msgstr "Fußzeile"
+
+# @ nirvana
+#: admin/settings.php:1540 admin/settings___CUSTOMCSS.php:1540
+#: admin/settings___ORIG.php:1540
+msgid "Left side"
+msgstr "Linke Seite"
+
+# @ nirvana
+#: admin/settings.php:1544 admin/settings___CUSTOMCSS.php:1544
+#: admin/settings___ORIG.php:1544
+msgid "Right side"
+msgstr "Rechte Seite"
+
+# @ nirvana
+#: admin/settings.php:1550 admin/settings___CUSTOMCSS.php:1550
+#: admin/settings___ORIG.php:1550 includes/theme-setup.php:220
+#: sidebar-left.php:26
+msgid "Left Sidebar"
+msgstr "Linke Sidebar"
+
+# @ nirvana
+#: admin/settings.php:1554 admin/settings___CUSTOMCSS.php:1554
+#: admin/settings___ORIG.php:1554 includes/theme-setup.php:231
+#: sidebar-right.php:26
+msgid "Right Sidebar"
+msgstr "Rechte Sidebar"
+
+# @ nirvana
+#: admin/settings.php:1556 admin/settings___CUSTOMCSS.php:1556
+#: admin/settings___ORIG.php:1556
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr ""
+" <b>Bereiche</b> wählen, in denen die Social Icons angezeigt werden sollen."
+
+# @ nirvana
+#: admin/settings.php:1569 admin/settings___CUSTOMCSS.php:1569
+#: admin/settings___ORIG.php:1569
+msgid ""
+"Insert custom text or HTML code that will appear in you footer. <br /> You "
+"can use HTML to insert links, images and special characters like &copy;."
+msgstr ""
+"Eigenen Text oder HTML einfügen, der in der Fußzeile erscheinen soll. <br /> "
+"Verwende HTML um Verknüpfungen oder Bilder einzufügen oder Sonderzeichen wie "
+"z.B. &copy;."
+
+# @ nirvana
+#: admin/settings.php:1577 admin/settings___CUSTOMCSS.php:1577
+#: admin/settings___ORIG.php:1577
+msgid ""
+"Insert your custom CSS here. Any CSS declarations made here will overwrite "
+"Nirvana's (even the custom options specified right here in the Nirvana "
+"Settings page). <br /> Your custom CSS will be preserved when updating the "
+"theme."
+msgstr ""
+"Füge hier Dein eigenes CSS ein. Alle CSS-Einträge, die hier gemacht werden "
+"überschreiben Nirvanas 'style.css' Einträge (und sogar die Einträge, die auf "
+"der Nirvana Einstellungsseite gemacht wurden).<br /> Nach einem Theme-Update "
+"bleiben die eigenen CSS Einträge erhalten.."
+
+# @ nirvana
+#: admin/settings.php:1584 admin/settings___CUSTOMCSS.php:1584
+#: admin/settings___ORIG.php:1584
+msgid ""
+"Insert your custom Javascript code here. (Google Analytics and any other "
+"forms of Analytic software)."
+msgstr ""
+"Füge hier Deine eigenes JavaScript ein. (z.B. Piwik oder andere Arten von "
+"Analytic Software)."
+
+# @ nirvana
+#: admin/settings.php:1599 admin/settings___CUSTOMCSS.php:1599
+#: admin/settings___ORIG.php:1599
+msgid ""
+"Enable extra compatibility tag for older Internet Explorer versions. Turning "
+"this option on will trigger W3C validation errors."
+msgstr ""
+"Einen zusätzlichen Kompatibilitäts-Tag für ältere Versionen des Internet "
+"Explorers aktivieren. Das Einschalten dieser Option wird W3C "
+"Validierungsfehler auslösen."
+
+# @ nirvana
+#: archive.php:26
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Tägliches Archiv: %s"
+
+# @ nirvana
+#: archive.php:28
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Monatliches Archiv: %s"
+
+# @ nirvana
+#: archive.php:28
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+# @ nirvana
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jährliches Archiv: %s"
+
+# @ nirvana
+#: archive.php:30
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+# @ nirvana
+#: archive.php:32
+msgid "Blog Archives"
+msgstr "Blogarchiv"
+
+# @ nirvana
+#: archive.php:56 author.php:71 category.php:49
+#: content/content-frontpage.php:38 content/content-index.php:35 search.php:38
+#: tag.php:50 templates/template-blog.php:34
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+# @ nirvana
+#: archive.php:60 author.php:75 category.php:53
+#: content/content-frontpage.php:42 content/content-index.php:39 tag.php:54
+#: templates/template-blog.php:38
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Sorry, aber für das angefragte Archiv wurde nichts gefunden. Vielleicht "
+"hilft eine Suche?"
+
+# @ nirvana
+#: attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr "Zurück zu %s"
+
+# @ nirvana
+#. translators: %s - title of parent post
+#: attachment.php:32
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "Gesamtgröße =  %s Pixel"
+
+# @ nirvana
+#: attachment.php:35
+msgid "Link to full-size image"
+msgstr "Verknüpfung zum Bild in voller Größe"
+
+# @ nirvana
+#: attachment.php:75 content/content-page.php:23 includes/theme-loop.php:228
+#: single.php:49 templates/template-page-with-intro.php:17
+msgid "Edit"
+msgstr "Bearbeiten"
+
+# @ nirvana
+#: attachment.php:86
+msgid "Continue reading"
+msgstr "Weiterlesen"
+
+# @ nirvana
+#: attachment.php:87 content/content-aside.php:30 content/content-audio.php:24
+#: content/content-chat.php:29 content/content-gallery.php:51
+#: content/content-image.php:23 content/content-link.php:29
+#: content/content-page.php:22 content/content-quote.php:27
+#: content/content-video.php:24 content/content.php:40 content/content.php:56
+#: single.php:27 templates/template-page-with-intro.php:16
+msgid "Pages:"
+msgstr "Seiten:"
+
+# @ nirvana
+#: attachment.php:92
+msgid "Previous image"
+msgstr "Vorheriges Bild"
+
+# @ nirvana
+#: attachment.php:93
+msgid "Next image"
+msgstr "Nächstes Bild"
+
+# @ nirvana
+#: author.php:29
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Autorenarchiv: %s"
+
+# @ nirvana
+#: category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Kategorienarchiv: %s"
+
+# @ nirvana
+#: comments.php:25
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Dieser Beitrag ist passwortgeschützt. Bitte Passwort eingeben um Kommentare "
+"zu sehen."
+
+# @ nirvana
+#: comments.php:50
+msgid "Comments are closed"
+msgstr "Die Kommentare wurden geschlossen"
+
+# @ nirvana
+#: content/content-aside.php:15 content/content-audio.php:15
+#: content/content-chat.php:15 content/content-gallery.php:18
+#: content/content-gallery.php:42 content/content-image.php:14
+#: content/content-link.php:15 content/content-quote.php:13
+#: content/content-status.php:14 content/content-video.php:15
+#: content/content.php:21
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+# @ nirvana
+#: content/content-aside.php:21
+msgid "Aside"
+msgstr "Notiz"
+
+# @ nirvana
+#: content/content-aside.php:29 content/content-audio.php:23
+#: content/content-chat.php:28 content/content-image.php:22
+#: content/content-link.php:28 content/content-quote.php:26
+#: content/content-status.php:32 content/content-video.php:23
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+# @ nirvana
+#: content/content-audio.php:15
+msgid "Audio"
+msgstr "Audio"
+
+# @ nirvana
+#: content/content-chat.php:15
+msgid "Chat"
+msgstr "Chat"
+
+# @ nirvana
+#: content/content-gallery.php:18
+msgid "Gallery"
+msgstr "Galerie"
+
+# @ nirvana
+#: content/content-gallery.php:41
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Diese Galerie enthält <a %1$s>%2$s Foto</a>."
+msgstr[1] "Diese Galerie enthält <a %1$s>%2$s Fotos</a>."
+
+# @ nirvana
+#: content/content-quote.php:13
+msgid "Quote"
+msgstr "Zitat"
+
+# @ nirvana
+#: content/content-status.php:14
+msgid "Status"
+msgstr "Status"
+
+# @ nirvana
+#: content/content-video.php:15
+msgid "Video"
+msgstr "Video"
+
+# @ nirvana
+#: includes/ajax.php:48
+msgid "More posts"
+msgstr "Mehr Beiträge"
+
+# @ nirvana
+#: includes/theme-comments.php:26
+msgid "Pingback: "
+msgstr "Pingback: "
+
+# @ nirvana
+#: includes/theme-comments.php:26 includes/theme-comments.php:41
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+# @ nirvana
+#. translators: 1: date, 2: time
+#: includes/theme-comments.php:41
+msgid "at"
+msgstr "bei"
+
+# @ nirvana
+#: includes/theme-comments.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf die Moderation."
+
+# @ nirvana
+#: includes/theme-comments.php:54
+msgid "Reply"
+msgstr "Antworten"
+
+# @ nirvana
+#: includes/theme-comments.php:89
+msgid "<b>0</b>"
+msgstr "<b>0</b>"
+
+# @ nirvana
+#: includes/theme-comments.php:89
+msgid "<b>1</b>"
+msgstr "<b>1</b>"
+
+# @ nirvana
+#: includes/theme-comments.php:89
+msgid "<b>%</b>"
+msgstr "<b>%</b>"
+
+# @ nirvana
+#: includes/theme-comments.php:89
+msgid "<b>-</b>"
+msgstr "<b>-</b>"
+
+# @ nirvana
+#: includes/theme-comments.php:100
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Ein Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+# @ nirvana
+#: includes/theme-comments.php:114
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+# @ nirvana
+#: includes/theme-comments.php:115
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+# @ nirvana
+#: includes/theme-comments.php:142
+msgid "Comments are closed."
+msgstr "Die Kommentare wurden geschlossen."
+
+# @ nirvana
+#: includes/theme-comments.php:158
+msgid "Name"
+msgstr "Name"
+
+# @ nirvana
+#: includes/theme-comments.php:159
+msgid "Name*"
+msgstr "Name*"
+
+# @ nirvana
+#: includes/theme-comments.php:163
+msgid "Email"
+msgstr "E-Mail"
+
+# @ nirvana
+#: includes/theme-comments.php:164
+msgid "Email*"
+msgstr "E-Mail*"
+
+# @ nirvana
+#: includes/theme-comments.php:168 includes/theme-comments.php:169
+msgid "Website"
+msgstr "Webseite"
+
+# @ nirvana
+#: includes/theme-comments.php:180 includes/theme-comments.php:181
+msgctxt "noun"
+msgid "Comment"
+msgstr "Kommentar"
+
+# @ nirvana
+#: includes/theme-functions.php:226 includes/theme-functions___ORIG.php:226
+msgid "Archive by category"
+msgstr "Archiv nach Kategorie"
+
+# @ nirvana
+#: includes/theme-functions.php:229 includes/theme-functions___ORIG.php:229
+msgid "Search results for"
+msgstr "Suchergebnisse für"
+
+# @ nirvana
+#: includes/theme-functions.php:287 includes/theme-functions___ORIG.php:287
+msgid "Posts tagged"
+msgstr "Beiträge mit Schlagworten"
+
+# @ nirvana
+#: includes/theme-functions.php:292 includes/theme-functions___ORIG.php:292
+msgid "Articles posted by"
+msgstr "Beiträge gepostet von"
+
+# @ nirvana
+#: includes/theme-functions.php:295 includes/theme-functions___ORIG.php:295
+msgid "Error 404"
+msgstr "Fehler 404"
+
+# @ nirvana
+#: includes/theme-functions.php:300 includes/theme-functions___ORIG.php:300
+msgid "Page"
+msgstr "Seite"
+
+# @ nirvana
+#: includes/theme-functions.php:319 includes/theme-functions___ORIG.php:319
+#: searchform.php:1
+msgid "Search"
+msgstr "Suche"
+
+# @ nirvana
+#: includes/theme-functions___ORIG.php:387
+msgid "Powered by"
+msgstr "Unterstützt von"
+
+# @ nirvana
+#: includes/theme-functions___ORIG.php:388
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantic Personal Publishing-Plattform"
+
+# @ nirvana
+#: includes/theme-loop.php:189
+msgid "Author "
+msgstr "Autor"
+
+# @ nirvana
+#: includes/theme-loop.php:191
+#, php-format
+msgid "View all posts by %s"
+msgstr "Alle Beiträge von %s anzeigen"
+
+# @ nirvana
+#: includes/theme-loop.php:206
+msgid "Categories"
+msgstr "Kategorien"
+
+# @ nirvana
+#: includes/theme-loop.php:226
+msgid "Tags"
+msgstr "Schlagworte"
+
+# @ nirvana
+#: includes/theme-loop.php:288
+msgid "Tagged"
+msgstr "getagged"
+
+# @ nirvana
+#: includes/theme-loop.php:291
+msgid " Bookmark the permalink"
+msgstr "Permalink als Lesezeichen"
+
+# @ nirvana
+#: includes/theme-loop.php:291
+msgid "Permalink to"
+msgstr "Permalink zu"
+
+# @ nirvana
+#: includes/theme-loop.php:314
+msgid "<i class=\"meta-nav-prev\"></i> <span>Older posts</span>"
+msgstr "<i class=\"meta-nav-prev\"></i> <span>Ältere Beiträge</span>"
+
+# @ nirvana
+#: includes/theme-loop.php:315
+msgid "<span>Newer posts</span> <i class=\"meta-nav-next\"></i>"
+msgstr "<span>Neuere Beiträge</span> <i class=\"meta-nav-next\"></i>"
+
+# @ parabola
+#: includes/theme-meta.php:26
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+# @ nirvana
+#: includes/theme-setup.php:86
+msgid "Primary Navigation"
+msgstr "Hauptmenü"
+
+# @ nirvana
+#: includes/theme-setup.php:87
+msgid "Top Navigation"
+msgstr "Oberes Menü"
+
+# @ nirvana
+#: includes/theme-setup.php:88
+msgid "Footer Navigation"
+msgstr "Fußzeilen Menü"
+
+# @ nirvana
+#: includes/theme-setup.php:130
+msgid "Nirvana Default Header Image"
+msgstr "Nirvana Standard Kopfzeilenbild"
+
+# @ nirvana
+#: includes/theme-setup.php:191
+msgid "Skip to content"
+msgstr "Zum Inhalt"
+
+# @ nirvana
+#: includes/theme-setup.php:222
+msgid "Left sidebar"
+msgstr "Linke Sidebar"
+
+# @ nirvana
+#: includes/theme-setup.php:233
+msgid "Right sidebar"
+msgstr "Rechte Sidebar"
+
+# @ nirvana
+#: includes/theme-setup.php:242
+msgid "First Footer Area"
+msgstr "Erster Fußzeilenbereich"
+
+# @ nirvana
+#: includes/theme-setup.php:244
+msgid "First footer area"
+msgstr "Der erste Fußzeilenbereich"
+
+# @ nirvana
+#: includes/theme-setup.php:253
+msgid "Second Footer Area"
+msgstr "Zweiter Fußzeilenbereich"
+
+# @ nirvana
+#: includes/theme-setup.php:255
+msgid "Second footer area"
+msgstr "Der zweite Fußzeilenbereich"
+
+# @ nirvana
+#: includes/theme-setup.php:264
+msgid "Third Footer Area"
+msgstr "Dritter Fußzeilenbereich"
+
+# @ nirvana
+#: includes/theme-setup.php:266
+msgid "The third footer area"
+msgstr "Der dritte Fußzeilenbereich"
+
+# @ nirvana
+#: includes/theme-setup.php:275
+msgid "Fourth Footer Area"
+msgstr "Vierter Fußzeilenbereich"
+
+# @ nirvana
+#: includes/theme-setup.php:277
+msgid "The fourth footer area"
+msgstr "Der vierte  Fußzeilenbereich"
+
+# @ nirvana
+#: includes/theme-setup.php:286 includes/theme-setup.php:288
+msgid "Above Content Area"
+msgstr "Bereich oberhalb des Inhalts"
+
+# @ nirvana
+#: includes/theme-setup.php:297 includes/theme-setup.php:299
+msgid "Below Content Area"
+msgstr "Bereich unterhalb des Inhalts"
+
+# @ nirvana
+#: includes/theme-setup.php:308 includes/theme-setup.php:310
+msgid "Header Widgets"
+msgstr "Widgets der Kopfzeile"
+
+# @ nirvana
+#: includes/theme-setup.php:321
+msgid "Presentation Page Columns"
+msgstr "Kolumnen der Präsentationsseite"
+
+# @ nirvana
+#: includes/theme-setup.php:323
+#, php-format
+msgid ""
+"Only drag [Cryout Column] widgets here. Recommended size for uploaded "
+"images: %1$dpx (width) x %2$dpx (height). Go to the Nirvana Settings page >> "
+"Presentation Page Settings >> Columns to edit sizes and more."
+msgstr ""
+"Hierher bitte nur das [Cryout Column]-Widgets ziehen. Empfohlene Größe der "
+"hochgeladenen Bilder: %1$dpx (Breite) x %2$dpx (Höhe). Auf der Nirvana "
+"Einstellungsseite >> Präsentationsseite >> Kolumnen um Größen etc. zu "
+"definieren."
+
+# @ nirvana
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+# @ nirvana
+#: search.php:40
+#, php-format
+msgid "No search results for: %s."
+msgstr "Keine Suchergebnisse für: %s."
+
+# @ nirvana
+#: sidebar-left.php:28
+#, php-format
+msgid ""
+"You currently have no widgets set in the left sidebar. You can add widgets "
+"via the <a href=\"%s\">Dasboard</a>."
+msgstr ""
+"Es gibt momentan keine Widgets in der linken Sidebar. Über <a href=\"%s"
+"\">Dasboard</a> können Widgets hinzugefügt werden."
+
+# @ nirvana
+#: sidebar-left.php:29 sidebar-right.php:29
+#, php-format
+msgid ""
+"To hide this sidebar, switch to a different Layout via the <a href=\"%s"
+"\">Theme Settings</a>."
+msgstr ""
+"Um diese Sidebar zu verstecken ändere Dein Layout unter <a href=\"%s\">Theme "
+"Settings</a>."
+
+# @ nirvana
+#: sidebar-right.php:28
+#, php-format
+msgid ""
+"You currently have no widgets set in the right sidebar. You can add widgets "
+"via the <a href=\"%s\">Dasboard</a>."
+msgstr ""
+"Es gibt momentan keine Widgets in der rechten Sidebar. Über <a href=\"%s"
+"\">Dasboard</a> können Widgets hinzugefügt werden."
+
+# @ nirvana
+#: single.php:36
+msgid "About"
+msgstr "Über"
+
+# @ nirvana
+#: single.php:40
+msgid "View all posts by "
+msgstr "Zeige alle Beiträge von "
+
+# @ nirvana
+#: tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag Archive: %s"
